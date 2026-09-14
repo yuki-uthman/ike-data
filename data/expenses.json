@@ -95,10 +95,10 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T17:15:44Z",
+      "generatedAt": "2026-09-14T17:31:34Z",
       "confirmed": {
-        "total": 203.0,
-        "count": 4
+        "total": 208.0,
+        "count": 5
       },
       "pending": {
         "total": 100030.0,
@@ -122,8 +122,8 @@
         },
         {
           "name": "Gate Pass (Boat Delivery)",
-          "count": 1,
-          "total": 5.0
+          "count": 2,
+          "total": 10.0
         }
       ]
     }
