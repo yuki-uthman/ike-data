@@ -95,21 +95,16 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T11:45:37Z",
+      "generatedAt": "2026-09-14T12:01:47Z",
       "confirmed": {
-        "total": 1004.0,
-        "count": 2
+        "total": 5.0,
+        "count": 1
       },
       "pending": {
         "total": 100005.0,
         "count": 2
       },
       "categories": [
-        {
-          "name": "Expenses",
-          "count": 1,
-          "total": 999.0
-        },
         {
           "name": "Gate Pass (Boat Delivery)",
           "count": 1,
