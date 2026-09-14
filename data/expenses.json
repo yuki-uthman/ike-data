@@ -95,16 +95,21 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T12:45:43Z",
+      "generatedAt": "2026-09-14T13:01:43Z",
       "confirmed": {
-        "total": 5.0,
-        "count": 1
-      },
-      "pending": {
-        "total": 100005.0,
+        "total": 135.0,
         "count": 2
       },
+      "pending": {
+        "total": 100010.0,
+        "count": 3
+      },
       "categories": [
+        {
+          "name": "Vehicle Maintenance",
+          "count": 1,
+          "total": 130.0
+        },
         {
           "name": "Gate Pass (Boat Delivery)",
           "count": 1,
