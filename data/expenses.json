@@ -95,14 +95,14 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T16:30:57Z",
+      "generatedAt": "2026-09-14T16:45:42Z",
       "confirmed": {
         "total": 203.0,
         "count": 4
       },
       "pending": {
-        "total": 100020.0,
-        "count": 4
+        "total": 100030.0,
+        "count": 5
       },
       "categories": [
         {
