@@ -1,0 +1,50 @@
+name: Refresh sales data
+
+on:
+  schedule:
+    # re-registered after the repo rename (yuki-uthman/ike-sales)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-sales
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch today's sales from Odoo
+        env:
+          ODOO_URL: https://mrh-investment.odoo.com
+          ODOO_DB: mrh-investment
+          ODOO_USERNAME: mrhpvt@gmail.com
+          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
+        run: python scripts/fetch_sales.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sales.json
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -m "chore: refresh sales data"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (likely a concurrent run pushed first) - rebasing and retrying ($i/5)"
+            git pull --rebase origin main
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "::error::Failed to push after 5 retries"
+          exit 1

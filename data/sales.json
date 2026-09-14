@@ -1,0 +1,1343 @@
+{
+  "company": "MRH Investment",
+  "currency": "MVR",
+  "days": [
+    {
+      "date": "2026-09-06",
+      "generatedAt": "2026-09-13T09:44:39Z",
+      "pos": {
+        "total": 15571.0,
+        "count": 15
+      },
+      "regularSales": {
+        "total": 8450.0,
+        "count": 2
+      },
+      "pendingQuotations": {
+        "total": 103120.0,
+        "count": 3
+      },
+      "products": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
+          "qty": 1.0,
+          "total": 6450.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
+          "qty": 1.0,
+          "total": 6450.0
+        },
+        {
+          "name": "2C Single Side White 6.5ft X1set",
+          "qty": 1.0,
+          "total": 1650.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1180.0
+        },
+        {
+          "name": "[10007] Plastic Container T2 [case]",
+          "qty": 1.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[8325C] Aluminium Foil Box [case]",
+          "qty": 1.0,
+          "total": 760.0
+        },
+        {
+          "name": "Tea Powder AI-Kabous 454g",
+          "qty": 2.0,
+          "total": 520.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 10.0,
+          "total": 350.0
+        },
+        {
+          "name": "[10008] Top Kokoa Creamy Cheese 1kg",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "[A12B] Plastic Container A12 (Bundle)",
+          "qty": 2.0,
+          "total": 280.0
+        },
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 50.0,
+          "total": 250.0
+        },
+        {
+          "name": "[21283] Milkshake Powder White Coffee",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[60033] Milkshake Powder Cappuccino",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
+          "qty": 2.0,
+          "total": 150.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 10.0,
+          "total": 120.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 8.0,
+          "total": 112.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 10.0,
+          "total": 100.0
+        },
+        {
+          "name": "[02048] rubber shoe",
+          "qty": 1.0,
+          "total": 99.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 8.0,
+          "total": 96.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 5.0,
+          "total": 80.0
+        },
+        {
+          "name": "[01777] Plastic Container 250ml#2083",
+          "qty": 2.0,
+          "total": 70.0
+        },
+        {
+          "name": "[02393] Dustbin Bag",
+          "qty": 1.0,
+          "total": 40.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 2.0,
+          "total": 40.0
+        },
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 2.0,
+          "total": 30.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 5.0,
+          "total": 15.0
+        },
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[03338] Paper Cup 4oz (Bundle)",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 1.0,
+          "total": 9.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "generatedAt": "2026-09-13T09:44:40Z",
+      "pos": {
+        "total": 28511.0,
+        "count": 17
+      },
+      "regularSales": {
+        "total": 27917.0,
+        "count": 5
+      },
+      "pendingQuotations": {
+        "total": 25537.0,
+        "count": 7
+      },
+      "products": [
+        {
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 3.0,
+          "total": 11850.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 4.0,
+          "total": 11400.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X03] #RD8 Gray Single Perforated 1950mm x3",
+          "qty": 1.0,
+          "total": 6450.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 3.0,
+          "total": 2370.0
+        },
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 24.0,
+          "total": 1800.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[02231] Wooden Fork 100pcs",
+          "qty": 36.0,
+          "total": 1620.0
+        },
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 6.0,
+          "total": 1500.0
+        },
+        {
+          "name": "[01873] Duster cloth Microfiber",
+          "qty": 36.0,
+          "total": 1404.0
+        },
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 12.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+          "qty": 1.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[3043] Mix-Lah Barista Vanilla",
+          "qty": 2.0,
+          "total": 900.0
+        },
+        {
+          "name": "[70066] Sponges 3pcs*200pcs#24",
+          "qty": 36.0,
+          "total": 900.0
+        },
+        {
+          "name": "[02440] Milkshake Powder Pistachio",
+          "qty": 4.0,
+          "total": 800.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 4.0,
+          "total": 800.0
+        },
+        {
+          "name": "[90037] Milkshake Powder Blueberry",
+          "qty": 4.0,
+          "total": 800.0
+        },
+        {
+          "name": "[70072] Sponge 4pcs #28 D-21",
+          "qty": 38.0,
+          "total": 798.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 38.0,
+          "total": 760.0
+        },
+        {
+          "name": "[6955105504080] Brush Silicone Scrubber#91264",
+          "qty": 36.0,
+          "total": 720.0
+        },
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 36.0,
+          "total": 684.0
+        },
+        {
+          "name": "[70078] Sponge 240pcs#32",
+          "qty": 36.0,
+          "total": 684.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 36.0,
+          "total": 648.0
+        },
+        {
+          "name": "[02230] Wooden Spoon 100pcs",
+          "qty": 13.0,
+          "total": 585.0
+        },
+        {
+          "name": "[70028] Gloves Cleaning Microfiber #44",
+          "qty": 36.0,
+          "total": 540.0
+        },
+        {
+          "name": "Top kokoa Hokkaido white chocolate 1kg",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 36.0,
+          "total": 432.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 29.0,
+          "total": 406.0
+        },
+        {
+          "name": "[02428] Bambll Stick 100pcs",
+          "qty": 27.0,
+          "total": 405.0
+        },
+        {
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "Green's Carmelle [bundle]",
+          "qty": 2.0,
+          "total": 360.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90043] Milkshake Powder Butterscotch",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90052] Milkshake Powder Mocha",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 12.0,
+          "total": 192.0
+        },
+        {
+          "name": "[70051] Slipper#058",
+          "qty": 1.0,
+          "total": 79.0
+        },
+        {
+          "name": "[70056] Basin 1041",
+          "qty": 1.0,
+          "total": 43.0
+        },
+        {
+          "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
+          "qty": 2.0,
+          "total": 40.0
+        },
+        {
+          "name": "Kraft burger box 1pcs",
+          "qty": 10.0,
+          "total": 20.0
+        },
+        {
+          "name": "[01700] Strainer Steel 7cm YM-055#18",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[70075] Towel 042-0983 35*75cm",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[RD8-GRY-DSP-1550-X03] #RD8 Gray Double Side Perforated 1550mm x3",
+          "qty": 1.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "generatedAt": "2026-09-13T09:44:40Z",
+      "pos": {
+        "total": 59304.0,
+        "count": 9
+      },
+      "regularSales": {
+        "total": 11830.0,
+        "count": 2
+      },
+      "pendingQuotations": {
+        "total": 149335.0,
+        "count": 8
+      },
+      "products": [
+        {
+          "name": "2C Double Side White 6ft X3set",
+          "qty": 2.0,
+          "total": 14700.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 17.0,
+          "total": 13430.0
+        },
+        {
+          "name": "2C Double Side White 6ft X2set",
+          "qty": 2.0,
+          "total": 10000.0
+        },
+        {
+          "name": "2C Single Side White 6.5ft X1set",
+          "qty": 4.0,
+          "total": 6600.0
+        },
+        {
+          "name": "2C Single Side White 6.5ft X2set",
+          "qty": 2.0,
+          "total": 6200.0
+        },
+        {
+          "name": "2C ER White X 1",
+          "qty": 4.0,
+          "total": 5800.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 1.0,
+          "total": 1800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 4.0,
+          "total": 1800.0
+        },
+        {
+          "name": "2C Price Border Strip White",
+          "qty": 64.0,
+          "total": 1600.0
+        },
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 3.0,
+          "total": 840.0
+        },
+        {
+          "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
+          "qty": 2.0,
+          "total": 700.0
+        },
+        {
+          "name": "[02440] Milkshake Powder Pistachio",
+          "qty": 3.0,
+          "total": 660.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 2.0,
+          "total": 440.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 2.0,
+          "total": 420.0
+        },
+        {
+          "name": "[90039] Milkshake Powder Vanilla Blue",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[01894] Mosquito Racket 47*19cm #JY-666",
+          "qty": 1.0,
+          "total": 159.0
+        },
+        {
+          "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
+          "qty": 3.0,
+          "total": 60.0
+        },
+        {
+          "name": "[70041] Bucket with lid A806",
+          "qty": 1.0,
+          "total": 55.0
+        },
+        {
+          "name": "[70067] Sponges 2pcs YQE19",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
+          "qty": 8.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "generatedAt": "2026-09-13T09:44:41Z",
+      "pos": {
+        "total": 18264.0,
+        "count": 21
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 2600.0,
+        "count": 1
+      },
+      "products": [
+        {
+          "name": "[70193] Miniso Counter - Type A",
+          "qty": 2.0,
+          "total": 6000.0
+        },
+        {
+          "name": "[70194] Miniso Counter - Type D",
+          "qty": 1.0,
+          "total": 3000.0
+        },
+        {
+          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "qty": 1.0,
+          "total": 3000.0
+        },
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 970.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 30.0,
+          "total": 420.0
+        },
+        {
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 20.0,
+          "total": 320.0
+        },
+        {
+          "name": "[01633] Kitchen Sale 5kg#KE-2",
+          "qty": 1.0,
+          "total": 165.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 10.0,
+          "total": 100.0
+        },
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 1.0,
+          "total": 60.0
+        },
+        {
+          "name": "[01796] Toilet Brush Plastic #9016A",
+          "qty": 2.0,
+          "total": 58.0
+        },
+        {
+          "name": "[70027] Hook Adhesive 2 in 1#2878",
+          "qty": 1.0,
+          "total": 49.0
+        },
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 3.0,
+          "total": 45.0
+        },
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 2.0,
+          "total": 30.0
+        },
+        {
+          "name": "[70075] Towel 042-0983 35*75cm",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[03338] Paper Cup 4oz (Bundle)",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[01928] Ceramic Mug#48-1",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[70018] PLASTIC BASKET ROUND 2# 902",
+          "qty": 1.0,
+          "total": 12.0
+        },
+        {
+          "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
+          "qty": 2.0,
+          "total": 10.0
+        },
+        {
+          "name": "[X0001] Damaged Aluminum Foil Container",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "Hotpack Toothpick",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 2.0,
+          "total": 6.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "generatedAt": "2026-09-13T09:44:42Z",
+      "pos": {
+        "total": 41387.0,
+        "count": 17
+      },
+      "regularSales": {
+        "total": 219.0,
+        "count": 3
+      },
+      "pendingQuotations": {
+        "total": 5640.0,
+        "count": 3
+      },
+      "products": [
+        {
+          "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
+          "qty": 2.0,
+          "total": 13600.0
+        },
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 5.0,
+          "total": 9900.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 4.0,
+          "total": 6560.0
+        },
+        {
+          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+          "qty": 2.0,
+          "total": 3900.0
+        },
+        {
+          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+          "qty": 1.0,
+          "total": 1540.0
+        },
+        {
+          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+          "qty": 1.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[R12C] Plastic Container A12 [case]",
+          "qty": 1.0,
+          "total": 1160.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 45.0,
+          "total": 1125.0
+        },
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 4.0,
+          "total": 1120.0
+        },
+        {
+          "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
+          "qty": 6.0,
+          "total": 234.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[00001] Clothes Women",
+          "qty": 2.0,
+          "total": 200.0
+        },
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 11.0,
+          "total": 165.0
+        },
+        {
+          "name": "[02232] Ice Cream Spoon 100pcs",
+          "qty": 4.0,
+          "total": 156.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 50.0,
+          "total": 150.0
+        },
+        {
+          "name": "[70031] Cloth Hanger Plastic Round 42x42cm #0316",
+          "qty": 1.0,
+          "total": 59.0
+        },
+        {
+          "name": "[02393] Dustbin Bag",
+          "qty": 1.0,
+          "total": 40.0
+        },
+        {
+          "name": "[70126] Dustbin Plastic 26cm #601",
+          "qty": 1.0,
+          "total": 39.0
+        },
+        {
+          "name": "[70075] Towel 042-0983 35*75cm",
+          "qty": 2.0,
+          "total": 38.0
+        },
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 3.0,
+          "total": 27.0
+        },
+        {
+          "name": "[01699] Strainer Steel 10cm Ym-055#17",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[70066] Sponges 3pcs*200pcs#24",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[01680] Table Mat Pvc 30x45cm #3",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[70078] Sponge 240pcs#32",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[42688] Spoon small flatware Ss#3 Red",
+          "qty": 2.0,
+          "total": 16.0
+        },
+        {
+          "name": "[02035] Plastic Strainer Orange",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[01907] Toilet Brush Plastic #36",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "generatedAt": "2026-09-13T09:44:43Z",
+      "pos": {
+        "total": 778.0,
+        "count": 8
+      },
+      "regularSales": {
+        "total": 675.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[01681] Table Mat Pvc 30x45cm #4",
+          "qty": 25.0,
+          "total": 475.0
+        },
+        {
+          "name": "[70020] SHOPPING BASKET GRAY 612 S3",
+          "qty": 2.0,
+          "total": 270.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[02070] Flower Pot 33x31cm E360x320",
+          "qty": 10.0,
+          "total": 200.0
+        },
+        {
+          "name": "[02119] Artificial Hanging Plant D1",
+          "qty": 1.0,
+          "total": 180.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 10.0,
+          "total": 30.0
+        },
+        {
+          "name": "[02139] Plastic container round big 02061 small",
+          "qty": 1.0,
+          "total": 29.0
+        },
+        {
+          "name": "[83421] Aluminium Foil Box 83241 Loose",
+          "qty": 8.0,
+          "total": 24.0
+        },
+        {
+          "name": "[70075] Towel 042-0983 35*75cm",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[2268] Tooth Pick",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[0012] Sponge WJ631 Loose PC",
+          "qty": 2.0,
+          "total": 6.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "generatedAt": "2026-09-13T09:44:43Z",
+      "pos": {
+        "total": 26380.0,
+        "count": 14
+      },
+      "regularSales": {
+        "total": 1900.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 62926.0,
+        "count": 3
+      },
+      "products": [
+        {
+          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
+          "qty": 5.0,
+          "total": 14000.0
+        },
+        {
+          "name": "[2C-WHT-NET-2000x900] 2C White Net 2000x900mm",
+          "qty": 5.0,
+          "total": 3500.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "[8388] Black Base Rectangular Container 38oz w/ PP Lid (TPLM C053)",
+          "qty": 150.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[09876] Table Lamp Rechargeable",
+          "qty": 5.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 50.0,
+          "total": 800.0
+        },
+        {
+          "name": "[01818] Rain Coat Polyester#5",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        },
+        {
+          "name": "[2C-WHT-NETBRKT-900] 2C White Net Bracket Top 900mm",
+          "qty": 5.0,
+          "total": 750.0
+        },
+        {
+          "name": "[2C-WHT-NETBRKB-900] 2C White Net Bracket Bottom 900mm",
+          "qty": 5.0,
+          "total": 750.0
+        },
+        {
+          "name": "[01817] Rain Coat Polyester#4",
+          "qty": 1.0,
+          "total": 699.0
+        },
+        {
+          "name": "[01681] Table Mat Pvc 30x45cm #4",
+          "qty": 25.0,
+          "total": 475.0
+        },
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 10.0,
+          "total": 350.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 100.0,
+          "total": 300.0
+        },
+        {
+          "name": "[02070] Flower Pot 33x31cm E360x320",
+          "qty": 10.0,
+          "total": 200.0
+        },
+        {
+          "name": "[70215] Gas Pipe ( Yellow )",
+          "qty": 7.0,
+          "total": 105.0
+        },
+        {
+          "name": "[83421] Aluminium Foil Box 83241 Loose",
+          "qty": 10.0,
+          "total": 50.0
+        },
+        {
+          "name": "[70126] Dustbin Plastic 26cm #601",
+          "qty": 1.0,
+          "total": 39.0
+        },
+        {
+          "name": "Sponges Colorful 10pcs#31",
+          "qty": 1.0,
+          "total": 32.0
+        },
+        {
+          "name": "[01699] Strainer Steel 10cm Ym-055#17",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[02034] Plastic Strainer red",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[01864] Toilet Brush Plastic Code:208 #35",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[02036] PLASTIC STRAINER BLUE",
+          "qty": 1.0,
+          "total": 12.0
+        },
+        {
+          "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
+          "qty": 1.0,
+          "total": 5.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "generatedAt": "2026-09-13T18:45:35Z",
+      "pos": {
+        "total": 1848.0,
+        "count": 13
+      },
+      "regularSales": {
+        "total": 17731.0,
+        "count": 7
+      },
+      "pendingQuotations": {
+        "total": 8830.0,
+        "count": 2
+      },
+      "products": [
+        {
+          "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
+          "qty": 1.0,
+          "total": 6900.0
+        },
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 8.0,
+          "total": 3120.0
+        },
+        {
+          "name": "Tahina Durra Sesame 18kg",
+          "qty": 1.0,
+          "total": 2600.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 1.0,
+          "total": 1750.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 22.0,
+          "total": 550.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 125.0,
+          "total": 375.0
+        },
+        {
+          "name": "[01943] Apron - Love life",
+          "qty": 6.0,
+          "total": 300.0
+        },
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
+        },
+        {
+          "name": "[01608] Glass Jug 800ml#11",
+          "qty": 1.0,
+          "total": 270.0
+        },
+        {
+          "name": "[3038] Mix-Lah Iced Tea Premix Lemon Tea",
+          "qty": 1.0,
+          "total": 250.0
+        },
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 50.0,
+          "total": 250.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 10.0,
+          "total": 220.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[6971746750075] Rain Coat Polyester #2",
+          "qty": 1.0,
+          "total": 185.0
+        },
+        {
+          "name": "[02232] Ice Cream Spoon 100pcs",
+          "qty": 2.0,
+          "total": 78.0
+        },
+        {
+          "name": "[01786] Plastic Jug with lid 700ml#904",
+          "qty": 1.0,
+          "total": 59.0
+        },
+        {
+          "name": "[01697] Handheld Peeler 1129#15",
+          "qty": 1.0,
+          "total": 59.0
+        },
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 1.0,
+          "total": 50.0
+        },
+        {
+          "name": "[02230] Wooden Spoon 100pcs",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[03338] Paper Cup 4oz (Bundle)",
+          "qty": 2.0,
+          "total": 30.0
+        },
+        {
+          "name": "[01698] Strainer Steel 12cm Ym-055#16",
+          "qty": 1.0,
+          "total": 29.0
+        },
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 3.0,
+          "total": 27.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 16.0,
+          "total": 16.0
+        },
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[01928] Ceramic Mug#48-1",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[X0001] Damaged Aluminum Foil Container",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[42688] Spoon small flatware Ss#3 Red",
+          "qty": 1.0,
+          "total": 8.0
+        },
+        {
+          "name": "[8368] Aluminium Foil Box 8368 Loose",
+          "qty": 4.0,
+          "total": 8.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "generatedAt": "2026-09-14T07:46:12Z",
+      "pos": {
+        "total": 329.0,
+        "count": 2
+      },
+      "regularSales": {
+        "total": 6410.0,
+        "count": 3
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 3.0,
+          "total": 5250.0
+        },
+        {
+          "name": "[PP9] PAPER PLATE 9\"",
+          "qty": 12.0,
+          "total": 580.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 20.0,
+          "total": 400.0
+        },
+        {
+          "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
+          "qty": 6.0,
+          "total": 300.0
+        },
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 3.0,
+          "total": 180.0
+        },
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[70067] Sponges 2pcs YQE19",
+          "qty": 1.0,
+          "total": 10.0
+        }
+      ]
+    }
+  ]
+}
