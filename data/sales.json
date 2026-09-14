@@ -1288,10 +1288,10 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T07:46:12Z",
+      "generatedAt": "2026-09-14T09:12:46Z",
       "pos": {
-        "total": 329.0,
-        "count": 2
+        "total": 419.0,
+        "count": 3
       },
       "regularSales": {
         "total": 6410.0,
@@ -1326,6 +1326,11 @@
           "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
           "qty": 3.0,
           "total": 180.0
+        },
+        {
+          "name": "[01928] Ceramic Mug#48-1",
+          "qty": 6.0,
+          "total": 90.0
         },
         {
           "name": "[70071] Sponge 5pcs X 6pkts #23",
