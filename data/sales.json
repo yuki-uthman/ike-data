@@ -1288,18 +1288,18 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T16:15:39Z",
+      "generatedAt": "2026-09-14T16:30:52Z",
       "pos": {
-        "total": 419.0,
-        "count": 3
+        "total": 478.0,
+        "count": 5
       },
       "regularSales": {
         "total": 14110.0,
         "count": 5
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 621.0,
+        "count": 1
       },
       "products": [
         {
@@ -1346,6 +1346,16 @@
           "name": "[01928] Ceramic Mug#48-1",
           "qty": 6.0,
           "total": 90.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 10.0,
+          "total": 30.0
+        },
+        {
+          "name": "[01871] Duster#43",
+          "qty": 1.0,
+          "total": 29.0
         },
         {
           "name": "[70071] Sponge 5pcs X 6pkts #23",

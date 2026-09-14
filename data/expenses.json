@@ -95,10 +95,10 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T16:15:43Z",
+      "generatedAt": "2026-09-14T16:30:57Z",
       "confirmed": {
-        "total": 135.0,
-        "count": 2
+        "total": 203.0,
+        "count": 4
       },
       "pending": {
         "total": 100020.0,
@@ -109,6 +109,16 @@
           "name": "Vehicle Maintenance",
           "count": 1,
           "total": 130.0
+        },
+        {
+          "name": "Fuel / Petrol",
+          "count": 1,
+          "total": 50.0
+        },
+        {
+          "name": "Expenses",
+          "count": 1,
+          "total": 18.0
         },
         {
           "name": "Gate Pass (Boat Delivery)",
