@@ -1,0 +1,116 @@
+{
+  "company": "MRH Investment",
+  "currency": "MVR",
+  "days": [
+    {
+      "date": "2026-09-07",
+      "generatedAt": "2026-09-14T10:54:13Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-09-08",
+      "generatedAt": "2026-09-14T10:54:13Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-09-09",
+      "generatedAt": "2026-09-14T10:54:14Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-09-10",
+      "generatedAt": "2026-09-14T10:54:14Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-09-11",
+      "generatedAt": "2026-09-14T10:54:14Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-09-12",
+      "generatedAt": "2026-09-14T10:54:15Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-09-13",
+      "generatedAt": "2026-09-14T10:54:15Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-09-14",
+      "generatedAt": "2026-09-14T10:53:35Z",
+      "confirmed": {
+        "total": 5.0,
+        "count": 1
+      },
+      "pending": {
+        "total": 100005.0,
+        "count": 2
+      },
+      "categories": [
+        {
+          "name": "Gate Pass (Boat Delivery)",
+          "count": 1,
+          "total": 5.0
+        }
+      ]
+    }
+  ]
+}

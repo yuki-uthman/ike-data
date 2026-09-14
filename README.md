@@ -18,19 +18,27 @@ is a separate, static-only repo that fetches its JSON straight from here via
 ## What's here
 
 - `.github/workflows/refresh-sales.yml` — runs every 15 minutes, pulls
-  today's sales from Odoo, commits `data/sales.json`.
+  today's sales *and* expenses from Odoo in one job, commits both JSON files
+  together (kept as one workflow, not two, specifically to avoid two
+  independent crons racing each other's git push on the same repo).
 - `scripts/fetch_sales.py` — the sales pull + de-duplication logic (see its
   own docstring).
-- `scripts/backfill_sales.py` — one-off backfill of past days, run manually
-  when needed.
-- `data/sales.json` — the output. Any dashboard can read it directly at
+- `scripts/fetch_expenses.py` — the expenses pull, sourced from `hr.expense`
+  (this Odoo instance has no vendor bills at all - `hr.expense` is what's
+  actually used to record day-to-day spend). Counts `approved` / `posted` /
+  `in_payment` / `paid` as real; `draft` / `submitted` are tracked separately
+  as pending and excluded from the total; `refused` is dropped entirely.
+- `scripts/backfill_sales.py` / `scripts/backfill_expenses.py` — one-off
+  backfill of past days, run manually when needed.
+- `data/sales.json`, `data/expenses.json` — the outputs. Any dashboard can
+  read either directly at, e.g.,
   `https://raw.githubusercontent.com/yuki-uthman/ike-data/main/data/sales.json`
   (GitHub serves raw file content with `Access-Control-Allow-Origin: *`, so
   this works from any origin, no CORS setup needed).
 
-A future expenses (or other) dashboard adds `scripts/fetch_expenses.py` +
-its own workflow schedule here, publishing `data/expenses.json` alongside
-`data/sales.json` — same repo, same secret, same retry logic.
+Adding another domain later (e.g. inventory) means one more `fetch_*.py`
+script here, one more step in the same workflow, one more JSON file — same
+repo, same secret, same retry logic, no new cron.
 
 ## One-time setup
 
@@ -39,8 +47,8 @@ its own workflow schedule here, publishing `data/expenses.json` alongside
    an Odoo API key scoped to **RPC**. (This is a *new* secret — GitHub does
    not let you copy a secret's value between repos, so it has to be
    re-entered here even if you already have one on another repo.)
-2. Run the workflow once manually (Actions tab → "Refresh sales data" → Run
-   workflow) to seed real data immediately.
+2. Run the workflow once manually (Actions tab → "Refresh sales + expenses
+   data" → Run workflow) to seed real data immediately.
 
 ## Reliability note
 
