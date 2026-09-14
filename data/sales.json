@@ -1288,14 +1288,14 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T11:01:08Z",
+      "generatedAt": "2026-09-14T11:15:37Z",
       "pos": {
         "total": 419.0,
         "count": 3
       },
       "regularSales": {
-        "total": 6410.0,
-        "count": 3
+        "total": 10360.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 0,
@@ -1306,6 +1306,11 @@
           "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
           "qty": 3.0,
           "total": 5250.0
+        },
+        {
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 1.0,
+          "total": 3950.0
         },
         {
           "name": "[PP9] PAPER PLATE 9\"",
