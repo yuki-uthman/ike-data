@@ -126,6 +126,19 @@
           "total": 10.0
         }
       ]
+    },
+    {
+      "date": "2026-09-15",
+      "generatedAt": "2026-09-14T19:01:11Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
     }
   ]
 }
