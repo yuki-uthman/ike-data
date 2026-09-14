@@ -1288,18 +1288,18 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T12:15:36Z",
+      "generatedAt": "2026-09-14T12:30:58Z",
       "pos": {
         "total": 419.0,
         "count": 3
       },
       "regularSales": {
-        "total": 10360.0,
-        "count": 4
+        "total": 14110.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 2250.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -1313,14 +1313,24 @@
           "total": 3950.0
         },
         {
-          "name": "[PP9] PAPER PLATE 9\"",
-          "qty": 12.0,
-          "total": 580.0
+          "name": "[A16] Plastic Container A16",
+          "qty": 500.0,
+          "total": 1500.0
+        },
+        {
+          "name": "[R12C] Plastic Container A12 [case]",
+          "qty": 500.0,
+          "total": 1450.0
         },
         {
           "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 20.0,
-          "total": 400.0
+          "qty": 60.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[PP9] PAPER PLATE 9\"",
+          "qty": 12.0,
+          "total": 580.0
         },
         {
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
