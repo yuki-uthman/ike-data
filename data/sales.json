@@ -1371,14 +1371,14 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T11:01:02Z",
+      "generatedAt": "2026-09-15T11:15:37Z",
       "pos": {
         "total": 158.0,
         "count": 4
       },
       "regularSales": {
-        "total": 4906.0,
-        "count": 5
+        "total": 5941.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 24050.0,
@@ -1404,6 +1404,16 @@
           "name": "Tea Powder AI-Kabous 454g",
           "qty": 3.0,
           "total": 780.0
+        },
+        {
+          "name": "[63258] 999  IRONING BOARD JUMBO",
+          "qty": 3.0,
+          "total": 585.0
+        },
+        {
+          "name": "[02399] Fleece Blanket 9 Pounds",
+          "qty": 1.0,
+          "total": 450.0
         },
         {
           "name": "[35940] Hook Mesh 8\"",
