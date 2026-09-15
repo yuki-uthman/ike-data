@@ -1371,20 +1371,31 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T04:01:00Z",
+      "generatedAt": "2026-09-15T04:15:35Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 0.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
-      "products": []
+      "products": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 5.0,
+          "total": 0.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 5.0,
+          "total": 0.0
+        }
+      ]
     }
   ]
 }
