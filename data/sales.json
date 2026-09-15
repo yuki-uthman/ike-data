@@ -1371,18 +1371,18 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T06:15:39Z",
+      "generatedAt": "2026-09-15T06:30:52Z",
       "pos": {
-        "total": 66.0,
-        "count": 1
+        "total": 75.0,
+        "count": 2
       },
       "regularSales": {
         "total": 0.0,
         "count": 1
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 446.0,
+        "count": 1
       },
       "products": [
         {
@@ -1404,6 +1404,11 @@
           "name": "[70018] PLASTIC BASKET ROUND 2# 902",
           "qty": 1.0,
           "total": 12.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 3.0,
+          "total": 9.0
         },
         {
           "name": "[70182] Gas Burner ( High Pressure )",
