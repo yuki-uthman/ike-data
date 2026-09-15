@@ -1371,17 +1371,17 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T15:45:33Z",
+      "generatedAt": "2026-09-15T16:01:06Z",
       "pos": {
-        "total": 829.0,
-        "count": 9
+        "total": 859.0,
+        "count": 10
       },
       "regularSales": {
         "total": 6331.0,
         "count": 7
       },
       "pendingQuotations": {
-        "total": 24050.0,
+        "total": 25250.0,
         "count": 3
       },
       "products": [
@@ -1496,6 +1496,11 @@
           "total": 45.0
         },
         {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 13.0,
+          "total": 39.0
+        },
+        {
           "name": "[01797] Toilet Brush Plastic #328-10048-1",
           "qty": 1.0,
           "total": 39.0
@@ -1544,11 +1549,6 @@
           "name": "[70018] PLASTIC BASKET ROUND 2# 902",
           "qty": 1.0,
           "total": 12.0
-        },
-        {
-          "name": "[8389] Aluminium Foil Box 8389 Loose",
-          "qty": 3.0,
-          "total": 9.0
         },
         {
           "name": "[70182] Gas Burner ( High Pressure )",
