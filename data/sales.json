@@ -1571,6 +1571,23 @@
           "total": 0.0
         }
       ]
+    },
+    {
+      "date": "2026-09-16",
+      "generatedAt": "2026-09-15T19:01:03Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
     }
   ]
 }
