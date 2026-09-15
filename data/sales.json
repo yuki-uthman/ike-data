@@ -1371,10 +1371,10 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T04:30:49Z",
+      "generatedAt": "2026-09-15T04:45:34Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 66.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0.0,
@@ -1385,6 +1385,26 @@
         "count": 0
       },
       "products": [
+        {
+          "name": "[01920] Wall hook pink #8022",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[70019] PLASTIC BASKET ROUND 3# 903",
+          "qty": 1.0,
+          "total": 14.0
+        },
+        {
+          "name": "[70018] PLASTIC BASKET ROUND 2# 902",
+          "qty": 1.0,
+          "total": 12.0
+        },
         {
           "name": "[70182] Gas Burner ( High Pressure )",
           "qty": 5.0,
