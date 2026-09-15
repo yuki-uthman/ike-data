@@ -1371,20 +1371,35 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T10:01:00Z",
+      "generatedAt": "2026-09-15T10:15:35Z",
       "pos": {
         "total": 140.0,
         "count": 3
       },
       "regularSales": {
-        "total": 806.0,
-        "count": 3
+        "total": 3126.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 24050.0,
-        "count": 2
+        "total": 25830.0,
+        "count": 3
       },
       "products": [
+        {
+          "name": "[75053] Hook Mesh 12\"",
+          "qty": 70.0,
+          "total": 1120.0
+        },
+        {
+          "name": "[70147] Hook Mesh 10\"",
+          "qty": 60.0,
+          "total": 840.0
+        },
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 30.0,
+          "total": 360.0
+        },
         {
           "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
           "qty": 6.0,
