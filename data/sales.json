@@ -1371,10 +1371,10 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T12:15:37Z",
+      "generatedAt": "2026-09-15T12:30:54Z",
       "pos": {
-        "total": 158.0,
-        "count": 4
+        "total": 414.0,
+        "count": 7
       },
       "regularSales": {
         "total": 6331.0,
@@ -1441,6 +1441,11 @@
           "total": 180.0
         },
         {
+          "name": "[01666] Flat Roti Pan 28cm#8",
+          "qty": 1.0,
+          "total": 120.0
+        },
+        {
           "name": "[70058] Tooth Scarping Dustset",
           "qty": 1.0,
           "total": 103.0
@@ -1456,6 +1461,16 @@
           "total": 45.0
         },
         {
+          "name": "[02230] Wooden Spoon 100pcs",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[02231] Wooden Fork 100pcs",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
           "name": "[01836] Broom Wooden#7",
           "qty": 1.0,
           "total": 45.0
@@ -1466,6 +1481,11 @@
           "total": 30.0
         },
         {
+          "name": "[70042] Paper Folded Dinner Napkin",
+          "qty": 1.0,
+          "total": 26.0
+        },
+        {
           "name": "[01920] Wall hook pink #8022",
           "qty": 1.0,
           "total": 25.0
@@ -1473,6 +1493,11 @@
         {
           "name": "[8368] Aluminium Foil Box 8368 Loose",
           "qty": 10.0,
+          "total": 20.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 1.0,
           "total": 20.0
         },
         {
