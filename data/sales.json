@@ -1371,20 +1371,25 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T08:45:37Z",
+      "generatedAt": "2026-09-15T09:01:02Z",
       "pos": {
         "total": 140.0,
         "count": 3
       },
       "regularSales": {
-        "total": 446.0,
-        "count": 2
+        "total": 806.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "products": [
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 6.0,
+          "total": 360.0
+        },
         {
           "name": "[01955] ironing board large",
           "qty": 1.0,
