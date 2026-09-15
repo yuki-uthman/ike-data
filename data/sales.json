@@ -1371,27 +1371,67 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T06:30:52Z",
+      "generatedAt": "2026-09-15T06:45:35Z",
       "pos": {
-        "total": 75.0,
-        "count": 2
+        "total": 140.0,
+        "count": 3
       },
       "regularSales": {
-        "total": 0.0,
-        "count": 1
+        "total": 446.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 446.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "products": [
+        {
+          "name": "[01955] ironing board large",
+          "qty": 1.0,
+          "total": 195.0
+        },
+        {
+          "name": "[70058] Tooth Scarping Dustset",
+          "qty": 1.0,
+          "total": 103.0
+        },
+        {
+          "name": "[01870] Duster 15cm#42",
+          "qty": 1.0,
+          "total": 55.0
+        },
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 3.0,
+          "total": 45.0
+        },
+        {
+          "name": "[01836] Broom Wooden#7",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+          "qty": 1.0,
+          "total": 30.0
+        },
         {
           "name": "[01920] Wall hook pink #8022",
           "qty": 1.0,
           "total": 25.0
         },
         {
-          "name": "[70074] Towel 042-02 30*40cm",
+          "name": "[8368] Aluminium Foil Box 8368 Loose",
+          "qty": 10.0,
+          "total": 20.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 1.0,
+          "total": 18.0
+        },
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
           "qty": 1.0,
           "total": 15.0
         },
