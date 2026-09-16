@@ -1,0 +1,26 @@
+name: Inspect a day's payments
+
+# Read-only. Prints what Odoo holds for one day; commits nothing, so it is
+# safe to run at any time and does not share the data-writing concurrency group.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Day to inspect (YYYY-MM-DD, Maldives time)"
+        required: true
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Inspect ${{ inputs.date }}
+        env:
+          ODOO_URL: https://mrh-investment.odoo.com
+          ODOO_DB: mrh-investment
+          ODOO_USERNAME: mrhpvt@gmail.com
+          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
+        run: python scripts/inspect_day.py ${{ inputs.date }}
