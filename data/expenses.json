@@ -148,16 +148,22 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T15:45:43Z",
+      "generatedAt": "2026-09-16T16:01:57Z",
       "confirmed": {
-        "total": 0,
-        "count": 0
+        "total": 30.0,
+        "count": 1
       },
       "pending": {
         "total": 0,
         "count": 0
       },
-      "categories": []
+      "categories": [
+        {
+          "name": "Expenses",
+          "count": 1,
+          "total": 30.0
+        }
+      ]
     }
   ]
 }
