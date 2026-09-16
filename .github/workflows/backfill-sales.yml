@@ -1,0 +1,63 @@
+name: Backfill sales history
+
+# Manual only. The 15-minute cron owns today; this rewrites past days, which
+# is needed whenever the meaning of a day's number changes - otherwise the
+# chart shows old-meaning and new-meaning days side by side as if they were
+# comparable.
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many past days to rewrite (60 = the whole retained history)"
+        required: true
+        default: "60"
+
+permissions:
+  contents: write
+
+# Shares the cron's group so a backfill and a refresh can never both be
+# rewriting data/sales.json at once.
+concurrency:
+  group: refresh-sales
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Backfill ${{ inputs.days }} day(s) from Odoo
+        env:
+          ODOO_URL: https://mrh-investment.odoo.com
+          ODOO_DB: mrh-investment
+          ODOO_USERNAME: mrhpvt@gmail.com
+          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
+        run: python scripts/backfill_sales.py --days ${{ inputs.days }}
+
+      - name: Commit backfilled history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sales.json
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -m "chore: backfill ${{ inputs.days }} day(s) of sales history"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (likely the refresh cron pushed first) - rebasing and retrying ($i/5)"
+            git fetch origin main
+            # The cron only ever rewrites today, which this script never touches,
+            # so on a conflict our backfilled history is the side to keep.
+            git checkout --ours data/sales.json 2>/dev/null || true
+            git pull --rebase -X ours origin main || { echo "::error::Could not reconcile with origin"; exit 1; }
+            sleep $((RANDOM % 10 + 1))
+          done
+          echo "::error::Failed to push after 5 retries"
+          exit 1
