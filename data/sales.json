@@ -4225,26 +4225,26 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T16:01:45Z",
+      "generatedAt": "2026-09-16T16:15:39Z",
       "pos": {
-        "total": 633.0,
-        "count": 6
+        "total": 651.0,
+        "count": 7
       },
       "regularSales": {
-        "total": 8130.0,
-        "count": 3
+        "total": 8650.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 3960.0,
         "count": 3
       },
       "cash": {
-        "total": 276.0,
-        "count": 4
+        "total": 294.0,
+        "count": 5
       },
       "transfer": {
-        "total": 8487.0,
-        "count": 5
+        "total": 9007.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -4265,6 +4265,16 @@
           "name": "[BC8C] Bagasse Clamshell 8\" [case]",
           "qty": 2.0,
           "total": 1200.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 20.0,
+          "total": 240.0
         },
         {
           "name": "[0100T] Paper salad bowl 1000 ML",
@@ -4302,6 +4312,11 @@
           "total": 39.0
         },
         {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 2.0,
+          "total": 36.0
+        },
+        {
           "name": "[01798] Hair comb Plastic#M86",
           "qty": 1.0,
           "total": 29.0
@@ -4310,11 +4325,6 @@
           "name": "[6955105504080] Brush Silicone Scrubber#91264",
           "qty": 1.0,
           "total": 20.0
-        },
-        {
-          "name": "[70065] Sponges 5pcs YQE07",
-          "qty": 1.0,
-          "total": 18.0
         }
       ]
     }
