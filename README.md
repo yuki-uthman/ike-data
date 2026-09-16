@@ -3,7 +3,8 @@
 The shared Odoo data pipeline for MRH Investment's dashboards. This repo owns
 the Odoo credential and the scheduled pull; it has no frontend of its own.
 Each dashboard ([ike-sales](https://github.com/yuki-uthman/ike-sales),
-ike-expenses, [ike-today](https://github.com/yuki-uthman/ike-today)) is a
+ike-expenses, [ike-today](https://github.com/yuki-uthman/ike-today),
+[ike-quotations](https://github.com/yuki-uthman/ike-quotations)) is a
 separate, static-only repo that fetches its JSON straight from here via
 `raw.githubusercontent.com` — no server, no API, no shared secret.
 
@@ -19,9 +20,10 @@ separate, static-only repo that fetches its JSON straight from here via
 ## What's here
 
 - `.github/workflows/refresh-sales.yml` — runs every 15 minutes, pulls
-  today's sales, expenses *and* payments from Odoo in one job, commits all
-  three JSON files together (kept as one workflow, not three, specifically to
-  avoid independent crons racing each other's git push on the same repo).
+  today's sales, expenses, payments *and* the open-quotation pipeline from
+  Odoo in one job, commits all four JSON files together (kept as one
+  workflow, not four, specifically to avoid independent crons racing each
+  other's git push on the same repo).
 - `scripts/odoo_payments.py` — **the shared "money received on a day" query.**
   Both dashboards now ask the same question, so it lives here once instead of
   being copied into three scripts and drifting. Sources `pos.payment` and
@@ -46,6 +48,27 @@ separate, static-only repo that fetches its JSON straight from here via
   and the lines behind each one. A thin caller of `odoo_payments`; every run
   logs each distinct method and journal name it saw, so widening the
   cash/transfer patterns is a one-line change against real evidence.
+- `scripts/fetch_quotations.py` — the follow-up pull for ike-quotations:
+  every quotation and sales order with money still owing, plus the day
+  totals behind its chart. This is the one script that asks what has *not*
+  closed, so it shares none of `odoo_payments`' day-window logic — only its
+  small relational helpers.
+
+  **It computes "paid" rather than reading it, and that is not optional
+  here.** `sale.order.invoice_ids` is empty on most settled orders in this
+  instance, and `invoice_status` errs the other way — S00203 reads "Fully
+  Invoiced" with zero linked invoices. Money reaches an order by two routes,
+  each needing its own join: `account.move.invoice_origin` (the order name
+  written on the invoice — carried by 154 of 155 customer invoices) and
+  `pos.order.line.sale_order_line_id` (the counter settling a quotation
+  against its order lines, producing no sale-order invoice at all — 625 POS
+  lines link this way). Outstanding is
+  `amount_total − (paid invoice value + POS-settled value)`, and a record is
+  open while that exceeds a cent. Partial payments fall out for free: the row
+  carries the remaining balance, not the order total. Reversed invoices are
+  excluded — a credit note leaves residual 0, which would otherwise read as
+  paid when the sale was undone.
+
 - `scripts/backfill_sales.py` / `scripts/backfill_expenses.py` — one-off
   backfill of past days, run manually when needed. `backfill_sales.py` calls
   the same `odoo_payments.day_entry` the cron does, so a backfilled day and a
@@ -54,9 +77,13 @@ separate, static-only repo that fetches its JSON straight from here via
   days), since the Odoo credential only exists in Actions.
 - `.github/workflows/backfill-sales.yml` — manual-only backfill. Shares the
   cron's concurrency group so the two can never rewrite `sales.json` at once.
-- `data/sales.json`, `data/expenses.json`, `data/today.json` — the outputs.
-  The first two keep a rolling 60-day history; `today.json` holds the current
-  day only and is overwritten each run. Any dashboard can read any of them
+- `data/sales.json`, `data/expenses.json`, `data/today.json`,
+  `data/quotations.json` — the outputs. The first two keep a rolling 60-day
+  history; `today.json` holds the current day only and is overwritten each
+  run. `quotations.json` is a live snapshot with no history at all: it holds
+  whatever is open right now, and its `days` array spans the oldest still-open
+  record to today with gaps filled, so the span *shrinks* as old quotations
+  settle rather than growing forever. Any dashboard can read any of them
   directly at, e.g.,
   `https://raw.githubusercontent.com/yuki-uthman/ike-data/main/data/sales.json`
   (GitHub serves raw file content with `Access-Control-Allow-Origin: *`, so
