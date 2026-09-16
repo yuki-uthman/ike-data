@@ -3,26 +3,2664 @@
   "currency": "MVR",
   "days": [
     {
+      "date": "2026-07-19",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-20",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-21",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-22",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-23",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-24",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-25",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-26",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-27",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-28",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-29",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-30",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-07-31",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-01",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-02",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-03",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-04",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-05",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-06",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-07",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-08",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-09",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-10",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-11",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-12",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-13",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-14",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-15",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-16",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-17",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-18",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-19",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-20",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-21",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-22",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-23",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-24",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-25",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-26",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": []
+    },
+    {
+      "date": "2026-08-27",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 11613.0,
+        "count": 20
+      },
+      "regularSales": {
+        "total": 10450.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 1000.0,
+        "count": 3
+      },
+      "cash": {
+        "total": 1163.0,
+        "count": 5
+      },
+      "transfer": {
+        "total": 20900.0,
+        "count": 16
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 4.0,
+          "total": 7900.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 60.0,
+          "total": 1680.0
+        },
+        {
+          "name": "(2C-SS-White)",
+          "qty": 1.0,
+          "total": 1650.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 30.0,
+          "total": 1440.0
+        },
+        {
+          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+          "qty": 1.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[90056] Milkshake Powder Honeydew",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[01954] Ironing Board Small",
+          "qty": 1.0,
+          "total": 195.0
+        },
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 25.0,
+          "total": 125.0
+        },
+        {
+          "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
+          "qty": 1.0,
+          "total": 75.0
+        },
+        {
+          "name": "[02532] Printer roll",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[MPPCX003] Cake Box paper 20x20x10Cm Plain",
+          "qty": 1.0,
+          "total": 8.0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 327.0,
+        "count": 3
+      },
+      "regularSales": {
+        "total": 277.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 50.0,
+        "count": 2
+      },
+      "transfer": {
+        "total": 554.0,
+        "count": 2
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[77618] Tea pot stainless steel 1*20 oz",
+          "qty": 1.0,
+          "total": 277.0
+        },
+        {
+          "name": "[70220] RD8 Price Border Strip Blue 900mm (875)",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 116886.0,
+        "count": 17
+      },
+      "regularSales": {
+        "total": 106725.0,
+        "count": 2
+      },
+      "pendingQuotations": {
+        "total": 10740.75,
+        "count": 8
+      },
+      "cash": {
+        "total": 10176.0,
+        "count": 9
+      },
+      "transfer": {
+        "total": 213435.0,
+        "count": 10
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "37 Miniso Black Double Side (37-Miniso-DS)*3set",
+          "qty": 3.0,
+          "total": 36855.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*2set",
+          "qty": 2.0,
+          "total": 12580.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 3.0,
+          "total": 9885.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*3set",
+          "qty": 1.0,
+          "total": 9285.0
+        },
+        {
+          "name": "[00051] Cashier Desk #04",
+          "qty": 1.0,
+          "total": 8500.0
+        },
+        {
+          "name": "37 Miniso Cupboard",
+          "qty": 6.0,
+          "total": 8400.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 600.0,
+          "total": 6900.0
+        },
+        {
+          "name": "2C DS White #2",
+          "qty": 1.0,
+          "total": 5100.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 3.0,
+          "total": 4920.0
+        },
+        {
+          "name": "2C ER Round W",
+          "qty": 2.0,
+          "total": 2900.0
+        },
+        {
+          "name": "(37-ER-Miniso)",
+          "qty": 1.0,
+          "total": 1950.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 9.0,
+          "total": 1800.0
+        },
+        {
+          "name": "Default Product (POS)",
+          "qty": 9.0,
+          "total": 1755.0
+        },
+        {
+          "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1180.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 5.0,
+          "total": 800.0
+        },
+        {
+          "name": "[01645] Electric Kettle 1.8L Hoffmas#HM-2512",
+          "qty": 1.0,
+          "total": 735.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 50.0,
+          "total": 500.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 2.0,
+          "total": 120.0
+        },
+        {
+          "name": "[70215] Gas Pipe ( Yellow )",
+          "qty": 6.0,
+          "total": 90.0
+        },
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 1.0,
+          "total": 50.0
+        },
+        {
+          "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[01679] Table Mat Pvc 30x45cm #1",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[65180] Aluminium Platter",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[8389H] Aluminium Container 8389 HSM8389",
+          "qty": 2.0,
+          "total": 6.0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 34219.0,
+        "count": 18
+      },
+      "regularSales": {
+        "total": 30333.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 440.0,
+        "count": 3
+      },
+      "cash": {
+        "total": 3886.0,
+        "count": 9
+      },
+      "transfer": {
+        "total": 60666.0,
+        "count": 10
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 5.0,
+          "total": 8200.0
+        },
+        {
+          "name": "[83241P] Aluminium Foil Box 83241 SQ230 + Plastic Lid [case]",
+          "qty": 2.0,
+          "total": 5300.0
+        },
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 3.0,
+          "total": 3750.0
+        },
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 2.0,
+          "total": 3600.0
+        },
+        {
+          "name": "[10002] Tahina Jawharat Taiba Premium Sesame Tahina",
+          "qty": 1.0,
+          "total": 3600.0
+        },
+        {
+          "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
+          "qty": 2.0,
+          "total": 2360.0
+        },
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 2.0,
+          "total": 1520.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 7.0,
+          "total": 1400.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 4.0,
+          "total": 800.0
+        },
+        {
+          "name": "[90052] Milkshake Powder Mocha",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[02109] Milkshake Powder Brown Sugar Milk Tea",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 10.0,
+          "total": 350.0
+        },
+        {
+          "name": "[70085] Towel 166-940 bath 70*140cm",
+          "qty": 2.0,
+          "total": 290.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[01954] Ironing Board Small",
+          "qty": 1.0,
+          "total": 195.0
+        },
+        {
+          "name": "[70025] Deck Brush T-5908",
+          "qty": 1.0,
+          "total": 65.0
+        },
+        {
+          "name": "[01871] Duster#43",
+          "qty": 2.0,
+          "total": 58.0
+        },
+        {
+          "name": "[70059] Dust Pan Dm-044",
+          "qty": 1.0,
+          "total": 50.0
+        },
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 1.0,
+          "total": 50.0
+        },
+        {
+          "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
+          "qty": 2.0,
+          "total": 40.0
+        },
+        {
+          "name": "[02393] Dustbin Bag",
+          "qty": 1.0,
+          "total": 40.0
+        },
+        {
+          "name": "[70066] Sponges 3pcs*200pcs#24",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[8325] Aluminium Container 8325 loose",
+          "qty": 4.0,
+          "total": 8.0
+        },
+        {
+          "name": "[0012] Sponge WJ631 Loose PC",
+          "qty": 1.0,
+          "total": 3.0
+        },
+        {
+          "name": "[01641] Aroma Diffuser 12w 200ml 092:17 #4",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[8368] Aluminium Foil Box 8368 Loose",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "non items",
+          "qty": 0.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 13638.0,
+        "count": 17
+      },
+      "regularSales": {
+        "total": 13079.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 0.0,
+        "count": 1
+      },
+      "cash": {
+        "total": 559.0,
+        "count": 3
+      },
+      "transfer": {
+        "total": 26158.0,
+        "count": 15
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        },
+        {
+          "name": "[09886] Hanging Chair",
+          "qty": 1.0,
+          "total": 2800.0
+        },
+        {
+          "name": "[3043] Mix-Lah Barista Vanilla",
+          "qty": 2.0,
+          "total": 2700.0
+        },
+        {
+          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+          "qty": 1.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[R12C] Plastic Container A12 [case]",
+          "qty": 1.0,
+          "total": 1160.0
+        },
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 200.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[02360] Tea Cup 90ml",
+          "qty": 24.0,
+          "total": 600.0
+        },
+        {
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 1.0,
+          "total": 600.0
+        },
+        {
+          "name": "Top kokoa Hokkaido white chocolate 1kg",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[01697] Handheld Peeler 1129#15",
+          "qty": 4.0,
+          "total": 236.0
+        },
+        {
+          "name": "[6957090021382] Ceramic plate white 9",
+          "qty": 6.0,
+          "total": 210.0
+        },
+        {
+          "name": "[04521] 7 Inch Bassage Plate 50 Pcs",
+          "qty": 2.0,
+          "total": 200.0
+        },
+        {
+          "name": "[25084] Spoon Small Flatware Ss#7 Green",
+          "qty": 6.0,
+          "total": 192.0
+        },
+        {
+          "name": "[70033] Pot Cleaner Brush Steel Wool Plastic 6 in # 1222",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[01798] Hair comb Plastic#M86",
+          "qty": 6.0,
+          "total": 174.0
+        },
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 3.0,
+          "total": 150.0
+        },
+        {
+          "name": "[02063] Whisk Big",
+          "qty": 1.0,
+          "total": 130.0
+        },
+        {
+          "name": "[70128] Mop Bucket Plastic 505 #1",
+          "qty": 1.0,
+          "total": 109.0
+        },
+        {
+          "name": "[01693] Multi-Purpose Vegetable Cutter Ss#10",
+          "qty": 1.0,
+          "total": 95.0
+        },
+        {
+          "name": "[70024] Mop Wooden#19",
+          "qty": 1.0,
+          "total": 79.0
+        },
+        {
+          "name": "[70025] Deck Brush T-5908",
+          "qty": 1.0,
+          "total": 65.0
+        },
+        {
+          "name": "[6934255660013] Sponge Nogot 10 pcs#26",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[02230] Wooden Spoon 100pcs",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 2.0,
+          "total": 40.0
+        },
+        {
+          "name": "[01011] Paper straw 12 mm 50 pcs",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[70068] Sponges 5pcs#27",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 1.0,
+          "total": 12.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 2.0,
+          "total": 6.0
+        },
+        {
+          "name": "[28603] Instant Pearl Jelly (Plastic) 1Kg",
+          "qty": 0.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 35039.0,
+        "count": 17
+      },
+      "regularSales": {
+        "total": 23131.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 0.0,
+        "count": 1
+      },
+      "cash": {
+        "total": 11908.0,
+        "count": 6
+      },
+      "transfer": {
+        "total": 46262.0,
+        "count": 12
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "RD60 SS W",
+          "qty": 4.0,
+          "total": 11900.0
+        },
+        {
+          "name": "37 Miniso Black Double Side (37-Miniso-DS)",
+          "qty": 2.0,
+          "total": 8590.0
+        },
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 2.0,
+          "total": 3600.0
+        },
+        {
+          "name": "(37-ER-Miniso)",
+          "qty": 1.0,
+          "total": 1950.0
+        },
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 2.0,
+          "total": 1580.0
+        },
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 6.0,
+          "total": 960.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 4.0,
+          "total": 800.0
+        },
+        {
+          "name": "[01697] Handheld Peeler 1129#15",
+          "qty": 10.0,
+          "total": 590.0
+        },
+        {
+          "name": "[79687] Hook Slat with 7 Pegs",
+          "qty": 10.0,
+          "total": 400.0
+        },
+        {
+          "name": "[70085] Towel 166-940 bath 70*140cm",
+          "qty": -2.0,
+          "total": 290.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        },
+        {
+          "name": "[11435] Milkshake Powder Yam Taro",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[01011] Paper straw 12 mm 50 pcs",
+          "qty": 3.0,
+          "total": 195.0
+        },
+        {
+          "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[02232] Ice Cream Spoon 100pcs",
+          "qty": 4.0,
+          "total": 156.0
+        },
+        {
+          "name": "[70086] Bath towel",
+          "qty": 1.0,
+          "total": 129.0
+        },
+        {
+          "name": "[09884] Wooden Hanger 5pcs",
+          "qty": 6.0,
+          "total": 120.0
+        },
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 1.0,
+          "total": 60.0
+        },
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 10.0,
+          "total": 50.0
+        },
+        {
+          "name": "Kraft burger box 1pcs",
+          "qty": 20.0,
+          "total": 40.0
+        },
+        {
+          "name": "[BC96B] Bagasse Clamshell 9\"X6\" Loose",
+          "qty": 3.0,
+          "total": 9.0
+        },
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[70084] Towel 166-440 bath 70*140cm",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[01679] Table Mat Pvc 30x45cm #1",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[01682] Table Mat Pvc 30x45cm #5",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[01680] Table Mat Pvc 30x45cm #3",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[01683] Table Mat Pvc 30x45cm #6",
+          "qty": 0.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 40930.0,
+        "count": 19
+      },
+      "regularSales": {
+        "total": 39845.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 0.0,
+        "count": 2
+      },
+      "cash": {
+        "total": 1085.0,
+        "count": 9
+      },
+      "transfer": {
+        "total": 79690.0,
+        "count": 11
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "2C Double Side Black 6ft X2set",
+          "qty": 2.0,
+          "total": 10000.0
+        },
+        {
+          "name": "2C Double Side Black 6ft X3set",
+          "qty": 1.0,
+          "total": 7350.0
+        },
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 3.0,
+          "total": 5940.0
+        },
+        {
+          "name": "2C Single Side Black 6.5ft X1set",
+          "qty": 2.0,
+          "total": 3300.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 4.0,
+          "total": 3160.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 8.0,
+          "total": 1600.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 6.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[90049] Milkshake Powder Caramel Coffee",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[90038] Milkshake Powder Hazelnut Coffee",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 20.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 60.0,
+          "total": 720.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 50.0,
+          "total": 500.0
+        },
+        {
+          "name": "[02230] Wooden Spoon 100pcs",
+          "qty": 10.0,
+          "total": 450.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
+        },
+        {
+          "name": "[26038] A2 IRONING BOARD",
+          "qty": 1.0,
+          "total": 195.0
+        },
+        {
+          "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
+          "qty": 1.0,
+          "total": 110.0
+        },
+        {
+          "name": "[03338] Paper Cup 4oz (Bundle)",
+          "qty": 3.0,
+          "total": 45.0
+        },
+        {
+          "name": "[83241] Aluminium Foil Box 83241 Loose",
+          "qty": 5.0,
+          "total": 25.0
+        },
+        {
+          "name": "[02036] PLASTIC STRAINER BLUE",
+          "qty": 1.0,
+          "total": 12.0
+        },
+        {
+          "name": "[0012] Sponge WJ631 Loose PC",
+          "qty": 1.0,
+          "total": 3.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 28266.0,
+        "count": 20
+      },
+      "regularSales": {
+        "total": 25282.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 57000.0,
+        "count": 1
+      },
+      "cash": {
+        "total": 2984.0,
+        "count": 8
+      },
+      "transfer": {
+        "total": 50564.0,
+        "count": 13
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 600.0,
+          "total": 5502.0
+        },
+        {
+          "name": "2C DS W 2set",
+          "qty": 1.0,
+          "total": 5000.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X02] #RD8 Gray Single Perforated 1950mm x2",
+          "qty": 1.0,
+          "total": 4400.0
+        },
+        {
+          "name": "2C Single Side White 6.5ft X2set",
+          "qty": 1.0,
+          "total": 3100.0
+        },
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 1.0,
+          "total": 1980.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 2.0,
+          "total": 1600.0
+        },
+        {
+          "name": "[70170] Office Rack Small",
+          "qty": 1.0,
+          "total": 1500.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 50.0,
+          "total": 700.0
+        },
+        {
+          "name": "2C Clip",
+          "qty": 8.0,
+          "total": 580.0
+        },
+        {
+          "name": "2C Shelf",
+          "qty": 4.0,
+          "total": 580.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "Dish Drying Rack SS 50x21x82cm #R3F-53cm 3tier",
+          "qty": 1.0,
+          "total": 420.0
+        },
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[70215] Gas Pipe ( Yellow )",
+          "qty": 20.0,
+          "total": 300.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[01621] Ceramic Plate 9\"#10",
+          "qty": 4.0,
+          "total": 140.0
+        },
+        {
+          "name": "[01666] Flat Roti Pan 28cm#8",
+          "qty": 1.0,
+          "total": 120.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 20.0,
+          "total": 60.0
+        },
+        {
+          "name": "[83768] Plastic Basket Round 5#905",
+          "qty": 2.0,
+          "total": 50.0
+        },
+        {
+          "name": "[02232] Ice Cream Spoon 100pcs",
+          "qty": 1.0,
+          "total": 39.0
+        },
+        {
+          "name": "[70042] Paper Folded Dinner Napkin",
+          "qty": 1.0,
+          "total": 26.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[01700] Strainer Steel 7cm YM-055#18",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[70060] Brush Toilet with Handle Plastic#38",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[01864] Toilet Brush Plastic Code:208 #35",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[70033] Pot Cleaner Brush Steel Wool Plastic 6 in # 1222",
+          "qty": 0.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 2992.0,
+        "count": 10
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 618.0,
+        "count": 6
+      },
+      "transfer": {
+        "total": 2374.0,
+        "count": 4
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+          "qty": 1.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[70147] Hook Mesh 10\"",
+          "qty": 50.0,
+          "total": 700.0
+        },
+        {
+          "name": "[01896] Led Flashlight 5V 16.5*4.1*2.8cm#716",
+          "qty": 2.0,
+          "total": 278.0
+        },
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70148] Hook Mesh 6\"",
+          "qty": 20.0,
+          "total": 200.0
+        },
+        {
+          "name": "[BC96B] Bagasse Clamshell 9\"X6\" Loose",
+          "qty": 30.0,
+          "total": 90.0
+        },
+        {
+          "name": "[01933] Melamine Bowl Wavy 7.5\"",
+          "qty": 2.0,
+          "total": 78.0
+        },
+        {
+          "name": "[70025] Deck Brush T-5908",
+          "qty": 1.0,
+          "total": 65.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 2.0,
+          "total": 40.0
+        },
+        {
+          "name": "[70009] Seasoing Box Two Grid 0206",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[2268] Tooth Pick",
+          "qty": 2.0,
+          "total": 20.0
+        },
+        {
+          "name": "[01700] Strainer Steel 7cm YM-055#18",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 1.0,
+          "total": 12.0
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "generatedAt": "2026-09-16T10:38:34Z",
+      "pos": {
+        "total": 40826.0,
+        "count": 21
+      },
+      "regularSales": {
+        "total": 39184.0,
+        "count": 1
+      },
+      "pendingQuotations": {
+        "total": 24300.0,
+        "count": 2
+      },
+      "cash": {
+        "total": 4016.0,
+        "count": 6
+      },
+      "transfer": {
+        "total": 75994.0,
+        "count": 16
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "products": [
+        {
+          "name": "[RACK33L] 33 Warehouse Rack Gray 2000X600X2000MM",
+          "qty": 2.0,
+          "total": 7900.0
+        },
+        {
+          "name": "[70196] Cash Counter 6ftx2ft",
+          "qty": 1.0,
+          "total": 7035.0
+        },
+        {
+          "name": "2C Single Side White 6.5ft X1set",
+          "qty": 3.0,
+          "total": 4950.0
+        },
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 2.0,
+          "total": 3280.0
+        },
+        {
+          "name": "[01011] Paper straw 12 mm 50 pcs",
+          "qty": 80.0,
+          "total": 2800.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 2.0,
+          "total": 1800.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 80.0,
+          "total": 1760.0
+        },
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 2.0,
+          "total": 1520.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 100.0,
+          "total": 1400.0
+        },
+        {
+          "name": "[02532] Printer roll",
+          "qty": 100.0,
+          "total": 1360.0
+        },
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 1.0,
+          "total": 1250.0
+        },
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 20.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[70104] Paper Straw 6 mm White Bundle",
+          "qty": 50.0,
+          "total": 1000.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 2.0,
+          "total": 975.0
+        },
+        {
+          "name": "[90043] Milkshake Powder Butterscotch",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "Kimono Bubble Black Pearl",
+          "qty": 3.0,
+          "total": 450.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 5.0,
+          "total": 300.0
+        },
+        {
+          "name": "Dish Drying Rack Ss 50x21x82cm #R2F-53cm 2 tier",
+          "qty": 1.0,
+          "total": 280.0
+        },
+        {
+          "name": "Non Items",
+          "qty": 10.0,
+          "total": 150.0
+        },
+        {
+          "name": "[0100T] Paper salad bowl 1000 ML",
+          "qty": 1.0,
+          "total": 150.0
+        },
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 12.0,
+          "total": 108.0
+        },
+        {
+          "name": "[70046] kids slipper green",
+          "qty": 1.0,
+          "total": 89.0
+        },
+        {
+          "name": "[02422] KRAFT PAPER BAG 16*7*32CM 50PCS",
+          "qty": 1.0,
+          "total": 85.0
+        },
+        {
+          "name": "[02328] Boyz Rule",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[01907] Toilet Brush Plastic #36",
+          "qty": 2.0,
+          "total": 30.0
+        },
+        {
+          "name": "[03338] Paper Cup 4oz (Bundle)",
+          "qty": 2.0,
+          "total": 30.0
+        },
+        {
+          "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[70019] PLASTIC BASKET ROUND 3# 903",
+          "qty": 1.0,
+          "total": 14.0
+        },
+        {
+          "name": "[02036] PLASTIC STRAINER BLUE",
+          "qty": 1.0,
+          "total": 12.0
+        },
+        {
+          "name": "[70067] Sponges 2pcs YQE19",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[70083] Towel",
+          "qty": 1.0,
+          "total": 8.0
+        }
+      ]
+    },
+    {
       "date": "2026-09-06",
-      "generatedAt": "2026-09-13T09:44:39Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 15571.0,
         "count": 15
       },
       "regularSales": {
-        "total": 8450.0,
-        "count": 2
+        "total": 15067.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 103120.0,
         "count": 3
       },
+      "cash": {
+        "total": 504.0,
+        "count": 4
+      },
+      "transfer": {
+        "total": 30134.0,
+        "count": 12
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
       "products": [
-        {
-          "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
-          "qty": 1.0,
-          "total": 6450.0
-        },
         {
           "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
           "qty": 1.0,
@@ -49,7 +2687,7 @@
           "total": 1000.0
         },
         {
-          "name": "[8325C] Aluminium Foil Box [case]",
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
           "qty": 1.0,
           "total": 760.0
         },
@@ -57,26 +2695,6 @@
           "name": "Tea Powder AI-Kabous 454g",
           "qty": 2.0,
           "total": 520.0
-        },
-        {
-          "name": "[90041] Milkshake Powder Red Velvet",
-          "qty": 2.0,
-          "total": 400.0
-        },
-        {
-          "name": "[90042] Milkshake Powder Avocado",
-          "qty": 2.0,
-          "total": 400.0
-        },
-        {
-          "name": "[90036] Milkshake Powder Chocolate",
-          "qty": 2.0,
-          "total": 400.0
-        },
-        {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-          "qty": 2.0,
-          "total": 400.0
         },
         {
           "name": "[01010] paper straw 8mm 50 pcs",
@@ -99,17 +2717,7 @@
           "total": 250.0
         },
         {
-          "name": "[21283] Milkshake Powder White Coffee",
-          "qty": 1.0,
-          "total": 200.0
-        },
-        {
-          "name": "[60033] Milkshake Powder Cappuccino",
-          "qty": 1.0,
-          "total": 200.0
-        },
-        {
-          "name": "[90047] Milkshake Powder Tiramisu",
+          "name": "[90041] Milkshake Powder Red Velvet",
           "qty": 1.0,
           "total": 200.0
         },
@@ -154,24 +2762,19 @@
           "total": 70.0
         },
         {
-          "name": "[02393] Dustbin Bag",
-          "qty": 1.0,
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 2.0,
           "total": 40.0
         },
         {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 2.0,
+          "name": "[02393] Dustbin Bag",
+          "qty": 1.0,
           "total": 40.0
         },
         {
           "name": "Falcon Aluminum Container 8342 10pcs",
           "qty": 2.0,
           "total": 30.0
-        },
-        {
-          "name": "[8389] Aluminium Foil Box 8389 Loose",
-          "qty": 5.0,
-          "total": 15.0
         },
         {
           "name": "[01911] Spray Bottle A34",
@@ -184,6 +2787,11 @@
           "total": 15.0
         },
         {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 5.0,
+          "total": 15.0
+        },
+        {
           "name": "[70076] Towel 042-0980 30*30cm",
           "qty": 1.0,
           "total": 9.0
@@ -192,18 +2800,30 @@
     },
     {
       "date": "2026-09-07",
-      "generatedAt": "2026-09-13T09:44:40Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 28511.0,
         "count": 17
       },
       "regularSales": {
-        "total": 27917.0,
-        "count": 5
+        "total": 0,
+        "count": 0
       },
       "pendingQuotations": {
         "total": 25537.0,
         "count": 7
+      },
+      "cash": {
+        "total": 2226.0,
+        "count": 8
+      },
+      "transfer": {
+        "total": 26285.0,
+        "count": 9
+      },
+      "other": {
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -213,43 +2833,13 @@
         },
         {
           "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 4.0,
-          "total": 11400.0
-        },
-        {
-          "name": "[RD8-GRY-SSP-1950-X03] #RD8 Gray Single Perforated 1950mm x3",
           "qty": 1.0,
-          "total": 6450.0
-        },
-        {
-          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-          "qty": 3.0,
-          "total": 2370.0
-        },
-        {
-          "name": "Paper Plate 9'' 100pcs Bundle",
-          "qty": 24.0,
-          "total": 1800.0
+          "total": 2850.0
         },
         {
           "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
           "qty": 1.0,
           "total": 1640.0
-        },
-        {
-          "name": "[02231] Wooden Fork 100pcs",
-          "qty": 36.0,
-          "total": 1620.0
-        },
-        {
-          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
-          "qty": 6.0,
-          "total": 1500.0
-        },
-        {
-          "name": "[01873] Duster cloth Microfiber",
-          "qty": 36.0,
-          "total": 1404.0
         },
         {
           "name": "[70110] paper plates 9 inch 100pcs",
@@ -267,63 +2857,13 @@
           "total": 900.0
         },
         {
-          "name": "[70066] Sponges 3pcs*200pcs#24",
-          "qty": 36.0,
-          "total": 900.0
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
         },
         {
-          "name": "[02440] Milkshake Powder Pistachio",
-          "qty": 4.0,
-          "total": 800.0
-        },
-        {
-          "name": "[90042] Milkshake Powder Avocado",
-          "qty": 4.0,
-          "total": 800.0
-        },
-        {
-          "name": "[90037] Milkshake Powder Blueberry",
-          "qty": 4.0,
-          "total": 800.0
-        },
-        {
-          "name": "[70072] Sponge 4pcs #28 D-21",
-          "qty": 38.0,
-          "total": 798.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 38.0,
-          "total": 760.0
-        },
-        {
-          "name": "[6955105504080] Brush Silicone Scrubber#91264",
-          "qty": 36.0,
-          "total": 720.0
-        },
-        {
-          "name": "[70071] Sponge 5pcs X 6pkts #23",
-          "qty": 36.0,
-          "total": 684.0
-        },
-        {
-          "name": "[70078] Sponge 240pcs#32",
-          "qty": 36.0,
-          "total": 684.0
-        },
-        {
-          "name": "[70065] Sponges 5pcs YQE07",
-          "qty": 36.0,
-          "total": 648.0
-        },
-        {
-          "name": "[02230] Wooden Spoon 100pcs",
-          "qty": 13.0,
-          "total": 585.0
-        },
-        {
-          "name": "[70028] Gloves Cleaning Microfiber #44",
-          "qty": 36.0,
+          "name": "[02231] Wooden Fork 100pcs",
+          "qty": 12.0,
           "total": 540.0
         },
         {
@@ -332,9 +2872,9 @@
           "total": 500.0
         },
         {
-          "name": "[02254] Steel Wool 2pcs",
-          "qty": 36.0,
-          "total": 432.0
+          "name": "[01873] Duster cloth Microfiber",
+          "qty": 12.0,
+          "total": 468.0
         },
         {
           "name": "[70140] Hook Net 10\"",
@@ -342,12 +2882,22 @@
           "total": 406.0
         },
         {
-          "name": "[02428] Bambll Stick 100pcs",
-          "qty": 27.0,
-          "total": 405.0
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 2.0,
+          "total": 400.0
         },
         {
-          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[02440] Milkshake Powder Pistachio",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90037] Milkshake Powder Blueberry",
           "qty": 2.0,
           "total": 400.0
         },
@@ -355,6 +2905,36 @@
           "name": "Green's Carmelle [bundle]",
           "qty": 2.0,
           "total": 360.0
+        },
+        {
+          "name": "[70066] Sponges 3pcs*200pcs#24",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[70072] Sponge 4pcs #28 D-21",
+          "qty": 14.0,
+          "total": 294.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 14.0,
+          "total": 280.0
+        },
+        {
+          "name": "[6955105504080] Brush Silicone Scrubber#91264",
+          "qty": 12.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 12.0,
+          "total": 228.0
+        },
+        {
+          "name": "[70078] Sponge 240pcs#32",
+          "qty": 12.0,
+          "total": 228.0
         },
         {
           "name": "[90036] Milkshake Powder Chocolate",
@@ -370,6 +2950,11 @@
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 1.0,
           "total": 220.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 12.0,
+          "total": 216.0
         },
         {
           "name": "[56296] Milkshake Powder Cookies & Cream",
@@ -397,9 +2982,29 @@
           "total": 192.0
         },
         {
+          "name": "[70028] Gloves Cleaning Microfiber #44",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[02428] Bambll Stick 100pcs",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 12.0,
+          "total": 144.0
+        },
+        {
           "name": "[70051] Slipper#058",
           "qty": 1.0,
           "total": 79.0
+        },
+        {
+          "name": "[02230] Wooden Spoon 100pcs",
+          "qty": 1.0,
+          "total": 45.0
         },
         {
           "name": "[70056] Basin 1041",
@@ -417,47 +3022,49 @@
           "total": 20.0
         },
         {
-          "name": "[01700] Strainer Steel 7cm YM-055#18",
-          "qty": 1.0,
-          "total": 19.0
-        },
-        {
           "name": "[70075] Towel 042-0983 35*75cm",
           "qty": 1.0,
           "total": 19.0
         },
         {
-          "name": "[RD8-GRY-DSP-1550-X03] #RD8 Gray Double Side Perforated 1550mm x3",
+          "name": "[01700] Strainer Steel 7cm YM-055#18",
           "qty": 1.0,
-          "total": 0.0
+          "total": 19.0
         }
       ]
     },
     {
       "date": "2026-09-08",
-      "generatedAt": "2026-09-13T09:44:40Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 59304.0,
         "count": 9
       },
       "regularSales": {
-        "total": 11830.0,
+        "total": 85529.0,
         "count": 2
       },
       "pendingQuotations": {
         "total": 149335.0,
         "count": 8
       },
+      "cash": {
+        "total": 60.0,
+        "count": 1
+      },
+      "transfer": {
+        "total": 144773.0,
+        "count": 10
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
       "products": [
         {
           "name": "2C Double Side White 6ft X3set",
           "qty": 2.0,
           "total": 14700.0
-        },
-        {
-          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-          "qty": 17.0,
-          "total": 13430.0
         },
         {
           "name": "2C Double Side White 6ft X2set",
@@ -480,14 +3087,14 @@
           "total": 5800.0
         },
         {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 5.0,
+          "total": 3950.0
+        },
+        {
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 1.0,
           "total": 2850.0
-        },
-        {
-          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
-          "qty": 1.0,
-          "total": 2350.0
         },
         {
           "name": "[70175] 51 Warehouse Rack White Medium",
@@ -573,7 +3180,7 @@
     },
     {
       "date": "2026-09-09",
-      "generatedAt": "2026-09-13T09:44:41Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 18264.0,
         "count": 21
@@ -583,8 +3190,20 @@
         "count": 0
       },
       "pendingQuotations": {
-        "total": 2600.0,
-        "count": 1
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 2260.0,
+        "count": 14
+      },
+      "transfer": {
+        "total": 16004.0,
+        "count": 7
+      },
+      "other": {
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -673,12 +3292,12 @@
           "total": 19.0
         },
         {
-          "name": "[03338] Paper Cup 4oz (Bundle)",
+          "name": "[01928] Ceramic Mug#48-1",
           "qty": 1.0,
           "total": 15.0
         },
         {
-          "name": "[01928] Ceramic Mug#48-1",
+          "name": "[03338] Paper Cup 4oz (Bundle)",
           "qty": 1.0,
           "total": 15.0
         },
@@ -686,16 +3305,6 @@
           "name": "[70018] PLASTIC BASKET ROUND 2# 902",
           "qty": 1.0,
           "total": 12.0
-        },
-        {
-          "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
-          "qty": 2.0,
-          "total": 10.0
-        },
-        {
-          "name": "[X0001] Damaged Aluminum Foil Container",
-          "qty": 1.0,
-          "total": 10.0
         },
         {
           "name": "Hotpack Toothpick",
@@ -708,6 +3317,16 @@
           "total": 10.0
         },
         {
+          "name": "[X0001] Damaged Aluminum Foil Container",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
+          "qty": 2.0,
+          "total": 10.0
+        },
+        {
           "name": "[8389] Aluminium Foil Box 8389 Loose",
           "qty": 2.0,
           "total": 6.0
@@ -716,18 +3335,30 @@
     },
     {
       "date": "2026-09-10",
-      "generatedAt": "2026-09-13T09:44:42Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 41387.0,
         "count": 17
       },
       "regularSales": {
-        "total": 219.0,
-        "count": 3
+        "total": 57112.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 5640.0,
+        "total": 4448.0,
         "count": 3
+      },
+      "cash": {
+        "total": 279.0,
+        "count": 8
+      },
+      "transfer": {
+        "total": 98220.0,
+        "count": 11
+      },
+      "other": {
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -786,11 +3417,6 @@
           "total": 220.0
         },
         {
-          "name": "[00001] Clothes Women",
-          "qty": 2.0,
-          "total": 200.0
-        },
-        {
           "name": "[70074] Towel 042-02 30*40cm",
           "qty": 11.0,
           "total": 165.0
@@ -846,17 +3472,12 @@
           "total": 20.0
         },
         {
-          "name": "[70071] Sponge 5pcs X 6pkts #23",
-          "qty": 1.0,
-          "total": 19.0
-        },
-        {
           "name": "[01680] Table Mat Pvc 30x45cm #3",
           "qty": 1.0,
           "total": 19.0
         },
         {
-          "name": "[70078] Sponge 240pcs#32",
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
           "qty": 1.0,
           "total": 19.0
         },
@@ -879,25 +3500,32 @@
     },
     {
       "date": "2026-09-11",
-      "generatedAt": "2026-09-13T09:44:43Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 778.0,
         "count": 8
       },
       "regularSales": {
-        "total": 675.0,
+        "total": 200.0,
         "count": 1
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
+      "cash": {
+        "total": 578.0,
+        "count": 7
+      },
+      "transfer": {
+        "total": 400.0,
+        "count": 2
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
       "products": [
-        {
-          "name": "[01681] Table Mat Pvc 30x45cm #4",
-          "qty": 25.0,
-          "total": 475.0
-        },
         {
           "name": "[70020] SHOPPING BASKET GRAY 612 S3",
           "qty": 2.0,
@@ -906,11 +3534,6 @@
         {
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 1.0,
-          "total": 200.0
-        },
-        {
-          "name": "[02070] Flower Pot 33x31cm E360x320",
-          "qty": 10.0,
           "total": 200.0
         },
         {
@@ -929,7 +3552,7 @@
           "total": 29.0
         },
         {
-          "name": "[83421] Aluminium Foil Box 83241 Loose",
+          "name": "[83241] Aluminium Foil Box 83241 Loose",
           "qty": 8.0,
           "total": 24.0
         },
@@ -957,18 +3580,30 @@
     },
     {
       "date": "2026-09-12",
-      "generatedAt": "2026-09-13T09:44:43Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 26380.0,
         "count": 14
       },
       "regularSales": {
-        "total": 1900.0,
-        "count": 1
+        "total": 25886.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 62926.0,
-        "count": 3
+        "total": 62676.0,
+        "count": 2
+      },
+      "cash": {
+        "total": 2394.0,
+        "count": 4
+      },
+      "transfer": {
+        "total": 49872.0,
+        "count": 12
+      },
+      "other": {
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -1057,7 +3692,7 @@
           "total": 105.0
         },
         {
-          "name": "[83421] Aluminium Foil Box 83241 Loose",
+          "name": "[83241] Aluminium Foil Box 83241 Loose",
           "qty": 10.0,
           "total": 50.0
         },
@@ -1100,18 +3735,30 @@
     },
     {
       "date": "2026-09-13",
-      "generatedAt": "2026-09-13T18:45:35Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 1848.0,
         "count": 13
       },
       "regularSales": {
-        "total": 17731.0,
-        "count": 7
+        "total": 17922.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 8830.0,
-        "count": 2
+        "total": 3000.0,
+        "count": 1
+      },
+      "cash": {
+        "total": 1657.0,
+        "count": 10
+      },
+      "transfer": {
+        "total": 18113.0,
+        "count": 11
+      },
+      "other": {
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -1145,12 +3792,12 @@
           "total": 550.0
         },
         {
-          "name": "[90042] Milkshake Powder Avocado",
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
           "qty": 2.0,
           "total": 400.0
         },
         {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "name": "[90042] Milkshake Powder Avocado",
           "qty": 2.0,
           "total": 400.0
         },
@@ -1185,11 +3832,6 @@
           "total": 250.0
         },
         {
-          "name": "[01010] paper straw 8mm 50 pcs",
-          "qty": 10.0,
-          "total": 220.0
-        },
-        {
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 1.0,
           "total": 220.0
@@ -1197,6 +3839,11 @@
         {
           "name": "[02154] Milkshake Powder Mango",
           "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 10.0,
           "total": 220.0
         },
         {
@@ -1245,12 +3892,12 @@
           "total": 27.0
         },
         {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
           "qty": 1.0,
           "total": 20.0
         },
         {
-          "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
+          "name": "[02228] Paper Cup 6oz (Bundle)",
           "qty": 1.0,
           "total": 20.0
         },
@@ -1288,18 +3935,30 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-14T18:45:36Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 478.0,
         "count": 5
       },
       "regularSales": {
-        "total": 14110.0,
-        "count": 5
+        "total": 14139.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 1035.0,
-        "count": 1
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 10809.0,
+        "count": 8
+      },
+      "transfer": {
+        "total": 3808.0,
+        "count": 3
+      },
+      "other": {
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -1371,18 +4030,30 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-15T18:45:38Z",
+      "generatedAt": "2026-09-16T10:38:34Z",
       "pos": {
         "total": 1364.0,
         "count": 12
       },
       "regularSales": {
-        "total": 6331.0,
+        "total": 6812.0,
         "count": 7
       },
       "pendingQuotations": {
-        "total": 53570.0,
-        "count": 5
+        "total": 52370.0,
+        "count": 4
+      },
+      "cash": {
+        "total": 1243.0,
+        "count": 10
+      },
+      "transfer": {
+        "total": 6933.0,
+        "count": 9
+      },
+      "other": {
+        "total": 0,
+        "count": 0
       },
       "products": [
         {
@@ -1491,6 +4162,11 @@
           "total": 55.0
         },
         {
+          "name": "[01836] Broom Wooden#7",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
           "name": "[02230] Wooden Spoon 100pcs",
           "qty": 1.0,
           "total": 45.0
@@ -1501,18 +4177,13 @@
           "total": 45.0
         },
         {
-          "name": "[01836] Broom Wooden#7",
+          "name": "[01797] Toilet Brush Plastic #328-10048-1",
           "qty": 1.0,
-          "total": 45.0
+          "total": 39.0
         },
         {
           "name": "[8389] Aluminium Foil Box 8389 Loose",
           "qty": 13.0,
-          "total": 39.0
-        },
-        {
-          "name": "[01797] Toilet Brush Plastic #328-10048-1",
-          "qty": 1.0,
           "total": 39.0
         },
         {
@@ -1526,23 +4197,23 @@
           "total": 25.0
         },
         {
-          "name": "[8368] Aluminium Foil Box 8368 Loose",
-          "qty": 10.0,
-          "total": 20.0
-        },
-        {
           "name": "[02228] Paper Cup 6oz (Bundle)",
           "qty": 1.0,
           "total": 20.0
         },
         {
-          "name": "[70076] Towel 042-0980 30*30cm",
-          "qty": 2.0,
-          "total": 18.0
+          "name": "[8368] Aluminium Foil Box 8368 Loose",
+          "qty": 10.0,
+          "total": 20.0
         },
         {
           "name": "[70065] Sponges 5pcs YQE07",
           "qty": 1.0,
+          "total": 18.0
+        },
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 2.0,
           "total": 18.0
         },
         {
@@ -1559,16 +4230,6 @@
           "name": "[70018] PLASTIC BASKET ROUND 2# 902",
           "qty": 1.0,
           "total": 12.0
-        },
-        {
-          "name": "[70182] Gas Burner ( High Pressure )",
-          "qty": 5.0,
-          "total": 0.0
-        },
-        {
-          "name": "Gas Burner Table",
-          "qty": 5.0,
-          "total": 0.0
         }
       ]
     },
