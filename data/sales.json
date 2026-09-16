@@ -4225,10 +4225,10 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T15:01:05Z",
+      "generatedAt": "2026-09-16T15:15:37Z",
       "pos": {
-        "total": 215.0,
-        "count": 4
+        "total": 495.0,
+        "count": 5
       },
       "regularSales": {
         "total": 8130.0,
@@ -4243,8 +4243,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 8207.0,
-        "count": 4
+        "total": 8487.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -4267,6 +4267,16 @@
           "total": 1200.0
         },
         {
+          "name": "[0100T] Paper salad bowl 1000 ML",
+          "qty": 1.0,
+          "total": 150.0
+        },
+        {
+          "name": "[02422] KRAFT PAPER BAG 16*7*32CM 50PCS",
+          "qty": 1.0,
+          "total": 85.0
+        },
+        {
           "name": "[70040] Ignitor Battery Operated",
           "qty": 1.0,
           "total": 59.0
@@ -4275,6 +4285,11 @@
           "name": "[X0001] Damaged Aluminum Foil Container",
           "qty": 10.0,
           "total": 50.0
+        },
+        {
+          "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
+          "qty": 1.0,
+          "total": 45.0
         },
         {
           "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",

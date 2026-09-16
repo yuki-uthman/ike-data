@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T15:01:19Z",
+  "generatedAt": "2026-09-16T15:15:45Z",
   "cash": {
     "total": 138.0,
     "count": 3
   },
   "transfer": {
-    "total": 8207.0,
-    "count": 4
+    "total": 8487.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -61,6 +61,32 @@
           "name": "[BC8C] Bagasse Clamshell 8\" [case]",
           "qty": 2.0,
           "total": 1200.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000154",
+      "customer": "Walk-in",
+      "amount": 280.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "12:09",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[0100T] Paper salad bowl 1000 ML",
+          "qty": 1.0,
+          "total": 150.0
+        },
+        {
+          "name": "[02422] KRAFT PAPER BAG 16*7*32CM 50PCS",
+          "qty": 1.0,
+          "total": 85.0
+        },
+        {
+          "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
+          "qty": 1.0,
+          "total": 45.0
         }
       ]
     },
@@ -147,16 +173,16 @@
       "total": 8130.0
     },
     {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 2,
+      "total": 357.0
+    },
+    {
       "name": "Cash",
       "method": "cash",
       "count": 3,
       "total": 138.0
-    },
-    {
-      "name": "Bank Transfer",
-      "method": "transfer",
-      "count": 1,
-      "total": 77.0
     }
   ]
 }
