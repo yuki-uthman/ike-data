@@ -52,11 +52,11 @@ jobs:
               exit 0
             fi
             echo "Push rejected (likely the refresh cron pushed first) - rebasing and retrying ($i/5)"
-            git fetch origin main
-            # The cron only ever rewrites today, which this script never touches,
-            # so on a conflict our backfilled history is the side to keep.
-            git checkout --ours data/sales.json 2>/dev/null || true
-            git pull --rebase -X ours origin main || { echo "::error::Could not reconcile with origin"; exit 1; }
+            # -X theirs keeps the backfilled history: during a rebase "theirs"
+            # is the commit being replayed, i.e. ours. The cron only rewrites
+            # today, and it will rewrite it again within 15 minutes, so losing
+            # its version of today's entry to this rebase costs nothing.
+            git pull --rebase -X theirs origin main || { echo "::error::Could not reconcile with origin"; exit 1; }
             sleep $((RANDOM % 10 + 1))
           done
           echo "::error::Failed to push after 5 retries"

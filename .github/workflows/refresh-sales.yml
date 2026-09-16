@@ -70,7 +70,15 @@ jobs:
               exit 0
             fi
             echo "Push rejected (likely a concurrent run pushed first) - rebasing and retrying ($i/5)"
-            git pull --rebase origin main
+            # -X theirs, counter-intuitively, keeps OUR data: during a rebase
+            # "ours" is the upstream being replayed onto and "theirs" is the
+            # commit being replayed, i.e. this run's freshly generated files.
+            # Every one of these JSON files is regenerated whole each run, so
+            # the newest snapshot is always the right side of a conflict.
+            # Without this, a plain rebase stops on a content conflict - which
+            # a rejected push over the same regenerated file guarantees - and
+            # the run dies with its data unpushed.
+            git pull --rebase -X theirs origin main
             sleep $((RANDOM % 10 + 1))
           done
           echo "::error::Failed to push after 5 retries"
