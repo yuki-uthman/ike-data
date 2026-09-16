@@ -1574,10 +1574,10 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T06:31:24Z",
+      "generatedAt": "2026-09-16T06:45:34Z",
       "pos": {
-        "total": 106.0,
-        "count": 2
+        "total": 165.0,
+        "count": 3
       },
       "regularSales": {
         "total": 6150.0,
@@ -1585,7 +1585,7 @@
       },
       "pendingQuotations": {
         "total": 520.0,
-        "count": 1
+        "count": 2
       },
       "products": [
         {
@@ -1597,6 +1597,11 @@
           "name": "[BC8C] Bagasse Clamshell 8\" [case]",
           "qty": 2.0,
           "total": 1200.0
+        },
+        {
+          "name": "[70040] Ignitor Battery Operated",
+          "qty": 1.0,
+          "total": 59.0
         },
         {
           "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
