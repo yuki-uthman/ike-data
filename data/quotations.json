@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-16T12:01:17Z",
-  "openCount": 107,
-  "openTotal": 1381518.2,
-  "quotationCount": 35,
-  "quotationTotal": 495926.75,
+  "generatedAt": "2026-09-16T12:15:51Z",
+  "openCount": 108,
+  "openTotal": 1383518.2,
+  "quotationCount": 36,
+  "quotationTotal": 497926.75,
   "orderCount": 72,
   "orderTotal": 885591.45,
   "days": [
@@ -131,12 +131,71 @@
     },
     {
       "date": "2026-09-16",
-      "count": 2,
-      "outstanding": 1960.0,
-      "total": 1960.0
+      "count": 3,
+      "outstanding": 3960.0,
+      "total": 3960.0
     }
   ],
   "quotations": [
+    {
+      "id": 243,
+      "ref": "S00244",
+      "kind": "quotation",
+      "customer": "Blooms Supplies",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-16",
+      "expires": "2026-10-16",
+      "total": 2000.0,
+      "settled": 0.0,
+      "outstanding": 2000.0,
+      "lines": [
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90049] Milkshake Powder Caramel Coffee",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[21283] Milkshake Powder White Coffee",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[60033] Milkshake Powder Cappuccino",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90040] Milkshake Powder Coconut",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[11435] Milkshake Powder Yam Taro",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
     {
       "id": 242,
       "ref": "S00243",
