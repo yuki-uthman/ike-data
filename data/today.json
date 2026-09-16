@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T09:15:48Z",
+  "generatedAt": "2026-09-16T09:22:28Z",
   "cash": {
     "total": 88.0,
     "count": 2
@@ -23,7 +23,14 @@
       "method": "transfer",
       "rawMethod": "Bank",
       "time": null,
-      "source": "payment"
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
+          "qty": 3.0,
+          "total": 4950.0
+        }
+      ]
     },
     {
       "ref": "INV/2026/00145",
@@ -32,7 +39,14 @@
       "method": "transfer",
       "rawMethod": "Bank",
       "time": null,
-      "source": "payment"
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 1.0,
+          "total": 1980.0
+        }
+      ]
     },
     {
       "ref": "INV/2026/00142",
@@ -41,7 +55,14 @@
       "method": "transfer",
       "rawMethod": "Bank",
       "time": null,
-      "source": "payment"
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[BC8C] Bagasse Clamshell 8\" [case]",
+          "qty": 2.0,
+          "total": 1200.0
+        }
+      ]
     },
     {
       "ref": "Ike - 000149",
@@ -50,7 +71,24 @@
       "method": "transfer",
       "rawMethod": "Bank Transfer",
       "time": "02:11",
-      "source": "pos"
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
+          "qty": 1.0,
+          "total": 39.0
+        },
+        {
+          "name": "[6955105504080] Brush Silicone Scrubber#91264",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 1.0,
+          "total": 18.0
+        }
+      ]
     },
     {
       "ref": "Ike - 000152",
@@ -59,7 +97,14 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "03:44",
-      "source": "pos"
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70040] Ignitor Battery Operated",
+          "qty": 1.0,
+          "total": 59.0
+        }
+      ]
     },
     {
       "ref": "Ike - 000151",
@@ -68,7 +113,14 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "03:06",
-      "source": "pos"
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01798] Hair comb Plastic#M86",
+          "qty": 1.0,
+          "total": 29.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
