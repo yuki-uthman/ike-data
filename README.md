@@ -40,7 +40,10 @@ separate, static-only repo that fetches its JSON straight from here via
   (`CASH_PATTERN` / `TRANSFER_PATTERN` in the script); anything matching
   neither goes to an `other` bucket that stays visible on the dashboard
   instead of inflating a total, and every run logs each distinct method and
-  journal name it saw.
+  journal name it saw. Each transaction also carries the lines behind it -
+  product, quantity, tax-inclusive line total - from `pos.order.line` or the
+  reconciled invoice's `account.move.line`, which is what lets the dashboard
+  expand a payment in place.
 - `scripts/backfill_sales.py` / `scripts/backfill_expenses.py` — one-off
   backfill of past days, run manually when needed.
 - `data/sales.json`, `data/expenses.json`, `data/today.json` — the outputs.

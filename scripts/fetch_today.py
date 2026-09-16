@@ -18,6 +18,15 @@ account.payment reconciled against that same invoice. Any account.payment
 whose reconciled invoices are ALL invoices already reached through a POS
 order today is dropped, so such a sale is counted once, via its POS line.
 
+Every transaction also carries the lines behind it - product, quantity and
+tax-inclusive line total - so the dashboard can expand a row in place and
+show what was actually bought. POS rows take their lines from
+pos.order.line; accounting rows take theirs from the invoice(s) the payment
+reconciles, on the same tax-inclusive basis the totals use, so an expanded
+row adds up to the row above it whenever the payment settles the invoice in
+full. Product names are stored exactly as Odoo holds them, internal
+reference prefix and all; the dashboard strips that for display.
+
 Classification is name-driven and deliberately self-reporting: the payment
 method (POS) or journal (accounting) name decides the bucket, the raw name
 travels with every row, and anything matching neither pattern lands in
@@ -140,6 +149,7 @@ def main():
 
     pos_order_ids = sorted({rel_id(p.get("pos_order_id")) for p in pos_payments} - {None})
     pos_orders = {}
+    pos_lines_by_order = {}
     if pos_order_ids:
         order_fields = existing_fields(
             "pos.order", ["name", "partner_id", "account_move", "state"]
@@ -151,6 +161,21 @@ def main():
             invoice_id = rel_id(order.get("account_move"))
             if invoice_id:
                 pos_invoice_ids.add(invoice_id)
+
+        pos_line_fields = existing_fields(
+            "pos.order.line", ["order_id", "product_id", "qty", "price_subtotal_incl"]
+        )
+        for line in execute(
+            "pos.order.line", "search_read", [["order_id", "in", pos_order_ids]], fields=pos_line_fields
+        ):
+            name = rel_name(line.get("product_id"))
+            if not name:
+                continue
+            pos_lines_by_order.setdefault(rel_id(line.get("order_id")), []).append({
+                "name": name,
+                "qty": round(line.get("qty") or 0.0, 2),
+                "total": round(line.get("price_subtotal_incl") or 0.0, 2),
+            })
 
     for payment in pos_payments:
         order = pos_orders.get(rel_id(payment.get("pos_order_id")), {})
@@ -169,6 +194,10 @@ def main():
             "rawMethod": method_name or "unknown",
             "time": local_time(payment.get("payment_date")),
             "source": "pos",
+            "lines": sorted(
+                pos_lines_by_order.get(rel_id(payment.get("pos_order_id")), []),
+                key=lambda l: l["total"], reverse=True,
+            ),
         })
 
     # ---- 2. Accounting customer payments today ---------------------------------
@@ -194,9 +223,28 @@ def main():
         for move_id in (payment.get("reconciled_invoice_ids") or [])
     })
     invoice_names = {}
+    invoice_lines_by_move = {}
     if invoice_ids:
         for move in execute("account.move", "search_read", [["id", "in", invoice_ids]], fields=["name"]):
             invoice_names[move["id"]] = move["name"]
+
+        # product_id filters out the receivable, tax and section lines in one go.
+        move_line_fields = existing_fields(
+            "account.move.line", ["move_id", "product_id", "quantity", "price_total"]
+        )
+        for line in execute(
+            "account.move.line", "search_read",
+            [["move_id", "in", invoice_ids], ["product_id", "!=", False]],
+            fields=move_line_fields,
+        ):
+            name = rel_name(line.get("product_id"))
+            if not name:
+                continue
+            invoice_lines_by_move.setdefault(rel_id(line.get("move_id")), []).append({
+                "name": name,
+                "qty": round(line.get("quantity") or 0.0, 2),
+                "total": round(line.get("price_total") or 0.0, 2),
+            })
 
     skipped_as_pos = 0
     for payment in account_payments:
@@ -221,6 +269,11 @@ def main():
             "rawMethod": journal_name or "unknown",
             "time": None,  # account.payment carries a date, not a time of day
             "source": "payment",
+            # One payment can settle several invoices; show every line it paid for.
+            "lines": sorted(
+                [line for move_id in reconciled for line in invoice_lines_by_move.get(move_id, [])],
+                key=lambda l: l["total"], reverse=True,
+            ),
         })
 
     transactions.sort(key=lambda t: t["amount"], reverse=True)
@@ -260,6 +313,8 @@ def main():
         f"Other {payload['other']['total']} ({payload['other']['count']}), "
         f"{skipped_as_pos} accounting payment(s) skipped as already-counted POS"
     )
+    with_lines = sum(1 for t in transactions if t["lines"])
+    print(f"{with_lines}/{len(transactions)} transaction(s) carry line detail")
     print("Payment method / journal names seen today:")
     for entry in payload["methodsSeen"]:
         print(f"  {entry['name']!r} -> {entry['method']} ({entry['count']} txn, {entry['total']})")
