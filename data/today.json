@@ -1,0 +1,85 @@
+{
+  "company": "MRH Investment",
+  "currency": "MVR",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T07:32:52Z",
+  "cash": {
+    "total": 88.0,
+    "count": 2
+  },
+  "transfer": {
+    "total": 6227.0,
+    "count": 3
+  },
+  "other": {
+    "total": 0,
+    "count": 0
+  },
+  "transactions": [
+    {
+      "ref": "INV/2026/00143",
+      "customer": "GREENZONE DISTRICT",
+      "amount": 4950.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment"
+    },
+    {
+      "ref": "INV/2026/00142",
+      "customer": "3R Cafe & Bistro R-1",
+      "amount": 1200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment"
+    },
+    {
+      "ref": "Ike - 000149",
+      "customer": "Walk-in",
+      "amount": 77.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "02:11",
+      "source": "pos"
+    },
+    {
+      "ref": "Ike - 000152",
+      "customer": "Walk-in",
+      "amount": 59.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "03:44",
+      "source": "pos"
+    },
+    {
+      "ref": "Ike - 000151",
+      "customer": "Walk-in",
+      "amount": 29.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "03:06",
+      "source": "pos"
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 2,
+      "total": 6150.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 2,
+      "total": 88.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 77.0
+    }
+  ]
+}
