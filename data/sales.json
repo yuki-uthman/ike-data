@@ -1574,10 +1574,10 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T05:01:46Z",
+      "generatedAt": "2026-09-16T05:15:34Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 77.0,
+        "count": 1
       },
       "regularSales": {
         "total": 1200.0,
@@ -1592,6 +1592,21 @@
           "name": "[BC8C] Bagasse Clamshell 8\" [case]",
           "qty": 2.0,
           "total": 1200.0
+        },
+        {
+          "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
+          "qty": 1.0,
+          "total": 39.0
+        },
+        {
+          "name": "[6955105504080] Brush Silicone Scrubber#91264",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 1.0,
+          "total": 18.0
         }
       ]
     }
