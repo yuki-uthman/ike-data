@@ -1,0 +1,2894 @@
+{
+  "company": "MRH Investment",
+  "currency": "MVR",
+  "generatedAt": "2026-09-16T11:37:40Z",
+  "openCount": 107,
+  "openTotal": 1381518.2,
+  "quotationCount": 35,
+  "quotationTotal": 495926.75,
+  "orderCount": 72,
+  "orderTotal": 885591.45,
+  "days": [
+    {
+      "date": "2026-08-27",
+      "count": 13,
+      "outstanding": 170187.0,
+      "total": 170187.0
+    },
+    {
+      "date": "2026-08-28",
+      "count": 1,
+      "outstanding": 450.0,
+      "total": 450.0
+    },
+    {
+      "date": "2026-08-29",
+      "count": 16,
+      "outstanding": 129408.53,
+      "total": 136808.53
+    },
+    {
+      "date": "2026-08-30",
+      "count": 7,
+      "outstanding": 15051.0,
+      "total": 15051.0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 7,
+      "outstanding": 376358.67,
+      "total": 376358.67
+    },
+    {
+      "date": "2026-09-01",
+      "count": 11,
+      "outstanding": 51810.0,
+      "total": 63710.0
+    },
+    {
+      "date": "2026-09-02",
+      "count": 5,
+      "outstanding": 39185.0,
+      "total": 39185.0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 4,
+      "outstanding": 62131.0,
+      "total": 62131.0
+    },
+    {
+      "date": "2026-09-04",
+      "count": 1,
+      "outstanding": 16400.0,
+      "total": 16400.0
+    },
+    {
+      "date": "2026-09-05",
+      "count": 2,
+      "outstanding": 69000.0,
+      "total": 69000.0
+    },
+    {
+      "date": "2026-09-06",
+      "count": 4,
+      "outstanding": 111570.0,
+      "total": 111570.0
+    },
+    {
+      "date": "2026-09-07",
+      "count": 10,
+      "outstanding": 53454.0,
+      "total": 53454.0
+    },
+    {
+      "date": "2026-09-08",
+      "count": 10,
+      "outstanding": 161165.0,
+      "total": 161165.0
+    },
+    {
+      "date": "2026-09-09",
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
+    },
+    {
+      "date": "2026-09-10",
+      "count": 6,
+      "outstanding": 4667.0,
+      "total": 4667.0
+    },
+    {
+      "date": "2026-09-11",
+      "count": 1,
+      "outstanding": 675.0,
+      "total": 675.0
+    },
+    {
+      "date": "2026-09-12",
+      "count": 2,
+      "outstanding": 62676.0,
+      "total": 62676.0
+    },
+    {
+      "date": "2026-09-13",
+      "count": 1,
+      "outstanding": 3000.0,
+      "total": 3000.0
+    },
+    {
+      "date": "2026-09-14",
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
+    },
+    {
+      "date": "2026-09-15",
+      "count": 4,
+      "outstanding": 52370.0,
+      "total": 52370.0
+    },
+    {
+      "date": "2026-09-16",
+      "count": 2,
+      "outstanding": 1960.0,
+      "total": 1960.0
+    }
+  ],
+  "quotations": [
+    {
+      "id": 242,
+      "ref": "S00243",
+      "kind": "quotation",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-16",
+      "expires": "2026-10-16",
+      "total": 1440.0,
+      "settled": 0.0,
+      "outstanding": 1440.0,
+      "lines": [
+        {
+          "name": "[BBRE24300B] Black Base Container 24oz",
+          "qty": 6.0,
+          "total": 1440.0
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "ref": "S00240",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-16",
+      "expires": "2026-10-16",
+      "total": 520.0,
+      "settled": 0.0,
+      "outstanding": 520.0,
+      "lines": [
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 4.0,
+          "total": 200.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 16.0,
+          "total": 320.0
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "ref": "S00238",
+      "kind": "quotation",
+      "customer": "44 SHOP L-5",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-15",
+      "expires": "2026-10-15",
+      "total": 27100.0,
+      "settled": 0.0,
+      "outstanding": 27100.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-2000-X04] #2C Black Double Side 2000mm x4",
+          "qty": 1.0,
+          "total": 10600.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X04] #2C Black Single Side 2000mm x4",
+          "qty": 2.0,
+          "total": 12800.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 72.0,
+          "total": 1800.0
+        },
+        {
+          "name": "[80302] Tube Stand",
+          "qty": 2.0,
+          "total": 1900.0
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "ref": "S00233",
+      "kind": "quotation",
+      "customer": "Island Aviation Services",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-15",
+      "expires": "2026-10-15",
+      "total": 23700.0,
+      "settled": 0.0,
+      "outstanding": 23700.0,
+      "lines": [
+        {
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 6.0,
+          "total": 23700.0
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "ref": "S00239",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-15",
+      "expires": "2026-10-15",
+      "total": 1220.0,
+      "settled": 0.0,
+      "outstanding": 1220.0,
+      "lines": [
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 30.0,
+          "total": 420.0
+        },
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 50.0,
+          "total": 800.0
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "ref": "S00232",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-15",
+      "expires": "2026-10-15",
+      "total": 350.0,
+      "settled": 0.0,
+      "outstanding": 350.0,
+      "lines": [
+        {
+          "name": "[SL407] Cloth Airers SL407",
+          "qty": 1.0,
+          "total": 350.0
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "ref": "S00217",
+      "kind": "quotation",
+      "customer": "Red Bee Mart",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-13",
+      "expires": "2026-10-13",
+      "total": 3000.0,
+      "settled": 0.0,
+      "outstanding": 3000.0,
+      "lines": [
+        {
+          "name": "[70202] Miniso Counter - Type B",
+          "qty": 1.0,
+          "total": 3000.0
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "ref": "S00215",
+      "kind": "quotation",
+      "customer": "Mtcc",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-12",
+      "expires": "2026-10-12",
+      "total": 61460.0,
+      "settled": 0.0,
+      "outstanding": 61460.0,
+      "lines": [
+        {
+          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "qty": 7.0,
+          "total": 19950.0
+        },
+        {
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 7.0,
+          "total": 27650.0
+        },
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 7.0,
+          "total": 13860.0
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "ref": "S00212",
+      "kind": "quotation",
+      "customer": "Ball Tree Trade Pvt ltd F-8",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-12",
+      "expires": "2026-10-12",
+      "total": 1216.0,
+      "settled": 0.0,
+      "outstanding": 1216.0,
+      "lines": [
+        {
+          "name": "[01681] Table Mat Pvc 30x45cm #4",
+          "qty": 24.0,
+          "total": 456.0
+        },
+        {
+          "name": "[8325C] Aluminium Foil Box [case]",
+          "qty": 1.0,
+          "total": 760.0
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "ref": "S00208",
+      "kind": "order",
+      "customer": "Red Bee Mart",
+      "salesperson": "ike.retail.sales@gmail.com",
+      "date": "2026-09-11",
+      "expires": "2026-10-11",
+      "total": 675.0,
+      "settled": 0.0,
+      "outstanding": 675.0,
+      "lines": [
+        {
+          "name": "[02070] Flower Pot 33x31cm E360x320",
+          "qty": 10.0,
+          "total": 200.0
+        },
+        {
+          "name": "[01681] Table Mat Pvc 30x45cm #4",
+          "qty": 25.0,
+          "total": 475.0
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "ref": "S00204",
+      "kind": "quotation",
+      "customer": "Sifainge welfare Company Pvt Ltd",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-10",
+      "expires": "2026-10-10",
+      "total": 4200.0,
+      "settled": 0.0,
+      "outstanding": 4200.0,
+      "lines": [
+        {
+          "name": "[60001] Tool Box x5",
+          "qty": 10.0,
+          "total": 1950.0
+        },
+        {
+          "name": "[99133] Tool Box X4",
+          "qty": 10.0,
+          "total": 1450.0
+        },
+        {
+          "name": "[69059] Tool Box X2",
+          "qty": 10.0,
+          "total": 800.0
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "ref": "S00199",
+      "kind": "quotation",
+      "customer": "Addu International Airport Pvt Ltd",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-10",
+      "expires": "2026-10-10",
+      "total": 240.0,
+      "settled": 0.0,
+      "outstanding": 240.0,
+      "lines": [
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "ref": "S00207",
+      "kind": "order",
+      "customer": "TEST CUSTOMER (delete me)",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-10",
+      "expires": "2026-10-10",
+      "total": 100.0,
+      "settled": 0.0,
+      "outstanding": 100.0,
+      "lines": [
+        {
+          "name": "[00001] Clothes Women",
+          "qty": 1.0,
+          "total": 100.0
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "ref": "S00206",
+      "kind": "order",
+      "customer": "TEST CUSTOMER (delete me)",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-10",
+      "expires": "2026-10-10",
+      "total": 100.0,
+      "settled": 0.0,
+      "outstanding": 100.0,
+      "lines": [
+        {
+          "name": "[00001] Clothes Women",
+          "qty": 1.0,
+          "total": 100.0
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "ref": "S00205",
+      "kind": "order",
+      "customer": "Test",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-10",
+      "expires": "2026-10-10",
+      "total": 19.0,
+      "settled": 0.0,
+      "outstanding": 19.0,
+      "lines": [
+        {
+          "name": "[70078] Sponge 240pcs#32",
+          "qty": 1.0,
+          "total": 19.0
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "ref": "S00200",
+      "kind": "quotation",
+      "customer": "Test",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-10",
+      "expires": "2026-10-10",
+      "total": 8.0,
+      "settled": 0.0,
+      "outstanding": 8.0,
+      "lines": [
+        {
+          "name": "[8388] Black Base Rectangular Container 38oz w/ PP Lid (TPLM C053)",
+          "qty": 1.0,
+          "total": 8.0
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "ref": "S00187",
+      "kind": "quotation",
+      "customer": "Hussain Shaarif",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 48875.0,
+      "settled": 0.0,
+      "outstanding": 48875.0,
+      "lines": [
+        {
+          "name": "37 Miniso Black Double Side (37-Miniso-DS)",
+          "qty": 2.0,
+          "total": 9000.0
+        },
+        {
+          "name": "37 Price Border Long",
+          "qty": 75.0,
+          "total": 1875.0
+        },
+        {
+          "name": "37 Black Single Side 2400mm",
+          "qty": 10.0,
+          "total": 38000.0
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "ref": "S00182",
+      "kind": "quotation",
+      "customer": "Brothers Catering Pvt Ltd",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 31150.0,
+      "settled": 0.0,
+      "outstanding": 31150.0,
+      "lines": [
+        {
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 5.0,
+          "total": 19750.0
+        },
+        {
+          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "qty": 4.0,
+          "total": 11400.0
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "ref": "S00180",
+      "kind": "quotation",
+      "customer": "mohammed",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 28120.0,
+      "settled": 0.0,
+      "outstanding": 28120.0,
+      "lines": [
+        {
+          "name": "[2140WHITE] Chair DIAMOND STYLE - White #2140",
+          "qty": 8.0,
+          "total": 2320.0
+        },
+        {
+          "name": "[70194] Cash Counter Wooden - Type D",
+          "qty": 1.0,
+          "total": 3000.0
+        },
+        {
+          "name": "37 White Single Side 2400mm",
+          "qty": 6.0,
+          "total": 22800.0
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "ref": "S00179",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 19770.0,
+      "settled": 0.0,
+      "outstanding": 19770.0,
+      "lines": [
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 6.0,
+          "total": 19770.0
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "ref": "S00184",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 11880.0,
+      "settled": 0.0,
+      "outstanding": 11880.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 6.0,
+          "total": 11880.0
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "ref": "S00178",
+      "kind": "order",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 9480.0,
+      "settled": 0.0,
+      "outstanding": 9480.0,
+      "lines": [
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 12.0,
+          "total": 9480.0
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "ref": "S00190",
+      "kind": "quotation",
+      "customer": "Red Bee Mart",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 5940.0,
+      "settled": 0.0,
+      "outstanding": 5940.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 3.0,
+          "total": 5940.0
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "ref": "S00176",
+      "kind": "quotation",
+      "customer": "CANDY HUT G-2",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 3100.0,
+      "settled": 0.0,
+      "outstanding": 3100.0,
+      "lines": [
+        {
+          "name": "2C Single Side White 6.5ft X2set",
+          "qty": 1.0,
+          "total": 3100.0
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "ref": "S00186",
+      "kind": "order",
+      "customer": "Test",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 2350.0,
+      "settled": 0.0,
+      "outstanding": 2350.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-SSP-1950-X01] RD8 Gray Single Perforated 1950mm x1",
+          "qty": 1.0,
+          "total": 2350.0
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "ref": "S00174",
+      "kind": "quotation",
+      "customer": "Test",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-08",
+      "expires": "2026-10-08",
+      "total": 500.0,
+      "settled": 0.0,
+      "outstanding": 500.0,
+      "lines": [
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 1.0,
+          "total": 500.0
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "ref": "S00162",
+      "kind": "quotation",
+      "customer": "Maldives Police Service",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 23760.0,
+      "settled": 0.0,
+      "outstanding": 23760.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 12.0,
+          "total": 23760.0
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "ref": "S00164",
+      "kind": "order",
+      "customer": "Parklane Grocery D-8",
+      "salesperson": "ike.retail.sales@gmail.com",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 10711.0,
+      "settled": 0.0,
+      "outstanding": 10711.0,
+      "lines": [
+        {
+          "name": "[70028] Gloves Cleaning Microfiber #44",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[70072] Sponge 4pcs #28 D-21",
+          "qty": 12.0,
+          "total": 252.0
+        },
+        {
+          "name": "[70066] Sponges 3pcs*200pcs#24",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 12.0,
+          "total": 216.0
+        },
+        {
+          "name": "[01873] Duster cloth Microfiber",
+          "qty": 12.0,
+          "total": 468.0
+        },
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 12.0,
+          "total": 228.0
+        },
+        {
+          "name": "[70078] Sponge 240pcs#32",
+          "qty": 12.0,
+          "total": 228.0
+        },
+        {
+          "name": "[70062] Brush Silicone Scrubber#91264",
+          "qty": 12.0,
+          "total": 240.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 12.0,
+          "total": 144.0
+        },
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 12.0,
+          "total": 600.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 12.0,
+          "total": 240.0
+        },
+        {
+          "name": "[02231] Wooden Fork 100pcs",
+          "qty": 12.0,
+          "total": 540.0
+        },
+        {
+          "name": "[02230] Wooden Spoon 100pcs",
+          "qty": 12.0,
+          "total": 540.0
+        },
+        {
+          "name": "[02428] Bambll Stick 100pcs",
+          "qty": 3.0,
+          "total": 45.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 2.0,
+          "total": 5700.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "ref": "S00163",
+      "kind": "order",
+      "customer": "Parklane Grocery D-8",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 8056.0,
+      "settled": 0.0,
+      "outstanding": 8056.0,
+      "lines": [
+        {
+          "name": "[70028] Gloves Cleaning Microfiber #44",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[70072] Sponge 4pcs #28 D-21",
+          "qty": 12.0,
+          "total": 252.0
+        },
+        {
+          "name": "[70066] Sponges 3pcs*200pcs#24",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 12.0,
+          "total": 216.0
+        },
+        {
+          "name": "[01873] Duster cloth Microfiber",
+          "qty": 12.0,
+          "total": 468.0
+        },
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 12.0,
+          "total": 228.0
+        },
+        {
+          "name": "[70078] Sponge 240pcs#32",
+          "qty": 12.0,
+          "total": 228.0
+        },
+        {
+          "name": "[70062] Brush Silicone Scrubber#91264",
+          "qty": 12.0,
+          "total": 240.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 12.0,
+          "total": 144.0
+        },
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 12.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 12.0,
+          "total": 240.0
+        },
+        {
+          "name": "[02231] Wooden Fork 100pcs",
+          "qty": 12.0,
+          "total": 540.0
+        },
+        {
+          "name": "[02428] Bambll Stick 100pcs",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "ref": "S00156",
+      "kind": "order",
+      "customer": "Test",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 7200.0,
+      "settled": 0.0,
+      "outstanding": 7200.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-DSP-1550-X03] RD8 Gray Double Side Perforated 1550mm x3",
+          "qty": 1.0,
+          "total": 0.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X03] RD8 Gray Single Perforated 1950mm x3",
+          "qty": 1.0,
+          "total": 6450.0
+        },
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 1.0,
+          "total": 500.0
+        },
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 2.0,
+          "total": 250.0
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "ref": "S00171",
+      "kind": "quotation",
+      "customer": "Kaaina K-4",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 1650.0,
+      "settled": 0.0,
+      "outstanding": 1650.0,
+      "lines": [
+        {
+          "name": "2C Single Side White 6.5ft X1set",
+          "qty": 1.0,
+          "total": 1650.0
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "ref": "S00172",
+      "kind": "order",
+      "customer": "Blue barista E-16",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 1200.0,
+      "settled": 0.0,
+      "outstanding": 1200.0,
+      "lines": [
+        {
+          "name": "[02440] Milkshake Powder Pistachio",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90037] Milkshake Powder Blueberry",
+          "qty": 2.0,
+          "total": 400.0
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "ref": "S00166",
+      "kind": "order",
+      "customer": "Test",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 750.0,
+      "settled": 0.0,
+      "outstanding": 750.0,
+      "lines": [
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 1.0,
+          "total": 500.0
+        },
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 2.0,
+          "total": 250.0
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "ref": "S00169",
+      "kind": "quotation",
+      "customer": "Test",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 125.0,
+      "settled": 0.0,
+      "outstanding": 125.0,
+      "lines": [
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 1.0,
+          "total": 125.0
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "ref": "S00168",
+      "kind": "quotation",
+      "customer": "Test",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 1.0,
+      "settled": 0.0,
+      "outstanding": 1.0,
+      "lines": [
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 1.0,
+          "total": 1.0
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "ref": "S00167",
+      "kind": "quotation",
+      "customer": "Test",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-09-07",
+      "expires": "2026-10-07",
+      "total": 1.0,
+      "settled": 0.0,
+      "outstanding": 1.0,
+      "lines": [
+        {
+          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
+          "qty": 1.0,
+          "total": 1.0
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "ref": "S00155",
+      "kind": "quotation",
+      "customer": "Naijo",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-06",
+      "expires": "2026-10-06",
+      "total": 102670.0,
+      "settled": 0.0,
+      "outstanding": 102670.0,
+      "lines": [
+        {
+          "name": "2C Single Side White 6.5ft X1set",
+          "qty": 20.0,
+          "total": 33000.0
+        },
+        {
+          "name": "2C Double Side White 6ft X1set",
+          "qty": 15.0,
+          "total": 39750.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 4.0,
+          "total": 11400.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 3.0,
+          "total": 5700.0
+        },
+        {
+          "name": "[25499] 2C Price Border Strip Green",
+          "qty": 220.0,
+          "total": 5500.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 50.0,
+          "total": 700.0
+        },
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 50.0,
+          "total": 800.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 100.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+          "qty": 3.0,
+          "total": 4620.0
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "ref": "S00154",
+      "kind": "order",
+      "customer": "BRC G-02",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-06",
+      "expires": "2026-10-06",
+      "total": 6450.0,
+      "settled": 0.0,
+      "outstanding": 6450.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X03] RD8 White Single Perforated 1950mm x3",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X03] RD8 White Single Perforated 1950mm x3",
+          "qty": 1.0,
+          "total": 6450.0
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "ref": "S00151",
+      "kind": "order",
+      "customer": "Blooms Supplies",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-06",
+      "expires": "2026-10-06",
+      "total": 2000.0,
+      "settled": 0.0,
+      "outstanding": 2000.0,
+      "lines": [
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[21283] Milkshake Powder White Coffee",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[60033] Milkshake Powder Cappuccino",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "milk",
+          "qty": 1.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "ref": "S00146",
+      "kind": "quotation",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-06",
+      "expires": "2026-10-06",
+      "total": 450.0,
+      "settled": 0.0,
+      "outstanding": 450.0,
+      "lines": [
+        {
+          "name": "[10008] Top Kokoa Creamy Cheese 1kg",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
+          "qty": 2.0,
+          "total": 150.0
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "ref": "S00140",
+      "kind": "order",
+      "customer": "Sun Shine Arts",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-05",
+      "expires": "2026-10-05",
+      "total": 44700.0,
+      "settled": 0.0,
+      "outstanding": 44700.0,
+      "lines": [
+        {
+          "name": "2C Double Side White 6ft X3set",
+          "qty": 2.0,
+          "total": 14700.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        },
+        {
+          "name": "2C Price Border Strip White",
+          "qty": 64.0,
+          "total": 1600.0
+        },
+        {
+          "name": "2C Double Side White 6ft X2set",
+          "qty": 2.0,
+          "total": 10000.0
+        },
+        {
+          "name": "2C ER White X 1",
+          "qty": 4.0,
+          "total": 5800.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 4.0,
+          "total": 3160.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 2.0,
+          "total": 6590.0
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "ref": "S00137",
+      "kind": "quotation",
+      "customer": "Naani cakery",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-09-05",
+      "expires": "2026-10-05",
+      "total": 24300.0,
+      "settled": 0.0,
+      "outstanding": 24300.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X06] RD8 White Single Perforated 1950mm x6",
+          "qty": 1.0,
+          "total": 12600.0
+        },
+        {
+          "name": "2C Double Side Black 6ft X2set",
+          "qty": 1.0,
+          "total": 5000.0
+        },
+        {
+          "name": "2C Black End Rack",
+          "qty": 2.0,
+          "total": 2900.0
+        },
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 2.0,
+          "total": 3800.0
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "ref": "S00133",
+      "kind": "order",
+      "customer": "Naani cakery",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-04",
+      "expires": "2026-10-04",
+      "total": 16400.0,
+      "settled": 0.0,
+      "outstanding": 16400.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X06] RD8 White Single Perforated 1950mm x6",
+          "qty": 1.0,
+          "total": 12600.0
+        },
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 2.0,
+          "total": 3800.0
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "ref": "S00118",
+      "kind": "quotation",
+      "customer": "Ahmed Aslam",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-03",
+      "expires": "2026-10-03",
+      "total": 57000.0,
+      "settled": 0.0,
+      "outstanding": 57000.0,
+      "lines": [
+        {
+          "name": "RD8 Single Side Gray 6.5ft X1set",
+          "qty": 10.0,
+          "total": 23500.0
+        },
+        {
+          "name": "RD8 Gray Double Side 6.5ft X1set",
+          "qty": 10.0,
+          "total": 33500.0
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "ref": "S00123",
+      "kind": "order",
+      "customer": "Beyond Mart   C-14",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-03",
+      "expires": "2026-10-03",
+      "total": 4400.0,
+      "settled": 0.0,
+      "outstanding": 4400.0,
+      "lines": [
+        {
+          "name": "RD8 SS W 2set",
+          "qty": 1.0,
+          "total": 4400.0
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "ref": "S00119",
+      "kind": "order",
+      "customer": "Breeze View C-8",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-03",
+      "expires": "2026-10-03",
+      "total": 730.0,
+      "settled": 0.0,
+      "outstanding": 730.0,
+      "lines": [
+        {
+          "name": "[01011] Paper straw 12 mm 50 pcs",
+          "qty": 6.0,
+          "total": 210.0
+        },
+        {
+          "name": "[60033] Milkshake Powder Cappuccino",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "Kimono Bubble Black Pearl",
+          "qty": 2.0,
+          "total": 300.0
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "ref": "S00121",
+      "kind": "order",
+      "customer": "Mohamed Ahmed  Manfu O-11",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-09-03",
+      "expires": "2026-10-03",
+      "total": 1.0,
+      "settled": 0.0,
+      "outstanding": 1.0,
+      "lines": [
+        {
+          "name": "(RD8-DS-Gray)",
+          "qty": 1.0,
+          "total": 1.0
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "ref": "S00108",
+      "kind": "order",
+      "customer": "MADIHAA COMPANY",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-02",
+      "expires": "2026-10-02",
+      "total": 18800.0,
+      "settled": 0.0,
+      "outstanding": 18800.0,
+      "lines": [
+        {
+          "name": "RD8 Single Side Gray 6.5ft X1set",
+          "qty": 8.0,
+          "total": 18800.0
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "ref": "S00114",
+      "kind": "order",
+      "customer": "Blooms Supplies",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-02",
+      "expires": "2026-10-02",
+      "total": 13200.0,
+      "settled": 0.0,
+      "outstanding": 13200.0,
+      "lines": [
+        {
+          "name": "[90049] Milkshake Powder Caramel Coffee",
+          "qty": 51.0,
+          "total": 10200.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[90038] Milkshake Powder Hazelnut Coffee",
+          "qty": 5.0,
+          "total": 1000.0
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "ref": "S00112",
+      "kind": "order",
+      "customer": "Blooms Supplies",
+      "salesperson": "ike.retail.sales@gmail.com",
+      "date": "2026-09-02",
+      "expires": "2026-10-02",
+      "total": 4100.0,
+      "settled": 0.0,
+      "outstanding": 4100.0,
+      "lines": [
+        {
+          "name": "[90038] Milkshake Powder Hazelnut Coffee",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[90049] Milkshake Powder Caramel Coffee",
+          "qty": 5.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 5.0,
+          "total": 1000.0
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "ref": "S00113",
+      "kind": "order",
+      "customer": "Afaas mart",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-02",
+      "expires": "2026-10-02",
+      "total": 2890.0,
+      "settled": 0.0,
+      "outstanding": 2890.0,
+      "lines": [
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 1.0,
+          "total": 1250.0
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "ref": "S00102",
+      "kind": "order",
+      "customer": "Mohamed Ahmed  Manfu O-11",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-02",
+      "expires": "2026-10-02",
+      "total": 195.0,
+      "settled": 0.0,
+      "outstanding": 195.0,
+      "lines": [
+        {
+          "name": "[26038] A2 IRONING BOARD",
+          "qty": 1.0,
+          "total": 195.0
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "ref": "S00093",
+      "kind": "order",
+      "customer": "Universal Enteprises",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 12000.0,
+      "settled": 0.0,
+      "outstanding": 12000.0,
+      "lines": [
+        {
+          "name": "RD60 White Single Side",
+          "qty": 4.0,
+          "total": 12000.0
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "ref": "S00092",
+      "kind": "order",
+      "customer": "Universal Enteprises",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 12000.0,
+      "settled": 0.0,
+      "outstanding": 12000.0,
+      "lines": [
+        {
+          "name": "RD60 White Single Side",
+          "qty": 4.0,
+          "total": 12000.0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "ref": "S00091",
+      "kind": "order",
+      "customer": "Universal Enteprises",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 12000.0,
+      "settled": 0.0,
+      "outstanding": 12000.0,
+      "lines": [
+        {
+          "name": "RD60 White Single Side",
+          "qty": 4.0,
+          "total": 12000.0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "ref": "S00082",
+      "kind": "order",
+      "customer": "S&Y Mart",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 8550.0,
+      "settled": 0.0,
+      "outstanding": 8550.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 3.0,
+          "total": 8550.0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "ref": "S00083",
+      "kind": "order",
+      "customer": "Dhoola  A-7",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 1900.0,
+      "settled": 0.0,
+      "outstanding": 1900.0,
+      "lines": [
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 1.0,
+          "total": 1900.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "ref": "S00086",
+      "kind": "order",
+      "customer": "Ambaa caf\u00e9 U-7",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 1640.0,
+      "settled": 0.0,
+      "outstanding": 1640.0,
+      "lines": [
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "ref": "S00097",
+      "kind": "order",
+      "customer": "Ekuveri store",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 1240.0,
+      "settled": 0.0,
+      "outstanding": 1240.0,
+      "lines": [
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 6.0,
+          "total": 960.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "ref": "S00096",
+      "kind": "order",
+      "customer": "Ekuveri store",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 1240.0,
+      "settled": 0.0,
+      "outstanding": 1240.0,
+      "lines": [
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 6.0,
+          "total": 960.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "ref": "S00088",
+      "kind": "order",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 945.0,
+      "settled": 0.0,
+      "outstanding": 945.0,
+      "lines": [
+        {
+          "name": "Paprika Powder",
+          "qty": 3.0,
+          "total": 945.0
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "ref": "S00099",
+      "kind": "order",
+      "customer": "Myst pvt ltd",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 195.0,
+      "settled": 0.0,
+      "outstanding": 195.0,
+      "lines": [
+        {
+          "name": "Paper straw 12 mm 100 pcs(bundle)",
+          "qty": 3.0,
+          "total": 195.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "ref": "S00090",
+      "kind": "order",
+      "customer": "Universal Enteprises",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-01",
+      "expires": "2026-10-01",
+      "total": 12000.0,
+      "settled": 11900.0,
+      "outstanding": 100.0,
+      "lines": [
+        {
+          "name": "RD60 White Single Side",
+          "qty": 4.0,
+          "total": 12000.0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "ref": "S00079",
+      "kind": "order",
+      "customer": "O BEE",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-31",
+      "expires": "2026-09-30",
+      "total": 184000.0,
+      "settled": 0.0,
+      "outstanding": 184000.0,
+      "lines": [
+        {
+          "name": "RD8 Single Side Gray 6.5ft X7set",
+          "qty": 8.0,
+          "total": 117200.0
+        },
+        {
+          "name": "RD8 Gray Double Side 6.5ft X2set",
+          "qty": 8.0,
+          "total": 51200.0
+        },
+        {
+          "name": "(RD8-End Rack-Gray)",
+          "qty": 8.0,
+          "total": 15600.0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "ref": "S00065",
+      "kind": "order",
+      "customer": "Auguste Maldives",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-31",
+      "expires": "2026-09-29",
+      "total": 85915.0,
+      "settled": 0.0,
+      "outstanding": 85915.0,
+      "lines": [
+        {
+          "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*3set",
+          "qty": 1.0,
+          "total": 9285.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*2set",
+          "qty": 2.0,
+          "total": 12580.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 1.0,
+          "total": 3295.0
+        },
+        {
+          "name": "37 Miniso Black Double Side (37-Miniso-DS)",
+          "qty": 3.0,
+          "total": 12885.0
+        },
+        {
+          "name": "[00051] Cashier Desk #04",
+          "qty": 1.0,
+          "total": 8500.0
+        },
+        {
+          "name": "37 Miniso Cupboard",
+          "qty": 8.0,
+          "total": 11200.0
+        },
+        {
+          "name": "37 miniso Double side X2set",
+          "qty": 3.0,
+          "total": 18870.0
+        },
+        {
+          "name": "37 MINISO RACK End Rack(37-End Rack-Miniso)",
+          "qty": 2.0,
+          "total": 3900.0
+        },
+        {
+          "name": "37 Price Border Long",
+          "qty": 120.0,
+          "total": 5400.0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "ref": "S00069",
+      "kind": "order",
+      "customer": "VVY private limited",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-31",
+      "expires": "2026-09-30",
+      "total": 63451.0,
+      "settled": 0.0,
+      "outstanding": 63451.0,
+      "lines": [
+        {
+          "name": "RD8 Single Side White 6.5ft X2set",
+          "qty": 1.0,
+          "total": 4400.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X03] RD8 White Single Perforated 1950mm x3",
+          "qty": 1.0,
+          "total": 6450.0
+        },
+        {
+          "name": "RD8 Single Side White 6.5ft X1set",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "RD8 Single Side White 6.5ft X3set",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "RD8 Single Side White 6.5ft X4set",
+          "qty": 1.0,
+          "total": 8500.0
+        },
+        {
+          "name": "RD8 Single Side White 6.5ft X5set",
+          "qty": 1.0,
+          "total": 10550.0
+        },
+        {
+          "name": "RD8 Single Side White 6.5ft X6set",
+          "qty": 1.0,
+          "total": 12600.0
+        },
+        {
+          "name": "RD8 Single Side White 6.5ft X7set",
+          "qty": 1.0,
+          "total": 14650.0
+        },
+        {
+          "name": "RD8 Single Side white 6.5ft X8set",
+          "qty": 1.0,
+          "total": 1.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 5.0,
+          "total": 3950.0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "ref": "S00077",
+      "kind": "order",
+      "customer": "Mohamed Ahmed  Manfu O-11",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-31",
+      "expires": "2026-09-30",
+      "total": 25150.0,
+      "settled": 0.0,
+      "outstanding": 25150.0,
+      "lines": [
+        {
+          "name": "Single Side 6.5ft Rack (2C-SS-White)",
+          "qty": 4.0,
+          "total": 6600.0
+        },
+        {
+          "name": "2C Double Side White 6ft X1set",
+          "qty": 7.0,
+          "total": 18550.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "ref": "S00078",
+      "kind": "order",
+      "customer": "Mohamed Ahmed  Manfu O-11",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-31",
+      "expires": "2026-09-30",
+      "total": 8750.0,
+      "settled": 0.0,
+      "outstanding": 8750.0,
+      "lines": [
+        {
+          "name": "Single Side 6.5ft Rack (2C-SS-White)",
+          "qty": 1.0,
+          "total": 1650.0
+        },
+        {
+          "name": "RD8 Single Side White 6.5ft X1set",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "ref": "S00080",
+      "kind": "order",
+      "customer": "S&Y Mart",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-31",
+      "expires": "2026-09-30",
+      "total": 7916.67,
+      "settled": 0.0,
+      "outstanding": 7916.67,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 3.0,
+          "total": 7916.67
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "ref": "S00072",
+      "kind": "order",
+      "customer": "Paper plus G-2",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-31",
+      "expires": "2026-09-30",
+      "total": 1176.0,
+      "settled": 0.0,
+      "outstanding": 1176.0,
+      "lines": [
+        {
+          "name": "[6957090021382] Ceramic plate white 9",
+          "qty": 6.0,
+          "total": 210.0
+        },
+        {
+          "name": "[01799] Hair Comb Plastic",
+          "qty": 6.0,
+          "total": 174.0
+        },
+        {
+          "name": "[02360] Tea Cup 90ml",
+          "qty": 24.0,
+          "total": 600.0
+        },
+        {
+          "name": "[25084] Spoon Small Flatware Ss#7 Green",
+          "qty": 6.0,
+          "total": 192.0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "ref": "S00062",
+      "kind": "order",
+      "customer": "Skycrest Private Limited",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-30",
+      "expires": "2026-09-29",
+      "total": 3960.0,
+      "settled": 0.0,
+      "outstanding": 3960.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 2.0,
+          "total": 3960.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "ref": "S00063",
+      "kind": "order",
+      "customer": "Tree Top Hospital",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-30",
+      "expires": "2026-09-29",
+      "total": 3000.0,
+      "settled": 0.0,
+      "outstanding": 3000.0,
+      "lines": [
+        {
+          "name": "[70170] Office Rack Small",
+          "qty": 2.0,
+          "total": 3000.0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "ref": "S00053",
+      "kind": "order",
+      "customer": "Mohamed Ahmed  Manfu O-11",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-08-30",
+      "expires": "2026-09-29",
+      "total": 2651.0,
+      "settled": 0.0,
+      "outstanding": 2651.0,
+      "lines": [
+        {
+          "name": "2C Double Side White 6.5ft X1set",
+          "qty": 1.0,
+          "total": 2650.0
+        },
+        {
+          "name": "2C Double Side White 6.5ft X2set",
+          "qty": 1.0,
+          "total": 1.0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "ref": "S00060",
+      "kind": "order",
+      "customer": "Snap buy",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-30",
+      "expires": "2026-09-29",
+      "total": 2000.0,
+      "settled": 0.0,
+      "outstanding": 2000.0,
+      "lines": [
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 5.0,
+          "total": 1000.0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "ref": "S00059",
+      "kind": "order",
+      "customer": "THE RISTORO P-2",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-30",
+      "expires": "2026-09-29",
+      "total": 1500.0,
+      "settled": 0.0,
+      "outstanding": 1500.0,
+      "lines": [
+        {
+          "name": "[02109] Milkshake Powder Brown Sugar Milk Tea",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 5.0,
+          "total": 1000.0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "ref": "S00057",
+      "kind": "order",
+      "customer": "THE RISTORO P-2",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-30",
+      "expires": "2026-09-29",
+      "total": 1500.0,
+      "settled": 0.0,
+      "outstanding": 1500.0,
+      "lines": [
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 5.0,
+          "total": 1000.0
+        },
+        {
+          "name": "[02109] Milkshake Powder Brown Sugar Milk Tea",
+          "qty": 2.0,
+          "total": 500.0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "ref": "S00052",
+      "kind": "quotation",
+      "customer": "Snap buy",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-30",
+      "expires": "2026-09-29",
+      "total": 440.0,
+      "settled": 0.0,
+      "outstanding": 440.0,
+      "lines": [
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 440.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "ref": "S00025",
+      "kind": "order",
+      "customer": "Auguste Maldives",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 87455.0,
+      "settled": 0.0,
+      "outstanding": 87455.0,
+      "lines": [
+        {
+          "name": "37 Miniso Black Double Side (37-Miniso-DS)*3set",
+          "qty": 3.0,
+          "total": 36855.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*3set",
+          "qty": 1.0,
+          "total": 9285.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*2set",
+          "qty": 2.0,
+          "total": 12580.0
+        },
+        {
+          "name": "[00051] Cashier Desk #04",
+          "qty": 1.0,
+          "total": 8500.0
+        },
+        {
+          "name": "37 MINISO RACK End Rack(37-End Rack-Miniso)",
+          "qty": 1.0,
+          "total": 1950.0
+        },
+        {
+          "name": "37 Miniso Cupboard",
+          "qty": 6.0,
+          "total": 8400.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 3.0,
+          "total": 9885.0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "ref": "S00049",
+      "kind": "order",
+      "customer": "Gadhir - Rasdhoo",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 8900.0,
+      "settled": 0.0,
+      "outstanding": 8900.0,
+      "lines": [
+        {
+          "name": "2C Single Side White X6",
+          "qty": 1.0,
+          "total": 8900.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "ref": "S00030",
+      "kind": "order",
+      "customer": "Fish Hub",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 7900.0,
+      "settled": 0.0,
+      "outstanding": 7900.0,
+      "lines": [
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 600.0,
+          "total": 7200.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 50.0,
+          "total": 700.0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "ref": "S00044",
+      "kind": "order",
+      "customer": "Veyo plaza N-11",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 3280.0,
+      "settled": 0.0,
+      "outstanding": 3280.0,
+      "lines": [
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 2.0,
+          "total": 3280.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "ref": "S00020",
+      "kind": "order",
+      "customer": "I Select E-16",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 2820.0,
+      "settled": 0.0,
+      "outstanding": 2820.0,
+      "lines": [
+        {
+          "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1640.0
+        },
+        {
+          "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1180.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "ref": "S00041",
+      "kind": "quotation",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 2777.78,
+      "settled": 0.0,
+      "outstanding": 2777.78,
+      "lines": [
+        {
+          "name": "[10002] Tahina Jawharat Taiba Premium Sesame Tahina",
+          "qty": 1.0,
+          "total": 2777.78
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "ref": "S00039",
+      "kind": "quotation",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 2777.78,
+      "settled": 0.0,
+      "outstanding": 2777.78,
+      "lines": [
+        {
+          "name": "[10002] Tahina Jawharat Taiba Premium Sesame Tahina",
+          "qty": 1.0,
+          "total": 2777.78
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "ref": "S00038",
+      "kind": "quotation",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 2777.78,
+      "settled": 0.0,
+      "outstanding": 2777.78,
+      "lines": [
+        {
+          "name": "[10002] Tahina Jawharat Taiba Premium Sesame Tahina",
+          "qty": 1.0,
+          "total": 2777.78
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "ref": "S00037",
+      "kind": "order",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 2777.78,
+      "settled": 0.0,
+      "outstanding": 2777.78,
+      "lines": [
+        {
+          "name": "[10002] Tahina Jawharat Taiba Premium Sesame Tahina",
+          "qty": 1.0,
+          "total": 2777.78
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "ref": "S00036",
+      "kind": "quotation",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 2407.41,
+      "settled": 0.0,
+      "outstanding": 2407.41,
+      "lines": [
+        {
+          "name": "[10002] Tahina Jawharat Taiba Premium Sesame Tahina",
+          "qty": 1.0,
+          "total": 2407.41
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "ref": "S00045",
+      "kind": "order",
+      "customer": "S point  C-4",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 1755.0,
+      "settled": 0.0,
+      "outstanding": 1755.0,
+      "lines": [
+        {
+          "name": "[60001] Tool Box x5",
+          "qty": 9.0,
+          "total": 1755.0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "ref": "S00035",
+      "kind": "order",
+      "customer": "Haveereevilla / M-7",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 1675.0,
+      "settled": 0.0,
+      "outstanding": 1675.0,
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[70215] Gas Pipe ( Yellow )",
+          "qty": 6.0,
+          "total": 90.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "ref": "S00024",
+      "kind": "order",
+      "customer": "Sculpture A8",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 800.0,
+      "settled": 0.0,
+      "outstanding": 800.0,
+      "lines": [
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 5.0,
+          "total": 800.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "ref": "S00033",
+      "kind": "order",
+      "customer": "LDS hardware",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 790.0,
+      "settled": 0.0,
+      "outstanding": 790.0,
+      "lines": [
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "ref": "S00040",
+      "kind": "order",
+      "customer": "Fish Hub",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 7900.0,
+      "settled": 7400.0,
+      "outstanding": 500.0,
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 50.0,
+          "total": 700.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 600.0,
+          "total": 7200.0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "ref": "S00046",
+      "kind": "order",
+      "customer": "Mohamed Ahmed  Manfu O-11",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-29",
+      "expires": "2026-09-28",
+      "total": 15.0,
+      "settled": 0.0,
+      "outstanding": 15.0,
+      "lines": [
+        {
+          "name": "[65180] Aluminium Platter",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "ref": "S00018",
+      "kind": "order",
+      "customer": "symphony Maldives Pvt Ltd",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-28",
+      "expires": "2026-09-27",
+      "total": 450.0,
+      "settled": 0.0,
+      "outstanding": 450.0,
+      "lines": [
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 30.0,
+          "total": 450.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "ref": "S00016",
+      "kind": "order",
+      "customer": "Auguste Maldives",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 85350.0,
+      "settled": 0.0,
+      "outstanding": 85350.0,
+      "lines": [
+        {
+          "name": "37 Miniso Black Double Side (37-Miniso-DS)",
+          "qty": 9.0,
+          "total": 38655.0
+        },
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 11.0,
+          "total": 36245.0
+        },
+        {
+          "name": "37 MINISO RACK End Rack(37-End Rack-Miniso)",
+          "qty": 1.0,
+          "total": 1950.0
+        },
+        {
+          "name": "[00051] Cashier Desk #04",
+          "qty": 1.0,
+          "total": 8500.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "ref": "S00014",
+      "kind": "order",
+      "customer": "Auguste Maldives",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 57950.0,
+      "settled": 0.0,
+      "outstanding": 57950.0,
+      "lines": [
+        {
+          "name": "RD8 White End Rack 6.5ft(RD8-End Rack-White)",
+          "qty": 1.0,
+          "total": 1950.0
+        },
+        {
+          "name": "Single Side 6.5ft Rack (RD8-SS-White)",
+          "qty": 11.0,
+          "total": 25850.0
+        },
+        {
+          "name": "Double Side 6.5ft Rack (RD8-DS-White)",
+          "qty": 9.0,
+          "total": 30150.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "ref": "S00010",
+      "kind": "order",
+      "customer": "ike.retail.sales@gmail.com",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 18000.0,
+      "settled": 0.0,
+      "outstanding": 18000.0,
+      "lines": [
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 10.0,
+          "total": 18000.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "ref": "S00011",
+      "kind": "order",
+      "customer": "mv pvt ltd",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 2790.0,
+      "settled": 0.0,
+      "outstanding": 2790.0,
+      "lines": [
+        {
+          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+          "qty": 1.0,
+          "total": 1140.0
+        },
+        {
+          "name": "Single Side 6.5ft Rack (2C-SS-White)",
+          "qty": 1.0,
+          "total": 1650.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ref": "S00003",
+      "kind": "order",
+      "customer": "Breeze View C-8",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 1000.0,
+      "settled": 0.0,
+      "outstanding": 1000.0,
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[90046] Milkshake Powder Honeydew",
+          "qty": 2.0,
+          "total": 400.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ref": "S00002",
+      "kind": "order",
+      "customer": "Zento",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 1000.0,
+      "settled": 0.0,
+      "outstanding": 1000.0,
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[90046] Milkshake Powder Honeydew",
+          "qty": 2.0,
+          "total": 400.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "ref": "S00001",
+      "kind": "quotation",
+      "customer": "Breeze View C-8",
+      "salesperson": "thinzar6071@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 1000.0,
+      "settled": 0.0,
+      "outstanding": 1000.0,
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[90046] Milkshake Powder Honeydew",
+          "qty": 2.0,
+          "total": 400.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "ref": "S00006",
+      "kind": "order",
+      "customer": "Breeze View C-8",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 900.0,
+      "settled": 0.0,
+      "outstanding": 900.0,
+      "lines": [
+        {
+          "name": "[70181] Gas Burner ( Low Pressure )",
+          "qty": 1.0,
+          "total": 900.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "ref": "S00007",
+      "kind": "order",
+      "customer": "Breeze View C-8",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 800.0,
+      "settled": 0.0,
+      "outstanding": 800.0,
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[90046] Milkshake Powder Honeydew",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "ref": "S00004",
+      "kind": "order",
+      "customer": "Niba Pvt ltd",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 790.0,
+      "settled": 0.0,
+      "outstanding": 790.0,
+      "lines": [
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "ref": "S00012",
+      "kind": "order",
+      "customer": "Snap buy",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 400.0,
+      "settled": 0.0,
+      "outstanding": 400.0,
+      "lines": [
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "ref": "S00013",
+      "kind": "order",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 200.0,
+      "settled": 0.0,
+      "outstanding": 200.0,
+      "lines": [
+        {
+          "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
+          "qty": 1.0,
+          "total": 75.0
+        },
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 25.0,
+          "total": 125.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "ref": "S00017",
+      "kind": "order",
+      "customer": "Mohamed Ahmed  Manfu O-11",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-08-27",
+      "expires": "2026-09-26",
+      "total": 7.0,
+      "settled": 0.0,
+      "outstanding": 7.0,
+      "lines": [
+        {
+          "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
+          "qty": 1.0,
+          "total": 7.0
+        }
+      ]
+    }
+  ]
+}
