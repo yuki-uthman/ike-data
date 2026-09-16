@@ -47,6 +47,16 @@ def main():
     fields = [f for f in wanted if f in available]
     print(f"account.payment fields NOT present in this Odoo: {sorted(set(wanted) - available) or 'none'}\n")
 
+    pos_fields = sorted(f for f in available if "pos" in f.lower())
+    print(f"account.payment fields mentioning 'pos': {pos_fields or 'none'}")
+
+    methods = execute("pos.payment.method", "search_read", [], fields=["name", "journal_id"])
+    print("\npos.payment.method -> journal:")
+    for m in methods:
+        print(f"  {m['name']!r:<28} journal {m.get('journal_id')}")
+    pos_journal_ids = {op.rel_id(m.get("journal_id")) for m in methods} - {None}
+    print(f"  => journal ids used by POS methods: {sorted(pos_journal_ids)}\n")
+
     payments = execute(
         "account.payment", "search_read",
         [
@@ -61,7 +71,11 @@ def main():
     for p in payments:
         print(f"\n  {p.get('name')}  amount={p.get('amount')}  state={p.get('state')}")
         print(f"    partner  : {op.rel_name(p.get('partner_id'))}")
-        print(f"    journal  : {op.rel_name(p.get('journal_id'))} -> classified {op.classify(op.rel_name(p.get('journal_id')))}")
+        jid = op.rel_id(p.get('journal_id'))
+        print(f"    journal  : id={jid} {op.rel_name(p.get('journal_id'))!r} -> classified {op.classify(op.rel_name(p.get('journal_id')))}"
+              f"{'  <-- A POS METHOD JOURNAL' if jid in pos_journal_ids else ''}")
+        for f in pos_fields:
+            print(f"    {f}: {p.get(f)}")
         print(f"    ref      : {p.get('ref')!r}")
         print(f"    reconciled_invoice_ids: {p.get('reconciled_invoice_ids')}")
         for extra in ("is_reconciled", "is_internal_transfer"):
