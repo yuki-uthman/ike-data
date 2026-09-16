@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T08:45:49Z",
+  "generatedAt": "2026-09-16T09:01:19Z",
   "cash": {
     "total": 88.0,
     "count": 2
   },
   "transfer": {
-    "total": 6227.0,
-    "count": 3
+    "total": 8207.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -20,6 +20,15 @@
       "ref": "INV/2026/00143",
       "customer": "GREENZONE DISTRICT",
       "amount": 4950.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment"
+    },
+    {
+      "ref": "INV/2026/00145",
+      "customer": "Hawwa Masuoodha bulaasam F-1",
+      "amount": 1980.0,
       "method": "transfer",
       "rawMethod": "Bank",
       "time": null,
@@ -66,8 +75,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 6150.0
+      "count": 3,
+      "total": 8130.0
     },
     {
       "name": "Cash",

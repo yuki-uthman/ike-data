@@ -1574,24 +1574,29 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T08:45:38Z",
+      "generatedAt": "2026-09-16T09:01:08Z",
       "pos": {
         "total": 165.0,
         "count": 3
       },
       "regularSales": {
-        "total": 6150.0,
-        "count": 2
+        "total": 8130.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 2500.0,
-        "count": 2
+        "total": 520.0,
+        "count": 1
       },
       "products": [
         {
           "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
           "qty": 3.0,
           "total": 4950.0
+        },
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 1.0,
+          "total": 1980.0
         },
         {
           "name": "[BC8C] Bagasse Clamshell 8\" [case]",
