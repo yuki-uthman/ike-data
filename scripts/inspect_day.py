@@ -96,7 +96,8 @@ def main():
     print(f"\n=== as the pipeline sees it ===")
     print(f"  POS payments       : {len(pos_rows):>3}  {round(sum(t['amount'] for t in pos_rows), 2)}")
     print(f"  accounting payments: {len(pay_rows):>3}  {round(sum(t['amount'] for t in pay_rows), 2)}")
-    print(f"  skipped as already-counted POS: {skipped}")
+    print(f"  skipped: {skipped['pos_invoice']} already-counted POS invoice(s), "
+          f"{skipped['pos_settlement']} POS session settlement(s)")
     print(f"  day total          : {round(sum(t['amount'] for t in transactions), 2)}")
     print(f"  rows with no line detail: {sum(1 for t in transactions if not t['lines'])}")
 

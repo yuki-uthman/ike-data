@@ -42,7 +42,7 @@ def main():
     now_utc = datetime.now(timezone.utc).replace(tzinfo=None)
     day = op.maldives_today(now_utc)
 
-    transactions, skipped_as_pos = op.collect_payments(execute, day)
+    transactions, skipped = op.collect_payments(execute, day)
 
     payload = {
         "company": "MRH Investment",
@@ -64,7 +64,8 @@ def main():
         f"Cash {payload['cash']['total']} ({payload['cash']['count']}), "
         f"Transfer {payload['transfer']['total']} ({payload['transfer']['count']}), "
         f"Other {payload['other']['total']} ({payload['other']['count']}), "
-        f"{skipped_as_pos} accounting payment(s) skipped as already-counted POS"
+        f"skipped {skipped['pos_invoice']} already-counted POS invoice(s), "
+        f"{skipped['pos_settlement']} POS session settlement(s)"
     )
     with_lines = sum(1 for t in transactions if t["lines"])
     print(f"{with_lines}/{len(transactions)} transaction(s) carry line detail")

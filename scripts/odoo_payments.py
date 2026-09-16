@@ -12,10 +12,31 @@ Money reaches this business two ways, so a day is the union of:
   - account.payment  : posted inbound customer payments booked on that date
                        (bank receipts, counter receipts against invoices).
 
-De-duplication: a POS order that was also invoiced can produce an
-account.payment reconciled against that same invoice. Any account.payment
-whose reconciled invoices are ALL invoices already reached through a POS
-order that day is dropped, so such a sale is counted once, via its POS line.
+De-duplication has two separate cases, because POS money can reach
+account.payment two different ways:
+
+  1. A POS order that was also invoiced produces an account.payment
+     reconciled against that same invoice. Any account.payment whose
+     reconciled invoices are ALL invoices already reached through a POS
+     order that day is dropped.
+
+  2. Closing a POS session posts ONE aggregate settlement payment per
+     payment method into that method's journal - the day's card/bank
+     takings as a single figure, with no partner and no invoice. That is
+     the same money already counted line by line from pos.payment, so it
+     must not be counted again.
+
+Case 2 cannot be spotted by journal or by sequence: at MRH the POS
+"Bank Transfer" method and ordinary customer receipts share journal 6
+("Bank") and the same PBNK1 sequence. What separates them is that a
+settlement has NO partner and NO reconciled invoice, while a genuine
+receipt has both. So a payment in a POS-method journal with neither is
+treated as a settlement and skipped.
+
+Left uncaught, this double counts every POS card sale: 10 September 2026
+read 98,499 received against 41,387 of POS takings, because the session's
+41,108 settlement was added on top of the lines that made it up - and the
+previous day's session, settling that morning, added 16,004 more.
 
 Each transaction carries the lines behind it - product, quantity and
 tax-inclusive line total - taken from pos.order.line or from the invoice(s)
@@ -101,10 +122,13 @@ def collect_payments(execute, day):
     """Every customer payment received on one Maldives day.
 
     `execute(model, method, *args, **kwargs)` is the caller's bound XML-RPC
-    helper. Returns (transactions, skipped_as_pos), transactions sorted by
-    amount descending, each shaped:
+    helper. Returns (transactions, skipped), transactions sorted by amount
+    descending, each shaped:
 
         {ref, customer, amount, method, rawMethod, time, source, lines[]}
+
+    `skipped` counts what was dropped as already counted, by reason:
+    {"pos_invoice": n, "pos_settlement": n}.
     """
     start_utc, end_utc = day_bounds_utc(day)
     date_str = day.isoformat()
@@ -115,6 +139,14 @@ def collect_payments(execute, day):
 
     transactions = []
     pos_invoice_ids = set()
+
+    # Journals that POS payment methods settle into. A payment sitting in one
+    # of these with no partner and no invoice is a session settlement, not a
+    # customer receipt - see the module docstring.
+    pos_journal_ids = {
+        rel_id(m.get("journal_id"))
+        for m in execute("pos.payment.method", "search_read", [], fields=["journal_id"])
+    } - {None}
 
     # ---- 1. POS payments ----------------------------------------------------
     pos_payment_fields = existing_fields(
@@ -218,7 +250,7 @@ def collect_payments(execute, day):
                 "total": round(line.get("price_total") or 0.0, 2),
             })
 
-    skipped_as_pos = 0
+    skipped = {"pos_invoice": 0, "pos_settlement": 0}
     for payment in account_payments:
         amount = payment.get("amount") or 0.0
         if not amount:
@@ -226,7 +258,16 @@ def collect_payments(execute, day):
         reconciled = payment.get("reconciled_invoice_ids") or []
         # Already counted through its POS line - drop it rather than double count.
         if reconciled and all(move_id in pos_invoice_ids for move_id in reconciled):
-            skipped_as_pos += 1
+            skipped["pos_invoice"] += 1
+            continue
+        # A POS session's aggregate settlement: the same money as the
+        # pos.payment rows above, posted once more when the session closed.
+        if (
+            rel_id(payment.get("journal_id")) in pos_journal_ids
+            and not payment.get("partner_id")
+            and not reconciled
+        ):
+            skipped["pos_settlement"] += 1
             continue
         ref = next(
             (invoice_names[move_id] for move_id in reconciled if move_id in invoice_names),
@@ -249,7 +290,7 @@ def collect_payments(execute, day):
         })
 
     transactions.sort(key=lambda t: t["amount"], reverse=True)
-    return transactions, skipped_as_pos
+    return transactions, skipped
 
 
 def bucket(transactions, kind):
@@ -265,12 +306,22 @@ def by_source(transactions, source):
 def aggregate_products(transactions):
     """Every product paid for that day, aggregated by name, ranked by value.
 
+    Counted once per reference, not once per payment: two instalments against
+    one invoice on the same day carry the same line set, and adding both would
+    report twice the goods that were actually sold. The money is still counted
+    twice over - correctly, two payments did arrive - so only the product
+    breakdown de-duplicates.
+
     Product names are kept exactly as Odoo holds them, internal reference
     prefix included; stripping that is a display concern and belongs in the
     dashboards, which already do it.
     """
     totals = {}
+    seen_refs = set()
     for t in transactions:
+        if t["ref"] in seen_refs:
+            continue
+        seen_refs.add(t["ref"])
         for line in t["lines"]:
             entry = totals.setdefault(line["name"], {"name": line["name"], "qty": 0.0, "total": 0.0})
             entry["qty"] += line["qty"]
@@ -319,7 +370,7 @@ def day_entry(execute, day, generated_at):
     through the POS" and "received through an accounting payment" - the page
     sums the two, and that sum is the day's money in.
     """
-    transactions, skipped_as_pos = collect_payments(execute, day)
+    transactions, skipped = collect_payments(execute, day)
     return {
         "date": day.isoformat(),
         "generatedAt": generated_at,
@@ -330,4 +381,4 @@ def day_entry(execute, day, generated_at):
         "transfer": bucket(transactions, "transfer"),
         "other": bucket(transactions, "other"),
         "products": aggregate_products(transactions),
-    }, transactions, skipped_as_pos
+    }, transactions, skipped

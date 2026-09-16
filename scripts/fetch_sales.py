@@ -51,7 +51,7 @@ def main():
     day = op.maldives_today(now_utc)
     generated_at = now_utc.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    day_entry, transactions, skipped_as_pos = op.day_entry(execute, day, generated_at)
+    day_entry, transactions, skipped = op.day_entry(execute, day, generated_at)
     date_str = day_entry["date"]
 
     if DATA_PATH.exists():
@@ -74,7 +74,8 @@ def main():
         f"Accounting {day_entry['regularSales']['total']} / {day_entry['regularSales']['count']}), "
         f"Cash {day_entry['cash']['total']}, Transfer {day_entry['transfer']['total']}, "
         f"Other {day_entry['other']['total']}, Products {len(day_entry['products'])}, "
-        f"{skipped_as_pos} skipped as already-counted POS"
+        f"skipped {skipped['pos_invoice']} already-counted POS invoice(s), "
+        f"{skipped['pos_settlement']} POS session settlement(s)"
     )
     if day_entry["other"]["count"]:
         print("::warning::Unclassified payment method(s) present - widen CASH_PATTERN / TRANSFER_PATTERN in odoo_payments.py")

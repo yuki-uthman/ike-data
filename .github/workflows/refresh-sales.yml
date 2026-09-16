@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Check the payment logic against canned Odoo data
+        run: python scripts/test_payments.py
+
       - name: Fetch today's sales from Odoo
         env:
           ODOO_URL: https://mrh-investment.odoo.com

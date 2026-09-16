@@ -69,7 +69,7 @@ def main():
 
     generated_at = now_utc.strftime("%Y-%m-%dT%H:%M:%SZ")
     for d in dates:
-        entry, _transactions, skipped_as_pos = op.day_entry(execute, d, generated_at)
+        entry, _transactions, skipped = op.day_entry(execute, d, generated_at)
         received = round(entry["pos"]["total"] + entry["regularSales"]["total"], 2)
         was = by_date.get(entry["date"])
         before = round(was["pos"]["total"] + was["regularSales"]["total"], 2) if was else None
@@ -79,7 +79,8 @@ def main():
             f"  {entry['date']}: Received {received}{change} - "
             f"Cash {entry['cash']['total']}, Transfer {entry['transfer']['total']}, "
             f"Other {entry['other']['total']}, Products {len(entry['products'])}, "
-            f"{skipped_as_pos} skipped as already-counted POS"
+            f"skipped {skipped['pos_invoice']} POS invoice(s) / "
+            f"{skipped['pos_settlement']} session settlement(s)"
         )
 
     days = sorted(by_date.values(), key=lambda d: d["date"])
