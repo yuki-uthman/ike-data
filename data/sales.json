@@ -4225,10 +4225,10 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-16T15:30:52Z",
+      "generatedAt": "2026-09-16T15:45:38Z",
       "pos": {
-        "total": 495.0,
-        "count": 5
+        "total": 633.0,
+        "count": 6
       },
       "regularSales": {
         "total": 8130.0,
@@ -4239,8 +4239,8 @@
         "count": 3
       },
       "cash": {
-        "total": 138.0,
-        "count": 3
+        "total": 276.0,
+        "count": 4
       },
       "transfer": {
         "total": 8487.0,
@@ -4270,6 +4270,11 @@
           "name": "[0100T] Paper salad bowl 1000 ML",
           "qty": 1.0,
           "total": 150.0
+        },
+        {
+          "name": "[98559] Kitchen scale 5kg@SH-125",
+          "qty": 1.0,
+          "total": 138.0
         },
         {
           "name": "[02422] KRAFT PAPER BAG 16*7*32CM 50PCS",
