@@ -2,8 +2,9 @@
 
 The shared Odoo data pipeline for MRH Investment's dashboards. This repo owns
 the Odoo credential and the scheduled pull; it has no frontend of its own.
-Each dashboard (e.g. [ike-sales](https://github.com/yuki-uthman/ike-sales))
-is a separate, static-only repo that fetches its JSON straight from here via
+Each dashboard ([ike-sales](https://github.com/yuki-uthman/ike-sales),
+ike-expenses, [ike-today](https://github.com/yuki-uthman/ike-today)) is a
+separate, static-only repo that fetches its JSON straight from here via
 `raw.githubusercontent.com` — no server, no API, no shared secret.
 
 ## Why split from the frontend
@@ -18,9 +19,9 @@ is a separate, static-only repo that fetches its JSON straight from here via
 ## What's here
 
 - `.github/workflows/refresh-sales.yml` — runs every 15 minutes, pulls
-  today's sales *and* expenses from Odoo in one job, commits both JSON files
-  together (kept as one workflow, not two, specifically to avoid two
-  independent crons racing each other's git push on the same repo).
+  today's sales, expenses *and* payments from Odoo in one job, commits all
+  three JSON files together (kept as one workflow, not three, specifically to
+  avoid independent crons racing each other's git push on the same repo).
 - `scripts/fetch_sales.py` — the sales pull + de-duplication logic (see its
   own docstring).
 - `scripts/fetch_expenses.py` — the expenses pull, sourced from `hr.expense`
@@ -28,10 +29,24 @@ is a separate, static-only repo that fetches its JSON straight from here via
   actually used to record day-to-day spend). Counts `approved` / `posted` /
   `in_payment` / `paid` as real; `draft` / `submitted` are tracked separately
   as pending and excluded from the total; `refused` is dropped entirely.
+- `scripts/fetch_today.py` — today's **money received**, split into cash vs
+  transfer, one row per payment with its invoice number and customer. Note
+  this is a different question from `fetch_sales.py`: that one counts sales
+  *made* today, this one counts money *arriving* today, so a credit sale
+  appears in each on a different day. Sources `pos.payment` (the POS drawer)
+  and posted inbound `account.payment` (bank and counter receipts), dropping
+  any accounting payment already counted through a POS order so an invoiced
+  POS sale is never double counted. The cash/transfer split is name-driven
+  (`CASH_PATTERN` / `TRANSFER_PATTERN` in the script); anything matching
+  neither goes to an `other` bucket that stays visible on the dashboard
+  instead of inflating a total, and every run logs each distinct method and
+  journal name it saw.
 - `scripts/backfill_sales.py` / `scripts/backfill_expenses.py` — one-off
   backfill of past days, run manually when needed.
-- `data/sales.json`, `data/expenses.json` — the outputs. Any dashboard can
-  read either directly at, e.g.,
+- `data/sales.json`, `data/expenses.json`, `data/today.json` — the outputs.
+  The first two keep a rolling 60-day history; `today.json` holds the current
+  day only and is overwritten each run. Any dashboard can read any of them
+  directly at, e.g.,
   `https://raw.githubusercontent.com/yuki-uthman/ike-data/main/data/sales.json`
   (GitHub serves raw file content with `Access-Control-Allow-Origin: *`, so
   this works from any origin, no CORS setup needed).

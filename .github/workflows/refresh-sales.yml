@@ -1,4 +1,4 @@
-name: Refresh sales + expenses data
+name: Refresh sales + expenses + today data
 
 on:
   schedule:
@@ -39,13 +39,21 @@ jobs:
           ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
         run: python scripts/fetch_expenses.py
 
+      - name: Fetch today's cash + transfer payments from Odoo
+        env:
+          ODOO_URL: https://mrh-investment.odoo.com
+          ODOO_DB: mrh-investment
+          ODOO_USERNAME: mrhpvt@gmail.com
+          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
+        run: python scripts/fetch_today.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/sales.json data/expenses.json
+          git add data/sales.json data/expenses.json data/today.json
           git diff --cached --quiet && { echo "No changes"; exit 0; }
-          git commit -m "chore: refresh sales + expenses data"
+          git commit -m "chore: refresh sales + expenses + today data"
           for i in 1 2 3 4 5; do
             if git push; then
               exit 0
