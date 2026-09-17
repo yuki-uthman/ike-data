@@ -10255,14 +10255,14 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T16:15:35Z",
+      "generatedAt": "2026-09-17T16:30:54Z",
       "pos": {
         "total": 564.0,
         "count": 7
       },
       "regularSales": {
-        "total": 33705.0,
-        "count": 12
+        "total": 33925.0,
+        "count": 13
       },
       "pendingQuotations": {
         "total": 15850.0,
@@ -10273,8 +10273,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 30540.0,
-        "count": 10
+        "total": 30760.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -10489,6 +10489,22 @@
           "rawMethod": "Bank Transfer",
           "time": "09:53",
           "source": "pos",
+          "lines": [
+            {
+              "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
+              "qty": 2.0,
+              "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00159",
+          "customer": "Novelty Bookshop",
+          "amount": 220.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
           "lines": [
             {
               "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",

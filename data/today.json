@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T16:15:42Z",
+  "generatedAt": "2026-09-17T16:31:05Z",
   "cash": {
     "total": 3729.0,
     "count": 9
   },
   "transfer": {
-    "total": 30540.0,
-    "count": 10
+    "total": 30760.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -233,6 +233,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00159",
+      "customer": "Novelty Bookshop",
+      "amount": 220.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
+          "qty": 2.0,
+          "total": 220.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00157",
       "customer": "sales",
       "amount": 200.0,
@@ -365,8 +381,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 30125.0
+      "count": 9,
+      "total": 30345.0
     },
     {
       "name": "Cash",
