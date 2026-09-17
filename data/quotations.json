@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T15:45:52Z",
-  "openCount": 119,
-  "openTotal": 1407988.2,
-  "quotationCount": 42,
-  "quotationTotal": 516616.75,
+  "generatedAt": "2026-09-17T16:01:21Z",
+  "openCount": 118,
+  "openTotal": 1393988.2,
+  "quotationCount": 41,
+  "quotationTotal": 502616.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -137,36 +137,12 @@
     },
     {
       "date": "2026-09-17",
-      "count": 10,
-      "outstanding": 35630.0,
-      "total": 35630.0
+      "count": 9,
+      "outstanding": 21630.0,
+      "total": 21630.0
     }
   ],
   "quotations": [
-    {
-      "id": 261,
-      "ref": "S00262",
-      "kind": "quotation",
-      "customer": "Ekuveri store",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 14000.0,
-      "settled": 0.0,
-      "outstanding": 14000.0,
-      "lines": [
-        {
-          "name": "2C Price Border Strip Red",
-          "qty": 48.0,
-          "total": 1200.0
-        },
-        {
-          "name": "[2C-WHT-SS-2000-X04] #2C White Single Side 2000mm x4",
-          "qty": 2.0,
-          "total": 12800.0
-        }
-      ]
-    },
     {
       "id": 264,
       "ref": "S00265",
@@ -1982,7 +1958,7 @@
       "id": 97,
       "ref": "S00097",
       "kind": "order",
-      "customer": "Ekuveri store",
+      "customer": "Ekuveri store I-8",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-01",
       "expires": "2026-10-01",
@@ -2006,7 +1982,7 @@
       "id": 96,
       "ref": "S00096",
       "kind": "order",
-      "customer": "Ekuveri store",
+      "customer": "Ekuveri store I-8",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-01",
       "expires": "2026-10-01",

@@ -2,20 +2,41 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T15:45:47Z",
+  "generatedAt": "2026-09-17T16:01:16Z",
   "cash": {
     "total": 3729.0,
     "count": 9
   },
   "transfer": {
-    "total": 15340.0,
-    "count": 9
+    "total": 30540.0,
+    "count": 10
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00158",
+      "customer": "Ekuveri store I-8",
+      "amount": 15200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 8.0,
+          "total": 14000.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 48.0,
+          "total": 1200.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00152",
       "customer": "Zeelam Trade C -14",
@@ -344,8 +365,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 14925.0
+      "count": 8,
+      "total": 30125.0
     },
     {
       "name": "Cash",
