@@ -4301,22 +4301,22 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T11:45:33Z",
+      "generatedAt": "2026-09-17T12:01:05Z",
       "pos": {
-        "total": 294.0,
-        "count": 5
+        "total": 344.0,
+        "count": 6
       },
       "regularSales": {
         "total": 18305.0,
         "count": 10
       },
       "pendingQuotations": {
-        "total": 1150.0,
-        "count": 2
+        "total": 16350.0,
+        "count": 3
       },
       "cash": {
-        "total": 3479.0,
-        "count": 7
+        "total": 3529.0,
+        "count": 8
       },
       "transfer": {
         "total": 15120.0,
@@ -4401,6 +4401,11 @@
           "name": "[8389] Aluminium Foil Box 8389 Loose",
           "qty": 53.0,
           "total": 159.0
+        },
+        {
+          "name": "[70059] Dust Pan Dm-044",
+          "qty": 1.0,
+          "total": 50.0
         },
         {
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",

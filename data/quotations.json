@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T11:45:47Z",
-  "openCount": 115,
-  "openTotal": 1379088.2,
-  "quotationCount": 39,
-  "quotationTotal": 487916.75,
+  "generatedAt": "2026-09-17T12:01:19Z",
+  "openCount": 116,
+  "openTotal": 1394288.2,
+  "quotationCount": 40,
+  "quotationTotal": 503116.75,
   "orderCount": 76,
   "orderTotal": 891171.45,
   "days": [
@@ -137,12 +137,36 @@
     },
     {
       "date": "2026-09-17",
-      "count": 6,
-      "outstanding": 6730.0,
-      "total": 6730.0
+      "count": 7,
+      "outstanding": 21930.0,
+      "total": 21930.0
     }
   ],
   "quotations": [
+    {
+      "id": 261,
+      "ref": "S00262",
+      "kind": "quotation",
+      "customer": "Ekuveri store",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-17",
+      "expires": "2026-10-17",
+      "total": 15200.0,
+      "settled": 0.0,
+      "outstanding": 15200.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 8.0,
+          "total": 14000.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 48.0,
+          "total": 1200.0
+        }
+      ]
+    },
     {
       "id": 248,
       "ref": "S00249",

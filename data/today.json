@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T11:45:42Z",
+  "generatedAt": "2026-09-17T12:01:14Z",
   "cash": {
-    "total": 3479.0,
-    "count": 7
+    "total": 3529.0,
+    "count": 8
   },
   "transfer": {
     "total": 15120.0,
@@ -228,6 +228,22 @@
       ]
     },
     {
+      "ref": "Ike - 000162",
+      "customer": "Walk-in",
+      "amount": 50.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "09:00",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70059] Dust Pan Dm-044",
+          "qty": 1.0,
+          "total": 50.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000157",
       "customer": "Walk-in",
       "amount": 50.0,
@@ -302,8 +318,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 7,
-      "total": 3479.0
+      "count": 8,
+      "total": 3529.0
     },
     {
       "name": "Bank Transfer",
