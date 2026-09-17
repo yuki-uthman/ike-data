@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T08:31:11Z",
+  "generatedAt": "2026-09-17T08:45:49Z",
   "cash": {
-    "total": 2664.0,
-    "count": 5
+    "total": 2679.0,
+    "count": 6
   },
   "transfer": {
     "total": 3330.0,
@@ -144,6 +144,22 @@
       ]
     },
     {
+      "ref": "Ike - 000160",
+      "customer": "Walk-in",
+      "amount": 15.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "05:38",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01928] Ceramic Mug#48-1",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000159",
       "customer": "Walk-in",
       "amount": 9.0,
@@ -170,8 +186,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 2664.0
+      "count": 6,
+      "total": 2679.0
     }
   ]
 }

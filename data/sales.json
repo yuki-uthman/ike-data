@@ -4301,10 +4301,10 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T08:30:57Z",
+      "generatedAt": "2026-09-17T08:45:37Z",
       "pos": {
-        "total": 84.0,
-        "count": 3
+        "total": 99.0,
+        "count": 4
       },
       "regularSales": {
         "total": 5910.0,
@@ -4315,8 +4315,8 @@
         "count": 0
       },
       "cash": {
-        "total": 2664.0,
-        "count": 5
+        "total": 2679.0,
+        "count": 6
       },
       "transfer": {
         "total": 3330.0,
@@ -4376,6 +4376,11 @@
           "name": "[01773] Wall Clip Adhesive Plastic#22808",
           "qty": 1.0,
           "total": 25.0
+        },
+        {
+          "name": "[01928] Ceramic Mug#48-1",
+          "qty": 1.0,
+          "total": 15.0
         }
       ]
     }
