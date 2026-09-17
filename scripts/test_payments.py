@@ -98,9 +98,7 @@ print("\npos(received via POS)   :", entry["pos"])
 print("regularSales(accounting):", entry["regularSales"])
 print("cash / transfer / other :", entry["cash"], entry["transfer"], entry["other"])
 print("pendingQuotations       :", entry["pendingQuotations"])
-print("\nproducts (aggregated across POS and invoice lines):")
-for p in entry["products"]:
-    print(f"  {p['name']:<24} qty {p['qty']:<5} {p['total']}")
+print("\ntransactions carried on the day entry:", len(entry["transactions"]))
 
 # --- assertions ---
 fail = []
@@ -116,12 +114,24 @@ if entry["regularSales"]["total"] != 8450.0: fail.append(f"accounting received w
 if entry["cash"]["total"] != 59.0: fail.append(f"cash wrong: {entry['cash']['total']}")
 if entry["transfer"]["total"] != 7527.0: fail.append(f"transfer wrong: {entry['transfer']['total']} (expected 4950+77+2500)")
 if entry["other"]["total"] != 1000.0: fail.append("the Cheque payment should be in other, counted in no total")
-combs = [p for p in entry["products"] if "Hair comb" in p["name"]]
-if not combs or combs[0]["qty"] != 2.0 or combs[0]["total"] != 96.0:
-    fail.append(f"product aggregation across two POS orders wrong: {combs}")
-plates = [p for p in entry["products"] if "Paper plate" in p["name"]]
-if not plates or plates[0]["qty"] != 7.0 or plates[0]["total"] != 290.0:
-    fail.append(f"product aggregation across POS + invoice wrong: {plates}")
+# The day entry carries transactions now; ike-sales aggregates products from
+# them. Assert the same sums hold under that derivation, including its
+# once-per-reference rule, so the dashboards cannot be handed doubled goods.
+agg, seen = {}, set()
+for tx in sorted(entry["transactions"], key=lambda x: -x["amount"]):
+    if tx["ref"] in seen:
+        continue
+    seen.add(tx["ref"])
+    for line in tx["lines"]:
+        e = agg.setdefault(line["name"], {"qty": 0.0, "total": 0.0})
+        e["qty"] += line["qty"]; e["total"] += line["total"]
+if "products" in entry: fail.append("day entry still carries a products array - two sources to disagree")
+combs = next((v for k, v in agg.items() if "Hair comb" in k), None)
+if not combs or combs["qty"] != 2.0 or combs["total"] != 96.0:
+    fail.append(f"derived aggregation across two POS orders wrong: {combs}")
+plates = next((v for k, v in agg.items() if "Paper plate" in k), None)
+if not plates or plates["qty"] != 7.0 or plates["total"] != 290.0:
+    fail.append(f"derived aggregation across POS + invoice wrong (once per reference?): {plates}")
 advance = [t for t in txns if t["amount"] == 1000.0][0]
 if advance["ref"] != "CUST.IN/2026/0012": fail.append("unreconciled advance did not fall back to its own reference")
 if entry["pendingQuotations"] != {"total": 2460.0, "count": 2}: fail.append("pendingQuotations changed meaning")

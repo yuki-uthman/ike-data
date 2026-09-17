@@ -32,8 +32,12 @@ separate, static-only repo that fetches its JSON straight from here via
   cash vs transfer by method/journal name with an `other` bucket for anything
   matching neither. Every optional field is probed with `fields_get` first, so
   an Odoo version lacking one degrades a column rather than failing the run.
-- `scripts/fetch_sales.py` — today's entry for `sales.json`. **Changed meaning
-  on 2026-09-16**: this counted sales *made* each day, paid or not; it now
+- `scripts/fetch_sales.py` — today's entry for `sales.json`, including that
+  day's transactions, which is what lets ike-sales list a day by invoice and
+  customer as well as by product. It no longer writes an aggregated `products`
+  array: products are derivable from those lines, so storing both meant two
+  things that could disagree. The dashboard aggregates them, by the same
+  once-per-reference rule. **Changed meaning on 2026-09-16**: this counted sales *made* each day, paid or not; it now
   counts money *received*, matching ike-today. The day entry keeps its old key
   names, so no dashboard change was needed — `pos` and `regularSales` now mean
   "received through the POS" and "received through an accounting payment", and

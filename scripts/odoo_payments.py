@@ -303,35 +303,6 @@ def by_source(transactions, source):
     return {"total": round(sum(t["amount"] for t in rows), 2), "count": len(rows)}
 
 
-def aggregate_products(transactions):
-    """Every product paid for that day, aggregated by name, ranked by value.
-
-    Counted once per reference, not once per payment: two instalments against
-    one invoice on the same day carry the same line set, and adding both would
-    report twice the goods that were actually sold. The money is still counted
-    twice over - correctly, two payments did arrive - so only the product
-    breakdown de-duplicates.
-
-    Product names are kept exactly as Odoo holds them, internal reference
-    prefix included; stripping that is a display concern and belongs in the
-    dashboards, which already do it.
-    """
-    totals = {}
-    seen_refs = set()
-    for t in transactions:
-        if t["ref"] in seen_refs:
-            continue
-        seen_refs.add(t["ref"])
-        for line in t["lines"]:
-            entry = totals.setdefault(line["name"], {"name": line["name"], "qty": 0.0, "total": 0.0})
-            entry["qty"] += line["qty"]
-            entry["total"] += line["total"]
-    return sorted(
-        ({"name": p["name"], "qty": round(p["qty"], 2), "total": round(p["total"], 2)} for p in totals.values()),
-        key=lambda p: p["total"], reverse=True,
-    )
-
-
 def methods_seen(transactions):
     seen = {}
     for t in transactions:
@@ -369,6 +340,12 @@ def day_entry(execute, day, generated_at):
     `pos` and `regularSales` keep their key names but now mean "received
     through the POS" and "received through an accounting payment" - the page
     sums the two, and that sum is the day's money in.
+
+    Carries the day's transactions, which is what lets ike-sales list a day by
+    invoice and customer as well as by product. The aggregated product array
+    it used to write is gone: products are derivable from these lines, so
+    storing both meant two things that could disagree. The dashboard does that
+    aggregation now, by the same once-per-reference rule.
     """
     transactions, skipped = collect_payments(execute, day)
     return {
@@ -380,5 +357,5 @@ def day_entry(execute, day, generated_at):
         "cash": bucket(transactions, "cash"),
         "transfer": bucket(transactions, "transfer"),
         "other": bucket(transactions, "other"),
-        "products": aggregate_products(transactions),
+        "transactions": transactions,
     }, transactions, skipped

@@ -73,7 +73,7 @@ def main():
         f"(POS {day_entry['pos']['total']} / {day_entry['pos']['count']}, "
         f"Accounting {day_entry['regularSales']['total']} / {day_entry['regularSales']['count']}), "
         f"Cash {day_entry['cash']['total']}, Transfer {day_entry['transfer']['total']}, "
-        f"Other {day_entry['other']['total']}, Products {len(day_entry['products'])}, "
+        f"Other {day_entry['other']['total']}, Transactions {len(day_entry['transactions'])}, "
         f"skipped {skipped['pos_invoice']} already-counted POS invoice(s), "
         f"{skipped['pos_settlement']} POS session settlement(s)"
     )
