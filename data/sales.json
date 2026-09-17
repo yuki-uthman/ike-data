@@ -4301,22 +4301,22 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T05:00:59Z",
+      "generatedAt": "2026-09-17T05:15:35Z",
       "pos": {
         "total": 50.0,
         "count": 1
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 280.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 1900.0,
         "count": 1
       },
       "cash": {
-        "total": 50.0,
-        "count": 1
+        "total": 330.0,
+        "count": 2
       },
       "transfer": {
         "total": 0,
@@ -4327,6 +4327,11 @@
         "count": 0
       },
       "products": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
+        },
         {
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
           "qty": 1.0,

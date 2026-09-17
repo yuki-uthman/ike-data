@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T05:01:07Z",
+  "generatedAt": "2026-09-17T05:15:45Z",
   "cash": {
-    "total": 50.0,
-    "count": 1
+    "total": 330.0,
+    "count": 2
   },
   "transfer": {
     "total": 0,
@@ -16,6 +16,22 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00147",
+      "customer": "EDEN MART",
+      "amount": 280.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000157",
       "customer": "Walk-in",
@@ -37,8 +53,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 50.0
+      "count": 2,
+      "total": 330.0
     }
   ]
 }
