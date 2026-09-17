@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T06:31:02Z",
+  "generatedAt": "2026-09-17T06:45:50Z",
   "cash": {
-    "total": 2630.0,
-    "count": 3
+    "total": 2655.0,
+    "count": 4
   },
   "transfer": {
-    "total": 1430.0,
-    "count": 2
+    "total": 3330.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -39,6 +39,22 @@
           "name": "Green's Carmelle [bundle]",
           "qty": 2.0,
           "total": 360.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00151",
+      "customer": "I Select E-16",
+      "amount": 1900.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 1.0,
+          "total": 1900.0
         }
       ]
     },
@@ -110,20 +126,36 @@
           "total": 50.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000158",
+      "customer": "Walk-in",
+      "amount": 25.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "03:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01773] Wall Clip Adhesive Plastic#22808",
+          "qty": 1.0,
+          "total": 25.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
-      "name": "Cash",
-      "method": "cash",
-      "count": 3,
-      "total": 2630.0
-    },
-    {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 1430.0
+      "count": 3,
+      "total": 3330.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 4,
+      "total": 2655.0
     }
   ]
 }

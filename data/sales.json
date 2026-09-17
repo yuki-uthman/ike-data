@@ -4301,32 +4301,37 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T06:30:50Z",
+      "generatedAt": "2026-09-17T06:45:39Z",
       "pos": {
-        "total": 50.0,
-        "count": 1
+        "total": 75.0,
+        "count": 2
       },
       "regularSales": {
-        "total": 4010.0,
-        "count": 4
+        "total": 5910.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 1900.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
-        "total": 2630.0,
-        "count": 3
+        "total": 2655.0,
+        "count": 4
       },
       "transfer": {
-        "total": 1430.0,
-        "count": 2
+        "total": 3330.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "products": [
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 1.0,
+          "total": 1900.0
+        },
         {
           "name": "[BBRE24300B] Black Base Container 24oz",
           "qty": 6.0,
@@ -4366,6 +4371,11 @@
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
           "qty": 1.0,
           "total": 50.0
+        },
+        {
+          "name": "[01773] Wall Clip Adhesive Plastic#22808",
+          "qty": 1.0,
+          "total": 25.0
         }
       ]
     }

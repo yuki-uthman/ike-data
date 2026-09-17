@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T06:31:07Z",
-  "openCount": 112,
-  "openTotal": 1398798.2,
-  "quotationCount": 38,
-  "quotationTotal": 510626.75,
+  "generatedAt": "2026-09-17T06:45:57Z",
+  "openCount": 111,
+  "openTotal": 1396898.2,
+  "quotationCount": 37,
+  "quotationTotal": 508726.75,
   "orderCount": 74,
   "orderTotal": 888171.45,
   "days": [
@@ -137,9 +137,9 @@
     },
     {
       "date": "2026-09-17",
-      "count": 3,
-      "outstanding": 4480.0,
-      "total": 4480.0
+      "count": 2,
+      "outstanding": 2580.0,
+      "total": 2580.0
     }
   ],
   "quotations": [
@@ -169,25 +169,6 @@
           "name": "Green's Carmelle [bundle]",
           "qty": 2.0,
           "total": 360.0
-        }
-      ]
-    },
-    {
-      "id": 246,
-      "ref": "S00247",
-      "kind": "quotation",
-      "customer": "I Select E-16",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 1900.0,
-      "settled": 0.0,
-      "outstanding": 1900.0,
-      "lines": [
-        {
-          "name": "[70187] Trolley Stand 5 Layer White",
-          "qty": 1.0,
-          "total": 1900.0
         }
       ]
     },
