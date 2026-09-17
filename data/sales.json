@@ -4301,22 +4301,22 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T05:15:35Z",
+      "generatedAt": "2026-09-17T05:30:48Z",
       "pos": {
         "total": 50.0,
         "count": 1
       },
       "regularSales": {
-        "total": 280.0,
-        "count": 1
+        "total": 2580.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 1900.0,
         "count": 1
       },
       "cash": {
-        "total": 330.0,
-        "count": 2
+        "total": 2630.0,
+        "count": 3
       },
       "transfer": {
         "total": 0,
@@ -4327,6 +4327,21 @@
         "count": 0
       },
       "products": [
+        {
+          "name": "[BBRE24300B] Black Base Container 24oz",
+          "qty": 6.0,
+          "total": 1440.0
+        },
+        {
+          "name": "Top kokoa Hokkaido white chocolate 1kg",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "Green's Carmelle [bundle]",
+          "qty": 2.0,
+          "total": 360.0
+        },
         {
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 1.0,

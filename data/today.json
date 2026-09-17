@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T05:15:45Z",
+  "generatedAt": "2026-09-17T05:30:58Z",
   "cash": {
-    "total": 330.0,
-    "count": 2
+    "total": 2630.0,
+    "count": 3
   },
   "transfer": {
     "total": 0,
@@ -16,6 +16,32 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00148",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "amount": 2300.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[BBRE24300B] Black Base Container 24oz",
+          "qty": 6.0,
+          "total": 1440.0
+        },
+        {
+          "name": "Top kokoa Hokkaido white chocolate 1kg",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "Green's Carmelle [bundle]",
+          "qty": 2.0,
+          "total": 360.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00147",
       "customer": "EDEN MART",
@@ -53,8 +79,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 330.0
+      "count": 3,
+      "total": 2630.0
     }
   ]
 }
