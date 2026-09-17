@@ -4301,32 +4301,37 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T11:00:58Z",
+      "generatedAt": "2026-09-17T11:16:11Z",
       "pos": {
         "total": 99.0,
         "count": 4
       },
       "regularSales": {
-        "total": 15305.0,
-        "count": 8
+        "total": 17505.0,
+        "count": 9
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 50.0,
+        "count": 1
       },
       "cash": {
         "total": 2679.0,
         "count": 6
       },
       "transfer": {
-        "total": 12725.0,
-        "count": 6
+        "total": 14925.0,
+        "count": 7
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "products": [
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 80.0,
+          "total": 4400.0
+        },
         {
           "name": "[2C-WHT-SS-2000-X02] #2C White Single Side 2000mm x2",
           "qty": 1.0,
@@ -4336,11 +4341,6 @@
           "name": "[BBRE24300B] Black Base Container 24oz",
           "qty": 12.0,
           "total": 2880.0
-        },
-        {
-          "name": "[80001] Bagasse Plate 9'' 25 pcs",
-          "qty": 40.0,
-          "total": 2200.0
         },
         {
           "name": "[70186] Trolley Stand 5 Layer Black",

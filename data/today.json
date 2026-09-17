@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T11:01:06Z",
+  "generatedAt": "2026-09-17T11:16:18Z",
   "cash": {
     "total": 2679.0,
     "count": 6
   },
   "transfer": {
-    "total": 12725.0,
-    "count": 6
+    "total": 14925.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -75,6 +75,22 @@
           "name": "Green's Carmelle [bundle]",
           "qty": 2.0,
           "total": 360.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00155",
+      "customer": "JHL/S-2",
+      "amount": 2200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 40.0,
+          "total": 2200.0
         }
       ]
     },
@@ -248,8 +264,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 6,
-      "total": 12725.0
+      "count": 7,
+      "total": 14925.0
     },
     {
       "name": "Cash",
