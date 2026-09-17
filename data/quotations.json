@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T09:31:10Z",
-  "openCount": 111,
-  "openTotal": 1374938.2,
+  "generatedAt": "2026-09-17T09:45:52Z",
+  "openCount": 112,
+  "openTotal": 1380693.2,
   "quotationCount": 37,
   "quotationTotal": 486766.75,
-  "orderCount": 74,
-  "orderTotal": 888171.45,
+  "orderCount": 75,
+  "orderTotal": 893926.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -137,12 +137,51 @@
     },
     {
       "date": "2026-09-17",
-      "count": 2,
-      "outstanding": 2580.0,
-      "total": 2580.0
+      "count": 3,
+      "outstanding": 8335.0,
+      "total": 8335.0
     }
   ],
   "quotations": [
+    {
+      "id": 251,
+      "ref": "S00252",
+      "kind": "order",
+      "customer": "Zeelam Trade C -14",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-17",
+      "expires": "2026-10-17",
+      "total": 5755.0,
+      "settled": 0.0,
+      "outstanding": 5755.0,
+      "lines": [
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 5.0,
+          "total": 80.0
+        },
+        {
+          "name": "[79687] Hook Slat with 7 Pegs",
+          "qty": 5.0,
+          "total": 175.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X02] #2C White Single Side 2000mm x2",
+          "qty": 1.0,
+          "total": 3300.0
+        }
+      ]
+    },
     {
       "id": 248,
       "ref": "S00249",
