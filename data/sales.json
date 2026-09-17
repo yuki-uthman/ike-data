@@ -4301,26 +4301,26 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T09:45:38Z",
+      "generatedAt": "2026-09-17T10:01:01Z",
       "pos": {
         "total": 99.0,
         "count": 4
       },
       "regularSales": {
-        "total": 5910.0,
-        "count": 5
+        "total": 13105.0,
+        "count": 7
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 4400.0,
+        "count": 2
       },
       "cash": {
         "total": 2679.0,
         "count": 6
       },
       "transfer": {
-        "total": 3330.0,
-        "count": 3
+        "total": 10525.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -4328,14 +4328,24 @@
       },
       "products": [
         {
-          "name": "[70187] Trolley Stand 5 Layer White",
+          "name": "[2C-WHT-SS-2000-X02] #2C White Single Side 2000mm x2",
+          "qty": 1.0,
+          "total": 3300.0
+        },
+        {
+          "name": "[BBRE24300B] Black Base Container 24oz",
+          "qty": 12.0,
+          "total": 2880.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
           "qty": 1.0,
           "total": 1900.0
         },
         {
-          "name": "[BBRE24300B] Black Base Container 24oz",
-          "qty": 6.0,
-          "total": 1440.0
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 1.0,
+          "total": 1900.0
         },
         {
           "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
@@ -4358,14 +4368,29 @@
           "total": 360.0
         },
         {
+          "name": "2C Price Border Strip Red",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 1.0,
           "total": 280.0
         },
         {
+          "name": "[79687] Hook Slat with 7 Pegs",
+          "qty": 5.0,
+          "total": 175.0
+        },
+        {
           "name": "[8389] Aluminium Foil Box 8389 Loose",
           "qty": 53.0,
           "total": 159.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 5.0,
+          "total": 80.0
         },
         {
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",

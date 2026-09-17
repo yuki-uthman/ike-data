@@ -2,20 +2,56 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T09:45:46Z",
+  "generatedAt": "2026-09-17T10:01:09Z",
   "cash": {
     "total": 2679.0,
     "count": 6
   },
   "transfer": {
-    "total": 3330.0,
-    "count": 3
+    "total": 10525.0,
+    "count": 5
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00152",
+      "customer": "Zeelam Trade C -14",
+      "amount": 5755.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X02] #2C White Single Side 2000mm x2",
+          "qty": 1.0,
+          "total": 3300.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[79687] Hook Slat with 7 Pegs",
+          "qty": 5.0,
+          "total": 175.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 5.0,
+          "total": 80.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00148",
       "customer": "UNITED HUVADHOO HOLDING PVT LTD",
@@ -55,6 +91,22 @@
           "name": "[70187] Trolley Stand 5 Layer White",
           "qty": 1.0,
           "total": 1900.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00153",
+      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+      "amount": 1440.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[BBRE24300B] Black Base Container 24oz",
+          "qty": 6.0,
+          "total": 1440.0
         }
       ]
     },
@@ -180,8 +232,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 3330.0
+      "count": 5,
+      "total": 10525.0
     },
     {
       "name": "Cash",
