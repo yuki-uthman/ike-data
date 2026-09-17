@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T12:45:53Z",
+  "generatedAt": "2026-09-17T13:01:21Z",
   "openCount": 119,
-  "openTotal": 1404988.2,
+  "openTotal": 1407988.2,
   "quotationCount": 42,
-  "quotationTotal": 513616.75,
+  "quotationTotal": 516616.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -138,8 +138,8 @@
     {
       "date": "2026-09-17",
       "count": 10,
-      "outstanding": 32630.0,
-      "total": 32630.0
+      "outstanding": 35630.0,
+      "total": 35630.0
     }
   ],
   "quotations": [
@@ -175,9 +175,9 @@
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-17",
       "expires": "2026-10-17",
-      "total": 10600.0,
+      "total": 13600.0,
       "settled": 0.0,
-      "outstanding": 10600.0,
+      "outstanding": 13600.0,
       "lines": [
         {
           "name": "[2C-BLK-DS-1800-X01] #2C Black Double Side 1800mm x1",
@@ -190,9 +190,9 @@
           "total": 5000.0
         },
         {
-          "name": "2c black ",
-          "qty": 1.0,
-          "total": 0.0
+          "name": "[2C-BLK-ER-1800-X01] #2C Black End Rack 1800mm x1",
+          "qty": 2.0,
+          "total": 3000.0
         }
       ]
     },

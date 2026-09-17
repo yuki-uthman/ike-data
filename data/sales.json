@@ -4301,17 +4301,17 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T12:45:38Z",
+      "generatedAt": "2026-09-17T13:01:03Z",
       "pos": {
-        "total": 344.0,
-        "count": 6
+        "total": 564.0,
+        "count": 7
       },
       "regularSales": {
         "total": 18505.0,
         "count": 11
       },
       "pendingQuotations": {
-        "total": 26850.0,
+        "total": 29850.0,
         "count": 5
       },
       "cash": {
@@ -4319,8 +4319,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 15120.0,
-        "count": 8
+        "total": 15340.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -4386,6 +4386,11 @@
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 1.0,
           "total": 280.0
+        },
+        {
+          "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
+          "qty": 2.0,
+          "total": 220.0
         },
         {
           "name": "[06705] Milkshake Powder Vanilla",
