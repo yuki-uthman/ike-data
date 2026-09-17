@@ -4301,14 +4301,14 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T06:00:58Z",
+      "generatedAt": "2026-09-17T06:15:36Z",
       "pos": {
         "total": 50.0,
         "count": 1
       },
       "regularSales": {
-        "total": 2580.0,
-        "count": 2
+        "total": 4010.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 1900.0,
@@ -4319,8 +4319,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1430.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -4333,9 +4333,19 @@
           "total": 1440.0
         },
         {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        },
+        {
           "name": "Top kokoa Hokkaido white chocolate 1kg",
           "qty": 2.0,
           "total": 500.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 35.0,
+          "total": 490.0
         },
         {
           "name": "Green's Carmelle [bundle]",
@@ -4346,6 +4356,11 @@
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 1.0,
           "total": 280.0
+        },
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 50.0,
+          "total": 150.0
         },
         {
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",

@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T06:01:07Z",
+  "generatedAt": "2026-09-17T06:15:51Z",
   "cash": {
     "total": 2630.0,
     "count": 3
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 1430.0,
+    "count": 2
   },
   "other": {
     "total": 0,
@@ -43,6 +43,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00149",
+      "customer": "INSTA CART C-13",
+      "amount": 1280.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 35.0,
+          "total": 490.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00147",
       "customer": "EDEN MART",
       "amount": 280.0,
@@ -55,6 +76,22 @@
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 1.0,
           "total": 280.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00150",
+      "customer": "Good  Coffee",
+      "amount": 150.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 50.0,
+          "total": 150.0
         }
       ]
     },
@@ -81,6 +118,12 @@
       "method": "cash",
       "count": 3,
       "total": 2630.0
+    },
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 2,
+      "total": 1430.0
     }
   ]
 }
