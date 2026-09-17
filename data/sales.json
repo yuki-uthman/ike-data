@@ -4301,10 +4301,10 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T06:45:39Z",
+      "generatedAt": "2026-09-17T07:01:05Z",
       "pos": {
-        "total": 75.0,
-        "count": 2
+        "total": 84.0,
+        "count": 3
       },
       "regularSales": {
         "total": 5910.0,
@@ -4315,8 +4315,8 @@
         "count": 0
       },
       "cash": {
-        "total": 2655.0,
-        "count": 4
+        "total": 2664.0,
+        "count": 5
       },
       "transfer": {
         "total": 3330.0,
@@ -4364,8 +4364,8 @@
         },
         {
           "name": "[8389] Aluminium Foil Box 8389 Loose",
-          "qty": 50.0,
-          "total": 150.0
+          "qty": 53.0,
+          "total": 159.0
         },
         {
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
