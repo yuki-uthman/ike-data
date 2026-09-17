@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T12:15:55Z",
-  "openCount": 116,
-  "openTotal": 1393088.2,
-  "quotationCount": 40,
-  "quotationTotal": 501916.75,
-  "orderCount": 76,
-  "orderTotal": 891171.45,
+  "generatedAt": "2026-09-17T12:31:04Z",
+  "openCount": 118,
+  "openTotal": 1394388.2,
+  "quotationCount": 41,
+  "quotationTotal": 503016.75,
+  "orderCount": 77,
+  "orderTotal": 891371.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -137,9 +137,9 @@
     },
     {
       "date": "2026-09-17",
-      "count": 7,
-      "outstanding": 20730.0,
-      "total": 20730.0
+      "count": 9,
+      "outstanding": 22030.0,
+      "total": 22030.0
     }
   ],
   "quotations": [
@@ -221,6 +221,25 @@
       ]
     },
     {
+      "id": 262,
+      "ref": "S00263",
+      "kind": "quotation",
+      "customer": "Mizna Manzil/N-4",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-17",
+      "expires": "2026-10-17",
+      "total": 1100.0,
+      "settled": 0.0,
+      "outstanding": 1100.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
+        }
+      ]
+    },
+    {
       "id": 260,
       "ref": "S00261",
       "kind": "quotation",
@@ -274,6 +293,25 @@
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 1.0,
           "total": 280.0
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "ref": "S00264",
+      "kind": "order",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-17",
+      "expires": "2026-10-17",
+      "total": 200.0,
+      "settled": 0.0,
+      "outstanding": 200.0,
+      "lines": [
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 200.0
         }
       ]
     },

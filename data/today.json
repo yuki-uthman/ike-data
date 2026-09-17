@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T12:15:50Z",
+  "generatedAt": "2026-09-17T12:30:59Z",
   "cash": {
-    "total": 3529.0,
-    "count": 8
+    "total": 3729.0,
+    "count": 9
   },
   "transfer": {
     "total": 15120.0,
@@ -196,6 +196,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00157",
+      "customer": "sales",
+      "amount": 200.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000161",
       "customer": "Walk-in",
       "amount": 195.0,
@@ -318,8 +334,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 8,
-      "total": 3529.0
+      "count": 9,
+      "total": 3729.0
     },
     {
       "name": "Bank Transfer",
