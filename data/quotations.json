@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T05:45:52Z",
+  "generatedAt": "2026-09-17T06:01:13Z",
   "openCount": 113,
   "openTotal": 1400078.2,
-  "quotationCount": 39,
-  "quotationTotal": 511906.75,
-  "orderCount": 74,
-  "orderTotal": 888171.45,
+  "quotationCount": 38,
+  "quotationTotal": 510626.75,
+  "orderCount": 75,
+  "orderTotal": 889451.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -194,7 +194,7 @@
     {
       "id": 249,
       "ref": "S00250",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "INSTA CART C-13",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-17",
