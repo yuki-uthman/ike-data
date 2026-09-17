@@ -4301,10 +4301,10 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T04:45:34Z",
+      "generatedAt": "2026-09-17T05:00:59Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 50.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
@@ -4315,8 +4315,8 @@
         "count": 1
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 50.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -4326,7 +4326,13 @@
         "total": 0,
         "count": 0
       },
-      "products": []
+      "products": [
+        {
+          "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
+          "qty": 1.0,
+          "total": 50.0
+        }
+      ]
     }
   ]
 }
