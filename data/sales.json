@@ -4301,26 +4301,26 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-17T10:45:40Z",
+      "generatedAt": "2026-09-17T11:00:58Z",
       "pos": {
         "total": 99.0,
         "count": 4
       },
       "regularSales": {
-        "total": 13105.0,
-        "count": 7
+        "total": 15305.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 4400.0,
-        "count": 2
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 2679.0,
         "count": 6
       },
       "transfer": {
-        "total": 10525.0,
-        "count": 5
+        "total": 12725.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -4336,6 +4336,11 @@
           "name": "[BBRE24300B] Black Base Container 24oz",
           "qty": 12.0,
           "total": 2880.0
+        },
+        {
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
+          "qty": 40.0,
+          "total": 2200.0
         },
         {
           "name": "[70186] Trolley Stand 5 Layer Black",

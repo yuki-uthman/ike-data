@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-17T10:45:59Z",
+  "generatedAt": "2026-09-17T11:01:10Z",
   "openCount": 113,
   "openTotal": 1379338.2,
-  "quotationCount": 39,
-  "quotationTotal": 491166.75,
-  "orderCount": 74,
-  "orderTotal": 888171.45,
+  "quotationCount": 37,
+  "quotationTotal": 486766.75,
+  "orderCount": 76,
+  "orderTotal": 892571.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -173,9 +173,9 @@
       ]
     },
     {
-      "id": 253,
-      "ref": "S00254",
-      "kind": "quotation",
+      "id": 256,
+      "ref": "S00257",
+      "kind": "order",
       "customer": "JHL/S-2",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-17",
@@ -185,17 +185,17 @@
       "outstanding": 2200.0,
       "lines": [
         {
-          "name": "[80001] Bagasse Plate 9'' 25 pcs40",
+          "name": "[80001] Bagasse Plate 9'' 25 pcs",
           "qty": 40.0,
           "total": 2200.0
         }
       ]
     },
     {
-      "id": 252,
-      "ref": "S00253",
-      "kind": "quotation",
-      "customer": "U.A STORE  F-1",
+      "id": 253,
+      "ref": "S00254",
+      "kind": "order",
+      "customer": "JHL/S-2",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-17",
       "expires": "2026-10-17",
