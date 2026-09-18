@@ -10616,10 +10616,10 @@
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-18T11:30:54Z",
+      "generatedAt": "2026-09-18T11:45:33Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 41.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
@@ -10634,14 +10634,41 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 41.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [
+        {
+          "ref": "Ike - 000164",
+          "customer": "Walk-in",
+          "amount": 41.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "08:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02240] Silicone utensils loose  PC spaghetti spoon 01702",
+              "qty": 1.0,
+              "total": 35.0
+            },
+            {
+              "name": "[0012] Sponge WJ631 Loose PC",
+              "qty": 1.0,
+              "total": 3.0
+            },
+            {
+              "name": "[0012] Sponge WJ631 Loose PC",
+              "qty": 1.0,
+              "total": 3.0
+            }
+          ]
+        }
+      ]
     }
   ]
 }

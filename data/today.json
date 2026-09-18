@@ -2,19 +2,53 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T11:31:03Z",
+  "generatedAt": "2026-09-18T11:45:45Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 41.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": []
+  "transactions": [
+    {
+      "ref": "Ike - 000164",
+      "customer": "Walk-in",
+      "amount": 41.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "08:37",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02240] Silicone utensils loose  PC spaghetti spoon 01702",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[0012] Sponge WJ631 Loose PC",
+          "qty": 1.0,
+          "total": 3.0
+        },
+        {
+          "name": "[0012] Sponge WJ631 Loose PC",
+          "qty": 1.0,
+          "total": 3.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 41.0
+    }
+  ]
 }
