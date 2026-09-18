@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-18T12:45:48Z",
-  "openCount": 119,
-  "openTotal": 1406538.2,
-  "quotationCount": 42,
-  "quotationTotal": 515166.75,
+  "generatedAt": "2026-09-18T13:01:17Z",
+  "openCount": 121,
+  "openTotal": 1409978.2,
+  "quotationCount": 44,
+  "quotationTotal": 518606.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -137,15 +137,15 @@
     },
     {
       "date": "2026-09-17",
-      "count": 9,
-      "outstanding": 27230.0,
-      "total": 27230.0
+      "count": 10,
+      "outstanding": 28170.0,
+      "total": 28170.0
     },
     {
       "date": "2026-09-18",
-      "count": 1,
-      "outstanding": 6950.0,
-      "total": 6950.0
+      "count": 2,
+      "outstanding": 9450.0,
+      "total": 9450.0
     }
   ],
   "quotations": [
@@ -180,6 +180,30 @@
           "name": "Bagasse Clamshell 450ml - Bundle (50pcs)",
           "qty": 10.0,
           "total": 500.0
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "ref": "S00268",
+      "kind": "quotation",
+      "customer": "Aguma Trade A-6",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-18",
+      "expires": "2026-10-18",
+      "total": 2500.0,
+      "settled": 0.0,
+      "outstanding": 2500.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
+        },
+        {
+          "name": "Bagasse Plate 7\" - Case ( 40 bundles/1000pcs)",
+          "qty": 1.0,
+          "total": 1400.0
         }
       ]
     },
@@ -300,6 +324,30 @@
           "name": "[80001] Bagasse Plate 9'' 25 pcs",
           "qty": 20.0,
           "total": 1100.0
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "ref": "S00269",
+      "kind": "quotation",
+      "customer": "Family Mart Hithadhoo",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-17",
+      "expires": "2026-10-17",
+      "total": 940.0,
+      "settled": 0.0,
+      "outstanding": 940.0,
+      "lines": [
+        {
+          "name": "[70147] Hook Mesh 10\"",
+          "qty": 50.0,
+          "total": 700.0
+        },
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 20.0,
+          "total": 240.0
         }
       ]
     },
