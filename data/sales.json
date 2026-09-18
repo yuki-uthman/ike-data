@@ -10616,32 +10616,64 @@
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-18T16:15:35Z",
+      "generatedAt": "2026-09-18T16:30:55Z",
       "pos": {
         "total": 70.0,
         "count": 3
       },
       "regularSales": {
-        "total": 2360.0,
-        "count": 3
+        "total": 4560.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 7700.0,
-        "count": 3
+        "total": 6600.0,
+        "count": 2
       },
       "cash": {
         "total": 29.0,
         "count": 2
       },
       "transfer": {
-        "total": 2401.0,
-        "count": 4
+        "total": 4601.0,
+        "count": 6
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00164",
+          "customer": "umber Pvt ltd C-1",
+          "amount": 1100.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1100.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00163",
+          "customer": "Blazing Star/N-4",
+          "amount": 1100.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1100.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00160",
           "customer": "I Select E-16",
