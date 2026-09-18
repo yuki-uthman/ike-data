@@ -10616,17 +10616,17 @@
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-18T15:01:03Z",
+      "generatedAt": "2026-09-18T15:15:34Z",
       "pos": {
         "total": 61.0,
         "count": 2
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 2360.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 9450.0,
+        "total": 8000.0,
         "count": 2
       },
       "cash": {
@@ -10634,14 +10634,67 @@
         "count": 1
       },
       "transfer": {
-        "total": 41.0,
-        "count": 1
+        "total": 2401.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00160",
+          "customer": "I Select E-16",
+          "amount": 1100.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[80001] Bagasse Plate 9'' 25 pcs",
+              "qty": 20.0,
+              "total": 1100.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00161",
+          "customer": "Family Mart Hithadhoo",
+          "amount": 940.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70147] Hook Mesh 10\"",
+              "qty": 50.0,
+              "total": 700.0
+            },
+            {
+              "name": "[35940] Hook Mesh 8\"",
+              "qty": 20.0,
+              "total": 240.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00162",
+          "customer": "sales",
+          "amount": 320.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 20.0,
+              "total": 320.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000164",
           "customer": "Walk-in",

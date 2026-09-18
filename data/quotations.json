@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-18T15:01:14Z",
-  "openCount": 121,
-  "openTotal": 1409978.2,
-  "quotationCount": 44,
-  "quotationTotal": 518606.75,
+  "generatedAt": "2026-09-18T15:15:46Z",
+  "openCount": 119,
+  "openTotal": 1406488.2,
+  "quotationCount": 42,
+  "quotationTotal": 515116.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -137,15 +137,15 @@
     },
     {
       "date": "2026-09-17",
-      "count": 10,
-      "outstanding": 28170.0,
-      "total": 28170.0
+      "count": 8,
+      "outstanding": 26130.0,
+      "total": 26130.0
     },
     {
       "date": "2026-09-18",
       "count": 2,
-      "outstanding": 9450.0,
-      "total": 9450.0
+      "outstanding": 8000.0,
+      "total": 8000.0
     }
   ],
   "quotations": [
@@ -157,9 +157,9 @@
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-18",
       "expires": "2026-10-18",
-      "total": 6950.0,
+      "total": 5500.0,
       "settled": 0.0,
-      "outstanding": 6950.0,
+      "outstanding": 5500.0,
       "lines": [
         {
           "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
@@ -170,11 +170,6 @@
           "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
           "qty": 2.0,
           "total": 2800.0
-        },
-        {
-          "name": "Bagasse Plate 7\" - Case (40 bundles/1000pcs)",
-          "qty": 1.0,
-          "total": 1450.0
         },
         {
           "name": "Bagasse Clamshell 450ml - Bundle (50pcs)",
@@ -305,49 +300,6 @@
           "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
           "qty": 1.0,
           "total": 1100.0
-        }
-      ]
-    },
-    {
-      "id": 260,
-      "ref": "S00261",
-      "kind": "quotation",
-      "customer": "I Select E-16",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 1100.0,
-      "settled": 0.0,
-      "outstanding": 1100.0,
-      "lines": [
-        {
-          "name": "[80001] Bagasse Plate 9'' 25 pcs",
-          "qty": 20.0,
-          "total": 1100.0
-        }
-      ]
-    },
-    {
-      "id": 268,
-      "ref": "S00269",
-      "kind": "quotation",
-      "customer": "Family Mart Hithadhoo",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 940.0,
-      "settled": 0.0,
-      "outstanding": 940.0,
-      "lines": [
-        {
-          "name": "[70147] Hook Mesh 10\"",
-          "qty": 50.0,
-          "total": 700.0
-        },
-        {
-          "name": "[35940] Hook Mesh 8\"",
-          "qty": 20.0,
-          "total": 240.0
         }
       ]
     },
