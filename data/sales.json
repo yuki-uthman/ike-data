@@ -10616,32 +10616,58 @@
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-18T16:45:36Z",
+      "generatedAt": "2026-09-18T17:01:08Z",
       "pos": {
         "total": 70.0,
         "count": 3
       },
       "regularSales": {
-        "total": 4560.0,
-        "count": 5
+        "total": 8660.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 6600.0,
-        "count": 2
+        "total": 2500.0,
+        "count": 1
       },
       "cash": {
         "total": 29.0,
         "count": 2
       },
       "transfer": {
-        "total": 4601.0,
-        "count": 6
+        "total": 8701.0,
+        "count": 7
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00165",
+          "customer": "Ilios B. Fulhadhoo/F14",
+          "amount": 4100.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 2.0,
+              "total": 2200.0
+            },
+            {
+              "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1400.0
+            },
+            {
+              "name": "Bagasse Clamshell 450ml - Bundle (50pcs)",
+              "qty": 10.0,
+              "total": 500.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00164",
           "customer": "umber Pvt ltd C-1",
