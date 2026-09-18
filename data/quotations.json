@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-18T16:01:26Z",
+  "generatedAt": "2026-09-18T16:15:50Z",
   "openCount": 120,
   "openTotal": 1406188.2,
-  "quotationCount": 43,
-  "quotationTotal": 514816.75,
-  "orderCount": 77,
-  "orderTotal": 891371.45,
+  "quotationCount": 42,
+  "quotationTotal": 513716.75,
+  "orderCount": 78,
+  "orderTotal": 892471.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -137,15 +137,15 @@
     },
     {
       "date": "2026-09-17",
-      "count": 8,
-      "outstanding": 26130.0,
-      "total": 26130.0
+      "count": 7,
+      "outstanding": 25030.0,
+      "total": 25030.0
     },
     {
       "date": "2026-09-18",
-      "count": 3,
-      "outstanding": 7700.0,
-      "total": 7700.0
+      "count": 4,
+      "outstanding": 8800.0,
+      "total": 8800.0
     }
   ],
   "quotations": [
@@ -199,6 +199,25 @@
           "name": "Bagasse Plate 7\" - Case ( 40 bundles/1000pcs)",
           "qty": 1.0,
           "total": 1400.0
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "ref": "S00263",
+      "kind": "order",
+      "customer": "Blazing Star/N-4",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-18",
+      "expires": "2026-10-17",
+      "total": 1100.0,
+      "settled": 0.0,
+      "outstanding": 1100.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
         }
       ]
     },
@@ -300,25 +319,6 @@
           "name": "[80001] Bagasse Plate 9'' 25 pcs",
           "qty": 40.0,
           "total": 2200.0
-        }
-      ]
-    },
-    {
-      "id": 262,
-      "ref": "S00263",
-      "kind": "quotation",
-      "customer": "Mizna Manzil/N-4",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 1100.0,
-      "settled": 0.0,
-      "outstanding": 1100.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
         }
       ]
     },
