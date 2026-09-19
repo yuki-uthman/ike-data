@@ -199,10 +199,10 @@
     },
     {
       "date": "2026-09-19",
-      "generatedAt": "2026-09-19T17:15:45Z",
+      "generatedAt": "2026-09-19T17:31:03Z",
       "confirmed": {
-        "total": 287.0,
-        "count": 5
+        "total": 327.0,
+        "count": 6
       },
       "pending": {
         "total": 0,
@@ -211,8 +211,8 @@
       "categories": [
         {
           "name": "Expenses",
-          "count": 3,
-          "total": 232.0
+          "count": 4,
+          "total": 272.0
         },
         {
           "name": "Water",
