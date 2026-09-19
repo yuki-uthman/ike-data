@@ -10786,26 +10786,26 @@
     },
     {
       "date": "2026-09-19",
-      "generatedAt": "2026-09-19T08:45:34Z",
+      "generatedAt": "2026-09-19T09:01:02Z",
       "pos": {
         "total": 70.0,
         "count": 2
       },
       "regularSales": {
-        "total": 9000.0,
-        "count": 3
+        "total": 13400.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 4400.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 30.0,
         "count": 1
       },
       "transfer": {
-        "total": 9040.0,
-        "count": 4
+        "total": 13440.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -10825,6 +10825,22 @@
               "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
               "qty": 1.0,
               "total": 5400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00169",
+          "customer": "Menaa Mart O-11",
+          "amount": 4400.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 4.0,
+              "total": 4400.0
             }
           ]
         },

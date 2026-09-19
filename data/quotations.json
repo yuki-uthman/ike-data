@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-19T08:45:46Z",
-  "openCount": 117,
-  "openTotal": 1401788.2,
-  "quotationCount": 40,
-  "quotationTotal": 510416.75,
+  "generatedAt": "2026-09-19T09:01:23Z",
+  "openCount": 116,
+  "openTotal": 1397388.2,
+  "quotationCount": 39,
+  "quotationTotal": 506016.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -149,31 +149,12 @@
     },
     {
       "date": "2026-09-19",
-      "count": 1,
-      "outstanding": 4400.0,
-      "total": 4400.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 272,
-      "ref": "S00273",
-      "kind": "quotation",
-      "customer": "Menaa Mart O-11",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-19",
-      "expires": "2026-10-19",
-      "total": 4400.0,
-      "settled": 0.0,
-      "outstanding": 4400.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 4.0,
-          "total": 4400.0
-        }
-      ]
-    },
     {
       "id": 264,
       "ref": "S00265",
