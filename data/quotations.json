@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-19T04:31:00Z",
-  "openCount": 117,
-  "openTotal": 1399888.2,
-  "quotationCount": 40,
-  "quotationTotal": 508516.75,
+  "generatedAt": "2026-09-19T04:45:42Z",
+  "openCount": 119,
+  "openTotal": 1409688.2,
+  "quotationCount": 42,
+  "quotationTotal": 518316.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -149,12 +149,50 @@
     },
     {
       "date": "2026-09-19",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 2,
+      "outstanding": 9800.0,
+      "total": 9800.0
     }
   ],
   "quotations": [
+    {
+      "id": 271,
+      "ref": "S00272",
+      "kind": "quotation",
+      "customer": "Shau collection E-18",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-19",
+      "expires": "2026-10-19",
+      "total": 5400.0,
+      "settled": 0.0,
+      "outstanding": 5400.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
+          "qty": 1.0,
+          "total": 5400.0
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "ref": "S00273",
+      "kind": "quotation",
+      "customer": "Menaa Mart O-11",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-19",
+      "expires": "2026-10-19",
+      "total": 4400.0,
+      "settled": 0.0,
+      "outstanding": 4400.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 4.0,
+          "total": 4400.0
+        }
+      ]
+    },
     {
       "id": 267,
       "ref": "S00268",
