@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-19T09:31:02Z",
-  "openCount": 118,
-  "openTotal": 1437338.2,
-  "quotationCount": 41,
-  "quotationTotal": 545966.75,
+  "generatedAt": "2026-09-19T09:39:11Z",
+  "openCount": 117,
+  "openTotal": 1435538.2,
+  "quotationCount": 40,
+  "quotationTotal": 544166.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -149,9 +149,9 @@
     },
     {
       "date": "2026-09-19",
-      "count": 2,
-      "outstanding": 39950.0,
-      "total": 39950.0
+      "count": 1,
+      "outstanding": 38150.0,
+      "total": 38150.0
     }
   ],
   "quotations": [
@@ -181,25 +181,6 @@
           "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
           "qty": 3.0,
           "total": 8400.0
-        }
-      ]
-    },
-    {
-      "id": 274,
-      "ref": "S00275",
-      "kind": "quotation",
-      "customer": "NNS / Q8",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-19",
-      "expires": "2026-10-19",
-      "total": 1800.0,
-      "settled": 0.0,
-      "outstanding": 1800.0,
-      "lines": [
-        {
-          "name": "[70175] 51 Warehouse Rack White Medium",
-          "qty": 1.0,
-          "total": 1800.0
         }
       ]
     },
