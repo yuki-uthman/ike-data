@@ -10786,10 +10786,10 @@
     },
     {
       "date": "2026-09-19",
-      "generatedAt": "2026-09-19T05:30:49Z",
+      "generatedAt": "2026-09-19T05:45:35Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 40.0,
+        "count": 1
       },
       "regularSales": {
         "total": 5400.0,
@@ -10804,8 +10804,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 5400.0,
-        "count": 1
+        "total": 5440.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -10825,6 +10825,22 @@
               "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
               "qty": 1.0,
               "total": 5400.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000167",
+          "customer": "Walk-in",
+          "amount": 40.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "02:44",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 2.0,
+              "total": 40.0
             }
           ]
         }
