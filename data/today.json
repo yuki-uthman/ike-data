@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T06:15:41Z",
+  "generatedAt": "2026-09-19T06:30:55Z",
   "cash": {
     "total": 30.0,
     "count": 1
   },
   "transfer": {
-    "total": 5440.0,
-    "count": 2
+    "total": 9040.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -29,6 +29,38 @@
           "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
           "qty": 1.0,
           "total": 5400.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00167",
+      "customer": "Aguma Trade A-6",
+      "amount": 2500.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00168",
+      "customer": "Busy biz k-8",
+      "amount": 1100.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
         }
       ]
     },
@@ -69,8 +101,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 5400.0
+      "count": 3,
+      "total": 9000.0
     },
     {
       "name": "Bank Transfer",

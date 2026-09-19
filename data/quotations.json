@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-19T06:15:46Z",
-  "openCount": 119,
-  "openTotal": 1405388.2,
-  "quotationCount": 41,
-  "quotationTotal": 511516.75,
-  "orderCount": 78,
-  "orderTotal": 893871.45,
+  "generatedAt": "2026-09-19T06:30:59Z",
+  "openCount": 117,
+  "openTotal": 1401788.2,
+  "quotationCount": 40,
+  "quotationTotal": 510416.75,
+  "orderCount": 77,
+  "orderTotal": 891371.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -149,9 +149,9 @@
     },
     {
       "date": "2026-09-19",
-      "count": 3,
-      "outstanding": 8000.0,
-      "total": 8000.0
+      "count": 1,
+      "outstanding": 4400.0,
+      "total": 4400.0
     }
   ],
   "quotations": [
@@ -171,49 +171,6 @@
           "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
           "qty": 4.0,
           "total": 4400.0
-        }
-      ]
-    },
-    {
-      "id": 267,
-      "ref": "S00268",
-      "kind": "order",
-      "customer": "Aguma Trade A-6",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-19",
-      "expires": "2026-10-18",
-      "total": 2500.0,
-      "settled": 0.0,
-      "outstanding": 2500.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
-        },
-        {
-          "name": "Bagasse Plate 7\" - Case ( 40 bundles/1000pcs)",
-          "qty": 1.0,
-          "total": 1400.0
-        }
-      ]
-    },
-    {
-      "id": 273,
-      "ref": "S00274",
-      "kind": "quotation",
-      "customer": "Busy biz k-8",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-19",
-      "expires": "2026-10-19",
-      "total": 1100.0,
-      "settled": 0.0,
-      "outstanding": 1100.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
         }
       ]
     },
