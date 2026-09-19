@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-19T12:15:46Z",
-  "openCount": 117,
-  "openTotal": 1417538.2,
-  "quotationCount": 40,
-  "quotationTotal": 526166.75,
-  "orderCount": 77,
-  "orderTotal": 891371.45,
+  "generatedAt": "2026-09-19T12:31:04Z",
+  "openCount": 119,
+  "openTotal": 1428138.2,
+  "quotationCount": 41,
+  "quotationTotal": 531466.75,
+  "orderCount": 78,
+  "orderTotal": 896671.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -149,9 +149,9 @@
     },
     {
       "date": "2026-09-19",
-      "count": 2,
-      "outstanding": 39350.0,
-      "total": 39350.0
+      "count": 4,
+      "outstanding": 49950.0,
+      "total": 49950.0
     }
   ],
   "quotations": [
@@ -181,6 +181,44 @@
           "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
           "qty": 3.0,
           "total": 8400.0
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "ref": "S00281",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-19",
+      "expires": "2026-10-19",
+      "total": 5300.0,
+      "settled": 0.0,
+      "outstanding": 5300.0,
+      "lines": [
+        {
+          "name": "[25767] Office Rack Large",
+          "qty": 2.0,
+          "total": 5300.0
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "ref": "S00280",
+      "kind": "order",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-19",
+      "expires": "2026-10-19",
+      "total": 5300.0,
+      "settled": 0.0,
+      "outstanding": 5300.0,
+      "lines": [
+        {
+          "name": "[25767] Office Rack Large",
+          "qty": 2.0,
+          "total": 5300.0
         }
       ]
     },
