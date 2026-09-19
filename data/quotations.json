@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-19T09:01:23Z",
-  "openCount": 116,
-  "openTotal": 1397388.2,
-  "quotationCount": 39,
-  "quotationTotal": 506016.75,
+  "generatedAt": "2026-09-19T09:15:47Z",
+  "openCount": 117,
+  "openTotal": 1399188.2,
+  "quotationCount": 40,
+  "quotationTotal": 507816.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -149,12 +149,31 @@
     },
     {
       "date": "2026-09-19",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 1800.0,
+      "total": 1800.0
     }
   ],
   "quotations": [
+    {
+      "id": 274,
+      "ref": "S00275",
+      "kind": "quotation",
+      "customer": "NNS / Q8",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-19",
+      "expires": "2026-10-19",
+      "total": 1800.0,
+      "settled": 0.0,
+      "outstanding": 1800.0,
+      "lines": [
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 1.0,
+          "total": 1800.0
+        }
+      ]
+    },
     {
       "id": 264,
       "ref": "S00265",
