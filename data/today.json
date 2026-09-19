@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T06:01:10Z",
+  "generatedAt": "2026-09-19T06:15:41Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 30.0,
+    "count": 1
   },
   "transfer": {
     "total": 5440.0,
@@ -47,6 +47,22 @@
           "total": 40.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000168",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "03:07",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70096] Baking Paper 10m#4",
+          "qty": 1.0,
+          "total": 30.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -61,6 +77,12 @@
       "method": "transfer",
       "count": 1,
       "total": 40.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 30.0
     }
   ]
 }
