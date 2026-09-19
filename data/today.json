@@ -2,20 +2,46 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T11:30:59Z",
+  "generatedAt": "2026-09-19T11:45:49Z",
   "cash": {
     "total": 30.0,
     "count": 1
   },
   "transfer": {
-    "total": 15240.0,
-    "count": 6
+    "total": 34500.0,
+    "count": 8
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00171",
+      "customer": "Novelty Bookshop",
+      "amount": 19200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-1800-X01] #2C Black Double Side 1800mm x1",
+          "qty": 4.0,
+          "total": 11200.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+          "qty": 2.0,
+          "total": 5000.0
+        },
+        {
+          "name": "2C Black End Round Shelves",
+          "qty": 2.0,
+          "total": 3000.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00166",
       "customer": "Shau collection E-18",
@@ -97,6 +123,27 @@
       ]
     },
     {
+      "ref": "Ike - 000169",
+      "customer": "Walk-in",
+      "amount": 60.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "20:34",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01777] Plastic Container 250ml#2083",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[01613] Creamic Bowl 7\"#1",
+          "qty": 1.0,
+          "total": 25.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000167",
       "customer": "Walk-in",
       "amount": 40.0,
@@ -133,14 +180,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 15200.0
+      "count": 6,
+      "total": 34400.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 40.0
+      "count": 2,
+      "total": 100.0
     },
     {
       "name": "Cash",
