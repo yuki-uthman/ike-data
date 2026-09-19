@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T12:01:10Z",
+  "generatedAt": "2026-09-19T12:15:42Z",
   "cash": {
     "total": 30.0,
     "count": 1
   },
   "transfer": {
-    "total": 34500.0,
-    "count": 8
+    "total": 37500.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -71,6 +71,22 @@
           "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
           "qty": 4.0,
           "total": 4400.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00172",
+      "customer": "BLUEBELL SOLUTIONS PVT LTD",
+      "amount": 3000.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 60.0,
+          "total": 3000.0
         }
       ]
     },
@@ -180,8 +196,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 6,
-      "total": 34400.0
+      "count": 7,
+      "total": 37400.0
     },
     {
       "name": "Bank Transfer",
