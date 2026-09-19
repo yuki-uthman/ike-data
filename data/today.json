@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T16:31:05Z",
+  "generatedAt": "2026-09-19T16:37:43Z",
   "cash": {
     "total": 30.0,
     "count": 1
   },
   "transfer": {
-    "total": 37500.0,
-    "count": 9
+    "total": 37920.0,
+    "count": 10
   },
   "other": {
     "total": 0,
@@ -139,6 +139,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00173",
+      "customer": "Ziyaahiaa I-8",
+      "amount": 420.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 35.0,
+          "total": 420.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000169",
       "customer": "Walk-in",
       "amount": 60.0,
@@ -196,8 +212,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 37400.0
+      "count": 8,
+      "total": 37820.0
     },
     {
       "name": "Bank Transfer",

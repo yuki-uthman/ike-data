@@ -10786,26 +10786,26 @@
     },
     {
       "date": "2026-09-19",
-      "generatedAt": "2026-09-19T16:30:51Z",
+      "generatedAt": "2026-09-19T16:37:36Z",
       "pos": {
         "total": 130.0,
         "count": 3
       },
       "regularSales": {
-        "total": 37400.0,
-        "count": 7
+        "total": 37820.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 45070.0,
-        "count": 5
+        "total": 44650.0,
+        "count": 4
       },
       "cash": {
         "total": 30.0,
         "count": 1
       },
       "transfer": {
-        "total": 37500.0,
-        "count": 9
+        "total": 37920.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -10931,6 +10931,22 @@
               "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
               "qty": 1.0,
               "total": 1100.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00173",
+          "customer": "Ziyaahiaa I-8",
+          "amount": 420.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70144] Hook Slat 8\"",
+              "qty": 35.0,
+              "total": 420.0
             }
           ]
         },
