@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-19T04:45:42Z",
-  "openCount": 119,
-  "openTotal": 1409688.2,
-  "quotationCount": 42,
-  "quotationTotal": 518316.75,
+  "generatedAt": "2026-09-19T05:01:12Z",
+  "openCount": 118,
+  "openTotal": 1404288.2,
+  "quotationCount": 41,
+  "quotationTotal": 512916.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -149,31 +149,12 @@
     },
     {
       "date": "2026-09-19",
-      "count": 2,
-      "outstanding": 9800.0,
-      "total": 9800.0
+      "count": 1,
+      "outstanding": 4400.0,
+      "total": 4400.0
     }
   ],
   "quotations": [
-    {
-      "id": 271,
-      "ref": "S00272",
-      "kind": "quotation",
-      "customer": "Shau collection E-18",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-19",
-      "expires": "2026-10-19",
-      "total": 5400.0,
-      "settled": 0.0,
-      "outstanding": 5400.0,
-      "lines": [
-        {
-          "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
-          "qty": 1.0,
-          "total": 5400.0
-        }
-      ]
-    },
     {
       "id": 272,
       "ref": "S00273",

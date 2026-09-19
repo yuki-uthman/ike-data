@@ -10786,32 +10786,49 @@
     },
     {
       "date": "2026-09-19",
-      "generatedAt": "2026-09-19T04:45:32Z",
+      "generatedAt": "2026-09-19T05:01:01Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 5400.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 9800.0,
-        "count": 2
+        "total": 4400.0,
+        "count": 1
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 5400.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [
+        {
+          "ref": "INV/2026/00166",
+          "customer": "Shau collection E-18",
+          "amount": 5400.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
+              "qty": 1.0,
+              "total": 5400.0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
