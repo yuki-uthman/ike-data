@@ -1,15 +1,15 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-19T18:54:29Z",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-19T19:01:17Z",
   "cash": {
-    "total": 30.0,
-    "count": 1
+    "total": 327.0,
+    "count": 5
   },
   "transfer": {
-    "total": 37920.0,
-    "count": 10
+    "total": 0,
+    "count": 0
   },
   "other": {
     "total": 0,
@@ -17,192 +17,91 @@
   },
   "transactions": [
     {
-      "ref": "INV/2026/00171",
-      "customer": "Novelty Bookshop",
-      "amount": 19200.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
+      "ref": "Ike - 000171",
+      "customer": "Walk-in",
+      "amount": 138.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "01:54",
+      "source": "pos",
       "lines": [
         {
-          "name": "[2C-BLK-DS-1800-X01] #2C Black Double Side 1800mm x1",
-          "qty": 4.0,
-          "total": 11200.0
+          "name": "[01920] Wall hook pink #8022",
+          "qty": 3.0,
+          "total": 75.0
         },
         {
-          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
-          "qty": 2.0,
-          "total": 5000.0
+          "name": "[70132] Hook Adhesive 2 In 1 #2878",
+          "qty": 1.0,
+          "total": 49.0
         },
         {
-          "name": "2C Black End Round Shelves",
-          "qty": 2.0,
-          "total": 3000.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00166",
-      "customer": "Shau collection E-18",
-      "amount": 5400.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
+          "name": "[70134] Wall Hook Adhesive Plastic #639",
           "qty": 1.0,
-          "total": 5400.0
+          "total": 14.0
         }
       ]
     },
     {
-      "ref": "INV/2026/00169",
-      "customer": "Menaa Mart O-11",
-      "amount": 4400.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
+      "ref": "Ike - 000173",
+      "customer": "Walk-in",
+      "amount": 69.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "02:21",
+      "source": "pos",
       "lines": [
         {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 4.0,
-          "total": 4400.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00172",
-      "customer": "BLUEBELL SOLUTIONS PVT LTD",
-      "amount": 3000.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "Paper Plate 9'' 100pcs Bundle",
-          "qty": 60.0,
-          "total": 3000.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00167",
-      "customer": "Aguma Trade A-6",
-      "amount": 2500.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "name": "[70047] slipper#2",
           "qty": 1.0,
-          "total": 1100.0
+          "total": 69.0
         }
       ]
     },
     {
-      "ref": "INV/2026/00170",
-      "customer": "NNS / Q8",
-      "amount": 1800.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70175] 51 Warehouse Rack White Medium",
-          "qty": 1.0,
-          "total": 1800.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00168",
-      "customer": "Busy biz k-8",
-      "amount": 1100.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00173",
-      "customer": "Ziyaahiaa I-8",
-      "amount": 420.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70144] Hook Slat 8\"",
-          "qty": 35.0,
-          "total": 420.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000169",
+      "ref": "Ike - 000174",
       "customer": "Walk-in",
       "amount": 60.0,
-      "method": "transfer",
-      "rawMethod": "Bank Transfer",
-      "time": "20:34",
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "02:37",
       "source": "pos",
       "lines": [
         {
-          "name": "[01777] Plastic Container 250ml#2083",
-          "qty": 1.0,
-          "total": 35.0
-        },
-        {
-          "name": "[01613] Creamic Bowl 7\"#1",
-          "qty": 1.0,
-          "total": 25.0
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 20.0,
+          "total": 60.0
         }
       ]
     },
     {
-      "ref": "Ike - 000167",
-      "customer": "Walk-in",
-      "amount": 40.0,
-      "method": "transfer",
-      "rawMethod": "Bank Transfer",
-      "time": "02:44",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 2.0,
-          "total": 40.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000168",
+      "ref": "Ike - 000172",
       "customer": "Walk-in",
       "amount": 30.0,
       "method": "cash",
       "rawMethod": "Cash",
-      "time": "03:07",
+      "time": "02:02",
       "source": "pos",
       "lines": [
         {
-          "name": "[70096] Baking Paper 10m#4",
-          "qty": 1.0,
+          "name": "[03338] Paper Cup 4oz (Bundle)",
+          "qty": 2.0,
+          "total": 30.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000170",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "01:21",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 10.0,
           "total": 30.0
         }
       ]
@@ -210,22 +109,10 @@
   ],
   "methodsSeen": [
     {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 8,
-      "total": 37820.0
-    },
-    {
-      "name": "Bank Transfer",
-      "method": "transfer",
-      "count": 2,
-      "total": 100.0
-    },
-    {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 30.0
+      "count": 5,
+      "total": 327.0
     }
   ]
 }

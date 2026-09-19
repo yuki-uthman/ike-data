@@ -3,35 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-07-22",
-      "generatedAt": "2026-09-17T13:31:45Z",
-      "pos": {
-        "total": 0,
-        "count": 0
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 0,
-        "count": 0
-      },
-      "transfer": {
-        "total": 0,
-        "count": 0
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": []
-    },
-    {
       "date": "2026-07-23",
       "generatedAt": "2026-09-17T13:31:45Z",
       "pos": {
@@ -10999,6 +10970,126 @@
             {
               "name": "[70096] Baking Paper 10m#4",
               "qty": 1.0,
+              "total": 30.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "generatedAt": "2026-09-19T19:01:04Z",
+      "pos": {
+        "total": 327.0,
+        "count": 5
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 327.0,
+        "count": 5
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [
+        {
+          "ref": "Ike - 000171",
+          "customer": "Walk-in",
+          "amount": 138.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "01:54",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01920] Wall hook pink #8022",
+              "qty": 3.0,
+              "total": 75.0
+            },
+            {
+              "name": "[70132] Hook Adhesive 2 In 1 #2878",
+              "qty": 1.0,
+              "total": 49.0
+            },
+            {
+              "name": "[70134] Wall Hook Adhesive Plastic #639",
+              "qty": 1.0,
+              "total": 14.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000173",
+          "customer": "Walk-in",
+          "amount": 69.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "02:21",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70047] slipper#2",
+              "qty": 1.0,
+              "total": 69.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000174",
+          "customer": "Walk-in",
+          "amount": 60.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "02:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[8389] Aluminium Foil Box 8389 Loose",
+              "qty": 20.0,
+              "total": 60.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000172",
+          "customer": "Walk-in",
+          "amount": 30.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "02:02",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[03338] Paper Cup 4oz (Bundle)",
+              "qty": 2.0,
+              "total": 30.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000170",
+          "customer": "Walk-in",
+          "amount": 30.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "01:21",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[8389] Aluminium Foil Box 8389 Loose",
+              "qty": 10.0,
               "total": 30.0
             }
           ]
