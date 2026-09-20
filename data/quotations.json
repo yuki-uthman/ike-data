@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-20T09:45:40Z",
-  "openCount": 119,
-  "openTotal": 1428388.2,
-  "quotationCount": 42,
-  "quotationTotal": 537016.75,
+  "generatedAt": "2026-09-20T10:01:10Z",
+  "openCount": 118,
+  "openTotal": 1427188.2,
+  "quotationCount": 41,
+  "quotationTotal": 535816.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -149,9 +149,9 @@
     },
     {
       "date": "2026-09-19",
-      "count": 3,
-      "outstanding": 44650.0,
-      "total": 44650.0
+      "count": 2,
+      "outstanding": 43450.0,
+      "total": 43450.0
     },
     {
       "date": "2026-09-20",
@@ -230,25 +230,6 @@
           "name": "[25767] Office Rack Large",
           "qty": 2.0,
           "total": 5300.0
-        }
-      ]
-    },
-    {
-      "id": 276,
-      "ref": "S00277",
-      "kind": "quotation",
-      "customer": "UNITED HUVADHOO HOLDING PVT LTD",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-19",
-      "expires": "2026-10-19",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
-          "qty": 1.0,
-          "total": 1200.0
         }
       ]
     },

@@ -11068,14 +11068,14 @@
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-20T09:45:31Z",
+      "generatedAt": "2026-09-20T10:01:01Z",
       "pos": {
         "total": 481.0,
         "count": 4
       },
       "regularSales": {
-        "total": 2757.0,
-        "count": 3
+        "total": 3957.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 5550.0,
@@ -11086,8 +11086,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 3089.0,
-        "count": 4
+        "total": 4289.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -11107,6 +11107,22 @@
               "name": "[70186] Trolley Stand 5 Layer Black",
               "qty": 1.0,
               "total": 1900.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00178",
+          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "amount": 1200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+              "qty": 1.0,
+              "total": 1200.0
             }
           ]
         },
