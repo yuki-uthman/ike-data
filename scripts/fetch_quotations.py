@@ -102,11 +102,18 @@ def main():
             moves_by_origin[token].append(m)
 
     # --- Channel 2: the POS counter, settling order lines directly ---
-    pos_orders = {p["id"]: p for p in execute("pos.order", "search_read", [], fields=["state"])}
     pos_lines = execute(
         "pos.order.line", "search_read", [["sale_order_line_id", "!=", False]],
         fields=["order_id", "price_subtotal_incl", "sale_order_line_id"],
     )
+    # Only the POS orders those lines point at - not every till receipt ever
+    # rung up, which is by far the largest table this script touches.
+    pos_order_ids = sorted({op.rel_id(pl["order_id"]) for pl in pos_lines} - {None})
+    pos_orders = {
+        p["id"]: p
+        for p in (execute("pos.order", "search_read", [["id", "in", pos_order_ids]], fields=["state"])
+                  if pos_order_ids else [])
+    }
     line_to_order = {lid: o["id"] for o in orders for lid in o["order_line"]}
     pos_settled = defaultdict(float)
     for pl in pos_lines:

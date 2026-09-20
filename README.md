@@ -52,6 +52,9 @@ separate, static-only repo that fetches its JSON straight from here via
   and the lines behind each one. A thin caller of `odoo_payments`; every run
   logs each distinct method and journal name it saw, so widening the
   cash/transfer patterns is a one-line change against real evidence.
+  `fetch_sales.py` calls its `write_today()` with the payments it already
+  collected, so the workflow asks Odoo once per run, not twice; running this
+  script on its own still works.
 - `scripts/fetch_quotations.py` — the follow-up pull for ike-quotations:
   every quotation and sales order with money still owing, plus the day
   totals behind its chart. This is the one script that asks what has *not*

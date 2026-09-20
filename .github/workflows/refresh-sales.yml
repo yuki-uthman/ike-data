@@ -26,7 +26,7 @@ jobs:
       - name: Check the payment logic against canned Odoo data
         run: python scripts/test_payments.py
 
-      - name: Fetch today's sales from Odoo
+      - name: Fetch today's sales + cash/transfer payments from Odoo (writes sales.json and today.json)
         env:
           ODOO_URL: https://mrh-investment.odoo.com
           ODOO_DB: mrh-investment
@@ -41,14 +41,6 @@ jobs:
           ODOO_USERNAME: mrhpvt@gmail.com
           ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
         run: python scripts/fetch_expenses.py
-
-      - name: Fetch today's cash + transfer payments from Odoo
-        env:
-          ODOO_URL: https://mrh-investment.odoo.com
-          ODOO_DB: mrh-investment
-          ODOO_USERNAME: mrhpvt@gmail.com
-          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
-        run: python scripts/fetch_today.py
 
       - name: Fetch open quotations + unpaid orders from Odoo
         env:

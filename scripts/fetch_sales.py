@@ -26,6 +26,7 @@ import xmlrpc.client
 from datetime import datetime, timezone
 from pathlib import Path
 
+import fetch_today
 import odoo_payments as op
 
 HISTORY_CAP = 60
@@ -53,6 +54,10 @@ def main():
 
     day_entry, transactions, skipped = op.day_entry(execute, day, generated_at)
     date_str = day_entry["date"]
+
+    # Same day, same payments: write today.json from this collection rather
+    # than running a second identical pass over Odoo in a separate step.
+    fetch_today.write_today(transactions, skipped, day, now_utc)
 
     if DATA_PATH.exists():
         payload = json.loads(DATA_PATH.read_text())

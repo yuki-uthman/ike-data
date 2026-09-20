@@ -24,26 +24,12 @@ import odoo_payments as op
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "today.json"
 
 
-def main():
-    url = os.environ["ODOO_URL"]
-    db = os.environ["ODOO_DB"]
-    username = os.environ["ODOO_USERNAME"]
-    api_key = os.environ["ODOO_API_KEY"]
+def write_today(transactions, skipped, day, now_utc):
+    """Write data/today.json from an already-collected day.
 
-    common = xmlrpc.client.ServerProxy(f"{url}/xmlrpc/2/common")
-    uid = common.authenticate(db, username, api_key, {})
-    if not uid:
-        raise SystemExit("Odoo authentication failed (UID: False) - check ODOO_API_KEY scope (must be RPC)")
-    models = xmlrpc.client.ServerProxy(f"{url}/xmlrpc/2/object")
-
-    def execute(model, method, *args, **kwargs):
-        return models.execute_kw(db, uid, api_key, model, method, list(args), kwargs)
-
-    now_utc = datetime.now(timezone.utc).replace(tzinfo=None)
-    day = op.maldives_today(now_utc)
-
-    transactions, skipped = op.collect_payments(execute, day)
-
+    Split out so fetch_sales.py, which collects the very same day's payments,
+    can write this file too instead of asking Odoo the same question twice.
+    """
     payload = {
         "company": "MRH Investment",
         "currency": "MVR",
@@ -76,6 +62,28 @@ def main():
         print("  (none - no customer payments recorded yet today)")
     if payload["other"]["count"]:
         print("::warning::Unclassified payment method(s) present - widen CASH_PATTERN / TRANSFER_PATTERN in odoo_payments.py")
+
+
+def main():
+    url = os.environ["ODOO_URL"]
+    db = os.environ["ODOO_DB"]
+    username = os.environ["ODOO_USERNAME"]
+    api_key = os.environ["ODOO_API_KEY"]
+
+    common = xmlrpc.client.ServerProxy(f"{url}/xmlrpc/2/common")
+    uid = common.authenticate(db, username, api_key, {})
+    if not uid:
+        raise SystemExit("Odoo authentication failed (UID: False) - check ODOO_API_KEY scope (must be RPC)")
+    models = xmlrpc.client.ServerProxy(f"{url}/xmlrpc/2/object")
+
+    def execute(model, method, *args, **kwargs):
+        return models.execute_kw(db, uid, api_key, model, method, list(args), kwargs)
+
+    now_utc = datetime.now(timezone.utc).replace(tzinfo=None)
+    day = op.maldives_today(now_utc)
+
+    transactions, skipped = op.collect_payments(execute, day)
+    write_today(transactions, skipped, day, now_utc)
 
 
 if __name__ == "__main__":
