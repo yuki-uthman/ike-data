@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-20T16:30:57Z",
-  "openCount": 120,
-  "openTotal": 1508688.2,
-  "quotationCount": 43,
-  "quotationTotal": 617316.75,
+  "generatedAt": "2026-09-20T16:45:41Z",
+  "openCount": 122,
+  "openTotal": 1549738.2,
+  "quotationCount": 45,
+  "quotationTotal": 658366.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -155,9 +155,9 @@
     },
     {
       "date": "2026-09-20",
-      "count": 3,
-      "outstanding": 87050.0,
-      "total": 87050.0
+      "count": 5,
+      "outstanding": 128100.0,
+      "total": 128100.0
     }
   ],
   "quotations": [
@@ -196,6 +196,30 @@
       ]
     },
     {
+      "id": 289,
+      "ref": "S00290",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-20",
+      "expires": "2026-10-20",
+      "total": 25700.0,
+      "settled": 0.0,
+      "outstanding": 25700.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-SSP-1950-X04] #RD8 Gray Single Perforated 1950mm x4",
+          "qty": 1.0,
+          "total": 9400.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X07] #RD8 Gray Single Perforated 1950mm x7",
+          "qty": 1.0,
+          "total": 16300.0
+        }
+      ]
+    },
+    {
       "id": 288,
       "ref": "S00289",
       "kind": "quotation",
@@ -211,6 +235,30 @@
           "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
           "qty": 11.0,
           "total": 19250.0
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "ref": "S00291",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-20",
+      "expires": "2026-10-20",
+      "total": 15350.0,
+      "settled": 0.0,
+      "outstanding": 15350.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-DSP-1950-X04] #RD8 Gray Double Side Perforated 1950mm x4",
+          "qty": 1.0,
+          "total": 13400.0
+        },
+        {
+          "name": "[RD8-GRY-ERP-1950] #RD8 Gray End Rack Perforated 1950mm",
+          "qty": 1.0,
+          "total": 1950.0
         }
       ]
     },
