@@ -10978,10 +10978,10 @@
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-20T06:15:34Z",
+      "generatedAt": "2026-09-20T06:30:51Z",
       "pos": {
-        "total": 362.0,
-        "count": 6
+        "total": 467.0,
+        "count": 7
       },
       "regularSales": {
         "total": 2077.0,
@@ -10992,8 +10992,8 @@
         "count": 0
       },
       "cash": {
-        "total": 362.0,
-        "count": 6
+        "total": 467.0,
+        "count": 7
       },
       "transfer": {
         "total": 2077.0,
@@ -11059,6 +11059,22 @@
               "name": "[70134] Wall Hook Adhesive Plastic #639",
               "qty": 1.0,
               "total": 14.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000176",
+          "customer": "Walk-in",
+          "amount": 105.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "15:24",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02069] Flower Pot 26x27cm E330",
+              "qty": 7.0,
+              "total": 105.0
             }
           ]
         },
