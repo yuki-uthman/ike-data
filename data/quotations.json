@@ -1,10 +1,10 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-20T15:15:47Z",
-  "openCount": 119,
+  "generatedAt": "2026-09-20T15:31:02Z",
+  "openCount": 120,
   "openTotal": 1508688.2,
-  "quotationCount": 42,
+  "quotationCount": 43,
   "quotationTotal": 617316.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
@@ -155,7 +155,7 @@
     },
     {
       "date": "2026-09-20",
-      "count": 2,
+      "count": 3,
       "outstanding": 87050.0,
       "total": 87050.0
     }
@@ -196,6 +196,25 @@
       ]
     },
     {
+      "id": 288,
+      "ref": "S00289",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-20",
+      "expires": "2026-10-20",
+      "total": 19250.0,
+      "settled": 0.0,
+      "outstanding": 19250.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 11.0,
+          "total": 19250.0
+        }
+      ]
+    },
+    {
       "id": 287,
       "ref": "S00288",
       "kind": "quotation",
@@ -203,19 +222,14 @@
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-20",
       "expires": "2026-10-20",
-      "total": 31550.0,
+      "total": 12300.0,
       "settled": 0.0,
-      "outstanding": 31550.0,
+      "outstanding": 12300.0,
       "lines": [
         {
           "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
           "qty": 2.0,
           "total": 10800.0
-        },
-        {
-          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
-          "qty": 11.0,
-          "total": 19250.0
         },
         {
           "name": "[2C-BLK-ER-1800-X01] #2C Black End Rack 1800mm x1",
