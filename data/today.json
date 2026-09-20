@@ -2,20 +2,41 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-20",
-  "generatedAt": "2026-09-20T17:30:48Z",
+  "generatedAt": "2026-09-20T17:45:32Z",
   "cash": {
     "total": 290.0,
     "count": 8
   },
   "transfer": {
-    "total": 9839.0,
-    "count": 6
+    "total": 35314.0,
+    "count": 8
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00180",
+      "customer": "BANDAHAGE PVT LTD",
+      "amount": 25450.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-GRY-SSP-1950-X07] #RD8 Gray Single Perforated 1950mm x7",
+          "qty": 1.0,
+          "total": 16175.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X04] #RD8 Gray Single Perforated 1950mm x4",
+          "qty": 1.0,
+          "total": 9275.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00179",
       "customer": "Nice Mart / Q-4",
@@ -197,6 +218,27 @@
       ]
     },
     {
+      "ref": "Ike - 000184",
+      "customer": "Walk-in",
+      "amount": 25.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:31",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[2268] Tooth Pick",
+          "qty": 1.0,
+          "total": 10.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000180",
       "customer": "Walk-in",
       "amount": 22.0,
@@ -270,14 +312,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 9507.0
+      "count": 6,
+      "total": 34957.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 332.0
+      "count": 2,
+      "total": 357.0
     },
     {
       "name": "Cash",

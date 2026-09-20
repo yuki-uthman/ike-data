@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-20T17:30:59Z",
-  "openCount": 122,
-  "openTotal": 1549738.2,
-  "quotationCount": 45,
-  "quotationTotal": 658366.75,
+  "generatedAt": "2026-09-20T17:45:39Z",
+  "openCount": 121,
+  "openTotal": 1524038.2,
+  "quotationCount": 44,
+  "quotationTotal": 632666.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -155,9 +155,9 @@
     },
     {
       "date": "2026-09-20",
-      "count": 5,
-      "outstanding": 128100.0,
-      "total": 128100.0
+      "count": 4,
+      "outstanding": 102400.0,
+      "total": 102400.0
     }
   ],
   "quotations": [
@@ -192,30 +192,6 @@
           "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
           "qty": 10.0,
           "total": 28500.0
-        }
-      ]
-    },
-    {
-      "id": 289,
-      "ref": "S00290",
-      "kind": "quotation",
-      "customer": "sales",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-20",
-      "expires": "2026-10-20",
-      "total": 25700.0,
-      "settled": 0.0,
-      "outstanding": 25700.0,
-      "lines": [
-        {
-          "name": "[RD8-GRY-SSP-1950-X04] #RD8 Gray Single Perforated 1950mm x4",
-          "qty": 1.0,
-          "total": 9400.0
-        },
-        {
-          "name": "[RD8-GRY-SSP-1950-X07] #RD8 Gray Single Perforated 1950mm x7",
-          "qty": 1.0,
-          "total": 16300.0
         }
       ]
     },
