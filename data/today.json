@@ -2,20 +2,41 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-20",
-  "generatedAt": "2026-09-20T12:30:49Z",
+  "generatedAt": "2026-09-20T12:45:36Z",
   "cash": {
     "total": 151.0,
     "count": 4
   },
   "transfer": {
-    "total": 4289.0,
-    "count": 5
+    "total": 9839.0,
+    "count": 6
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00179",
+      "customer": "Nice Mart / Q-4",
+      "amount": 5550.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 5.0,
+          "total": 3950.0
+        },
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 100.0,
+          "total": 1600.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00175",
       "customer": "Wish Bee A-10",
@@ -180,8 +201,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 3957.0
+      "count": 5,
+      "total": 9507.0
     },
     {
       "name": "Bank Transfer",
