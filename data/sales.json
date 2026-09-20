@@ -10978,32 +10978,48 @@
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-20T04:45:33Z",
+      "generatedAt": "2026-09-20T05:01:01Z",
       "pos": {
-        "total": 327.0,
-        "count": 5
+        "total": 362.0,
+        "count": 6
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 177.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 327.0,
-        "count": 5
+        "total": 362.0,
+        "count": 6
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 177.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00174",
+          "customer": "Excel international school",
+          "amount": 177.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[6989798745161] Mop Wooden #21",
+              "qty": 3.0,
+              "total": 177.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000171",
           "customer": "Walk-in",
@@ -11059,6 +11075,22 @@
               "name": "[8389] Aluminium Foil Box 8389 Loose",
               "qty": 20.0,
               "total": 60.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000175",
+          "customer": "Walk-in",
+          "amount": 35.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:50",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02105] Essential Oil Lavender 10ml#7",
+              "qty": 1.0,
+              "total": 35.0
             }
           ]
         },
