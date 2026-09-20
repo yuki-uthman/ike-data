@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-20T11:01:09Z",
-  "openCount": 118,
-  "openTotal": 1427188.2,
-  "quotationCount": 41,
-  "quotationTotal": 535816.75,
+  "generatedAt": "2026-09-20T11:15:41Z",
+  "openCount": 119,
+  "openTotal": 1482688.2,
+  "quotationCount": 42,
+  "quotationTotal": 591316.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -155,12 +155,46 @@
     },
     {
       "date": "2026-09-20",
-      "count": 1,
-      "outstanding": 5550.0,
-      "total": 5550.0
+      "count": 2,
+      "outstanding": 61050.0,
+      "total": 61050.0
     }
   ],
   "quotations": [
+    {
+      "id": 286,
+      "ref": "S00287",
+      "kind": "quotation",
+      "customer": "tree top hospital",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-20",
+      "expires": "2026-10-20",
+      "total": 55500.0,
+      "settled": 0.0,
+      "outstanding": 55500.0,
+      "lines": [
+        {
+          "name": "[88734] Tool Box X3",
+          "qty": 100.0,
+          "total": 10000.0
+        },
+        {
+          "name": "[99133] Tool Box X4",
+          "qty": 50.0,
+          "total": 7250.0
+        },
+        {
+          "name": "[60001] Tool Box x5",
+          "qty": 50.0,
+          "total": 9750.0
+        },
+        {
+          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "qty": 10.0,
+          "total": 28500.0
+        }
+      ]
+    },
     {
       "id": 284,
       "ref": "S00285",
