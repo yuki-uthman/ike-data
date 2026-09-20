@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-20",
-  "generatedAt": "2026-09-20T15:01:00Z",
+  "generatedAt": "2026-09-20T15:15:32Z",
   "cash": {
-    "total": 151.0,
-    "count": 4
+    "total": 173.0,
+    "count": 5
   },
   "transfer": {
     "total": 9839.0,
@@ -165,6 +165,27 @@
       ]
     },
     {
+      "ref": "Ike - 000180",
+      "customer": "Walk-in",
+      "amount": 22.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:10",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70075] Towel 042-0983 35*75cm",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[0012] Sponge WJ631 Loose PC",
+          "qty": 1.0,
+          "total": 3.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000178",
       "customer": "Walk-in",
       "amount": 9.0,
@@ -213,8 +234,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 151.0
+      "count": 5,
+      "total": 173.0
     }
   ]
 }

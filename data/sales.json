@@ -11068,10 +11068,10 @@
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-20T15:01:00Z",
+      "generatedAt": "2026-09-20T15:15:32Z",
       "pos": {
-        "total": 483.0,
-        "count": 5
+        "total": 505.0,
+        "count": 6
       },
       "regularSales": {
         "total": 9507.0,
@@ -11082,8 +11082,8 @@
         "count": 2
       },
       "cash": {
-        "total": 151.0,
-        "count": 4
+        "total": 173.0,
+        "count": 5
       },
       "transfer": {
         "total": 9839.0,
@@ -11239,6 +11239,27 @@
               "name": "[02105] Essential Oil Lavender 10ml#7",
               "qty": 1.0,
               "total": 35.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000180",
+          "customer": "Walk-in",
+          "amount": 22.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:10",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70075] Towel 042-0983 35*75cm",
+              "qty": 1.0,
+              "total": 19.0
+            },
+            {
+              "name": "[0012] Sponge WJ631 Loose PC",
+              "qty": 1.0,
+              "total": 3.0
             }
           ]
         },
