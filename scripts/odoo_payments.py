@@ -149,12 +149,18 @@ def collect_payments(execute, day):
     } - {None}
 
     # ---- 1. POS payments ----------------------------------------------------
+    # Days and times come from create_date, which the SERVER stamps, never from
+    # payment_date: the POS client writes that one, shifted by the difference
+    # between the till's clock and the cashier's Odoo profile timezone. A
+    # profile left on the wrong zone moved evening sales onto the next day
+    # (Sep 2026: -8h, then +4h, on one login only). Trade-off: a sale rung up
+    # offline shows the time it synced.
     pos_payment_fields = existing_fields(
-        "pos.payment", ["amount", "payment_date", "payment_method_id", "pos_order_id"]
+        "pos.payment", ["amount", "create_date", "payment_method_id", "pos_order_id"]
     )
     pos_payments = execute(
         "pos.payment", "search_read",
-        [["payment_date", ">=", fmt_dt(start_utc)], ["payment_date", "<", fmt_dt(end_utc)]],
+        [["create_date", ">=", fmt_dt(start_utc)], ["create_date", "<", fmt_dt(end_utc)]],
         fields=pos_payment_fields,
     )
 
@@ -199,7 +205,7 @@ def collect_payments(execute, day):
             "amount": round(amount, 2),
             "method": classify(method_name),
             "rawMethod": method_name or "unknown",
-            "time": local_time(payment.get("payment_date")),
+            "time": local_time(payment.get("create_date")),
             "source": "pos",
             "lines": sorted(
                 pos_lines_by_order.get(rel_id(payment.get("pos_order_id")), []),

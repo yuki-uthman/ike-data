@@ -18,7 +18,7 @@ import odoo_payments as op
 DAY = date(2026, 9, 16)
 
 FIELDS = {  # what fields_get would report
-    "pos.payment": ["amount", "payment_date", "payment_method_id", "pos_order_id"],
+    "pos.payment": ["amount", "create_date", "payment_method_id", "pos_order_id"],
     "pos.order": ["name", "partner_id", "account_move", "state"],
     "pos.order.line": ["order_id", "product_id", "qty", "price_subtotal_incl"],
     "pos.payment.method": [
@@ -32,8 +32,8 @@ FIELDS = {  # what fields_get would report
 
 DATA = {
     "pos.payment": [
-        {"amount": 59.0, "payment_date": "2026-09-16 05:10:00", "payment_method_id": [1, "Cash"], "pos_order_id": [10, "A"]},
-        {"amount": 77.0, "payment_date": "2026-09-16 06:20:00", "payment_method_id": [2, "Bank Transfer"], "pos_order_id": [11, "B"]},
+        {"amount": 59.0, "create_date": "2026-09-16 05:10:00", "payment_date": "2026-09-16 09:10:00", "payment_method_id": [1, "Cash"], "pos_order_id": [10, "A"]},
+        {"amount": 77.0, "create_date": "2026-09-16 06:20:00", "payment_date": "2026-09-15 22:20:00", "payment_method_id": [2, "Bank Transfer"], "pos_order_id": [11, "B"]},
     ],
     "pos.order": [
         # order 10 was invoiced -> its account.move is INV/2026/0001
@@ -72,7 +72,11 @@ DATA = {
     "sale.order": [{"amount_total": 1960.0}, {"amount_total": 500.0}],
 }
 
+POS_PAYMENT_DOMAINS = []
+
 def execute(model, method, *args, **kwargs):
+    if model == "pos.payment" and method == "search_read":
+        POS_PAYMENT_DOMAINS.append(args[0])
     if method == "fields_get":
         return {f: {"type": "x"} for f in FIELDS[model]}
     rows = DATA.get(model, [])
@@ -114,6 +118,13 @@ if entry["regularSales"]["total"] != 8450.0: fail.append(f"accounting received w
 if entry["cash"]["total"] != 59.0: fail.append(f"cash wrong: {entry['cash']['total']}")
 if entry["transfer"]["total"] != 7527.0: fail.append(f"transfer wrong: {entry['transfer']['total']} (expected 4950+77+2500)")
 if entry["other"]["total"] != 1000.0: fail.append("the Cheque payment should be in other, counted in no total")
+# The POS day and time must come from the server-stamped create_date. The
+# canned payment_date is deliberately skewed (+4h / -7h): a profile-timezone
+# fault shifts that field and must not move a sale between days or clock times.
+if any(cond[0] != "create_date" for cond in POS_PAYMENT_DOMAINS[0]):
+    fail.append(f"POS day filter uses something other than create_date: {POS_PAYMENT_DOMAINS[0]}")
+cash_tx = [t for t in txns if t["source"] == "pos" and t["method"] == "cash"][0]
+if cash_tx["time"] != "10:10": fail.append(f"POS time not taken from create_date: {cash_tx['time']} (expected 10:10)")
 # The day entry carries transactions now; ike-sales aggregates products from
 # them. Assert the same sums hold under that derivation, including its
 # once-per-reference rule, so the dashboards cannot be handed doubled goods.
