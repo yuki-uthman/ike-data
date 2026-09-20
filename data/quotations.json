@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-20T12:15:45Z",
+  "generatedAt": "2026-09-20T12:30:57Z",
   "openCount": 120,
   "openTotal": 1514238.2,
-  "quotationCount": 43,
-  "quotationTotal": 622866.75,
-  "orderCount": 77,
-  "orderTotal": 891371.45,
+  "quotationCount": 42,
+  "quotationTotal": 617316.75,
+  "orderCount": 78,
+  "orderTotal": 896921.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -227,7 +227,7 @@
     {
       "id": 284,
       "ref": "S00285",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Nice Mart / Q-4",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-20",
