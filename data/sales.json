@@ -11068,10 +11068,10 @@
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-20T15:30:49Z",
+      "generatedAt": "2026-09-20T15:46:12Z",
       "pos": {
-        "total": 505.0,
-        "count": 6
+        "total": 612.0,
+        "count": 8
       },
       "regularSales": {
         "total": 9507.0,
@@ -11082,8 +11082,8 @@
         "count": 3
       },
       "cash": {
-        "total": 173.0,
-        "count": 5
+        "total": 280.0,
+        "count": 7
       },
       "transfer": {
         "total": 9839.0,
@@ -11227,6 +11227,22 @@
           ]
         },
         {
+          "ref": "Ike - 000181",
+          "customer": "Walk-in",
+          "amount": 78.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02232] Ice Cream Spoon 100pcs",
+              "qty": 2.0,
+              "total": 78.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000175",
           "customer": "Walk-in",
           "amount": 35.0,
@@ -11239,6 +11255,22 @@
               "name": "[02105] Essential Oil Lavender 10ml#7",
               "qty": 1.0,
               "total": 35.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000182",
+          "customer": "Walk-in",
+          "amount": 29.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:40",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01871] Duster#43",
+              "qty": 1.0,
+              "total": 29.0
             }
           ]
         },
