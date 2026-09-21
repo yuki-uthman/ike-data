@@ -11360,10 +11360,10 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T17:01:05Z",
+      "generatedAt": "2026-09-21T17:15:37Z",
       "pos": {
-        "total": 1421.0,
-        "count": 16
+        "total": 1755.0,
+        "count": 18
       },
       "regularSales": {
         "total": 5776.0,
@@ -11374,8 +11374,8 @@
         "count": 5
       },
       "cash": {
-        "total": 1653.0,
-        "count": 15
+        "total": 1987.0,
+        "count": 17
       },
       "transfer": {
         "total": 5544.0,
@@ -11625,6 +11625,22 @@
           ]
         },
         {
+          "ref": "Ike - 000201",
+          "customer": "Walk-in",
+          "amount": 229.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:12",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70036] Water Bottle#8",
+              "qty": 1.0,
+              "total": 229.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000197",
           "customer": "Walk-in",
           "amount": 157.0,
@@ -11642,6 +11658,22 @@
               "name": "[02105] Essential Oil Lavender 10ml#7",
               "qty": 2.0,
               "total": 70.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000200",
+          "customer": "Walk-in",
+          "amount": 105.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[03338] Paper Cup 4oz (Bundle)",
+              "qty": 7.0,
+              "total": 105.0
             }
           ]
         },
