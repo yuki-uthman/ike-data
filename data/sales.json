@@ -11360,14 +11360,14 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T15:45:48Z",
+      "generatedAt": "2026-09-21T16:01:07Z",
       "pos": {
         "total": 1289.0,
         "count": 14
       },
       "regularSales": {
-        "total": 3876.0,
-        "count": 6
+        "total": 5776.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 9160.0,
@@ -11378,14 +11378,40 @@
         "count": 13
       },
       "transfer": {
-        "total": 3644.0,
-        "count": 7
+        "total": 5544.0,
+        "count": 8
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00187",
+          "customer": "FRESH FUSION B-12",
+          "amount": 1900.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70186] Trolley Stand 5 Layer Black",
+              "qty": 1.0,
+              "total": 1900.0
+            },
+            {
+              "name": "[70186] Trolley Stand 5 Layer Black",
+              "qty": 1.0,
+              "total": 867.0
+            },
+            {
+              "name": "[70186] Trolley Stand 5 Layer Black",
+              "qty": 1.0,
+              "total": -867.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00185",
           "customer": "Winovia/M.Mulah k4",
