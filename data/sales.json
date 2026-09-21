@@ -11360,10 +11360,10 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T09:45:35Z",
+      "generatedAt": "2026-09-21T10:01:03Z",
       "pos": {
-        "total": 711.0,
-        "count": 6
+        "total": 774.0,
+        "count": 7
       },
       "regularSales": {
         "total": 2250.0,
@@ -11374,8 +11374,8 @@
         "count": 4
       },
       "cash": {
-        "total": 941.0,
-        "count": 5
+        "total": 1004.0,
+        "count": 6
       },
       "transfer": {
         "total": 2020.0,
@@ -11530,6 +11530,27 @@
               "name": "[70076] Towel 042-0980 30*30cm",
               "qty": 1.0,
               "total": 9.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000190",
+          "customer": "Walk-in",
+          "amount": 63.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "15:00",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01777] Plastic Container 250ml#2083",
+              "qty": 1.0,
+              "total": 35.0
+            },
+            {
+              "name": "[06788] Water Bottle Plastic Small",
+              "qty": 1.0,
+              "total": 28.0
             }
           ]
         },
