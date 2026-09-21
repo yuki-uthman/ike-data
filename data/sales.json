@@ -11360,10 +11360,10 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T06:46:09Z",
+      "generatedAt": "2026-09-21T07:01:08Z",
       "pos": {
-        "total": 280.0,
-        "count": 1
+        "total": 345.0,
+        "count": 3
       },
       "regularSales": {
         "total": 1000.0,
@@ -11374,12 +11374,12 @@
         "count": 3
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 25.0,
+        "count": 1
       },
       "transfer": {
-        "total": 1280.0,
-        "count": 3
+        "total": 1320.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -11451,6 +11451,43 @@
               "name": "[70144] Hook Slat 8\"",
               "qty": 20.0,
               "total": -72.6
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000185",
+          "customer": "Walk-in",
+          "amount": 40.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:53",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[X0001] Damaged Aluminum Foil Container",
+              "qty": 4.0,
+              "total": 40.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000186",
+          "customer": "Walk-in",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:53",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Falcon Aluminum Container 8342 10pcs",
+              "qty": 1.0,
+              "total": 15.0
+            },
+            {
+              "name": "[8368] Aluminium Foil Box 8368 Loose",
+              "qty": 5.0,
+              "total": 10.0
             }
           ]
         }
