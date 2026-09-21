@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-21T09:15:45Z",
-  "openCount": 125,
-  "openTotal": 1526044.2,
-  "quotationCount": 47,
-  "quotationTotal": 634122.75,
+  "generatedAt": "2026-09-21T09:31:01Z",
+  "openCount": 126,
+  "openTotal": 1527224.2,
+  "quotationCount": 48,
+  "quotationTotal": 635302.75,
   "orderCount": 78,
   "orderTotal": 891921.45,
   "days": [
@@ -161,12 +161,31 @@
     },
     {
       "date": "2026-09-21",
-      "count": 4,
-      "outstanding": 2006.0,
-      "total": 2006.0
+      "count": 5,
+      "outstanding": 3186.0,
+      "total": 3186.0
     }
   ],
   "quotations": [
+    {
+      "id": 298,
+      "ref": "S00299",
+      "kind": "quotation",
+      "customer": "Faiq Abdulraheem F-12",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-21",
+      "expires": "2026-10-21",
+      "total": 1180.0,
+      "settled": 0.0,
+      "outstanding": 1180.0,
+      "lines": [
+        {
+          "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
+          "qty": 1.0,
+          "total": 1180.0
+        }
+      ]
+    },
     {
       "id": 293,
       "ref": "S00294",

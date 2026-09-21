@@ -11360,22 +11360,22 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T09:15:37Z",
+      "generatedAt": "2026-09-21T09:30:53Z",
       "pos": {
-        "total": 414.0,
-        "count": 4
+        "total": 702.0,
+        "count": 5
       },
       "regularSales": {
         "total": 1550.0,
         "count": 3
       },
       "pendingQuotations": {
-        "total": 1456.0,
-        "count": 4
+        "total": 2636.0,
+        "count": 5
       },
       "cash": {
-        "total": 644.0,
-        "count": 3
+        "total": 932.0,
+        "count": 4
       },
       "transfer": {
         "total": 1320.0,
@@ -11430,6 +11430,27 @@
               "name": "Top Kokoa Hokkaido White Chocolate 1kg",
               "qty": 1.0,
               "total": 250.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000188",
+          "customer": "Walk-in",
+          "amount": 288.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:25",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[8389] Aluminium Foil Box 8389 Loose",
+              "qty": 50.0,
+              "total": 150.0
+            },
+            {
+              "name": "[98559] Kitchen scale 5kg@SH-125",
+              "qty": 1.0,
+              "total": 138.0
             }
           ]
         },
