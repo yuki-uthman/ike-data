@@ -11360,10 +11360,10 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T12:15:35Z",
+      "generatedAt": "2026-09-21T12:30:52Z",
       "pos": {
-        "total": 1082.0,
-        "count": 12
+        "total": 1132.0,
+        "count": 13
       },
       "regularSales": {
         "total": 3776.0,
@@ -11374,8 +11374,8 @@
         "count": 4
       },
       "cash": {
-        "total": 1214.0,
-        "count": 10
+        "total": 1264.0,
+        "count": 11
       },
       "transfer": {
         "total": 3644.0,
@@ -11690,6 +11690,22 @@
               "name": "[02254] Steel Wool 2pcs",
               "qty": 1.0,
               "total": 12.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000196",
+          "customer": "Walk-in",
+          "amount": 50.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:28",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[PP9] PAPER PLATE 9\"",
+              "qty": 1.0,
+              "total": 50.0
             }
           ]
         },
