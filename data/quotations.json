@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-21T06:31:04Z",
-  "openCount": 124,
-  "openTotal": 1526654.2,
-  "quotationCount": 47,
-  "quotationTotal": 635282.75,
+  "generatedAt": "2026-09-21T06:46:16Z",
+  "openCount": 123,
+  "openTotal": 1525194.2,
+  "quotationCount": 46,
+  "quotationTotal": 633822.75,
   "orderCount": 77,
   "orderTotal": 891371.45,
   "days": [
@@ -161,70 +161,12 @@
     },
     {
       "date": "2026-09-21",
-      "count": 3,
-      "outstanding": 2616.0,
-      "total": 2616.0
+      "count": 2,
+      "outstanding": 1156.0,
+      "total": 1156.0
     }
   ],
   "quotations": [
-    {
-      "id": 292,
-      "ref": "S00293",
-      "kind": "quotation",
-      "customer": "Wisam/K-4",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 1156.0,
-      "settled": 0.0,
-      "outstanding": 1156.0,
-      "lines": [
-        {
-          "name": "[70140] Hook Net 10\"",
-          "qty": 10.0,
-          "total": 140.0
-        },
-        {
-          "name": "[2C-WHT-NET-2000x900] 2C White Net 2000x900mm",
-          "qty": 1.0,
-          "total": 700.0
-        },
-        {
-          "name": "[70142] Hook Net 6\"",
-          "qty": 10.0,
-          "total": 100.0
-        },
-        {
-          "name": "[70141] Hook Net 8\"",
-          "qty": 10.0,
-          "total": 120.0
-        },
-        {
-          "name": "[70139] Hook Net 12\"",
-          "qty": 6.0,
-          "total": 96.0
-        }
-      ]
-    },
-    {
-      "id": 294,
-      "ref": "S00295",
-      "kind": "quotation",
-      "customer": "Faiq Abdulraheem F-12",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 760.0,
-      "settled": 0.0,
-      "outstanding": 760.0,
-      "lines": [
-        {
-          "name": "[8325C] Aluminium Foil Box 8325 [case]",
-          "qty": 1.0,
-          "total": 760.0
-        }
-      ]
-    },
     {
       "id": 293,
       "ref": "S00294",
@@ -241,6 +183,40 @@
           "name": "[2C-WHT-NET-2000x900] 2C White Net 2000x900mm0",
           "qty": 1.0,
           "total": 700.0
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "ref": "S00293",
+      "kind": "quotation",
+      "customer": "Wisam/K-4",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-21",
+      "expires": "2026-10-21",
+      "total": 456.0,
+      "settled": 0.0,
+      "outstanding": 456.0,
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 10.0,
+          "total": 140.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 10.0,
+          "total": 100.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 10.0,
+          "total": 120.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 6.0,
+          "total": 96.0
         }
       ]
     },

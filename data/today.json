@@ -2,20 +2,46 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T06:30:53Z",
+  "generatedAt": "2026-09-21T06:46:09Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 280.0,
-    "count": 1
+    "total": 1280.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00182",
+      "customer": "Faiq Abdulraheem F-12",
+      "amount": 760.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 1.0,
+          "total": 760.0
+        },
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 1.0,
+          "total": 424.0
+        },
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 1.0,
+          "total": -424.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000140",
       "customer": "Walk-in",
@@ -31,9 +57,41 @@
           "total": 280.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00181",
+      "customer": "Addu International Airport Pvt Ltd",
+      "amount": 240.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 20.0,
+          "total": 72.6
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 20.0,
+          "total": -72.6
+        }
+      ]
     }
   ],
   "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 2,
+      "total": 1000.0
+    },
     {
       "name": "Bank Transfer",
       "method": "transfer",
