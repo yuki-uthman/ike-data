@@ -11360,32 +11360,118 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T11:30:53Z",
+      "generatedAt": "2026-09-21T11:45:37Z",
       "pos": {
-        "total": 892.0,
-        "count": 9
+        "total": 927.0,
+        "count": 10
       },
       "regularSales": {
-        "total": 2250.0,
-        "count": 4
+        "total": 3776.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 1480.0,
+        "total": 3460.0,
         "count": 4
       },
       "cash": {
-        "total": 1122.0,
-        "count": 8
+        "total": 1157.0,
+        "count": 9
       },
       "transfer": {
-        "total": 2020.0,
-        "count": 5
+        "total": 3546.0,
+        "count": 6
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00185",
+          "customer": "Winovia/M.Mulah k4",
+          "amount": 1526.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Net Stand 1.8M Wheel",
+              "qty": 1.0,
+              "total": 950.0
+            },
+            {
+              "name": "Net Stand 1.8M Wheel",
+              "qty": 1.0,
+              "total": 330.0
+            },
+            {
+              "name": "[70141] Hook Net 8\"",
+              "qty": 20.0,
+              "total": 240.0
+            },
+            {
+              "name": "[70140] Hook Net 10\"",
+              "qty": 10.0,
+              "total": 140.0
+            },
+            {
+              "name": "[70141] Hook Net 8\"",
+              "qty": 20.0,
+              "total": 140.0
+            },
+            {
+              "name": "[70142] Hook Net 6\"",
+              "qty": 10.0,
+              "total": 100.0
+            },
+            {
+              "name": "[70139] Hook Net 12\"",
+              "qty": 6.0,
+              "total": 96.0
+            },
+            {
+              "name": "[70140] Hook Net 10\"",
+              "qty": 10.0,
+              "total": 70.0
+            },
+            {
+              "name": "[70142] Hook Net 6\"",
+              "qty": 10.0,
+              "total": 70.0
+            },
+            {
+              "name": "[70139] Hook Net 12\"",
+              "qty": 6.0,
+              "total": 42.0
+            },
+            {
+              "name": "[70139] Hook Net 12\"",
+              "qty": 6.0,
+              "total": -42.0
+            },
+            {
+              "name": "[70140] Hook Net 10\"",
+              "qty": 10.0,
+              "total": -70.0
+            },
+            {
+              "name": "[70142] Hook Net 6\"",
+              "qty": 10.0,
+              "total": -70.0
+            },
+            {
+              "name": "[70141] Hook Net 8\"",
+              "qty": 20.0,
+              "total": -140.0
+            },
+            {
+              "name": "Net Stand 1.8M Wheel",
+              "qty": 1.0,
+              "total": -330.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00182",
           "customer": "Faiq Abdulraheem F-12",
@@ -11583,6 +11669,22 @@
               "name": "[X0001] Damaged Aluminum Foil Container",
               "qty": 4.0,
               "total": 40.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000193",
+          "customer": "Walk-in",
+          "amount": 35.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:38",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02105] Essential Oil Lavender 10ml#7",
+              "qty": 1.0,
+              "total": 35.0
             }
           ]
         },
