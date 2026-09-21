@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-21T11:15:45Z",
+  "generatedAt": "2026-09-21T11:31:03Z",
   "openCount": 125,
   "openTotal": 1527594.2,
-  "quotationCount": 47,
-  "quotationTotal": 635672.75,
-  "orderCount": 78,
-  "orderTotal": 891921.45,
+  "quotationCount": 46,
+  "quotationTotal": 634146.75,
+  "orderCount": 79,
+  "orderTotal": 893447.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -170,8 +170,8 @@
     {
       "id": 292,
       "ref": "S00293",
-      "kind": "quotation",
-      "customer": "Wisam/K-4",
+      "kind": "order",
+      "customer": "Winovia/M.Mulah k4",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-21",
       "expires": "2026-10-21",
