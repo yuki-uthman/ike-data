@@ -11360,10 +11360,10 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T16:45:36Z",
+      "generatedAt": "2026-09-21T17:01:05Z",
       "pos": {
-        "total": 1334.0,
-        "count": 15
+        "total": 1421.0,
+        "count": 16
       },
       "regularSales": {
         "total": 5776.0,
@@ -11374,8 +11374,8 @@
         "count": 5
       },
       "cash": {
-        "total": 1566.0,
-        "count": 14
+        "total": 1653.0,
+        "count": 15
       },
       "transfer": {
         "total": 5544.0,
@@ -11700,6 +11700,32 @@
               "name": "[70027] Hook Adhesive 2 in 1#2878",
               "qty": 2.0,
               "total": 98.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000199",
+          "customer": "Walk-in",
+          "amount": 87.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:59",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01873] Duster cloth Microfiber",
+              "qty": 1.0,
+              "total": 39.0
+            },
+            {
+              "name": "[01623] Ceramic Plate 8\"#12",
+              "qty": 1.0,
+              "total": 33.0
+            },
+            {
+              "name": "Falcon Aluminum Container 8342 10pcs",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
