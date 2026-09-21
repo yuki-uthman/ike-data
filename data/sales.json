@@ -11360,10 +11360,10 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T16:01:07Z",
+      "generatedAt": "2026-09-21T16:15:36Z",
       "pos": {
-        "total": 1289.0,
-        "count": 14
+        "total": 1334.0,
+        "count": 15
       },
       "regularSales": {
         "total": 5776.0,
@@ -11374,8 +11374,8 @@
         "count": 5
       },
       "cash": {
-        "total": 1521.0,
-        "count": 13
+        "total": 1566.0,
+        "count": 14
       },
       "transfer": {
         "total": 5544.0,
@@ -11779,6 +11779,22 @@
               "name": "[PP9] PAPER PLATE 9\"",
               "qty": 1.0,
               "total": 50.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000198",
+          "customer": "Walk-in",
+          "amount": 45.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[42689] Spoon small flatware Ss#3 Red (6pcs)",
+              "qty": 1.0,
+              "total": 45.0
             }
           ]
         },
