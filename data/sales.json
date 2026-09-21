@@ -11360,22 +11360,22 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T08:30:50Z",
+      "generatedAt": "2026-09-21T08:45:36Z",
       "pos": {
         "total": 345.0,
         "count": 3
       },
       "regularSales": {
-        "total": 1000.0,
-        "count": 2
-      },
-      "pendingQuotations": {
-        "total": 1156.0,
+        "total": 1550.0,
         "count": 3
       },
+      "pendingQuotations": {
+        "total": 1456.0,
+        "count": 4
+      },
       "cash": {
-        "total": 25.0,
-        "count": 1
+        "total": 575.0,
+        "count": 2
       },
       "transfer": {
         "total": 1320.0,
@@ -11409,6 +11409,27 @@
               "name": "[8325C] Aluminium Foil Box 8325 [case]",
               "qty": 1.0,
               "total": -424.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00183",
+          "customer": "ubuntu",
+          "amount": 550.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Top Kokoa Salted Caramel 1kg",
+              "qty": 1.0,
+              "total": 300.0
+            },
+            {
+              "name": "Top Kokoa Hokkaido White Chocolate 1kg",
+              "qty": 1.0,
+              "total": 250.0
             }
           ]
         },
