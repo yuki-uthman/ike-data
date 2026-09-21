@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T15:01:09Z",
+  "generatedAt": "2026-09-21T15:15:36Z",
   "cash": {
-    "total": 1421.0,
-    "count": 12
+    "total": 1521.0,
+    "count": 13
   },
   "transfer": {
     "total": 3644.0,
@@ -250,6 +250,32 @@
       ]
     },
     {
+      "ref": "INV/2026/00186",
+      "customer": "Deseo",
+      "amount": 100.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 10.0,
+          "total": 100.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 10.0,
+          "total": 70.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 10.0,
+          "total": -70.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000191",
       "customer": "Walk-in",
       "amount": 99.0,
@@ -456,8 +482,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 12,
-      "total": 1421.0
+      "count": 13,
+      "total": 1521.0
     },
     {
       "name": "Bank Transfer",
