@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T09:30:53Z",
+  "generatedAt": "2026-09-21T09:45:35Z",
   "cash": {
-    "total": 932.0,
-    "count": 4
+    "total": 941.0,
+    "count": 5
   },
   "transfer": {
-    "total": 1320.0,
-    "count": 4
+    "total": 2020.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -39,6 +39,22 @@
           "name": "[8325C] Aluminium Foil Box 8325 [case]",
           "qty": 1.0,
           "total": -424.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00184",
+      "customer": "Deseo",
+      "amount": 700.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-NET-2000x900] 2C White Net 2000x900mm",
+          "qty": 1.0,
+          "total": 700.0
         }
       ]
     },
@@ -183,20 +199,36 @@
           "total": 10.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000189",
+      "customer": "Walk-in",
+      "amount": 9.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:36",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02037] Plastic Strainer Yellow",
+          "qty": 1.0,
+          "total": 9.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 1000.0
+      "count": 3,
+      "total": 1700.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 932.0
+      "count": 5,
+      "total": 941.0
     },
     {
       "name": "Bank Transfer",
