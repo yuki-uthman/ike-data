@@ -11360,22 +11360,22 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T12:30:52Z",
+      "generatedAt": "2026-09-21T12:45:33Z",
       "pos": {
-        "total": 1132.0,
-        "count": 13
+        "total": 1289.0,
+        "count": 14
       },
       "regularSales": {
         "total": 3776.0,
         "count": 5
       },
       "pendingQuotations": {
-        "total": 3460.0,
-        "count": 4
+        "total": 9160.0,
+        "count": 5
       },
       "cash": {
-        "total": 1264.0,
-        "count": 11
+        "total": 1421.0,
+        "count": 12
       },
       "transfer": {
         "total": 3644.0,
@@ -11595,6 +11595,27 @@
               "name": "[70144] Hook Slat 8\"",
               "qty": 20.0,
               "total": -72.6
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000197",
+          "customer": "Walk-in",
+          "amount": 157.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:43",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70127] Hanger Plastic 27cm #C-519",
+              "qty": 3.0,
+              "total": 87.0
+            },
+            {
+              "name": "[02105] Essential Oil Lavender 10ml#7",
+              "qty": 2.0,
+              "total": 70.0
             }
           ]
         },
