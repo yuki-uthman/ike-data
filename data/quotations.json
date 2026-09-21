@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-21T11:01:14Z",
+  "generatedAt": "2026-09-21T11:15:45Z",
   "openCount": 125,
-  "openTotal": 1526524.2,
+  "openTotal": 1527594.2,
   "quotationCount": 47,
-  "quotationTotal": 634602.75,
+  "quotationTotal": 635672.75,
   "orderCount": 78,
   "orderTotal": 891921.45,
   "days": [
@@ -162,11 +162,50 @@
     {
       "date": "2026-09-21",
       "count": 4,
-      "outstanding": 2486.0,
-      "total": 2486.0
+      "outstanding": 3556.0,
+      "total": 3556.0
     }
   ],
   "quotations": [
+    {
+      "id": 292,
+      "ref": "S00293",
+      "kind": "quotation",
+      "customer": "Wisam/K-4",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-21",
+      "expires": "2026-10-21",
+      "total": 1526.0,
+      "settled": 0.0,
+      "outstanding": 1526.0,
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 10.0,
+          "total": 140.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 10.0,
+          "total": 100.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 6.0,
+          "total": 96.0
+        },
+        {
+          "name": "Net Stand 1.8M Wheel",
+          "qty": 1.0,
+          "total": 950.0
+        }
+      ]
+    },
     {
       "id": 298,
       "ref": "S00299",
@@ -207,40 +246,6 @@
           "name": "Top Kokoa Hokkaido White Chocolate 1kg",
           "qty": 1.0,
           "total": 250.0
-        }
-      ]
-    },
-    {
-      "id": 292,
-      "ref": "S00293",
-      "kind": "quotation",
-      "customer": "Wisam/K-4",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 456.0,
-      "settled": 0.0,
-      "outstanding": 456.0,
-      "lines": [
-        {
-          "name": "[70140] Hook Net 10\"",
-          "qty": 10.0,
-          "total": 140.0
-        },
-        {
-          "name": "[70142] Hook Net 6\"",
-          "qty": 10.0,
-          "total": 100.0
-        },
-        {
-          "name": "[70141] Hook Net 8\"",
-          "qty": 10.0,
-          "total": 120.0
-        },
-        {
-          "name": "[70139] Hook Net 12\"",
-          "qty": 6.0,
-          "total": 96.0
         }
       ]
     },
