@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T08:45:36Z",
+  "generatedAt": "2026-09-21T09:01:06Z",
   "cash": {
-    "total": 575.0,
-    "count": 2
+    "total": 644.0,
+    "count": 3
   },
   "transfer": {
     "total": 1320.0,
@@ -106,6 +106,27 @@
       ]
     },
     {
+      "ref": "Ike - 000187",
+      "customer": "Ubuntu",
+      "amount": 69.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "13:54",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+          "qty": 2.0,
+          "total": 60.0
+        },
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 1.0,
+          "total": 9.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000185",
       "customer": "Walk-in",
       "amount": 40.0,
@@ -153,8 +174,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 575.0
+      "count": 3,
+      "total": 644.0
     },
     {
       "name": "Bank Transfer",
