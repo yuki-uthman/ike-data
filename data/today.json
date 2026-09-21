@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T11:45:37Z",
+  "generatedAt": "2026-09-21T12:01:09Z",
   "cash": {
-    "total": 1157.0,
-    "count": 9
+    "total": 1214.0,
+    "count": 10
   },
   "transfer": {
-    "total": 3546.0,
-    "count": 6
+    "total": 3644.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -245,6 +245,22 @@
       ]
     },
     {
+      "ref": "Ike - 000194",
+      "customer": "Walk-in",
+      "amount": 98.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "16:49",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70027] Hook Adhesive 2 in 1#2878",
+          "qty": 2.0,
+          "total": 98.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000187",
       "customer": "Ubuntu",
       "amount": 69.0,
@@ -283,6 +299,27 @@
           "name": "[06788] Water Bottle Plastic Small",
           "qty": 1.0,
           "total": 28.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000195",
+      "customer": "Walk-in",
+      "amount": 57.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:54",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01751] Door Mat Code 03#",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "[02254] Steel Wool 2pcs",
+          "qty": 1.0,
+          "total": 12.0
         }
       ]
     },
@@ -382,14 +419,14 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 9,
-      "total": 1157.0
+      "count": 10,
+      "total": 1214.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 320.0
+      "count": 3,
+      "total": 418.0
     }
   ]
 }
