@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T15:45:36Z",
+  "generatedAt": "2026-09-22T16:01:14Z",
   "cash": {
     "total": 10510.0,
     "count": 6
   },
   "transfer": {
-    "total": 43657.0,
-    "count": 12
+    "total": 43732.0,
+    "count": 13
   },
   "other": {
     "total": 0,
@@ -403,6 +403,22 @@
       ]
     },
     {
+      "ref": "Ike - 000208",
+      "customer": "Walk-in",
+      "amount": 75.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "20:53",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02200] plastic cups colorful Loose Pc #183-588",
+          "qty": 15.0,
+          "total": 75.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000202",
       "customer": "Walk-in",
       "amount": 65.0,
@@ -466,8 +482,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 3,
-      "total": 672.0
+      "count": 4,
+      "total": 747.0
     }
   ]
 }
