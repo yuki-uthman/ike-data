@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T08:31:06Z",
-  "openCount": 132,
-  "openTotal": 1560470.2,
-  "quotationCount": 51,
-  "quotationTotal": 658856.75,
-  "orderCount": 81,
-  "orderTotal": 901613.45,
+  "generatedAt": "2026-09-22T08:45:48Z",
+  "openCount": 131,
+  "openTotal": 1558490.2,
+  "quotationCount": 49,
+  "quotationTotal": 656276.75,
+  "orderCount": 82,
+  "orderTotal": 902213.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -161,9 +161,9 @@
     },
     {
       "date": "2026-09-21",
-      "count": 6,
-      "outstanding": 9810.0,
-      "total": 9810.0
+      "count": 5,
+      "outstanding": 7830.0,
+      "total": 7830.0
     },
     {
       "date": "2026-09-22",
@@ -302,7 +302,7 @@
     {
       "id": 310,
       "ref": "S00311",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Snap Buy",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-22",
@@ -334,25 +334,6 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 2.0,
           "total": 5700.0
-        }
-      ]
-    },
-    {
-      "id": 299,
-      "ref": "S00300",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 1980.0,
-      "settled": 0.0,
-      "outstanding": 1980.0,
-      "lines": [
-        {
-          "name": "[70176] 51 Warehouse Rack White Large",
-          "qty": 1.0,
-          "total": 1980.0
         }
       ]
     },

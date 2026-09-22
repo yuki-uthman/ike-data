@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T08:30:54Z",
+  "generatedAt": "2026-09-22T08:45:41Z",
   "cash": {
-    "total": 9862.0,
-    "count": 4
+    "total": 10462.0,
+    "count": 5
   },
   "transfer": {
-    "total": 6750.0,
-    "count": 2
+    "total": 8730.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -85,6 +85,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00193",
+      "customer": "Olive Veli",
+      "amount": 1980.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 1.0,
+          "total": 1980.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00189",
       "customer": "Sales",
       "amount": 1672.0,
@@ -122,6 +138,22 @@
           "name": "[70059] Dust Pan Dm-044",
           "qty": 1.0,
           "total": 50.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00192",
+      "customer": "Snap Buy",
+      "amount": 600.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 3.0,
+          "total": 600.0
         }
       ]
     },
@@ -202,14 +234,14 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 9862.0
+      "count": 5,
+      "total": 10462.0
     },
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 6750.0
+      "count": 3,
+      "total": 8730.0
     }
   ]
 }
