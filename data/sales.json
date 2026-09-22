@@ -11916,14 +11916,14 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T16:45:36Z",
+      "generatedAt": "2026-09-22T17:01:51Z",
       "pos": {
         "total": 1065.0,
         "count": 7
       },
       "regularSales": {
-        "total": 55197.0,
-        "count": 13
+        "total": 60697.0,
+        "count": 14
       },
       "pendingQuotations": {
         "total": 5340.0,
@@ -11934,8 +11934,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 45752.0,
-        "count": 14
+        "total": 51252.0,
+        "count": 15
       },
       "other": {
         "total": 0,
@@ -12012,6 +12012,22 @@
               "name": "[70176] 51 Warehouse Rack White Large",
               "qty": 4.0,
               "total": 7920.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00201",
+          "customer": "Trusted Bricks Dhigurah",
+          "amount": 5500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70161] Vegetable Rack 4 Square Baskets",
+              "qty": 2.0,
+              "total": 5500.0
             }
           ]
         },

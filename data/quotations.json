@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T16:45:45Z",
-  "openCount": 129,
-  "openTotal": 1531750.2,
-  "quotationCount": 47,
-  "quotationTotal": 629536.75,
+  "generatedAt": "2026-09-22T17:02:04Z",
+  "openCount": 128,
+  "openTotal": 1526050.2,
+  "quotationCount": 46,
+  "quotationTotal": 623836.75,
   "orderCount": 82,
   "orderTotal": 902213.45,
   "days": [
@@ -161,9 +161,9 @@
     },
     {
       "date": "2026-09-21",
-      "count": 4,
-      "outstanding": 7530.0,
-      "total": 7530.0
+      "count": 3,
+      "outstanding": 1830.0,
+      "total": 1830.0
     },
     {
       "date": "2026-09-22",
@@ -300,25 +300,6 @@
           "name": "[90045] Milkshake Powder Thai Milk Tea",
           "qty": 3.0,
           "total": 600.0
-        }
-      ]
-    },
-    {
-      "id": 300,
-      "ref": "S00301",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 5700.0,
-      "settled": 0.0,
-      "outstanding": 5700.0,
-      "lines": [
-        {
-          "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 2.0,
-          "total": 5700.0
         }
       ]
     },
