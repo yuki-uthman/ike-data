@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T11:31:27Z",
+  "generatedAt": "2026-09-22T11:45:35Z",
   "cash": {
     "total": 10510.0,
     "count": 6
   },
   "transfer": {
-    "total": 23977.0,
-    "count": 8
+    "total": 25137.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -169,6 +169,22 @@
           "name": "[70059] Dust Pan Dm-044",
           "qty": 1.0,
           "total": 50.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00198",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 1160.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[R12C] Plastic Container A12 [case]",
+          "qty": 1.0,
+          "total": 1160.0
         }
       ]
     },
@@ -370,8 +386,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 23700.0
+      "count": 8,
+      "total": 24860.0
     },
     {
       "name": "Cash",
