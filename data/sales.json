@@ -11916,10 +11916,10 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T11:45:35Z",
+      "generatedAt": "2026-09-22T12:01:03Z",
       "pos": {
-        "total": 595.0,
-        "count": 4
+        "total": 690.0,
+        "count": 5
       },
       "regularSales": {
         "total": 35052.0,
@@ -11934,8 +11934,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 25137.0,
-        "count": 9
+        "total": 25232.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -12257,6 +12257,32 @@
               "name": "[02228] Paper Cup 6oz (Bundle)",
               "qty": 1.0,
               "total": 20.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000206",
+          "customer": "Walk-in",
+          "amount": 95.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "16:55",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Paper Plate 7'' Bundle 50pcs",
+              "qty": 1.0,
+              "total": 50.0
+            },
+            {
+              "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+              "qty": 1.0,
+              "total": 30.0
+            },
+            {
+              "name": "[01907] Toilet Brush Plastic #36",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
