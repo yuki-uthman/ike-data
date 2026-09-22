@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T04:45:42Z",
-  "openCount": 129,
-  "openTotal": 1541208.2,
-  "quotationCount": 49,
-  "quotationTotal": 644886.75,
+  "generatedAt": "2026-09-22T05:01:17Z",
+  "openCount": 130,
+  "openTotal": 1541030.2,
+  "quotationCount": 50,
+  "quotationTotal": 647336.75,
   "orderCount": 80,
-  "orderTotal": 896321.45,
+  "orderTotal": 893693.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -167,46 +167,12 @@
     },
     {
       "date": "2026-09-22",
-      "count": 2,
-      "outstanding": 7360.0,
-      "total": 7360.0
+      "count": 3,
+      "outstanding": 7182.0,
+      "total": 7182.0
     }
   ],
   "quotations": [
-    {
-      "id": 304,
-      "ref": "S00305",
-      "kind": "order",
-      "customer": "H A PLUS E-1",
-      "salesperson": "ike.salesperson@gmail.com",
-      "date": "2026-09-22",
-      "expires": "2026-10-22",
-      "total": 4300.0,
-      "settled": 0.0,
-      "outstanding": 4300.0,
-      "lines": [
-        {
-          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1400.0
-        },
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
-        },
-        {
-          "name": "Bagasse Plate 7\" - Case (40 bundles/1000pcs)",
-          "qty": 1.0,
-          "total": 1400.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 20.0,
-          "total": 400.0
-        }
-      ]
-    },
     {
       "id": 303,
       "ref": "S00304",
@@ -233,6 +199,74 @@
           "name": "Bagasse Plate 7\" - Bundle (25pcs)",
           "qty": 40.0,
           "total": 1400.0
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "ref": "S00306",
+      "kind": "quotation",
+      "customer": "Keesa Zone Q-10",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-22",
+      "expires": "2026-10-22",
+      "total": 2450.0,
+      "settled": 0.0,
+      "outstanding": 2450.0,
+      "lines": [
+        {
+          "name": "[75053] Hook Mesh 12\"",
+          "qty": 100.0,
+          "total": 1700.0
+        },
+        {
+          "name": "[70147] Hook Mesh 10\"",
+          "qty": 50.0,
+          "total": 750.0
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "ref": "S00307",
+      "kind": "order",
+      "customer": "sales",
+      "salesperson": "ike.salesperson@gmail.com",
+      "date": "2026-09-22",
+      "expires": "2026-10-22",
+      "total": 1672.0,
+      "settled": 0.0,
+      "outstanding": 1672.0,
+      "lines": [
+        {
+          "name": "[01681] Table Mat Pvc 30x45cm #4",
+          "qty": 10.0,
+          "total": 190.0
+        },
+        {
+          "name": "Door Mat Code02#38*58",
+          "qty": 2.0,
+          "total": 78.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[70059] Dust Pan Dm-044",
+          "qty": 1.0,
+          "total": 50.0
+        },
+        {
+          "name": "[32071] CHAIR 14 INCH",
+          "qty": 1.0,
+          "total": 129.0
         }
       ]
     },

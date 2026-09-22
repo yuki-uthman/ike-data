@@ -2,19 +2,136 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T04:45:35Z",
+  "generatedAt": "2026-09-22T05:01:09Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 1737.0,
+    "count": 2
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 4300.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": []
+  "transactions": [
+    {
+      "ref": "INV/2026/00188",
+      "customer": "H A PLUS E-1",
+      "amount": 4300.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1400.0
+        },
+        {
+          "name": "Bagasse Plate 7\" - Case (40 bundles/1000pcs)",
+          "qty": 1.0,
+          "total": 1400.0
+        },
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 20.0,
+          "total": 400.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00189",
+      "customer": "sales",
+      "amount": 1672.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[01681] Table Mat Pvc 30x45cm #4",
+          "qty": 10.0,
+          "total": 190.0
+        },
+        {
+          "name": "[32071] CHAIR 14 INCH",
+          "qty": 1.0,
+          "total": 129.0
+        },
+        {
+          "name": "Door Mat Code02#38*58",
+          "qty": 2.0,
+          "total": 78.0
+        },
+        {
+          "name": "[70059] Dust Pan Dm-044",
+          "qty": 1.0,
+          "total": 50.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000202",
+      "customer": "Walk-in",
+      "amount": 65.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "09:52",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[6955105504080] Brush Silicone Scrubber#91264",
+          "qty": 1.0,
+          "total": 20.0
+        },
+        {
+          "name": "[8368] Aluminium Foil Box 8368 Loose",
+          "qty": 10.0,
+          "total": 20.0
+        },
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[2268] Tooth Pick",
+          "qty": 1.0,
+          "total": 10.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 4300.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 2,
+      "total": 1737.0
+    }
+  ]
 }
