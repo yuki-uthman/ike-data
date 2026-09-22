@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T06:15:36Z",
+  "generatedAt": "2026-09-22T06:30:49Z",
   "cash": {
-    "total": 1942.0,
-    "count": 3
+    "total": 9862.0,
+    "count": 4
   },
   "transfer": {
     "total": 6750.0,
@@ -16,6 +16,22 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00191",
+      "customer": "mandara spa Maldives Pvt Ltd",
+      "amount": 7920.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 4.0,
+          "total": 7920.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00188",
       "customer": "H A Plus E-1",
@@ -184,16 +200,16 @@
   ],
   "methodsSeen": [
     {
+      "name": "Cash",
+      "method": "cash",
+      "count": 4,
+      "total": 9862.0
+    },
+    {
       "name": "Bank",
       "method": "transfer",
       "count": 2,
       "total": 6750.0
-    },
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 3,
-      "total": 1942.0
     }
   ]
 }
