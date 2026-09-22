@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T04:30:53Z",
+  "generatedAt": "2026-09-22T04:45:42Z",
   "openCount": 129,
   "openTotal": 1541208.2,
-  "quotationCount": 50,
-  "quotationTotal": 649186.75,
-  "orderCount": 79,
-  "orderTotal": 892021.45,
+  "quotationCount": 49,
+  "quotationTotal": 644886.75,
+  "orderCount": 80,
+  "orderTotal": 896321.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -176,7 +176,7 @@
     {
       "id": 304,
       "ref": "S00305",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "H A PLUS E-1",
       "salesperson": "ike.salesperson@gmail.com",
       "date": "2026-09-22",
