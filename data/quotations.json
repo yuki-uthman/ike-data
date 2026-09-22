@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T11:15:46Z",
-  "openCount": 130,
-  "openTotal": 1545120.2,
-  "quotationCount": 48,
-  "quotationTotal": 642906.75,
+  "generatedAt": "2026-09-22T11:31:39Z",
+  "openCount": 131,
+  "openTotal": 1548260.2,
+  "quotationCount": 49,
+  "quotationTotal": 646046.75,
   "orderCount": 82,
   "orderTotal": 902213.45,
   "days": [
@@ -161,15 +161,15 @@
     },
     {
       "date": "2026-09-21",
-      "count": 5,
-      "outstanding": 7830.0,
-      "total": 7830.0
+      "count": 4,
+      "outstanding": 7530.0,
+      "total": 7530.0
     },
     {
       "date": "2026-09-22",
-      "count": 4,
-      "outstanding": 13252.0,
-      "total": 13252.0
+      "count": 6,
+      "outstanding": 16692.0,
+      "total": 16692.0
     }
   ],
   "quotations": [
@@ -222,6 +222,25 @@
       ]
     },
     {
+      "id": 315,
+      "ref": "S00316",
+      "kind": "quotation",
+      "customer": "Smart Holding Private Limited",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-22",
+      "expires": "2026-10-22",
+      "total": 2280.0,
+      "settled": 0.0,
+      "outstanding": 2280.0,
+      "lines": [
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 3.0,
+          "total": 2280.0
+        }
+      ]
+    },
+    {
       "id": 306,
       "ref": "S00307",
       "kind": "order",
@@ -262,6 +281,25 @@
           "name": "[32071] CHAIR 14 INCH",
           "qty": 1.0,
           "total": 129.0
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "ref": "S00315",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-22",
+      "expires": "2026-10-22",
+      "total": 1160.0,
+      "settled": 0.0,
+      "outstanding": 1160.0,
+      "lines": [
+        {
+          "name": "[R12C] Plastic Container A12 [case]",
+          "qty": 1.0,
+          "total": 1160.0
         }
       ]
     },
@@ -343,25 +381,6 @@
           "name": "Top Kokoa Hokkaido White Chocolate 1kg",
           "qty": 1.0,
           "total": 250.0
-        }
-      ]
-    },
-    {
-      "id": 296,
-      "ref": "S00297",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 300.0,
-      "settled": 0.0,
-      "outstanding": 300.0,
-      "lines": [
-        {
-          "name": "[10008] Top Kokoa Creamy Cheese 1kg",
-          "qty": 1.0,
-          "total": 300.0
         }
       ]
     },

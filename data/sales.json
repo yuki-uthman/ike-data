@@ -11916,26 +11916,26 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T11:15:36Z",
+      "generatedAt": "2026-09-22T11:31:27Z",
       "pos": {
-        "total": 318.0,
-        "count": 3
+        "total": 595.0,
+        "count": 4
       },
       "regularSales": {
-        "total": 33592.0,
-        "count": 9
+        "total": 33892.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 3060.0,
-        "count": 2
+        "total": 6500.0,
+        "count": 4
       },
       "cash": {
         "total": 10510.0,
         "count": 6
       },
       "transfer": {
-        "total": 23400.0,
-        "count": 6
+        "total": 23977.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -12141,6 +12141,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00197",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 300.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[10008] Top Kokoa Creamy Cheese 1kg",
+              "qty": 1.0,
+              "total": 300.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00194",
           "customer": "Kauri Super Mart H-12",
           "amount": 280.0,
@@ -12153,6 +12169,37 @@
               "name": "[70140] Hook Net 10\"",
               "qty": 20.0,
               "total": 280.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000205",
+          "customer": "Walk-in",
+          "amount": 277.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "16:17",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Bagasse Plate 7\"",
+              "qty": 1.0,
+              "total": 127.0
+            },
+            {
+              "name": "[X0001] Damaged Aluminum Foil Container",
+              "qty": 8.0,
+              "total": 80.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 2.0,
+              "total": 40.0
+            },
+            {
+              "name": "[83241] Aluminium Foil Box 83241 Loose",
+              "qty": 6.0,
+              "total": 30.0
             }
           ]
         },
