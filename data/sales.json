@@ -11916,14 +11916,14 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T15:15:39Z",
+      "generatedAt": "2026-09-22T15:30:54Z",
       "pos": {
         "total": 990.0,
         "count": 6
       },
       "regularSales": {
-        "total": 35052.0,
-        "count": 11
+        "total": 53177.0,
+        "count": 12
       },
       "pendingQuotations": {
         "total": 5340.0,
@@ -11934,14 +11934,40 @@
         "count": 6
       },
       "transfer": {
-        "total": 25532.0,
-        "count": 11
+        "total": 43657.0,
+        "count": 12
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00199",
+          "customer": "Bandahage PVT LTD",
+          "amount": 18125.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-DSP-1950-X04] #RD8 Gray Double Side Perforated 1950mm x4",
+              "qty": 1.0,
+              "total": 13400.0
+            },
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 111.0,
+              "total": 2775.0
+            },
+            {
+              "name": "[RD8-GRY-ERP-1950] #RD8 Gray End Rack Perforated 1950mm",
+              "qty": 1.0,
+              "total": 1950.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00196",
           "customer": "Ocean Aventis Pvt.Ltd",
