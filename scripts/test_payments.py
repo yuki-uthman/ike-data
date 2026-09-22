@@ -6,8 +6,12 @@ Covers the cases that have actually gone wrong: a POS session settlement
 double counting the day's card takings, a genuine receipt sharing that same
 POS journal that must survive it, an accounting payment reconciled to a POS
 order's own invoice, an unreconciled advance falling back to its own
-reference, an unclassified method staying out of both totals, and products
-aggregating across POS and invoice lines without counting an invoice twice.
+reference, an unclassified method staying out of both totals, products
+aggregating across POS and invoice lines without counting an invoice twice,
+and a real-time-valuation product's COGS/inventory-valuation line pair (same
+product_id, amounts that cancel to zero) not being mistaken for a second and
+third sold line - see INV/2026/00187, 2026-09-21, once MRH turned on
+Anglo-Saxon accounting.
 """
 import sys, json
 from pathlib import Path
@@ -66,8 +70,14 @@ DATA = {
     ],
     "account.move": [{"id": 900, "name": "INV/2026/0001"}, {"id": 901, "name": "INV/2026/0002"}],
     "account.move.line": [
-        {"move_id": [901, "INV/2026/0002"], "product_id": [52, "[3C270] Foil box"], "quantity": 3.0, "price_total": 4700.0},
-        {"move_id": [901, "INV/2026/0002"], "product_id": [51, "[PP9] Paper plate"], "quantity": 5.0, "price_total": 250.0},
+        {"move_id": [901, "INV/2026/0002"], "product_id": [52, "[3C270] Foil box"], "quantity": 3.0, "price_total": 4700.0, "display_type": "product"},
+        {"move_id": [901, "INV/2026/0002"], "product_id": [51, "[PP9] Paper plate"], "quantity": 5.0, "price_total": 250.0, "display_type": "product"},
+        # THE BUG: Odoo's own COGS/inventory-valuation pair for a real-time
+        # costed product, posted onto this same invoice. Same product_id as a
+        # genuine sale would have, amounts that net to zero - must not appear
+        # as a phantom second and third line for "Foil box".
+        {"move_id": [901, "INV/2026/0002"], "product_id": [52, "[3C270] Foil box"], "quantity": 1.0, "price_total": 867.0, "display_type": "cogs"},
+        {"move_id": [901, "INV/2026/0002"], "product_id": [52, "[3C270] Foil box"], "quantity": 1.0, "price_total": -867.0, "display_type": "cogs"},
     ],
     "sale.order": [{"amount_total": 1960.0}, {"amount_total": 500.0}],
 }
@@ -89,6 +99,8 @@ def execute(model, method, *args, **kwargs):
             rows = [r for r in rows if op.rel_id(r["move_id"]) in val]
         elif f == "order_id" and opr == "in":
             rows = [r for r in rows if op.rel_id(r["order_id"]) in val]
+        elif f == "display_type" and opr == "=":
+            rows = [r for r in rows if r.get("display_type") == val]
     return rows
 
 txns, skipped = op.collect_payments(execute, DAY)
@@ -125,6 +137,13 @@ if any(cond[0] != "create_date" for cond in POS_PAYMENT_DOMAINS[0]):
     fail.append(f"POS day filter uses something other than create_date: {POS_PAYMENT_DOMAINS[0]}")
 cash_tx = [t for t in txns if t["source"] == "pos" and t["method"] == "cash"][0]
 if cash_tx["time"] != "10:10": fail.append(f"POS time not taken from create_date: {cash_tx['time']} (expected 10:10)")
+# THE BUG (2026-09-21, INV/2026/00187): a real-time-valuation product's own
+# COGS/inventory-valuation pair, same product_id, amounts that cancel to
+# zero - must not surface as extra "Foil box" line items alongside the one
+# genuine sale.
+foil_lines = [l for l in survivor[0]["lines"] if "Foil box" in l["name"]]
+if len(foil_lines) != 1 or foil_lines[0]["total"] != 4700.0:
+    fail.append(f"COGS pair leaked into transaction lines as phantom Foil box entries: {foil_lines}")
 # The day entry carries transactions now; ike-sales aggregates products from
 # them. Assert the same sums hold under that derivation, including its
 # once-per-reference rule, so the dashboards cannot be handed doubled goods.

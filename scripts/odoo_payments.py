@@ -238,13 +238,21 @@ def collect_payments(execute, day):
         for move in execute("account.move", "search_read", [["id", "in", invoice_ids]], fields=["name"]):
             invoice_names[move["id"]] = move["name"]
 
-        # product_id filters out the receivable, tax and section lines in one go.
+        # product_id filters out the receivable, tax and section lines in one
+        # go, but NOT the COGS/inventory-valuation pair Odoo posts onto the
+        # same invoice for a real-time-valuation product: those two lines
+        # carry product_id too, always as a line that nets to zero (a debit
+        # and a credit of the same amount). display_type="product" is what
+        # actually means "a sold line", so require it explicitly. MRH turned
+        # on Anglo-Saxon accounting 2026-09-21; every invoice for a
+        # real-time-valuation product since then has carried this phantom
+        # cancelling pair, doubling as three "line items" for one product.
         move_line_fields = existing_fields(
-            "account.move.line", ["move_id", "product_id", "quantity", "price_total"]
+            "account.move.line", ["move_id", "product_id", "quantity", "price_total", "display_type"]
         )
         for line in execute(
             "account.move.line", "search_read",
-            [["move_id", "in", invoice_ids], ["product_id", "!=", False]],
+            [["move_id", "in", invoice_ids], ["product_id", "!=", False], ["display_type", "=", "product"]],
             fields=move_line_fields,
         ):
             name = rel_name(line.get("product_id"))
