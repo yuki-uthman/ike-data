@@ -11916,10 +11916,10 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T12:01:03Z",
+      "generatedAt": "2026-09-22T12:15:40Z",
       "pos": {
-        "total": 690.0,
-        "count": 5
+        "total": 990.0,
+        "count": 6
       },
       "regularSales": {
         "total": 35052.0,
@@ -11934,8 +11934,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 25232.0,
-        "count": 10
+        "total": 25532.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -12153,6 +12153,22 @@
               "name": "[90045] Milkshake Powder Thai Milk Tea",
               "qty": 3.0,
               "total": 600.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000207",
+          "customer": "Walk-in",
+          "amount": 300.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:06",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01894] Mosquito Racket 47*19cm #JY-666",
+              "qty": 2.0,
+              "total": 300.0
             }
           ]
         },

@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T12:01:03Z",
+  "generatedAt": "2026-09-22T12:15:40Z",
   "cash": {
     "total": 10510.0,
     "count": 6
   },
   "transfer": {
-    "total": 25232.0,
-    "count": 10
+    "total": 25532.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -231,6 +231,22 @@
       ]
     },
     {
+      "ref": "Ike - 000207",
+      "customer": "Walk-in",
+      "amount": 300.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:06",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01894] Mosquito Racket 47*19cm #JY-666",
+          "qty": 2.0,
+          "total": 300.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00197",
       "customer": "United Huvadhoo Holding PVT LTD",
       "amount": 300.0,
@@ -424,8 +440,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 372.0
+      "count": 3,
+      "total": 672.0
     }
   ]
 }
