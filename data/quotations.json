@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T17:16:47Z",
-  "openCount": 128,
-  "openTotal": 1526050.2,
-  "quotationCount": 46,
-  "quotationTotal": 623836.75,
+  "generatedAt": "2026-09-22T17:31:03Z",
+  "openCount": 129,
+  "openTotal": 1536050.2,
+  "quotationCount": 47,
+  "quotationTotal": 633836.75,
   "orderCount": 82,
   "orderTotal": 902213.45,
   "days": [
@@ -167,12 +167,36 @@
     },
     {
       "date": "2026-09-22",
-      "count": 5,
-      "outstanding": 15532.0,
-      "total": 15532.0
+      "count": 6,
+      "outstanding": 25532.0,
+      "total": 25532.0
     }
   ],
   "quotations": [
+    {
+      "id": 317,
+      "ref": "S00318",
+      "kind": "quotation",
+      "customer": "Bandahage PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-22",
+      "expires": "2026-10-22",
+      "total": 10000.0,
+      "settled": 0.0,
+      "outstanding": 10000.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-SSP-1950-X04] #RD8 Gray Single Perforated 1950mm x4",
+          "qty": 1.0,
+          "total": 9400.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 24.0,
+          "total": 600.0
+        }
+      ]
+    },
     {
       "id": 309,
       "ref": "S00310",

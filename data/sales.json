@@ -11916,26 +11916,26 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T17:16:40Z",
+      "generatedAt": "2026-09-22T17:30:56Z",
       "pos": {
-        "total": 1065.0,
-        "count": 7
+        "total": 1263.0,
+        "count": 8
       },
       "regularSales": {
-        "total": 60697.0,
-        "count": 14
+        "total": 61137.0,
+        "count": 15
       },
       "pendingQuotations": {
-        "total": 5340.0,
-        "count": 3
+        "total": 15340.0,
+        "count": 4
       },
       "cash": {
         "total": 10510.0,
         "count": 6
       },
       "transfer": {
-        "total": 51252.0,
-        "count": 15
+        "total": 51890.0,
+        "count": 17
       },
       "other": {
         "total": 0,
@@ -12230,6 +12230,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00202",
+          "customer": "Chakoi Mart G-2",
+          "amount": 440.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70144] Hook Slat 8\"",
+              "qty": 20.0,
+              "total": 240.0
+            },
+            {
+              "name": "[70143] Hook Slat 6\"",
+              "qty": 20.0,
+              "total": 200.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000207",
           "customer": "Walk-in",
           "amount": 300.0,
@@ -12346,6 +12367,22 @@
               "name": "[02228] Paper Cup 6oz (Bundle)",
               "qty": 1.0,
               "total": 20.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000209",
+          "customer": "Walk-in",
+          "amount": 198.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:23",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01623] Ceramic Plate 8\"#12",
+              "qty": 6.0,
+              "total": 198.0
             }
           ]
         },
