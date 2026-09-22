@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T06:45:54Z",
+  "generatedAt": "2026-09-22T07:01:18Z",
   "openCount": 132,
   "openTotal": 1560470.2,
   "quotationCount": 51,
@@ -204,11 +204,6 @@
           "name": "[70136] 37 Hook Double Black 8\"",
           "qty": 4.0,
           "total": 180.0
-        },
-        {
-          "name": "rd8",
-          "qty": 1.0,
-          "total": 0.0
         }
       ]
     },
