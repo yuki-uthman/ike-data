@@ -2,20 +2,51 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T09:45:37Z",
+  "generatedAt": "2026-09-22T10:01:07Z",
   "cash": {
-    "total": 10462.0,
-    "count": 5
+    "total": 10510.0,
+    "count": 6
   },
   "transfer": {
-    "total": 8730.0,
-    "count": 3
+    "total": 23400.0,
+    "count": 6
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00196",
+      "customer": "Ocean Aventis Pvt.Ltd",
+      "amount": 13370.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+          "qty": 5.0,
+          "total": 11750.0
+        },
+        {
+          "name": "[70135] 37 Hook Bar Tube",
+          "qty": 4.0,
+          "total": 960.0
+        },
+        {
+          "name": "[70148] Hook Mesh 6\"",
+          "qty": 40.0,
+          "total": 480.0
+        },
+        {
+          "name": "[70136] 37 Hook Double Black 8\"",
+          "qty": 4.0,
+          "total": 180.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00191",
       "customer": "mandara spa Maldives Pvt Ltd",
@@ -142,6 +173,32 @@
       ]
     },
     {
+      "ref": "INV/2026/00195",
+      "customer": "Kauri Super Mart H-12",
+      "amount": 1020.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70147] Hook Mesh 10\"",
+          "qty": 30.0,
+          "total": 420.0
+        },
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 30.0,
+          "total": 360.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00192",
       "customer": "Snap Buy",
       "amount": 600.0,
@@ -154,6 +211,22 @@
           "name": "[90045] Milkshake Powder Thai Milk Tea",
           "qty": 3.0,
           "total": 600.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00194",
+      "customer": "Kauri Super Mart H-12",
+      "amount": 280.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 20.0,
+          "total": 280.0
         }
       ]
     },
@@ -228,20 +301,36 @@
           "total": 10.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000204",
+      "customer": "Walk-in",
+      "amount": 48.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:48",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02067] Flower Pot 18x14cm E230x180",
+          "qty": 8.0,
+          "total": 48.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
-      "name": "Cash",
-      "method": "cash",
-      "count": 5,
-      "total": 10462.0
-    },
-    {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 8730.0
+      "count": 6,
+      "total": 23400.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 6,
+      "total": 10510.0
     }
   ]
 }
