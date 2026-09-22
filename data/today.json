@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T16:30:55Z",
+  "generatedAt": "2026-09-22T16:45:36Z",
   "cash": {
     "total": 10510.0,
     "count": 6
   },
   "transfer": {
-    "total": 43732.0,
-    "count": 13
+    "total": 45752.0,
+    "count": 14
   },
   "other": {
     "total": 0,
@@ -138,6 +138,37 @@
           "name": "[70147] Hook Mesh 10\"",
           "qty": 50.0,
           "total": 750.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00200",
+      "customer": "Chakoi Mart G-2",
+      "amount": 2020.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+          "qty": 1.0,
+          "total": 1540.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 10.0,
+          "total": 140.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 10.0,
+          "total": 100.0
         }
       ]
     },
@@ -470,8 +501,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 42985.0
+      "count": 10,
+      "total": 45005.0
     },
     {
       "name": "Cash",
