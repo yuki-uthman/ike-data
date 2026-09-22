@@ -11916,14 +11916,14 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T05:16:10Z",
+      "generatedAt": "2026-09-22T05:45:34Z",
       "pos": {
         "total": 270.0,
         "count": 2
       },
       "regularSales": {
-        "total": 5972.0,
-        "count": 2
+        "total": 8422.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 3060.0,
@@ -11934,8 +11934,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 4300.0,
-        "count": 1
+        "total": 6750.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -11970,6 +11970,27 @@
               "name": "[02228] Paper Cup 6oz (Bundle)",
               "qty": 20.0,
               "total": 400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00190",
+          "customer": "Keesa Zone Q-10",
+          "amount": 2450.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[75053] Hook Mesh 12\"",
+              "qty": 100.0,
+              "total": 1700.0
+            },
+            {
+              "name": "[70147] Hook Mesh 10\"",
+              "qty": 50.0,
+              "total": 750.0
             }
           ]
         },
