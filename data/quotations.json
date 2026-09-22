@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T09:30:59Z",
+  "generatedAt": "2026-09-22T09:45:45Z",
   "openCount": 133,
-  "openTotal": 1572880.2,
-  "quotationCount": 49,
-  "quotationTotal": 643926.75,
-  "orderCount": 84,
-  "orderTotal": 928953.45,
+  "openTotal": 1559790.2,
+  "quotationCount": 50,
+  "quotationTotal": 644206.75,
+  "orderCount": 83,
+  "orderTotal": 915583.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -168,45 +168,11 @@
     {
       "date": "2026-09-22",
       "count": 7,
-      "outstanding": 41012.0,
-      "total": 41012.0
+      "outstanding": 27922.0,
+      "total": 27922.0
     }
   ],
   "quotations": [
-    {
-      "id": 312,
-      "ref": "S00313",
-      "kind": "order",
-      "customer": "Ocean Aventis Pvt.Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-22",
-      "expires": "2026-10-22",
-      "total": 13370.0,
-      "settled": 0.0,
-      "outstanding": 13370.0,
-      "lines": [
-        {
-          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
-          "qty": 5.0,
-          "total": 11750.0
-        },
-        {
-          "name": "[70148] Hook Mesh 6\"",
-          "qty": 40.0,
-          "total": 480.0
-        },
-        {
-          "name": "[70135] 37 Hook Bar Tube",
-          "qty": 4.0,
-          "total": 960.0
-        },
-        {
-          "name": "[70136] 37 Hook Double Black 8\"",
-          "qty": 4.0,
-          "total": 180.0
-        }
-      ]
-    },
     {
       "id": 308,
       "ref": "S00309",
@@ -388,6 +354,25 @@
           "name": "[90045] Milkshake Powder Thai Milk Tea",
           "qty": 3.0,
           "total": 600.0
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "ref": "S00314",
+      "kind": "quotation",
+      "customer": "Kauri Super Mart H-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-22",
+      "expires": "2026-10-22",
+      "total": 280.0,
+      "settled": 0.0,
+      "outstanding": 280.0,
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 20.0,
+          "total": 280.0
         }
       ]
     },
