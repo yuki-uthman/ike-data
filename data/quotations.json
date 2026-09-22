@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T09:15:47Z",
+  "generatedAt": "2026-09-22T09:30:59Z",
   "openCount": 133,
   "openTotal": 1572880.2,
-  "quotationCount": 50,
-  "quotationTotal": 657296.75,
-  "orderCount": 83,
-  "orderTotal": 915583.45,
+  "quotationCount": 49,
+  "quotationTotal": 643926.75,
+  "orderCount": 84,
+  "orderTotal": 928953.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -176,7 +176,7 @@
     {
       "id": 312,
       "ref": "S00313",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Ocean Aventis Pvt.Ltd",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-22",
