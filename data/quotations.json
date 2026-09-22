@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T15:01:21Z",
+  "generatedAt": "2026-09-22T15:15:51Z",
   "openCount": 130,
   "openTotal": 1549875.2,
   "quotationCount": 48,
@@ -422,7 +422,7 @@
       "id": 288,
       "ref": "S00289",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "Bandahage PVT LTD",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-20",
       "expires": "2026-10-20",
