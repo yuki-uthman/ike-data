@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-22T09:01:16Z",
-  "openCount": 132,
-  "openTotal": 1559510.2,
-  "quotationCount": 49,
-  "quotationTotal": 643926.75,
+  "generatedAt": "2026-09-22T09:15:47Z",
+  "openCount": 133,
+  "openTotal": 1572880.2,
+  "quotationCount": 50,
+  "quotationTotal": 657296.75,
   "orderCount": 83,
   "orderTotal": 915583.45,
   "days": [
@@ -167,12 +167,46 @@
     },
     {
       "date": "2026-09-22",
-      "count": 6,
-      "outstanding": 27642.0,
-      "total": 27642.0
+      "count": 7,
+      "outstanding": 41012.0,
+      "total": 41012.0
     }
   ],
   "quotations": [
+    {
+      "id": 312,
+      "ref": "S00313",
+      "kind": "quotation",
+      "customer": "Ocean Aventis Pvt.Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-22",
+      "expires": "2026-10-22",
+      "total": 13370.0,
+      "settled": 0.0,
+      "outstanding": 13370.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+          "qty": 5.0,
+          "total": 11750.0
+        },
+        {
+          "name": "[70148] Hook Mesh 6\"",
+          "qty": 40.0,
+          "total": 480.0
+        },
+        {
+          "name": "[70135] 37 Hook Bar Tube",
+          "qty": 4.0,
+          "total": 960.0
+        },
+        {
+          "name": "[70136] 37 Hook Double Black 8\"",
+          "qty": 4.0,
+          "total": 180.0
+        }
+      ]
+    },
     {
       "id": 308,
       "ref": "S00309",
@@ -187,6 +221,11 @@
       "lines": [
         {
           "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+          "qty": 0.0,
+          "total": 0.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
           "qty": 5.0,
           "total": 11750.0
         },
