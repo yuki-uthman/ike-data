@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T04:15:43Z",
-  "openCount": 129,
-  "openTotal": 1540650.2,
-  "quotationCount": 47,
-  "quotationTotal": 638436.75,
+  "generatedAt": "2026-09-23T04:30:57Z",
+  "openCount": 131,
+  "openTotal": 1541911.2,
+  "quotationCount": 49,
+  "quotationTotal": 639697.75,
   "orderCount": 82,
   "orderTotal": 902213.45,
   "days": [
@@ -173,12 +173,55 @@
     },
     {
       "date": "2026-09-23",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 2,
+      "outstanding": 1261.0,
+      "total": 1261.0
     }
   ],
   "quotations": [
+    {
+      "id": 320,
+      "ref": "S00321",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 1225.0,
+      "settled": 0.0,
+      "outstanding": 1225.0,
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "ref": "S00320",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 36.0,
+      "settled": 0.0,
+      "outstanding": 36.0,
+      "lines": [
+        {
+          "name": "[70070] Glass Wiper A63",
+          "qty": 2.0,
+          "total": 36.0
+        }
+      ]
+    },
     {
       "id": 317,
       "ref": "S00318",
