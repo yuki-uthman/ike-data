@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T08:45:46Z",
-  "openCount": 136,
-  "openTotal": 1535134.2,
+  "generatedAt": "2026-09-23T09:01:12Z",
+  "openCount": 137,
+  "openTotal": 1539684.2,
   "quotationCount": 49,
   "quotationTotal": 631115.75,
-  "orderCount": 87,
-  "orderTotal": 904018.45,
+  "orderCount": 88,
+  "orderTotal": 908568.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -173,12 +173,31 @@
     },
     {
       "date": "2026-09-23",
-      "count": 8,
-      "outstanding": 9084.0,
-      "total": 9084.0
+      "count": 9,
+      "outstanding": 13634.0,
+      "total": 13634.0
     }
   ],
   "quotations": [
+    {
+      "id": 328,
+      "ref": "S00329",
+      "kind": "order",
+      "customer": "Ahsan Gobs Ifu",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 4550.0,
+      "settled": 0.0,
+      "outstanding": 4550.0,
+      "lines": [
+        {
+          "name": "[70160] Hot Showcase 70x53x65cm",
+          "qty": 1.0,
+          "total": 4550.0
+        }
+      ]
+    },
     {
       "id": 322,
       "ref": "S00323",
