@@ -3,35 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-07-26",
-      "generatedAt": "2026-09-17T13:31:45Z",
-      "pos": {
-        "total": 0,
-        "count": 0
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 0,
-        "count": 0
-      },
-      "transfer": {
-        "total": 0,
-        "count": 0
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": []
-    },
-    {
       "date": "2026-07-27",
       "generatedAt": "2026-09-17T13:31:45Z",
       "pos": {
@@ -12803,6 +12774,35 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "generatedAt": "2026-09-23T19:01:05Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": []
     }
   ]
 }
