@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T04:45:47Z",
-  "openCount": 132,
-  "openTotal": 1543071.2,
-  "quotationCount": 49,
-  "quotationTotal": 640057.75,
-  "orderCount": 83,
-  "orderTotal": 903013.45,
+  "generatedAt": "2026-09-23T05:01:08Z",
+  "openCount": 134,
+  "openTotal": 1547021.2,
+  "quotationCount": 50,
+  "quotationTotal": 643757.75,
+  "orderCount": 84,
+  "orderTotal": 903263.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -173,12 +173,31 @@
     },
     {
       "date": "2026-09-23",
-      "count": 3,
-      "outstanding": 2421.0,
-      "total": 2421.0
+      "count": 5,
+      "outstanding": 6371.0,
+      "total": 6371.0
     }
   ],
   "quotations": [
+    {
+      "id": 322,
+      "ref": "S00323",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 3700.0,
+      "settled": 0.0,
+      "outstanding": 3700.0,
+      "lines": [
+        {
+          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+          "qty": 2.0,
+          "total": 3700.0
+        }
+      ]
+    },
     {
       "id": 320,
       "ref": "S00321",
@@ -229,6 +248,25 @@
           "name": "[90051] Milkshake Powder Hazelnut Chocolate",
           "qty": 2.0,
           "total": 400.0
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "ref": "S00324",
+      "kind": "order",
+      "customer": "Bluebell Solutions PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 250.0,
+      "settled": 0.0,
+      "outstanding": 250.0,
+      "lines": [
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 5.0,
+          "total": 250.0
         }
       ]
     },
