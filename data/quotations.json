@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T04:30:57Z",
-  "openCount": 131,
-  "openTotal": 1541911.2,
+  "generatedAt": "2026-09-23T04:45:47Z",
+  "openCount": 132,
+  "openTotal": 1543071.2,
   "quotationCount": 49,
-  "quotationTotal": 639697.75,
-  "orderCount": 82,
-  "orderTotal": 902213.45,
+  "quotationTotal": 640057.75,
+  "orderCount": 83,
+  "orderTotal": 903013.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -173,9 +173,9 @@
     },
     {
       "date": "2026-09-23",
-      "count": 2,
-      "outstanding": 1261.0,
-      "total": 1261.0
+      "count": 3,
+      "outstanding": 2421.0,
+      "total": 2421.0
     }
   ],
   "quotations": [
@@ -187,9 +187,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-23",
       "expires": "2026-10-23",
-      "total": 1225.0,
+      "total": 1585.0,
       "settled": 0.0,
-      "outstanding": 1225.0,
+      "outstanding": 1585.0,
       "lines": [
         {
           "name": "[70182] Gas Burner ( High Pressure )",
@@ -200,6 +200,35 @@
           "name": "Gas Burner Table",
           "qty": 1.0,
           "total": 425.0
+        },
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "ref": "S00322",
+      "kind": "order",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 800.0,
+      "settled": 0.0,
+      "outstanding": 800.0,
+      "lines": [
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 2.0,
+          "total": 400.0
         }
       ]
     },
