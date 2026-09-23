@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T17:45:50Z",
+  "generatedAt": "2026-09-23T18:01:19Z",
   "openCount": 137,
-  "openTotal": 1535230.2,
+  "openTotal": 1533930.2,
   "quotationCount": 49,
-  "quotationTotal": 630321.75,
+  "quotationTotal": 629021.75,
   "orderCount": 88,
   "orderTotal": 904908.45,
   "days": [
@@ -174,8 +174,8 @@
     {
       "date": "2026-09-23",
       "count": 9,
-      "outstanding": 9180.0,
-      "total": 9180.0
+      "outstanding": 7880.0,
+      "total": 7880.0
     }
   ],
   "quotations": [
@@ -187,14 +187,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-23",
       "expires": "2026-10-23",
-      "total": 3700.0,
+      "total": 2400.0,
       "settled": 0.0,
-      "outstanding": 3700.0,
+      "outstanding": 2400.0,
       "lines": [
         {
           "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
           "qty": 2.0,
-          "total": 3700.0
+          "total": 2400.0
         }
       ]
     },
