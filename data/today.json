@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T12:30:52Z",
+  "generatedAt": "2026-09-23T12:45:38Z",
   "cash": {
-    "total": 2034.0,
-    "count": 7
+    "total": 3144.0,
+    "count": 9
   },
   "transfer": {
     "total": 19350.0,
@@ -50,6 +50,32 @@
           "name": "[70160] Hot Showcase 70x53x65cm",
           "qty": 1.0,
           "total": 4550.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00212",
+      "customer": "Sales",
+      "amount": 890.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[79687] Hook Slat with 7 Pegs",
+          "qty": 10.0,
+          "total": 450.0
+        },
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70148] Hook Mesh 6\"",
+          "qty": 20.0,
+          "total": 200.0
         }
       ]
     },
@@ -113,6 +139,22 @@
           "name": "Paper Plate 9'' 100pcs Bundle",
           "qty": 5.0,
           "total": 250.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000211",
+      "customer": "Walk-in",
+      "amount": 220.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 220.0
         }
       ]
     },
@@ -207,8 +249,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 7,
-      "total": 2034.0
+      "count": 9,
+      "total": 3144.0
     }
   ]
 }
