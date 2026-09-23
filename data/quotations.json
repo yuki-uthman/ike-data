@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T06:15:42Z",
-  "openCount": 136,
-  "openTotal": 1549044.2,
+  "generatedAt": "2026-09-23T06:27:33Z",
+  "openCount": 137,
+  "openTotal": 1549734.2,
   "quotationCount": 50,
   "quotationTotal": 645715.75,
-  "orderCount": 86,
-  "orderTotal": 903328.45,
+  "orderCount": 87,
+  "orderTotal": 904018.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -173,9 +173,9 @@
     },
     {
       "date": "2026-09-23",
-      "count": 7,
-      "outstanding": 8394.0,
-      "total": 8394.0
+      "count": 8,
+      "outstanding": 9084.0,
+      "total": 9084.0
     }
   ],
   "quotations": [
@@ -292,6 +292,35 @@
           "name": "[90051] Milkshake Powder Hazelnut Chocolate",
           "qty": 2.0,
           "total": 400.0
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "ref": "S00327",
+      "kind": "order",
+      "customer": "The Yacht Store",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 690.0,
+      "settled": 0.0,
+      "outstanding": 690.0,
+      "lines": [
+        {
+          "name": "[75053] Hook Mesh 12\"",
+          "qty": 10.0,
+          "total": 160.0
+        },
+        {
+          "name": "[70148] Hook Mesh 6\"",
+          "qty": 44.0,
+          "total": 440.0
+        },
+        {
+          "name": "[70136] 37 Hook Double Black 8\"",
+          "qty": 2.0,
+          "total": 90.0
         }
       ]
     },

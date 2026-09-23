@@ -12450,26 +12450,26 @@
     },
     {
       "date": "2026-09-23",
-      "generatedAt": "2026-09-23T06:15:35Z",
+      "generatedAt": "2026-09-23T06:27:27Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 1315.0,
-        "count": 5
+        "total": 2205.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 7279.0,
         "count": 3
       },
       "cash": {
-        "total": 1315.0,
-        "count": 5
+        "total": 2005.0,
+        "count": 6
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 200.0,
+        "count": 1
       },
       "other": {
         "total": 0,
@@ -12498,6 +12498,32 @@
           ]
         },
         {
+          "ref": "INV/2026/00208",
+          "customer": "The Yacht Store",
+          "amount": 690.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70148] Hook Mesh 6\"",
+              "qty": 44.0,
+              "total": 440.0
+            },
+            {
+              "name": "[75053] Hook Mesh 12\"",
+              "qty": 10.0,
+              "total": 160.0
+            },
+            {
+              "name": "[70136] 37 Hook Double Black 8\"",
+              "qty": 2.0,
+              "total": 90.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00204",
           "customer": "Bluebell Solutions PVT LTD",
           "amount": 250.0,
@@ -12510,6 +12536,22 @@
               "name": "Paper Plate 9'' 100pcs Bundle",
               "qty": 5.0,
               "total": 250.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00209",
+          "customer": "Blooms Supplies",
+          "amount": 200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90042] Milkshake Powder Avocado",
+              "qty": 1.0,
+              "total": 200.0
             }
           ]
         },
