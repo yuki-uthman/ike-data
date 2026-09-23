@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T05:45:43Z",
-  "openCount": 135,
-  "openTotal": 1549015.2,
+  "generatedAt": "2026-09-23T06:01:08Z",
+  "openCount": 136,
+  "openTotal": 1549044.2,
   "quotationCount": 50,
   "quotationTotal": 645715.75,
-  "orderCount": 85,
-  "orderTotal": 903299.45,
+  "orderCount": 86,
+  "orderTotal": 903328.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -173,9 +173,9 @@
     },
     {
       "date": "2026-09-23",
-      "count": 6,
-      "outstanding": 8365.0,
-      "total": 8365.0
+      "count": 7,
+      "outstanding": 8394.0,
+      "total": 8394.0
     }
   ],
   "quotations": [
@@ -330,6 +330,25 @@
           "name": "[70070] Glass Wiper A63",
           "qty": 2.0,
           "total": 36.0
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "ref": "S00326",
+      "kind": "order",
+      "customer": "Hotel Flora",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 29.0,
+      "settled": 0.0,
+      "outstanding": 29.0,
+      "lines": [
+        {
+          "name": "[01871] Duster#43",
+          "qty": 1.0,
+          "total": 29.0
         }
       ]
     },

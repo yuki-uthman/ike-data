@@ -12450,22 +12450,22 @@
     },
     {
       "date": "2026-09-23",
-      "generatedAt": "2026-09-23T05:45:35Z",
+      "generatedAt": "2026-09-23T06:01:01Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 1086.0,
-        "count": 3
+        "total": 1315.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 7279.0,
         "count": 3
       },
       "cash": {
-        "total": 1086.0,
-        "count": 3
+        "total": 1315.0,
+        "count": 5
       },
       "transfer": {
         "total": 0,
@@ -12514,6 +12514,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00206",
+          "customer": "Hotel Flora",
+          "amount": 200.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[22269] Tumbler Catering Tumbler LG-103213(32)",
+              "qty": 20.0,
+              "total": 200.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00205",
           "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 36.0,
@@ -12526,6 +12542,22 @@
               "name": "[70070] Glass Wiper A63",
               "qty": 2.0,
               "total": 36.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00207",
+          "customer": "Hotel Flora",
+          "amount": 29.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[01871] Duster#43",
+              "qty": 1.0,
+              "total": 29.0
             }
           ]
         }
