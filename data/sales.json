@@ -12450,10 +12450,10 @@
     },
     {
       "date": "2026-09-23",
-      "generatedAt": "2026-09-23T16:45:37Z",
+      "generatedAt": "2026-09-23T17:01:07Z",
       "pos": {
-        "total": 258.0,
-        "count": 3
+        "total": 501.0,
+        "count": 5
       },
       "regularSales": {
         "total": 24239.0,
@@ -12464,8 +12464,8 @@
         "count": 3
       },
       "cash": {
-        "total": 3153.0,
-        "count": 10
+        "total": 3396.0,
+        "count": 12
       },
       "transfer": {
         "total": 21344.0,
@@ -12644,6 +12644,37 @@
           ]
         },
         {
+          "ref": "Ike - 000213",
+          "customer": "Walk-in",
+          "amount": 231.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:54",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[6956779400357] PLASTIC BUCKET WITH LID A808 Big",
+              "qty": 2.0,
+              "total": 118.0
+            },
+            {
+              "name": "Door Mat Code02#38*58",
+              "qty": 2.0,
+              "total": 78.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            },
+            {
+              "name": "Falcon Aluminum Container 8342 10pcs",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000211",
           "customer": "Walk-in",
           "amount": 220.0,
@@ -12736,6 +12767,22 @@
               "name": "[01871] Duster#43",
               "qty": 1.0,
               "total": 29.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000214",
+          "customer": "Walk-in",
+          "amount": 12.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:54",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02254] Steel Wool 2pcs",
+              "qty": 1.0,
+              "total": 12.0
             }
           ]
         },
