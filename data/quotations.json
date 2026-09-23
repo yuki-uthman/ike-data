@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-23T10:01:14Z",
-  "openCount": 136,
-  "openTotal": 1535134.2,
-  "quotationCount": 49,
-  "quotationTotal": 631115.75,
+  "generatedAt": "2026-09-23T10:15:47Z",
+  "openCount": 137,
+  "openTotal": 1536984.2,
+  "quotationCount": 50,
+  "quotationTotal": 632965.75,
   "orderCount": 87,
   "orderTotal": 904018.45,
   "days": [
@@ -173,9 +173,9 @@
     },
     {
       "date": "2026-09-23",
-      "count": 8,
-      "outstanding": 9084.0,
-      "total": 9084.0
+      "count": 9,
+      "outstanding": 10934.0,
+      "total": 10934.0
     }
   ],
   "quotations": [
@@ -239,6 +239,25 @@
           "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
           "qty": 6.0,
           "total": 234.0
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "ref": "S00330",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-23",
+      "expires": "2026-10-23",
+      "total": 1850.0,
+      "settled": 0.0,
+      "outstanding": 1850.0,
+      "lines": [
+        {
+          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+          "qty": 1.0,
+          "total": 1850.0
         }
       ]
     },
