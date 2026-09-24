@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T09:45:37Z",
+  "generatedAt": "2026-09-24T10:01:08Z",
   "cash": {
     "total": 2632.0,
     "count": 3
   },
   "transfer": {
-    "total": 6905.0,
-    "count": 6
+    "total": 9585.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -39,6 +39,32 @@
           "name": "Cocktail Umbrella",
           "qty": 4.0,
           "total": 560.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00221",
+      "customer": "Ocean Aventis Pvt.Ltd",
+      "amount": 2680.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "[70135] 37 Hook Bar Tube",
+          "qty": 1.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70136] 37 Hook Double Black 8\"",
+          "qty": 2.0,
+          "total": 90.0
         }
       ]
     },
@@ -185,8 +211,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 6885.0
+      "count": 6,
+      "total": 9565.0
     },
     {
       "name": "Cash",
