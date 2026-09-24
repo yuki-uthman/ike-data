@@ -12777,14 +12777,14 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T08:45:39Z",
+      "generatedAt": "2026-09-24T09:01:12Z",
       "pos": {
         "total": 20.0,
         "count": 1
       },
       "regularSales": {
-        "total": 8085.0,
-        "count": 5
+        "total": 9285.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 5324.0,
@@ -12795,8 +12795,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 5505.0,
-        "count": 4
+        "total": 6705.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -12868,6 +12868,22 @@
               "name": "[70037] Gas Regular (High Pressure)",
               "qty": 1.0,
               "total": 360.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00219",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+              "qty": 1.0,
+              "total": 1200.0
             }
           ]
         },
