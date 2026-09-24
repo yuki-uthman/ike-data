@@ -12777,26 +12777,26 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T09:15:36Z",
+      "generatedAt": "2026-09-24T09:30:52Z",
       "pos": {
-        "total": 20.0,
-        "count": 1
+        "total": 52.0,
+        "count": 2
       },
       "regularSales": {
-        "total": 9285.0,
-        "count": 6
+        "total": 9485.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 5324.0,
         "count": 4
       },
       "cash": {
-        "total": 2600.0,
-        "count": 2
+        "total": 2632.0,
+        "count": 3
       },
       "transfer": {
-        "total": 6705.0,
-        "count": 5
+        "total": 6905.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -12904,6 +12904,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00220",
+          "customer": "Hotel Flora",
+          "amount": 200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[22269] Tumbler Catering Tumbler LG-103213(32)",
+              "qty": 20.0,
+              "total": 200.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00217",
           "customer": "Snap Buy",
           "amount": 200.0,
@@ -12916,6 +12932,22 @@
               "name": "[90045] Milkshake Powder Thai Milk Tea",
               "qty": 1.0,
               "total": 200.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000216",
+          "customer": "Walk-in",
+          "amount": 32.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:22",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Sponges Colorful 10pcs#31",
+              "qty": 1.0,
+              "total": 32.0
             }
           ]
         },
