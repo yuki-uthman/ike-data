@@ -12777,10 +12777,10 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T04:30:51Z",
+      "generatedAt": "2026-09-24T04:45:34Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 20.0,
+        "count": 1
       },
       "regularSales": {
         "total": 2400.0,
@@ -12795,8 +12795,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 20.0,
+        "count": 1
       },
       "other": {
         "total": 0,
@@ -12816,6 +12816,22 @@
               "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
               "qty": 2.0,
               "total": 2400.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000215",
+          "customer": "Walk-in",
+          "amount": 20.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "09:41",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
             }
           ]
         }
