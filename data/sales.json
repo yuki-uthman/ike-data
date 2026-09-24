@@ -12777,14 +12777,14 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T05:30:50Z",
+      "generatedAt": "2026-09-24T05:45:35Z",
       "pos": {
         "total": 20.0,
         "count": 1
       },
       "regularSales": {
-        "total": 3240.0,
-        "count": 2
+        "total": 4825.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 1099.0,
@@ -12795,8 +12795,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 860.0,
-        "count": 2
+        "total": 2445.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -12816,6 +12816,32 @@
               "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
               "qty": 2.0,
               "total": 2400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00216",
+          "customer": "Nooma store Finey B-04",
+          "amount": 1585.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70182] Gas Burner ( High Pressure )",
+              "qty": 1.0,
+              "total": 800.0
+            },
+            {
+              "name": "Gas Burner Table",
+              "qty": 1.0,
+              "total": 425.0
+            },
+            {
+              "name": "[70037] Gas Regular (High Pressure)",
+              "qty": 1.0,
+              "total": 360.0
             }
           ]
         },

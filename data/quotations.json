@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-24T05:30:59Z",
-  "openCount": 139,
-  "openTotal": 1535029.2,
-  "quotationCount": 50,
-  "quotationTotal": 627720.75,
+  "generatedAt": "2026-09-24T05:45:49Z",
+  "openCount": 138,
+  "openTotal": 1533444.2,
+  "quotationCount": 49,
+  "quotationTotal": 626135.75,
   "orderCount": 89,
   "orderTotal": 907308.45,
   "days": [
@@ -173,9 +173,9 @@
     },
     {
       "date": "2026-09-23",
-      "count": 8,
-      "outstanding": 5480.0,
-      "total": 5480.0
+      "count": 7,
+      "outstanding": 3895.0,
+      "total": 3895.0
     },
     {
       "date": "2026-09-24",
@@ -244,35 +244,6 @@
           "name": "[01841] Mop Bucket with Mop",
           "qty": 1.0,
           "total": 259.0
-        }
-      ]
-    },
-    {
-      "id": 320,
-      "ref": "S00321",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 1585.0,
-      "settled": 0.0,
-      "outstanding": 1585.0,
-      "lines": [
-        {
-          "name": "[70182] Gas Burner ( High Pressure )",
-          "qty": 1.0,
-          "total": 800.0
-        },
-        {
-          "name": "Gas Burner Table",
-          "qty": 1.0,
-          "total": 425.0
-        },
-        {
-          "name": "[70037] Gas Regular (High Pressure)",
-          "qty": 1.0,
-          "total": 360.0
         }
       ]
     },
