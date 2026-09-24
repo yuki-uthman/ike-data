@@ -13283,10 +13283,10 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T15:15:46Z",
+      "generatedAt": "2026-09-24T15:19:53Z",
       "pos": {
-        "total": 852.0,
-        "count": 3
+        "total": 972.0,
+        "count": 4
       },
       "regularSales": {
         "total": 12495.0,
@@ -13297,8 +13297,8 @@
         "count": 4
       },
       "cash": {
-        "total": 2962.0,
-        "count": 4
+        "total": 3082.0,
+        "count": 5
       },
       "transfer": {
         "total": 10385.0,
@@ -13505,6 +13505,22 @@
           ]
         },
         {
+          "ref": "Ike - 000218",
+          "customer": "Walk-in",
+          "amount": 120.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:18",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[32071] CHAIR 14 INCH",
+              "qty": 1.0,
+              "total": 120.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000216",
           "customer": "Walk-in",
           "amount": 32.0,
@@ -13559,7 +13575,7 @@
       ],
       "till": {
         "opening": 6693.0,
-        "expectedClosing": 4640.0,
+        "expectedClosing": 4760.0,
         "counted": null,
         "difference": null,
         "closed": false,
