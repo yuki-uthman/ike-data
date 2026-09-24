@@ -13042,7 +13042,7 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T12:15:38Z",
+      "generatedAt": "2026-09-24T12:16:47Z",
       "pos": {
         "total": 852.0,
         "count": 3
@@ -13308,7 +13308,15 @@
           "rawMethod": "Cash",
           "time": "17:08"
         }
-      ]
+      ],
+      "till": {
+        "opening": 6693.0,
+        "expectedClosing": 4655.0,
+        "counted": null,
+        "difference": null,
+        "closed": false,
+        "sessionCount": 1
+      }
     }
   ]
 }
