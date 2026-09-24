@@ -12777,22 +12777,22 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T04:15:39Z",
+      "generatedAt": "2026-09-24T04:30:51Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 2400.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 1099.0,
+        "count": 2
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 2400.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -12802,7 +12802,24 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [
+        {
+          "ref": "INV/2026/00214",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 2400.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+              "qty": 2.0,
+              "total": 2400.0
+            }
+          ]
+        }
+      ]
     }
   ]
 }

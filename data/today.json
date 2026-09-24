@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T04:15:39Z",
+  "generatedAt": "2026-09-24T04:30:51Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 2400.0,
+    "count": 1
   },
   "transfer": {
     "total": 0,
@@ -15,6 +15,30 @@
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": []
+  "transactions": [
+    {
+      "ref": "INV/2026/00214",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 2400.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+          "qty": 2.0,
+          "total": 2400.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 2400.0
+    }
+  ]
 }
