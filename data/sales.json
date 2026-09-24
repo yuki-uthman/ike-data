@@ -12777,14 +12777,14 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T08:30:55Z",
+      "generatedAt": "2026-09-24T08:45:39Z",
       "pos": {
         "total": 20.0,
         "count": 1
       },
       "regularSales": {
-        "total": 5025.0,
-        "count": 4
+        "total": 8085.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 5324.0,
@@ -12795,14 +12795,40 @@
         "count": 2
       },
       "transfer": {
-        "total": 2445.0,
-        "count": 3
+        "total": 5505.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00218",
+          "customer": "Lulu Mart A-8",
+          "amount": 3060.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 7\" - Bundle (25pcs)",
+              "qty": 40.0,
+              "total": 1400.0
+            },
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1100.0
+            },
+            {
+              "name": "Cocktail Umbrella",
+              "qty": 4.0,
+              "total": 560.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00214",
           "customer": "United Huvadhoo Holding PVT LTD",

@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-24T08:31:07Z",
-  "openCount": 140,
-  "openTotal": 1537869.2,
-  "quotationCount": 50,
-  "quotationTotal": 630360.75,
+  "generatedAt": "2026-09-24T08:45:49Z",
+  "openCount": 138,
+  "openTotal": 1533609.2,
+  "quotationCount": 48,
+  "quotationTotal": 626100.75,
   "orderCount": 90,
   "orderTotal": 907508.45,
   "days": [
@@ -167,15 +167,15 @@
     },
     {
       "date": "2026-09-22",
-      "count": 5,
-      "outstanding": 15532.0,
-      "total": 15532.0
+      "count": 4,
+      "outstanding": 12472.0,
+      "total": 12472.0
     },
     {
       "date": "2026-09-23",
-      "count": 7,
-      "outstanding": 3895.0,
-      "total": 3895.0
+      "count": 6,
+      "outstanding": 2695.0,
+      "total": 2695.0
     },
     {
       "date": "2026-09-24",
@@ -292,25 +292,6 @@
           "name": "[90045] Milkshake Powder Thai Milk Tea",
           "qty": 1.0,
           "total": 200.0
-        }
-      ]
-    },
-    {
-      "id": 329,
-      "ref": "S00330",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
-          "qty": 1.0,
-          "total": 1200.0
         }
       ]
     },
@@ -469,35 +450,6 @@
           "name": "[70176] 51 Warehouse Rack White Large",
           "qty": 4.0,
           "total": 7920.0
-        }
-      ]
-    },
-    {
-      "id": 303,
-      "ref": "S00304",
-      "kind": "quotation",
-      "customer": "Lulu Mart A-8",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-22",
-      "expires": "2026-10-22",
-      "total": 3060.0,
-      "settled": 0.0,
-      "outstanding": 3060.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
-        },
-        {
-          "name": "Cocktail Umbrella",
-          "qty": 4.0,
-          "total": 560.0
-        },
-        {
-          "name": "Bagasse Plate 7\" - Bundle (25pcs)",
-          "qty": 40.0,
-          "total": 1400.0
         }
       ]
     },
