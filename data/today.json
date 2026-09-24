@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T15:45:36Z",
+  "generatedAt": "2026-09-24T16:01:13Z",
   "cash": {
-    "total": 3402.0,
-    "count": 6
+    "total": 3437.0,
+    "count": 7
   },
   "transfer": {
-    "total": 11849.0,
-    "count": 11
+    "total": 17149.0,
+    "count": 12
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00224",
+      "customer": "Shinan",
+      "amount": 5300.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[25767] Office Rack Large",
+          "qty": 2.0,
+          "total": 5300.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00218",
       "customer": "Lulu Mart A-8",
@@ -332,6 +348,22 @@
       ]
     },
     {
+      "ref": "Ike - 000222",
+      "customer": "Walk-in",
+      "amount": 35.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:46",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01621] Ceramic Plate 9\"#10",
+          "qty": 1.0,
+          "total": 35.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000216",
       "customer": "Walk-in",
       "amount": 32.0,
@@ -368,14 +400,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 6,
-      "total": 9565.0
+      "count": 7,
+      "total": 14865.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 3402.0
+      "count": 7,
+      "total": 3437.0
     },
     {
       "name": "Bank Transfer",
@@ -385,8 +417,8 @@
     }
   ],
   "cashOut": {
-    "total": 5015.0,
-    "count": 2
+    "total": 5055.0,
+    "count": 3
   },
   "cashOutTransactions": [
     {
@@ -395,6 +427,13 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "17:08"
+    },
+    {
+      "reason": "Tea money 2 days  \u00b7 staff-Jafar",
+      "amount": 40.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:49"
     },
     {
       "reason": "Gate pass \u00b7 Staff-Zubaid",
@@ -406,7 +445,7 @@
   ],
   "till": {
     "opening": 6693.0,
-    "expectedClosing": 5080.0,
+    "expectedClosing": 5075.0,
     "counted": null,
     "difference": null,
     "closed": false,
