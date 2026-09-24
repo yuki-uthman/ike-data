@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-24T06:15:45Z",
+  "generatedAt": "2026-09-24T06:31:11Z",
   "openCount": 139,
-  "openTotal": 1535194.2,
+  "openTotal": 1537669.2,
   "quotationCount": 50,
-  "quotationTotal": 627885.75,
+  "quotationTotal": 630360.75,
   "orderCount": 89,
   "orderTotal": 907308.45,
   "days": [
@@ -180,11 +180,40 @@
     {
       "date": "2026-09-24",
       "count": 4,
-      "outstanding": 5249.0,
-      "total": 5249.0
+      "outstanding": 7724.0,
+      "total": 7724.0
     }
   ],
   "quotations": [
+    {
+      "id": 335,
+      "ref": "S00336",
+      "kind": "quotation",
+      "customer": "Sun Shine Arts",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-24",
+      "expires": "2026-10-24",
+      "total": 4225.0,
+      "settled": 0.0,
+      "outstanding": 4225.0,
+      "lines": [
+        {
+          "name": "2C Price Border Strip White",
+          "qty": 53.0,
+          "total": 1325.0
+        },
+        {
+          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+          "qty": 10.0,
+          "total": 2900.0
+        },
+        {
+          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+          "qty": 20.0,
+          "total": 0.0
+        }
+      ]
+    },
     {
       "id": 322,
       "ref": "S00323",
@@ -201,25 +230,6 @@
           "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
           "qty": 2.0,
           "total": 2400.0
-        }
-      ]
-    },
-    {
-      "id": 335,
-      "ref": "S00336",
-      "kind": "quotation",
-      "customer": "Sun Shine Arts",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-24",
-      "expires": "2026-10-24",
-      "total": 1750.0,
-      "settled": 0.0,
-      "outstanding": 1750.0,
-      "lines": [
-        {
-          "name": "2C Price Border Strip White",
-          "qty": 70.0,
-          "total": 1750.0
         }
       ]
     },
