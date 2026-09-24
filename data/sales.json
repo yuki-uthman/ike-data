@@ -12777,17 +12777,17 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T10:45:37Z",
+      "generatedAt": "2026-09-24T11:01:04Z",
       "pos": {
-        "total": 52.0,
-        "count": 2
+        "total": 852.0,
+        "count": 3
       },
       "regularSales": {
         "total": 12165.0,
         "count": 8
       },
       "pendingQuotations": {
-        "total": 5324.0,
+        "total": 5834.0,
         "count": 4
       },
       "cash": {
@@ -12795,8 +12795,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 9585.0,
-        "count": 7
+        "total": 10385.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -12926,6 +12926,22 @@
               "name": "[90048] Milkshake Powder Belgian Chocolate",
               "qty": 3.0,
               "total": 840.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000217",
+          "customer": "Walk-in",
+          "amount": 800.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "15:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01818] Rain Coat Polyester#5",
+              "qty": 1.0,
+              "total": 800.0
             }
           ]
         },

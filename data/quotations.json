@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-24T10:45:52Z",
+  "generatedAt": "2026-09-24T11:01:13Z",
   "openCount": 138,
-  "openTotal": 1533609.2,
+  "openTotal": 1534119.2,
   "quotationCount": 48,
-  "quotationTotal": 626100.75,
+  "quotationTotal": 626610.75,
   "orderCount": 90,
   "orderTotal": 907508.45,
   "days": [
@@ -180,8 +180,8 @@
     {
       "date": "2026-09-24",
       "count": 5,
-      "outstanding": 7924.0,
-      "total": 7924.0
+      "outstanding": 8434.0,
+      "total": 8434.0
     }
   ],
   "quotations": [
@@ -241,14 +241,19 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-24",
       "expires": "2026-10-24",
-      "total": 790.0,
+      "total": 1300.0,
       "settled": 0.0,
-      "outstanding": 790.0,
+      "outstanding": 1300.0,
       "lines": [
         {
           "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
           "qty": 1.0,
           "total": 790.0
+        },
+        {
+          "name": "[75053] Hook Mesh 12\"",
+          "qty": 30.0,
+          "total": 510.0
         }
       ]
     },
