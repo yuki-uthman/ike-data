@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T11:15:39Z",
+  "generatedAt": "2026-09-24T11:30:50Z",
   "cash": {
-    "total": 2632.0,
-    "count": 3
+    "total": 2962.0,
+    "count": 4
   },
   "transfer": {
     "total": 10385.0,
@@ -159,6 +159,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00222",
+      "customer": "The Yacht Store",
+      "amount": 330.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70135] 37 Hook Bar Tube",
+          "qty": 1.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70136] 37 Hook Double Black 8\"",
+          "qty": 2.0,
+          "total": 90.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00220",
       "customer": "Hotel Flora",
       "amount": 200.0,
@@ -233,8 +254,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 3,
-      "total": 2632.0
+      "count": 4,
+      "total": 2962.0
     },
     {
       "name": "Bank Transfer",
