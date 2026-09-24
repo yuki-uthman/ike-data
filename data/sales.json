@@ -12777,7 +12777,7 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T11:45:42Z",
+      "generatedAt": "2026-09-24T11:54:44Z",
       "pos": {
         "total": 852.0,
         "count": 3
@@ -13030,7 +13030,12 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     }
   ]
 }
