@@ -13283,10 +13283,10 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T16:01:13Z",
+      "generatedAt": "2026-09-24T16:15:36Z",
       "pos": {
-        "total": 2471.0,
-        "count": 8
+        "total": 2561.0,
+        "count": 9
       },
       "regularSales": {
         "total": 18115.0,
@@ -13301,8 +13301,8 @@
         "count": 7
       },
       "transfer": {
-        "total": 17149.0,
-        "count": 12
+        "total": 17239.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -13637,6 +13637,27 @@
               "name": "[32071] CHAIR 14 INCH",
               "qty": 1.0,
               "total": 120.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000223",
+          "customer": "Walk-in",
+          "amount": 90.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[PP9] PAPER PLATE 9\"",
+              "qty": 1.0,
+              "total": 50.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 2.0,
+              "total": 40.0
             }
           ]
         },
