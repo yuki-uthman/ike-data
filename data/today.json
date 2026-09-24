@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T05:15:33Z",
+  "generatedAt": "2026-09-24T05:26:35Z",
   "cash": {
     "total": 2400.0,
     "count": 1
   },
   "transfer": {
-    "total": 20.0,
-    "count": 1
+    "total": 860.0,
+    "count": 2
   },
   "other": {
     "total": 0,
@@ -29,6 +29,22 @@
           "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
           "qty": 2.0,
           "total": 2400.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00215",
+      "customer": "Cafe Santorini",
+      "amount": 840.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 3.0,
+          "total": 840.0
         }
       ]
     },
@@ -55,6 +71,12 @@
       "method": "cash",
       "count": 1,
       "total": 2400.0
+    },
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 840.0
     },
     {
       "name": "Bank Transfer",
