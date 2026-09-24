@@ -4,7 +4,7 @@
   "days": [
     {
       "date": "2026-07-27",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -29,11 +29,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-07-28",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -58,11 +63,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-07-29",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -87,11 +97,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-07-30",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -116,11 +131,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-07-31",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -145,11 +165,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-01",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -174,11 +199,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-02",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -203,11 +233,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-03",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -232,11 +267,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-04",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -261,11 +301,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-05",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -290,11 +335,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-06",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -319,11 +369,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-07",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -348,11 +403,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-08",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -377,11 +437,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-09",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -406,11 +471,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-10",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -435,11 +505,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-11",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -464,11 +539,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-12",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -493,11 +573,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-13",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -522,11 +607,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-14",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -551,11 +641,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-15",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -580,11 +675,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-16",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -609,11 +709,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-17",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -638,11 +743,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-18",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -667,11 +777,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-19",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -696,11 +811,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-20",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -725,11 +845,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-21",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -754,11 +879,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-22",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -783,11 +913,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-23",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -812,11 +947,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-24",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -841,11 +981,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-25",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -870,11 +1015,16 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-26",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -899,14 +1049,19 @@
         "total": 0,
         "count": 0
       },
-      "transactions": []
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-27",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
-        "total": 11613.0,
-        "count": 20
+        "total": 11663.0,
+        "count": 22
       },
       "regularSales": {
         "total": 0,
@@ -917,8 +1072,8 @@
         "count": 3
       },
       "cash": {
-        "total": 1163.0,
-        "count": 5
+        "total": 1213.0,
+        "count": 7
       },
       "transfer": {
         "total": 10450.0,
@@ -935,7 +1090,7 @@
           "amount": 3330.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "10:51",
+          "time": "10:53",
           "source": "pos",
           "lines": [
             {
@@ -983,11 +1138,11 @@
         },
         {
           "ref": "INV/2026/00005 (Ike - 000006)",
-          "customer": "gro plus mv pvt ltd",
+          "customer": "Gro Plus Mv Pvt Ltd",
           "amount": 2850.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "14:41",
+          "time": "14:43",
           "source": "pos",
           "lines": [
             {
@@ -1008,7 +1163,7 @@
           "amount": 1640.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "15:47",
+          "time": "15:48",
           "source": "pos",
           "lines": [
             {
@@ -1024,7 +1179,7 @@
           "amount": 800.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "15:21",
+          "time": "15:23",
           "source": "pos",
           "lines": [
             {
@@ -1041,11 +1196,11 @@
         },
         {
           "ref": "INV/2026/00003 (Ike - 000002)",
-          "customer": "Niba Pvt ltd",
+          "customer": "Niba Pvt Ltd",
           "amount": 790.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "10:57",
+          "time": "10:58",
           "source": "pos",
           "lines": [
             {
@@ -1057,11 +1212,11 @@
         },
         {
           "ref": "INV/2026/00004 (Ike - 000001)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 500.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "18:09",
+          "time": "14:06",
           "source": "pos",
           "lines": [
             {
@@ -1077,7 +1232,7 @@
           "amount": 425.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:14",
+          "time": "11:15",
           "source": "pos",
           "lines": [
             {
@@ -1089,11 +1244,11 @@
         },
         {
           "ref": "INV/2026/00009 (Ike - 000009)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 400.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "22:15",
+          "time": "22:17",
           "source": "pos",
           "lines": [
             {
@@ -1114,7 +1269,7 @@
           "amount": 240.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "14:29",
+          "time": "14:30",
           "source": "pos",
           "lines": [
             {
@@ -1126,11 +1281,11 @@
         },
         {
           "ref": "INV/2026/00008 (Ike - 000011)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "20:57",
+          "time": "20:59",
           "source": "pos",
           "lines": [
             {
@@ -1147,11 +1302,11 @@
         },
         {
           "ref": "Ike - 000005",
-          "customer": "Chic by Maldives Fellas",
+          "customer": "Chic By Maldives Fellas",
           "amount": 200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "14:36",
+          "time": "14:37",
           "source": "pos",
           "lines": [
             {
@@ -1167,7 +1322,7 @@
           "amount": 195.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "21:58",
+          "time": "17:56",
           "source": "pos",
           "lines": [
             {
@@ -1178,12 +1333,28 @@
           ]
         },
         {
+          "ref": "Ike - 000007",
+          "customer": "Walk-in",
+          "amount": 35.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70220] RD8 Price Border Strip Blue 900mm (875)",
+              "qty": 1.0,
+              "total": 35.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00007 (Ike - 000008)",
           "customer": "Mohamed Ahmed  Manfu O-11",
           "amount": 20.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "20:06",
+          "time": "20:07",
           "source": "pos",
           "lines": [
             {
@@ -1194,12 +1365,28 @@
           ]
         },
         {
+          "ref": "Ike - 000005",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:58",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01911] Spray Bottle A34",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000004",
           "customer": "Walk-in",
           "amount": 15.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "19:05",
+          "time": "15:03",
           "source": "pos",
           "lines": [
             {
@@ -1215,7 +1402,7 @@
           "amount": 8.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "20:50",
+          "time": "16:47",
           "source": "pos",
           "lines": [
             {
@@ -1263,7 +1450,7 @@
           "amount": -790.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "10:47",
+          "time": "10:48",
           "source": "pos",
           "lines": [
             {
@@ -1289,14 +1476,19 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-28",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
-        "total": 327.0,
-        "count": 3
+        "total": 277.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
@@ -1307,8 +1499,8 @@
         "count": 0
       },
       "cash": {
-        "total": 50.0,
-        "count": 2
+        "total": 0,
+        "count": 0
       },
       "transfer": {
         "total": 277.0,
@@ -1321,11 +1513,11 @@
       "transactions": [
         {
           "ref": "INV/2026/00010 (Ike - 000012)",
-          "customer": "symphony Maldives Pvt Ltd",
+          "customer": "Symphony Maldives Pvt Ltd",
           "amount": 277.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "15:19",
+          "time": "15:21",
           "source": "pos",
           "lines": [
             {
@@ -1334,44 +1526,17 @@
               "total": 277.0
             }
           ]
-        },
-        {
-          "ref": "Ike - 000007",
-          "customer": "Walk-in",
-          "amount": 35.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "01:55",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70220] RD8 Price Border Strip Blue 900mm (875)",
-              "qty": 1.0,
-              "total": 35.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000005",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "01:01",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01911] Spray Bottle A34",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-29",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 116886.0,
         "count": 17
@@ -1403,7 +1568,7 @@
           "amount": 87455.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "14:30",
+          "time": "14:31",
           "source": "pos",
           "lines": [
             {
@@ -1449,7 +1614,7 @@
           "amount": 8000.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "21:38",
+          "time": "21:40",
           "source": "pos",
           "lines": [
             {
@@ -1470,7 +1635,7 @@
           "amount": 7400.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "21:21",
+          "time": "21:23",
           "source": "pos",
           "lines": [
             {
@@ -1487,11 +1652,11 @@
         },
         {
           "ref": "INV/2026/00012 (Ike - 000013)",
-          "customer": "Veyo plaza N-11",
+          "customer": "Veyo Plaza N-11",
           "amount": 3280.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:29",
+          "time": "11:31",
           "source": "pos",
           "lines": [
             {
@@ -1507,7 +1672,7 @@
           "amount": 2820.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:13",
+          "time": "11:14",
           "source": "pos",
           "lines": [
             {
@@ -1528,7 +1693,7 @@
           "amount": 2600.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "13:46",
+          "time": "13:47",
           "source": "pos",
           "lines": [
             {
@@ -1550,11 +1715,11 @@
         },
         {
           "ref": "INV/2026/00016 (Ike - 000019)",
-          "customer": "S point  C-4",
+          "customer": "S Point  C-4",
           "amount": 1755.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "15:46",
+          "time": "15:47",
           "source": "pos",
           "lines": [
             {
@@ -1570,7 +1735,7 @@
           "amount": 1675.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "15:17",
+          "time": "15:18",
           "source": "pos",
           "lines": [
             {
@@ -1601,7 +1766,7 @@
           "amount": 800.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:35",
+          "time": "11:37",
           "source": "pos",
           "lines": [
             {
@@ -1617,7 +1782,7 @@
           "amount": 600.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "16:33",
+          "time": "16:35",
           "source": "pos",
           "lines": [
             {
@@ -1765,11 +1930,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-30",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 34219.0,
         "count": 18
@@ -1801,7 +1971,7 @@
           "amount": 18630.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "13:52",
+          "time": "13:54",
           "source": "pos",
           "lines": [
             {
@@ -1837,7 +2007,7 @@
           "amount": 3600.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "21:20",
+          "time": "21:22",
           "source": "pos",
           "lines": [
             {
@@ -1854,11 +2024,11 @@
         },
         {
           "ref": "INV/2026/00028 (Ike - 000032)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 3600.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "17:59",
+          "time": "18:00",
           "source": "pos",
           "lines": [
             {
@@ -1874,7 +2044,7 @@
           "amount": 2500.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "22:42",
+          "time": "22:44",
           "source": "pos",
           "lines": [
             {
@@ -1886,11 +2056,11 @@
         },
         {
           "ref": "INV/2026/00026 (Ike - 000030)",
-          "customer": "THE RISTORO P-2",
+          "customer": "The Ristoro P-2",
           "amount": 1500.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "16:11",
+          "time": "16:12",
           "source": "pos",
           "lines": [
             {
@@ -1911,7 +2081,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "13:39",
+          "time": "13:40",
           "source": "pos",
           "lines": [
             {
@@ -1938,11 +2108,11 @@
         },
         {
           "ref": "INV/2026/00022 (Ike - 000026)",
-          "customer": "Blue barista E-16",
+          "customer": "Blue Barista E-16",
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:29",
+          "time": "11:31",
           "source": "pos",
           "lines": [
             {
@@ -1995,11 +2165,11 @@
         },
         {
           "ref": "INV/2026/00025 (Ike - 000029)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 400.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "14:34",
+          "time": "14:36",
           "source": "pos",
           "lines": [
             {
@@ -2016,11 +2186,11 @@
         },
         {
           "ref": "INV/2026/00021 (Ike - 000024)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 400.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "10:23",
+          "time": "10:24",
           "source": "pos",
           "lines": [
             {
@@ -2032,11 +2202,11 @@
         },
         {
           "ref": "INV/2026/00027 (Ike - 000031)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 350.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "17:52",
+          "time": "17:53",
           "source": "pos",
           "lines": [
             {
@@ -2138,11 +2308,11 @@
         },
         {
           "ref": "Ike - 000025",
-          "customer": "ike.salesperson@gmail.com",
+          "customer": "Ike.Salesperson@Gmail.Com",
           "amount": 23.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "10:30",
+          "time": "10:31",
           "source": "pos",
           "lines": [
             {
@@ -2163,7 +2333,7 @@
           "amount": 3.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "20:35",
+          "time": "20:36",
           "source": "pos",
           "lines": [
             {
@@ -2173,11 +2343,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-08-31",
-      "generatedAt": "2026-09-17T13:31:45Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 13638.0,
         "count": 17
@@ -2205,11 +2380,11 @@
       "transactions": [
         {
           "ref": "INV/2026/00039 (Ike - 000043)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 2860.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "22:10",
+          "time": "22:11",
           "source": "pos",
           "lines": [
             {
@@ -2235,7 +2410,7 @@
           "amount": 2850.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "14:20",
+          "time": "14:22",
           "source": "pos",
           "lines": [
             {
@@ -2247,11 +2422,11 @@
         },
         {
           "ref": "Ike - 000036",
-          "customer": "AnkoJa\u00f1ath",
+          "customer": "Ankoja\u00f1ath",
           "amount": 2800.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "09:33",
+          "time": "09:34",
           "source": "pos",
           "lines": [
             {
@@ -2263,7 +2438,7 @@
         },
         {
           "ref": "INV/2026/00032 (Ike - 000021)",
-          "customer": "Paper plus G-2",
+          "customer": "Paper Plus G-2",
           "amount": 1176.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -2294,11 +2469,11 @@
         },
         {
           "ref": "INV/2026/00035 (Ike - 000039)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:46",
+          "time": "11:48",
           "source": "pos",
           "lines": [
             {
@@ -2315,11 +2490,11 @@
         },
         {
           "ref": "INV/2026/00033 (Ike - 000037)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:29",
+          "time": "11:31",
           "source": "pos",
           "lines": [
             {
@@ -2336,11 +2511,11 @@
         },
         {
           "ref": "INV/2026/00031 (Ike - 000035)",
-          "customer": "ECOBOO MALDIVES",
+          "customer": "Ecoboo Maldives",
           "amount": 1000.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "09:24",
+          "time": "09:25",
           "source": "pos",
           "lines": [
             {
@@ -2352,11 +2527,11 @@
         },
         {
           "ref": "INV/2026/00036 (Ike - 000040)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 518.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "14:01",
+          "time": "14:03",
           "source": "pos",
           "lines": [
             {
@@ -2428,7 +2603,7 @@
           "amount": 400.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "11:43",
+          "time": "11:45",
           "source": "pos",
           "lines": [
             {
@@ -2466,11 +2641,11 @@
         },
         {
           "ref": "INV/2026/00038 (Ike - 000042)",
-          "customer": "Paper plus G-2",
+          "customer": "Paper Plus G-2",
           "amount": 180.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
-          "time": "14:48",
+          "time": "14:50",
           "source": "pos",
           "lines": [
             {
@@ -2530,7 +2705,7 @@
         },
         {
           "ref": "RINV/2026/00006 (Reversal of: INV/2026/00033)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": -200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -2546,7 +2721,7 @@
         },
         {
           "ref": "RINV/2026/00005 (Reversal of: INV/2026/00033)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": -900.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -2560,11 +2735,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-01",
-      "generatedAt": "2026-09-20T08:01:52Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 35039.0,
         "count": 17
@@ -2629,7 +2809,7 @@
         },
         {
           "ref": "INV/2026/00044 (Ike - 000048)",
-          "customer": "RED APPLE / B -13",
+          "customer": "Red Apple / B -13",
           "amount": 4370.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -2655,7 +2835,7 @@
         },
         {
           "ref": "INV/2026/00048 (Ike - 000052)",
-          "customer": "FAZULINE  B-17",
+          "customer": "Fazuline  B-17",
           "amount": 1980.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -2708,7 +2888,7 @@
         },
         {
           "ref": "INV/2026/00050 (Ike - 000053)",
-          "customer": "Ekuveri store I-8",
+          "customer": "Ekuveri Store I-8",
           "amount": 1240.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -2755,7 +2935,7 @@
         },
         {
           "ref": "INV/2026/00049 (Ike - 000054)",
-          "customer": "Myst pvt ltd",
+          "customer": "Myst Pvt Ltd",
           "amount": 195.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -2802,7 +2982,7 @@
         },
         {
           "ref": "INV/2026/00045 (Ike - 000049)",
-          "customer": "Standard & OriginPvt Ltd",
+          "customer": "Standard & Originpvt Ltd",
           "amount": 120.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -2932,11 +3112,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-02",
-      "generatedAt": "2026-09-20T08:02:02Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 40930.0,
         "count": 19
@@ -2964,7 +3149,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00055 (Ike - 000060)",
-          "customer": "IRAMAA N - 9",
+          "customer": "Iramaa N - 9",
           "amount": 24910.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3068,7 +3253,7 @@
         },
         {
           "ref": "INV/2026/00053 (Ike - 000059)",
-          "customer": "twice G-2",
+          "customer": "Twice G-2",
           "amount": 1450.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3089,7 +3274,7 @@
         },
         {
           "ref": "INV/2026/00056 (Ike - 000062)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3110,7 +3295,7 @@
         },
         {
           "ref": "INV/2026/00058 (Ike - 000064)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 400.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3131,7 +3316,7 @@
         },
         {
           "ref": "Ike - 000058",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 280.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3163,7 +3348,7 @@
         },
         {
           "ref": "INV/2026/00057 (Ike - 000063)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 200.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3179,7 +3364,7 @@
         },
         {
           "ref": "INV/2026/00054 (Ike - 000034)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 200.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3195,7 +3380,7 @@
         },
         {
           "ref": "Ike - 000055",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 195.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3227,7 +3412,7 @@
         },
         {
           "ref": "INV/2026/00052 (Ike - 000056)",
-          "customer": "Simdi company pvt ltd",
+          "customer": "Simdi Company Pvt Ltd",
           "amount": 110.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3331,11 +3516,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-03",
-      "generatedAt": "2026-09-20T08:02:11Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 28266.0,
         "count": 20
@@ -3432,7 +3622,7 @@
         },
         {
           "ref": "INV/2026/00067 (Ike - 000074)",
-          "customer": "Velna View sinad P-6",
+          "customer": "Velna View Sinad P-6",
           "amount": 2685.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3569,7 +3759,7 @@
         },
         {
           "ref": "Ike - 000071",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 140.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3721,11 +3911,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-04",
-      "generatedAt": "2026-09-20T08:02:20Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 2992.0,
         "count": 10
@@ -3753,7 +3948,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00071 (Ike - 000078)",
-          "customer": "Fathis plaza N-8",
+          "customer": "Fathis Plaza N-8",
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3795,7 +3990,7 @@
         },
         {
           "ref": "Ike - 000052",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 290.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3816,7 +4011,7 @@
         },
         {
           "ref": "Ike - 000049",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 130.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3837,7 +4032,7 @@
         },
         {
           "ref": "Ike - 000079",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 78.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3853,7 +4048,7 @@
         },
         {
           "ref": "INV/2026/00072 (Ike - 000081)",
-          "customer": "ike.salesperson@gmail.com",
+          "customer": "Ike.Salesperson@Gmail.Com",
           "amount": 65.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3869,7 +4064,7 @@
         },
         {
           "ref": "Ike - 000053",
-          "customer": "Hassan ike wholesale",
+          "customer": "Hassan Ike Wholesale",
           "amount": 35.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3885,7 +4080,7 @@
         },
         {
           "ref": "INV/2026/00144 (Ike - 000051)",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 20.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -3901,7 +4096,7 @@
         },
         {
           "ref": "Ike - 000080",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 19.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3917,7 +4112,7 @@
         },
         {
           "ref": "Ike - 000050",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 15.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3931,11 +4126,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-05",
-      "generatedAt": "2026-09-20T08:02:28Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 40826.0,
         "count": 21
@@ -3963,7 +4163,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00083 (Ike - 000094)",
-          "customer": "Pearl shop, L.Gan O-6",
+          "customer": "Pearl Shop, L.Gan O-6",
           "amount": 8200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -3999,7 +4199,7 @@
         },
         {
           "ref": "INV/2026/00081 (Ike - 000090)",
-          "customer": "NAN NUKIYAA STORE / Q8",
+          "customer": "Nan Nukiyaa Store / Q8",
           "amount": 7900.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4031,7 +4231,7 @@
         },
         {
           "ref": "INV/2026/00085 (Ike - 000095)",
-          "customer": "shop ah",
+          "customer": "Shop Ah",
           "amount": 3300.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -4094,7 +4294,7 @@
         },
         {
           "ref": "INV/2026/00076 (Ike - 000084)",
-          "customer": "Hive snack bar P-2",
+          "customer": "Hive Snack Bar P-2",
           "amount": 1650.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4126,7 +4326,7 @@
         },
         {
           "ref": "Ike - 000092",
-          "customer": "Ahusan Kzm hardware : Raa dhuvaafaru",
+          "customer": "Ahusan Kzm Hardware : Raa Dhuvaafaru",
           "amount": 1375.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4152,7 +4352,7 @@
         },
         {
           "ref": "INV/2026/00082 (Ike - 000091)",
-          "customer": "TIGER SHARK R-1",
+          "customer": "Tiger Shark R-1",
           "amount": 1360.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4205,7 +4405,7 @@
         },
         {
           "ref": "Ike - 000093",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 385.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -4258,7 +4458,7 @@
         },
         {
           "ref": "INV/2026/00078 (Ike - 000055)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 131.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -4300,7 +4500,7 @@
         },
         {
           "ref": "INV/2026/00084 (Ike - 000057)",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 66.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4377,11 +4577,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-06",
-      "generatedAt": "2026-09-20T08:02:36Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 15571.0,
         "count": 15
@@ -4409,7 +4614,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00090 (Ike - 000101)",
-          "customer": "BRC G-02",
+          "customer": "Brc G-02",
           "amount": 6450.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4451,7 +4656,7 @@
         },
         {
           "ref": "INV/2026/00091 (Ike - 000098)",
-          "customer": "MR.17 B-5",
+          "customer": "Mr.17 B-5",
           "amount": 2158.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4492,7 +4697,7 @@
         },
         {
           "ref": "INV/2026/00089 (Ike - 000100)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1600.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4518,7 +4723,7 @@
         },
         {
           "ref": "INV/2026/00088 (Ike - 000099)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 970.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -4544,7 +4749,7 @@
         },
         {
           "ref": "INV/2026/00092 (Ike - 000102)",
-          "customer": "cafe dilvona",
+          "customer": "Cafe Dilvona",
           "amount": 280.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -4560,7 +4765,7 @@
         },
         {
           "ref": "INV/2026/00086 (Ike - 000096)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 200.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -4707,11 +4912,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-07",
-      "generatedAt": "2026-09-20T08:02:44Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 28511.0,
         "count": 17
@@ -5446,7 +5656,7 @@
         },
         {
           "ref": "INV/2026/00094 (Ike - 000104)",
-          "customer": "Downtown view mart H-3",
+          "customer": "Downtown View Mart H-3",
           "amount": 1640.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -5462,7 +5672,7 @@
         },
         {
           "ref": "INV/2026/00101 (S00161)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1560.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -5488,7 +5698,7 @@
         },
         {
           "ref": "INV/2026/00093 (Ike - 000103)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 1500.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -5514,7 +5724,7 @@
         },
         {
           "ref": "Ike - 000113",
-          "customer": "Blue barista E-16",
+          "customer": "Blue Barista E-16",
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -5550,7 +5760,7 @@
         },
         {
           "ref": "Ike - 000112",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 677.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -5576,7 +5786,7 @@
         },
         {
           "ref": "INV/2026/00099 (Ike - 000109)",
-          "customer": "ike.retail.sales@gmail.com",
+          "customer": "Ike.Retail.Sales@Gmail.Com",
           "amount": 660.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -5759,11 +5969,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-08",
-      "generatedAt": "2026-09-20T08:02:53Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 59304.0,
         "count": 9
@@ -6177,7 +6392,7 @@
         },
         {
           "ref": "Ike - 000115",
-          "customer": "CANDY HUT G-2",
+          "customer": "Candy Hut G-2",
           "amount": 9500.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6291,7 +6506,7 @@
         },
         {
           "ref": "INV/2026/00103 (S00183)",
-          "customer": "nursery Bookshop",
+          "customer": "Nursery Bookshop",
           "amount": 700.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6403,11 +6618,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-09",
-      "generatedAt": "2026-09-20T08:03:01Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 18264.0,
         "count": 21
@@ -6435,7 +6655,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00107 (S00194)",
-          "customer": "Look nice",
+          "customer": "Look Nice",
           "amount": 9000.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6477,7 +6697,7 @@
         },
         {
           "ref": "INV/2026/00108 (S00197)",
-          "customer": "Niba Pvt ltd",
+          "customer": "Niba Pvt Ltd",
           "amount": 2420.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6503,7 +6723,7 @@
         },
         {
           "ref": "Ike - 000121",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 1640.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -6519,7 +6739,7 @@
         },
         {
           "ref": "INV/2026/00109 (S00192)",
-          "customer": "My view E-13",
+          "customer": "My View E-13",
           "amount": 970.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6535,7 +6755,7 @@
         },
         {
           "ref": "INV/2026/00106 (Ike - 000122)",
-          "customer": "Snap buy",
+          "customer": "Snap Buy",
           "amount": 400.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6804,11 +7024,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-10",
-      "generatedAt": "2026-09-20T08:03:09Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 41387.0,
         "count": 17
@@ -6836,7 +7061,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00112 (S00196)",
-          "customer": "MANTHIRI STORE  Q-10",
+          "customer": "Manthiri Store  Q-10",
           "amount": 20165.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6877,7 +7102,7 @@
         },
         {
           "ref": "INV/2026/00111 (S00185)",
-          "customer": "eyecare pvt",
+          "customer": "Eyecare Pvt",
           "amount": 9900.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6893,7 +7118,7 @@
         },
         {
           "ref": "INV/2026/00110 (S00198)",
-          "customer": "FENEENAA B-12",
+          "customer": "Feneenaa B-12",
           "amount": 6560.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6909,7 +7134,7 @@
         },
         {
           "ref": "INV/2026/00113 (S00202)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 2744.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -6991,7 +7216,7 @@
         },
         {
           "ref": "Ike - 000129",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 560.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -7211,11 +7436,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-11",
-      "generatedAt": "2026-09-20T08:03:18Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 778.0,
         "count": 8
@@ -7259,7 +7489,7 @@
         },
         {
           "ref": "INV/2026/00115 (Ike - 000134)",
-          "customer": "Dough depot",
+          "customer": "Dough Depot",
           "amount": 200.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -7379,11 +7609,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-12",
-      "generatedAt": "2026-09-20T08:03:26Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 26380.0,
         "count": 14
@@ -7411,7 +7646,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00117 (S00210)",
-          "customer": "WEALTHY COIN S-5",
+          "customer": "Wealthy Coin S-5",
           "amount": 15590.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -7457,7 +7692,7 @@
         },
         {
           "ref": "Ike - 000139",
-          "customer": "WEALTHY COIN S-5",
+          "customer": "Wealthy Coin S-5",
           "amount": 5000.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -7543,7 +7778,7 @@
         },
         {
           "ref": "INV/2026/00120",
-          "customer": "Afrah Maafiya k.Gulhi",
+          "customer": "Afrah Maafiya K.Gulhi",
           "amount": 1900.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -7770,7 +8005,7 @@
         },
         {
           "ref": "INV/2026/00119 (S00203)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1550.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -8634,7 +8869,7 @@
         },
         {
           "ref": "INV/2026/00121 (Ike - 000115)",
-          "customer": "Myst pvt ltd",
+          "customer": "Myst Pvt Ltd",
           "amount": 300.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -8754,11 +8989,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-13",
-      "generatedAt": "2026-09-20T08:03:35Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 1848.0,
         "count": 13
@@ -8786,7 +9026,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00129",
-          "customer": "AJWA MART",
+          "customer": "Ajwa Mart",
           "amount": 10586.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -8817,7 +9057,7 @@
         },
         {
           "ref": "INV/2026/00123",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 2600.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -8849,7 +9089,7 @@
         },
         {
           "ref": "INV/2026/00127",
-          "customer": "Peko peko  Mina asiri B-3",
+          "customer": "Peko Peko  Mina Asiri B-3",
           "amount": 1025.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -8891,7 +9131,7 @@
         },
         {
           "ref": "INV/2026/00122",
-          "customer": "Turtle Garden / i-2",
+          "customer": "Turtle Garden / I-2",
           "amount": 720.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -8917,7 +9157,7 @@
         },
         {
           "ref": "INV/2026/00124 (Ike - 000124)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 620.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -8980,7 +9220,7 @@
         },
         {
           "ref": "INV/2026/00126",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 250.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -9012,7 +9252,7 @@
         },
         {
           "ref": "INV/2026/00125 (Ike - 000125)",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 147.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -9179,11 +9419,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-20T08:03:43Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 478.0,
         "count": 5
@@ -9232,7 +9477,7 @@
         },
         {
           "ref": "INV/2026/00134",
-          "customer": "Cocohut Artificial beach",
+          "customer": "Cocohut Artificial Beach",
           "amount": 3950.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -9306,7 +9551,7 @@
         },
         {
           "ref": "INV/2026/00132",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 180.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -9389,11 +9634,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-20T08:03:52Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 1364.0,
         "count": 12
@@ -9447,7 +9697,7 @@
         },
         {
           "ref": "INV/2026/00139",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1780.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -9489,7 +9739,7 @@
         },
         {
           "ref": "INV/2026/00136",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 446.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -9530,7 +9780,7 @@
         },
         {
           "ref": "INV/2026/00141",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 390.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -9572,7 +9822,7 @@
         },
         {
           "ref": "INV/2026/00137",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 360.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -9698,7 +9948,7 @@
         },
         {
           "ref": "Ike - 000137",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 66.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -9817,11 +10067,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-20T08:04:01Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 651.0,
         "count": 7
@@ -9849,7 +10104,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00143",
-          "customer": "GREENZONE DISTRICT",
+          "customer": "Greenzone District",
           "amount": 4950.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -9865,7 +10120,7 @@
         },
         {
           "ref": "INV/2026/00145",
-          "customer": "Hawwa Masuoodha bulaasam F-1",
+          "customer": "Hawwa Masuoodha Bulaasam F-1",
           "amount": 1980.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -9897,7 +10152,7 @@
         },
         {
           "ref": "INV/2026/00146",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 520.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10048,11 +10303,24 @@
             }
           ]
         }
+      ],
+      "cashOut": {
+        "total": 1000.0,
+        "count": 1
+      },
+      "cashOutTransactions": [
+        {
+          "reason": "uthman",
+          "amount": 1000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:54"
+        }
       ]
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-20T08:04:09Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 564.0,
         "count": 7
@@ -10080,7 +10348,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00158",
-          "customer": "Ekuveri store I-8",
+          "customer": "Ekuveri Store I-8",
           "amount": 15200.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10137,7 +10405,7 @@
         },
         {
           "ref": "INV/2026/00148",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 2300.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -10163,7 +10431,7 @@
         },
         {
           "ref": "INV/2026/00155",
-          "customer": "JHL/S-2",
+          "customer": "Jhl/S-2",
           "amount": 2200.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10179,7 +10447,7 @@
         },
         {
           "ref": "INV/2026/00154",
-          "customer": "U.A STORE  F-1",
+          "customer": "U.A Store  F-1",
           "amount": 2200.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10211,7 +10479,7 @@
         },
         {
           "ref": "INV/2026/00153",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1440.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10227,7 +10495,7 @@
         },
         {
           "ref": "INV/2026/00149",
-          "customer": "INSTA CART C-13",
+          "customer": "Insta Cart C-13",
           "amount": 1280.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10264,7 +10532,7 @@
         },
         {
           "ref": "INV/2026/00147",
-          "customer": "EDEN MART",
+          "customer": "Eden Mart",
           "amount": 280.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -10312,7 +10580,7 @@
         },
         {
           "ref": "INV/2026/00157",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 200.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -10438,11 +10706,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-20T08:04:18Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 70.0,
         "count": 3
@@ -10496,7 +10769,7 @@
         },
         {
           "ref": "INV/2026/00164",
-          "customer": "umber Pvt ltd C-1",
+          "customer": "Umber Pvt Ltd C-1",
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10565,7 +10838,7 @@
         },
         {
           "ref": "INV/2026/00162",
-          "customer": "sales",
+          "customer": "Sales",
           "amount": 320.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10637,11 +10910,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-19",
-      "generatedAt": "2026-09-20T08:04:27Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 457.0,
         "count": 8
@@ -10651,8 +10929,8 @@
         "count": 8
       },
       "pendingQuotations": {
-        "total": 44650.0,
-        "count": 4
+        "total": 43450.0,
+        "count": 3
       },
       "cash": {
         "total": 357.0,
@@ -10695,7 +10973,7 @@
         },
         {
           "ref": "INV/2026/00166",
-          "customer": "Shau collection E-18",
+          "customer": "Shau Collection E-18",
           "amount": 5400.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10727,7 +11005,7 @@
         },
         {
           "ref": "INV/2026/00172",
-          "customer": "BLUEBELL SOLUTIONS PVT LTD",
+          "customer": "Bluebell Solutions PVT LTD",
           "amount": 3000.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10759,7 +11037,7 @@
         },
         {
           "ref": "INV/2026/00170",
-          "customer": "NNS / Q8",
+          "customer": "Nns / Q8",
           "amount": 1800.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10775,7 +11053,7 @@
         },
         {
           "ref": "INV/2026/00168",
-          "customer": "Busy biz k-8",
+          "customer": "Busy Biz K-8",
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -10948,11 +11226,24 @@
             }
           ]
         }
+      ],
+      "cashOut": {
+        "total": 3000.0,
+        "count": 1
+      },
+      "cashOutTransactions": [
+        {
+          "reason": "usman",
+          "amount": 3000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:08"
+        }
       ]
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-20T18:45:36Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 647.0,
         "count": 10
@@ -10962,8 +11253,8 @@
         "count": 6
       },
       "pendingQuotations": {
-        "total": 102400.0,
-        "count": 4
+        "total": 87050.0,
+        "count": 3
       },
       "cash": {
         "total": 290.0,
@@ -10980,7 +11271,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00180",
-          "customer": "BANDAHAGE PVT LTD",
+          "customer": "Bandahage PVT LTD",
           "amount": 25450.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -11038,7 +11329,7 @@
         },
         {
           "ref": "INV/2026/00178",
-          "customer": "UNITED HUVADHOO HOLDING PVT LTD",
+          "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -11101,7 +11392,7 @@
         },
         {
           "ref": "INV/2026/00174",
-          "customer": "Excel international school",
+          "customer": "Excel International School",
           "amount": 177.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -11269,11 +11560,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-21T18:45:37Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 1755.0,
         "count": 18
@@ -11283,8 +11579,8 @@
         "count": 7
       },
       "pendingQuotations": {
-        "total": 9160.0,
-        "count": 5
+        "total": 1180.0,
+        "count": 2
       },
       "cash": {
         "total": 1987.0,
@@ -11301,7 +11597,7 @@
       "transactions": [
         {
           "ref": "INV/2026/00187",
-          "customer": "FRESH FUSION B-12",
+          "customer": "Fresh Fusion B-12",
           "amount": 1900.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -11312,22 +11608,12 @@
               "name": "[70186] Trolley Stand 5 Layer Black",
               "qty": 1.0,
               "total": 1900.0
-            },
-            {
-              "name": "[70186] Trolley Stand 5 Layer Black",
-              "qty": 1.0,
-              "total": 867.0
-            },
-            {
-              "name": "[70186] Trolley Stand 5 Layer Black",
-              "qty": 1.0,
-              "total": -867.0
             }
           ]
         },
         {
           "ref": "INV/2026/00185",
-          "customer": "Winovia/M.Mulah k4",
+          "customer": "Winovia/M.Mulah K4",
           "amount": 1526.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -11340,11 +11626,6 @@
               "total": 950.0
             },
             {
-              "name": "Net Stand 1.8M Wheel",
-              "qty": 1.0,
-              "total": 330.0
-            },
-            {
               "name": "[70141] Hook Net 8\"",
               "qty": 20.0,
               "total": 240.0
@@ -11352,11 +11633,6 @@
             {
               "name": "[70140] Hook Net 10\"",
               "qty": 10.0,
-              "total": 140.0
-            },
-            {
-              "name": "[70141] Hook Net 8\"",
-              "qty": 20.0,
               "total": 140.0
             },
             {
@@ -11368,46 +11644,6 @@
               "name": "[70139] Hook Net 12\"",
               "qty": 6.0,
               "total": 96.0
-            },
-            {
-              "name": "[70140] Hook Net 10\"",
-              "qty": 10.0,
-              "total": 70.0
-            },
-            {
-              "name": "[70142] Hook Net 6\"",
-              "qty": 10.0,
-              "total": 70.0
-            },
-            {
-              "name": "[70139] Hook Net 12\"",
-              "qty": 6.0,
-              "total": 42.0
-            },
-            {
-              "name": "[70139] Hook Net 12\"",
-              "qty": 6.0,
-              "total": -42.0
-            },
-            {
-              "name": "[70140] Hook Net 10\"",
-              "qty": 10.0,
-              "total": -70.0
-            },
-            {
-              "name": "[70142] Hook Net 6\"",
-              "qty": 10.0,
-              "total": -70.0
-            },
-            {
-              "name": "[70141] Hook Net 8\"",
-              "qty": 20.0,
-              "total": -140.0
-            },
-            {
-              "name": "Net Stand 1.8M Wheel",
-              "qty": 1.0,
-              "total": -330.0
             }
           ]
         },
@@ -11424,16 +11660,6 @@
               "name": "[8325C] Aluminium Foil Box 8325 [case]",
               "qty": 1.0,
               "total": 760.0
-            },
-            {
-              "name": "[8325C] Aluminium Foil Box 8325 [case]",
-              "qty": 1.0,
-              "total": 424.0
-            },
-            {
-              "name": "[8325C] Aluminium Foil Box 8325 [case]",
-              "qty": 1.0,
-              "total": -424.0
             }
           ]
         },
@@ -11455,7 +11681,7 @@
         },
         {
           "ref": "INV/2026/00183",
-          "customer": "ubuntu",
+          "customer": "Ubuntu",
           "amount": 550.0,
           "method": "cash",
           "rawMethod": "Cash",
@@ -11524,16 +11750,6 @@
               "name": "[70144] Hook Slat 8\"",
               "qty": 20.0,
               "total": 240.0
-            },
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 20.0,
-              "total": 72.6
-            },
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 20.0,
-              "total": -72.6
             }
           ]
         },
@@ -11603,16 +11819,6 @@
               "name": "[70142] Hook Net 6\"",
               "qty": 10.0,
               "total": 100.0
-            },
-            {
-              "name": "[70142] Hook Net 6\"",
-              "qty": 10.0,
-              "total": 70.0
-            },
-            {
-              "name": "[70142] Hook Net 6\"",
-              "qty": 10.0,
-              "total": -70.0
             }
           ]
         },
@@ -11854,11 +12060,16 @@
             }
           ]
         }
-      ]
+      ],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": []
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-22T18:45:40Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 1263.0,
         "count": 8
@@ -11868,8 +12079,8 @@
         "count": 15
       },
       "pendingQuotations": {
-        "total": 19940.0,
-        "count": 4
+        "total": 2280.0,
+        "count": 2
       },
       "cash": {
         "total": 10510.0,
@@ -12417,11 +12628,45 @@
             }
           ]
         }
+      ],
+      "cashOut": {
+        "total": 12130.0,
+        "count": 4
+      },
+      "cashOutTransactions": [
+        {
+          "reason": "Rashad boss.",
+          "amount": 12000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:48"
+        },
+        {
+          "reason": "Jafar \u00b7 tea money 3 days",
+          "amount": 60.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:12"
+        },
+        {
+          "reason": "Hassan  \u00b7 Petrol \u00b7 000243261",
+          "amount": 50.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:52"
+        },
+        {
+          "reason": "Tyre air \u00b7 Zubaid",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:51"
+        }
       ]
     },
     {
       "date": "2026-09-23",
-      "generatedAt": "2026-09-23T18:45:34Z",
+      "generatedAt": "2026-09-24T11:55:29Z",
       "pos": {
         "total": 501.0,
         "count": 5
@@ -12431,8 +12676,8 @@
         "count": 11
       },
       "pendingQuotations": {
-        "total": 5185.0,
-        "count": 3
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 3396.0,
@@ -12772,6 +13017,26 @@
               "total": 9.0
             }
           ]
+        }
+      ],
+      "cashOut": {
+        "total": 100.0,
+        "count": 2
+      },
+      "cashOutTransactions": [
+        {
+          "reason": "Central Pickup \u00b7 Staff-Murshid",
+          "amount": 85.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:30"
+        },
+        {
+          "reason": "Gate pass \u00b7 Staff- Zubaid",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:29"
         }
       ]
     },
