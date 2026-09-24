@@ -3,8 +3,9 @@
 The shared Odoo data pipeline for MRH Investment's dashboards. This repo owns
 the Odoo credential and the scheduled pull; it has no frontend of its own.
 Each dashboard ([ike-sales](https://github.com/yuki-uthman/ike-sales),
-ike-expenses, [ike-today](https://github.com/yuki-uthman/ike-today),
-[ike-quotations](https://github.com/yuki-uthman/ike-quotations)) is a
+ike-expenses, [ike-pos](https://github.com/yuki-uthman/ike-pos) (renamed from
+ike-today 2026-09-24, when it grew a date-pill history view and a Cash Out
+card), [ike-quotations](https://github.com/yuki-uthman/ike-quotations)) is a
 separate, static-only repo that fetches its JSON straight from here via
 `raw.githubusercontent.com` — no server, no API, no shared secret.
 
@@ -24,37 +25,50 @@ separate, static-only repo that fetches its JSON straight from here via
   Odoo in one job, commits all four JSON files together (kept as one
   workflow, not four, specifically to avoid independent crons racing each
   other's git push on the same repo).
-- `scripts/odoo_payments.py` — **the shared "money received on a day" query.**
-  Both dashboards now ask the same question, so it lives here once instead of
-  being copied into three scripts and drifting. Sources `pos.payment` and
-  posted inbound `account.payment`, drops any accounting payment already
-  counted through a POS order, attaches each transaction's lines, and splits
-  cash vs transfer by method/journal name with an `other` bucket for anything
-  matching neither. Every optional field is probed with `fields_get` first, so
-  an Odoo version lacking one degrades a column rather than failing the run.
+- `scripts/odoo_payments.py` — **the shared "money received on a day" query,**
+  plus (since 2026-09-24) the separate "money taken back out of the till"
+  query. Every dashboard that needs either asks the same question here
+  instead of a copy drifting per script. `collect_payments` sources
+  `pos.payment` and posted inbound `account.payment`, drops any accounting
+  payment already counted through a POS order, attaches each transaction's
+  lines, and splits cash vs transfer by method/journal name with an `other`
+  bucket for anything matching neither. `collect_cash_outs` sources
+  `account.bank.statement.line` rows the POS register's own Cash Out wizard
+  writes directly (`payment_ref` like `"{session}-out-{reason}"`,
+  `pos_session_id` set) — these have **no** `hr.expense` or `account.payment`
+  behind them at all, so this is their only source; `ike-expenses`'
+  `hr.expense`-sourced confirmed spend is a separate, non-overlapping bucket.
+  Every optional field is probed with `fields_get` first, so an Odoo version
+  lacking one degrades a column rather than failing the run.
 - `scripts/fetch_sales.py` — today's entry for `sales.json`, including that
   day's transactions, which is what lets ike-sales list a day by invoice and
-  customer as well as by product. It no longer writes an aggregated `products`
-  array: products are derivable from those lines, so storing both meant two
-  things that could disagree. The dashboard aggregates them, by the same
-  once-per-reference rule. **Changed meaning on 2026-09-16**: this counted sales *made* each day, paid or not; it now
-  counts money *received*, matching ike-today. The day entry keeps its old key
+  customer as well as by product, and lets ike-pos's date pills page back
+  through 60 days of Cash/Transfer/Cash Out history. It no longer writes an
+  aggregated `products` array: products are derivable from those lines, so
+  storing both meant two things that could disagree. The dashboard aggregates
+  them, by the same once-per-reference rule. **Changed meaning on
+  2026-09-16**: this counted sales *made* each day, paid or not; it now
+  counts money *received*, matching ike-pos. The day entry keeps its old key
   names, so no dashboard change was needed — `pos` and `regularSales` now mean
   "received through the POS" and "received through an accounting payment", and
-  their sum is the day's takings.
+  their sum is the day's takings. Since 2026-09-24 each day entry also carries
+  `cashOut` (`{total, count}`) and `cashOutTransactions`.
 - `scripts/fetch_expenses.py` — the expenses pull, sourced from `hr.expense`
   (this Odoo instance has no vendor bills at all - `hr.expense` is what's
   actually used to record day-to-day spend). Counts `approved` / `posted` /
   `in_payment` / `paid` as real; `draft` / `submitted` are tracked separately
   as pending and excluded from the total; `refused` is dropped entirely.
-- `scripts/fetch_today.py` — the same day's payments written per-transaction
-  into `today.json` for ike-today: invoice number, customer, amount, method,
-  and the lines behind each one. A thin caller of `odoo_payments`; every run
-  logs each distinct method and journal name it saw, so widening the
-  cash/transfer patterns is a one-line change against real evidence.
-  `fetch_sales.py` calls its `write_today()` with the payments it already
-  collected, so the workflow asks Odoo once per run, not twice; running this
-  script on its own still works.
+- `scripts/fetch_today.py` — the same day's payments (and, since 2026-09-24,
+  cash-outs) written into `today.json`: invoice number, customer, amount,
+  method, and the lines behind each one, plus the till's Cash Out entries. A
+  thin caller of `odoo_payments`; every run logs each distinct method and
+  journal name it saw, so widening the cash/transfer patterns is a one-line
+  change against real evidence. `fetch_sales.py` calls its `write_today()`
+  with the payments and cash-outs it already collected, so the workflow asks
+  Odoo once per run, not twice; running this script on its own still works.
+  ike-pos itself no longer reads `today.json` (it reads `sales.json` for the
+  60-day history the date pills need); this file is kept for any consumer
+  that only wants the current day.
 - `scripts/fetch_quotations.py` — the follow-up pull for ike-quotations:
   every quotation and sales order with money still owing, plus the day
   totals behind its chart. This is the one script that asks what has *not*
@@ -85,9 +99,9 @@ separate, static-only repo that fetches its JSON straight from here via
 - `.github/workflows/backfill-sales.yml` — manual-only backfill. Shares the
   cron's concurrency group so the two can never rewrite `sales.json` at once.
 - `data/sales.json`, `data/expenses.json`, `data/today.json`,
-  `data/quotations.json` — the outputs. The first two keep a rolling 60-day
-  history; `today.json` holds the current day only and is overwritten each
-  run. `quotations.json` is a live snapshot with no history at all: it holds
+  `data/quotations.json` — the outputs. `sales.json` and `expenses.json` keep
+  a rolling 60-day history; `today.json` holds the current day only and is
+  overwritten each run. `quotations.json` is a live snapshot with no history at all: it holds
   whatever is open right now, and its `days` array spans the oldest still-open
   record to today with gaps filled, so the span *shrinks* as old quotations
   settle rather than growing forever. Any dashboard can read any of them
