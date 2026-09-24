@@ -13283,26 +13283,26 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T15:19:53Z",
+      "generatedAt": "2026-09-24T15:30:56Z",
       "pos": {
-        "total": 972.0,
-        "count": 4
+        "total": 1772.0,
+        "count": 5
       },
       "regularSales": {
-        "total": 12495.0,
-        "count": 9
+        "total": 12815.0,
+        "count": 10
       },
       "pendingQuotations": {
         "total": 5834.0,
         "count": 4
       },
       "cash": {
-        "total": 3082.0,
-        "count": 5
+        "total": 3402.0,
+        "count": 6
       },
       "transfer": {
-        "total": 10385.0,
-        "count": 8
+        "total": 11185.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -13436,6 +13436,22 @@
           ]
         },
         {
+          "ref": "Ike - 000219",
+          "customer": "Walk-in",
+          "amount": 800.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:22",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01818] Rain Coat Polyester#5",
+              "qty": 1.0,
+              "total": 800.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000217",
           "customer": "Walk-in",
           "amount": 800.0,
@@ -13469,6 +13485,22 @@
               "name": "[70136] 37 Hook Double Black 8\"",
               "qty": 2.0,
               "total": 90.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00223",
+          "customer": "Petra Service Centeer",
+          "amount": 320.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 20.0,
+              "total": 320.0
             }
           ]
         },
@@ -13575,7 +13607,7 @@
       ],
       "till": {
         "opening": 6693.0,
-        "expectedClosing": 4760.0,
+        "expectedClosing": 5080.0,
         "counted": null,
         "difference": null,
         "closed": false,

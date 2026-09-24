@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-24T15:20:02Z",
-  "openCount": 139,
-  "openTotal": 1534449.2,
+  "generatedAt": "2026-09-24T15:31:06Z",
+  "openCount": 140,
+  "openTotal": 1534769.2,
   "quotationCount": 48,
   "quotationTotal": 626610.75,
-  "orderCount": 91,
-  "orderTotal": 907838.45,
+  "orderCount": 92,
+  "orderTotal": 908158.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -179,9 +179,9 @@
     },
     {
       "date": "2026-09-24",
-      "count": 6,
-      "outstanding": 8764.0,
-      "total": 8764.0
+      "count": 7,
+      "outstanding": 9084.0,
+      "total": 9084.0
     }
   ],
   "quotations": [
@@ -278,6 +278,25 @@
           "name": "[70136] 37 Hook Double Black 8\"",
           "qty": 2.0,
           "total": 90.0
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "ref": "S00341",
+      "kind": "order",
+      "customer": "Petra Service Centeer",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-24",
+      "expires": "2026-10-24",
+      "total": 320.0,
+      "settled": 0.0,
+      "outstanding": 320.0,
+      "lines": [
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 20.0,
+          "total": 320.0
         }
       ]
     },
