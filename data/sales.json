@@ -12777,22 +12777,22 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T06:30:57Z",
+      "generatedAt": "2026-09-24T06:45:37Z",
       "pos": {
         "total": 20.0,
         "count": 1
       },
       "regularSales": {
-        "total": 4825.0,
-        "count": 3
+        "total": 5025.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 5324.0,
         "count": 4
       },
       "cash": {
-        "total": 2400.0,
-        "count": 1
+        "total": 2600.0,
+        "count": 2
       },
       "transfer": {
         "total": 2445.0,
@@ -12858,6 +12858,22 @@
               "name": "[90048] Milkshake Powder Belgian Chocolate",
               "qty": 3.0,
               "total": 840.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00217",
+          "customer": "Snap Buy",
+          "amount": 200.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90045] Milkshake Powder Thai Milk Tea",
+              "qty": 1.0,
+              "total": 200.0
             }
           ]
         },
