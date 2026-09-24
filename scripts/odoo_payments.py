@@ -185,6 +185,67 @@ def bucket_out(cash_outs, kind=None):
     return {"total": round(sum(c["amount"] for c in rows), 2), "count": len(rows)}
 
 
+def collect_till(execute, day):
+    """The register's own reconciliation for one Maldives day, straight from
+    pos.session - opening float, theoretical closing, what was actually
+    counted, and the difference between the two.
+
+    Not derived from collect_payments/collect_cash_outs: those answer "what
+    money moved", this answers "does the drawer match what Odoo expects",
+    which can differ from the sum of the day's rows for reasons neither
+    function sees (a miscount, a float adjustment, a prior day's session
+    closing into this one). Read it as its own authority, not a checksum on
+    the other two.
+
+    pos.session.start_at is compared the same way pos.payment.create_date is
+    elsewhere in this module - it is the server-stamped UTC instant, and the
+    Maldives day window is exactly what day_bounds_utc already computes.
+
+    Returns None if no session touched this day at all (shop closed, or a
+    day before POS was in use). Otherwise:
+        {opening, expectedClosing, counted, difference, closed, sessionCount}
+    `counted` and `difference` are None while the day's last session is
+    still open - cash_register_balance_end_real reads 0 and
+    cash_register_difference reads garbage until the session is actually
+    closed, confirmed empirically 2026-09-24 (a same-day open session showed
+    balance_end_real: 0.0, difference: -9325.0 against a 9325 theoretical
+    balance - the shop had not miscounted by 9325, the count simply hadn't
+    happened yet).
+
+    More than one session in a day (a reopen, or a crash/restart) is rare
+    but not impossible: `opening` comes from the EARLIEST session's start,
+    `expectedClosing`/`counted`/`difference` from the LATEST session's own
+    figures, since Odoo's running balance already carries each session's
+    opening from the previous session's closing - the latest session's own
+    numbers already reflect the whole day, not just its own slice of it.
+    """
+    start_utc, end_utc = day_bounds_utc(day)
+    fields = existing_fields(
+        execute, "pos.session",
+        ["name", "state", "start_at", "stop_at", "cash_register_balance_start",
+         "cash_register_balance_end", "cash_register_balance_end_real", "cash_register_difference"],
+    )
+    sessions = execute(
+        "pos.session", "search_read",
+        [["start_at", ">=", fmt_dt(start_utc)], ["start_at", "<", fmt_dt(end_utc)]],
+        fields=fields,
+    )
+    if not sessions:
+        return None
+
+    sessions.sort(key=lambda s: s.get("start_at") or "")
+    first, last = sessions[0], sessions[-1]
+    closed = last.get("state") == "closed"
+    return {
+        "opening": round(first.get("cash_register_balance_start") or 0.0, 2),
+        "expectedClosing": round(last.get("cash_register_balance_end") or 0.0, 2),
+        "counted": round(last.get("cash_register_balance_end_real") or 0.0, 2) if closed else None,
+        "difference": round(last.get("cash_register_difference") or 0.0, 2) if closed else None,
+        "closed": closed,
+        "sessionCount": len(sessions),
+    }
+
+
 def collect_payments(execute, day):
     """Every customer payment received on one Maldives day.
 
@@ -438,4 +499,5 @@ def day_entry(execute, day, generated_at):
         "transactions": transactions,
         "cashOut": bucket_out(cash_outs),
         "cashOutTransactions": cash_outs,
+        "till": collect_till(execute, day),
     }, transactions, skipped

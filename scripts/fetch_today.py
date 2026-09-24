@@ -24,7 +24,7 @@ import odoo_payments as op
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "today.json"
 
 
-def write_today(transactions, skipped, day, now_utc, cash_outs=None):
+def write_today(transactions, skipped, day, now_utc, cash_outs=None, till=None):
     """Write data/today.json from an already-collected day.
 
     Split out so fetch_sales.py, which collects the very same day's payments,
@@ -43,6 +43,7 @@ def write_today(transactions, skipped, day, now_utc, cash_outs=None):
         "methodsSeen": op.methods_seen(transactions),
         "cashOut": op.bucket_out(cash_outs),
         "cashOutTransactions": cash_outs,
+        "till": till,
     }
 
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -57,6 +58,15 @@ def write_today(transactions, skipped, day, now_utc, cash_outs=None):
         f"skipped {skipped['pos_invoice']} already-counted POS invoice(s), "
         f"{skipped['pos_settlement']} POS session settlement(s)"
     )
+    if payload["till"]:
+        t = payload["till"]
+        print(
+            f"Till: opening {t['opening']}, expected closing {t['expectedClosing']}, "
+            f"counted {t['counted']}, difference {t['difference']} "
+            f"({'closed' if t['closed'] else 'still open'}, {t['sessionCount']} session(s))"
+        )
+    else:
+        print("Till: no POS session today")
     with_lines = sum(1 for t in transactions if t["lines"])
     print(f"{with_lines}/{len(transactions)} transaction(s) carry line detail")
     print("Payment method / journal names seen today:")
@@ -88,7 +98,8 @@ def main():
 
     transactions, skipped = op.collect_payments(execute, day)
     cash_outs = op.collect_cash_outs(execute, day)
-    write_today(transactions, skipped, day, now_utc, cash_outs)
+    till = op.collect_till(execute, day)
+    write_today(transactions, skipped, day, now_utc, cash_outs, till)
 
 
 if __name__ == "__main__":

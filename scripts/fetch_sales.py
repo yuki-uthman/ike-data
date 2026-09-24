@@ -57,7 +57,9 @@ def main():
 
     # Same day, same payments: write today.json from this collection rather
     # than running a second identical pass over Odoo in a separate step.
-    fetch_today.write_today(transactions, skipped, day, now_utc, day_entry["cashOutTransactions"])
+    fetch_today.write_today(
+        transactions, skipped, day, now_utc, day_entry["cashOutTransactions"], day_entry["till"]
+    )
 
     if DATA_PATH.exists():
         payload = json.loads(DATA_PATH.read_text())

@@ -15,7 +15,12 @@ Anglo-Saxon accounting. Also covers till cash-out: the native POS Cash Out
 button's "-out-" statement lines (no hr.expense/account.payment behind them
 at all - ike-pos's only source for them), a same-day "-in-" top-up that must
 NOT be counted as an out, and a different day's cash-out that must not leak
-into this day's total.
+into this day's total. Also covers the till reconciliation card
+(collect_till): a closed session's opening/expected/counted/difference, a
+different day's session not leaking in, and - the one that actually bit a
+same-day open session once - counted/difference coming back None rather
+than the garbage cash_register_balance_end_real=0 Odoo reports before a
+session is closed.
 """
 import sys, json
 from pathlib import Path
@@ -37,6 +42,8 @@ FIELDS = {  # what fields_get would report
     "account.payment": ["amount", "date", "partner_id", "journal_id", "ref", "name", "reconciled_invoice_ids"],
     "account.move.line": ["move_id", "product_id", "quantity", "price_total"],
     "account.bank.statement.line": ["payment_ref", "amount", "journal_id", "pos_session_id", "create_date"],
+    "pos.session": ["name", "state", "start_at", "stop_at", "cash_register_balance_start",
+                    "cash_register_balance_end", "cash_register_balance_end_real", "cash_register_difference"],
 }
 
 DATA = {
@@ -101,6 +108,28 @@ DATA = {
         {"date": "2026-09-16", "amount": -30.0, "payment_ref": "Bank charge",
          "journal_id": [10, "Cash"], "pos_session_id": False, "create_date": "2026-09-16 06:00:00"},
     ],
+    "pos.session": [
+        # DAY (2026-09-16): two sessions in one day. Opening must come from
+        # the EARLIEST session's start; expected/counted/difference from the
+        # LATEST session's own figures (its running balance already carries
+        # the whole day, not just its own slice of it).
+        {"name": "Ike/A1", "state": "closed", "start_at": "2026-09-16 03:00:00", "stop_at": "2026-09-16 09:00:00",
+         "cash_register_balance_start": 500.0, "cash_register_balance_end": 600.0,
+         "cash_register_balance_end_real": 600.0, "cash_register_difference": 0.0},
+        {"name": "Ike/A2", "state": "closed", "start_at": "2026-09-16 10:00:00", "stop_at": "2026-09-16 18:00:00",
+         "cash_register_balance_start": 600.0, "cash_register_balance_end": 700.0,
+         "cash_register_balance_end_real": 695.0, "cash_register_difference": -5.0},
+        # a different day's session - must not leak into DAY's till figures.
+        {"name": "Ike/PREV", "state": "closed", "start_at": "2026-09-15 04:00:00", "stop_at": "2026-09-15 18:00:00",
+         "cash_register_balance_start": 100.0, "cash_register_balance_end": 200.0,
+         "cash_register_balance_end_real": 200.0, "cash_register_difference": 0.0},
+        # 2026-09-17: still open. counted/difference must come back None, not
+        # the garbage Odoo reports before a session is actually closed
+        # (balance_end_real 0, a difference computed against that 0).
+        {"name": "Ike/OPEN", "state": "opened", "start_at": "2026-09-17 04:00:00", "stop_at": False,
+         "cash_register_balance_start": 700.0, "cash_register_balance_end": 850.0,
+         "cash_register_balance_end_real": 0.0, "cash_register_difference": -850.0},
+    ],
 }
 
 POS_PAYMENT_DOMAINS = []
@@ -133,6 +162,10 @@ def execute(model, method, *args, **kwargs):
             rows = [r for r in rows if (r.get("amount") or 0) < val]
         elif model == "account.bank.statement.line" and f == "payment_ref" and opr == "like":
             rows = [r for r in rows if val in (r.get("payment_ref") or "")]
+        elif model == "pos.session" and f == "start_at" and opr == ">=":
+            rows = [r for r in rows if (r.get("start_at") or "") >= val]
+        elif model == "pos.session" and f == "start_at" and opr == "<":
+            rows = [r for r in rows if (r.get("start_at") or "") < val]
     return rows
 
 txns, skipped = op.collect_payments(execute, DAY)
@@ -213,6 +246,36 @@ if any(c["amount"] == 50.0 for c in cash_outs):
     fail.append("a different day's cash-out leaked into this day's total")
 if any(c["amount"] == 30.0 for c in cash_outs):
     fail.append("a non-POS Cash-journal entry (no pos_session_id) was wrongly counted as a till cash-out")
+
+# --- till reconciliation ---
+till = entry["till"]
+print("\ntill:", till)
+expected_till = {
+    "opening": 500.0, "expectedClosing": 700.0, "counted": 695.0, "difference": -5.0,
+    "closed": True, "sessionCount": 2,
+}
+if till != expected_till:
+    fail.append(f"collect_till wrong for a two-session day: {till} (expected {expected_till})")
+
+prev_day_till = op.collect_till(execute, date(2026, 9, 15))
+if not prev_day_till or prev_day_till["opening"] != 100.0 or prev_day_till["sessionCount"] != 1:
+    fail.append(f"a different day's session leaked into/out of collect_till: {prev_day_till}")
+
+open_day_till = op.collect_till(execute, date(2026, 9, 17))
+print("still-open day till:", open_day_till)
+if not open_day_till or open_day_till["closed"]:
+    fail.append(f"a still-open session was reported as closed: {open_day_till}")
+elif open_day_till["counted"] is not None or open_day_till["difference"] is not None:
+    fail.append(
+        f"counted/difference should be None while the session is still open "
+        f"(Odoo's own balance_end_real/difference are garbage until close): {open_day_till}"
+    )
+elif open_day_till["expectedClosing"] != 850.0:
+    fail.append(f"expectedClosing should still show the live running balance while open: {open_day_till}")
+
+no_session_till = op.collect_till(execute, date(2026, 9, 25))
+if no_session_till is not None:
+    fail.append(f"a day with no session at all should return None, got {no_session_till}")
 
 print("\n" + ("FAILURES:\n  " + "\n  ".join(fail) if fail else "ALL ASSERTIONS PASS"))
 sys.exit(1 if fail else 0)

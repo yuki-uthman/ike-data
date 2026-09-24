@@ -75,11 +75,17 @@ def main():
         before = round(was["pos"]["total"] + was["regularSales"]["total"], 2) if was else None
         by_date[entry["date"]] = entry
         change = f" (was {before})" if before is not None and before != received else ""
+        till = entry["till"]
+        till_str = (
+            f"opening {till['opening']} / expected {till['expectedClosing']} / "
+            f"counted {till['counted']} / diff {till['difference']}"
+            if till else "no session"
+        )
         print(
             f"  {entry['date']}: Received {received}{change} - "
             f"Cash {entry['cash']['total']}, Transfer {entry['transfer']['total']}, "
             f"Other {entry['other']['total']}, Transactions {len(entry['transactions'])}, "
-            f"Cash Out {entry['cashOut']['total']} / {entry['cashOut']['count']}, "
+            f"Cash Out {entry['cashOut']['total']} / {entry['cashOut']['count']}, Till {till_str}, "
             f"skipped {skipped['pos_invoice']} POS invoice(s) / "
             f"{skipped['pos_settlement']} session settlement(s)"
         )
