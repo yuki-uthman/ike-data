@@ -24,12 +24,13 @@ import odoo_payments as op
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "today.json"
 
 
-def write_today(transactions, skipped, day, now_utc):
+def write_today(transactions, skipped, day, now_utc, cash_outs=None):
     """Write data/today.json from an already-collected day.
 
     Split out so fetch_sales.py, which collects the very same day's payments,
     can write this file too instead of asking Odoo the same question twice.
     """
+    cash_outs = cash_outs or []
     payload = {
         "company": "MRH Investment",
         "currency": "MVR",
@@ -40,6 +41,8 @@ def write_today(transactions, skipped, day, now_utc):
         "other": op.bucket(transactions, "other"),
         "transactions": transactions,
         "methodsSeen": op.methods_seen(transactions),
+        "cashOut": op.bucket_out(cash_outs),
+        "cashOutTransactions": cash_outs,
     }
 
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -50,6 +53,7 @@ def write_today(transactions, skipped, day, now_utc):
         f"Cash {payload['cash']['total']} ({payload['cash']['count']}), "
         f"Transfer {payload['transfer']['total']} ({payload['transfer']['count']}), "
         f"Other {payload['other']['total']} ({payload['other']['count']}), "
+        f"Cash Out {payload['cashOut']['total']} ({payload['cashOut']['count']}), "
         f"skipped {skipped['pos_invoice']} already-counted POS invoice(s), "
         f"{skipped['pos_settlement']} POS session settlement(s)"
     )
@@ -83,7 +87,8 @@ def main():
     day = op.maldives_today(now_utc)
 
     transactions, skipped = op.collect_payments(execute, day)
-    write_today(transactions, skipped, day, now_utc)
+    cash_outs = op.collect_cash_outs(execute, day)
+    write_today(transactions, skipped, day, now_utc, cash_outs)
 
 
 if __name__ == "__main__":

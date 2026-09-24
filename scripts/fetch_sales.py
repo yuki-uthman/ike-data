@@ -57,7 +57,7 @@ def main():
 
     # Same day, same payments: write today.json from this collection rather
     # than running a second identical pass over Odoo in a separate step.
-    fetch_today.write_today(transactions, skipped, day, now_utc)
+    fetch_today.write_today(transactions, skipped, day, now_utc, day_entry["cashOutTransactions"])
 
     if DATA_PATH.exists():
         payload = json.loads(DATA_PATH.read_text())
@@ -79,6 +79,7 @@ def main():
         f"Accounting {day_entry['regularSales']['total']} / {day_entry['regularSales']['count']}), "
         f"Cash {day_entry['cash']['total']}, Transfer {day_entry['transfer']['total']}, "
         f"Other {day_entry['other']['total']}, Transactions {len(day_entry['transactions'])}, "
+        f"Cash Out {day_entry['cashOut']['total']} / {day_entry['cashOut']['count']}, "
         f"skipped {skipped['pos_invoice']} already-counted POS invoice(s), "
         f"{skipped['pos_settlement']} POS session settlement(s)"
     )

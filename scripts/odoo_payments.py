@@ -118,6 +118,73 @@ def local_time(dt_string):
     return (stamp + MALDIVES_OFFSET).strftime("%H:%M")
 
 
+def existing_fields(execute, model, wanted):
+    available = set(execute(model, "fields_get", [], attributes=["type"]).keys())
+    return [f for f in wanted if f in available]
+
+
+# Odoo's own naming for a POS register's manual "Cash In/Out" wizard:
+# "{session.name}-in-{reason}" / "{session.name}-out-{reason}". These entries
+# land directly in account.bank.statement.line with pos_session_id set and
+# have no hr.expense or account.payment behind them at all - confirmed
+# 2026-09-24 across several real sessions (float pickups, petrol, gate
+# passes, tea money). The free-text "reason" staff type in has no consistent
+# internal structure (sometimes "reason\nStaff-name", sometimes "name\nreason",
+# sometimes one line) so it is kept whole rather than split into fields.
+CASH_OUT_PATTERN = re.compile(r"-out-(.*)", re.DOTALL)
+
+
+def collect_cash_outs(execute, day):
+    """POS till cash-out entries for one Maldives day.
+
+    Scope is deliberately narrow: only the register's native Cash Out button,
+    not hr.expense (that's ike-expenses' job) and not a general ledger dump -
+    see the module docstring's de-duplication concerns, which don't apply
+    here since nothing else ever reads these rows.
+
+    Returns a list sorted by amount descending, each shaped:
+        {reason, amount, method, rawMethod, time}
+    `amount` is stored positive (the size of the cash-out), even though the
+    underlying statement line amount is negative.
+    """
+    date_str = day.isoformat()
+    fields = existing_fields(
+        execute, "account.bank.statement.line",
+        ["payment_ref", "amount", "journal_id", "pos_session_id", "create_date"],
+    )
+    lines = execute(
+        "account.bank.statement.line", "search_read",
+        [
+            ["date", "=", date_str],
+            ["pos_session_id", "!=", False],
+            ["amount", "<", 0],
+            ["payment_ref", "like", "-out-"],
+        ],
+        fields=fields,
+    )
+
+    cash_outs = []
+    for line in lines:
+        ref = line.get("payment_ref") or ""
+        m = CASH_OUT_PATTERN.search(ref)
+        reason = m.group(1).strip().replace("\n", " · ") if m else ref
+        journal_name = rel_name(line.get("journal_id"))
+        cash_outs.append({
+            "reason": reason or "-",
+            "amount": round(-(line.get("amount") or 0.0), 2),
+            "method": classify(journal_name),
+            "rawMethod": journal_name or "unknown",
+            "time": local_time(line.get("create_date")),
+        })
+    cash_outs.sort(key=lambda c: c["amount"], reverse=True)
+    return cash_outs
+
+
+def bucket_out(cash_outs, kind=None):
+    rows = cash_outs if kind is None else [c for c in cash_outs if c["method"] == kind]
+    return {"total": round(sum(c["amount"] for c in rows), 2), "count": len(rows)}
+
+
 def collect_payments(execute, day):
     """Every customer payment received on one Maldives day.
 
@@ -132,10 +199,6 @@ def collect_payments(execute, day):
     """
     start_utc, end_utc = day_bounds_utc(day)
     date_str = day.isoformat()
-
-    def existing_fields(model, wanted):
-        available = set(execute(model, "fields_get", [], attributes=["type"]).keys())
-        return [f for f in wanted if f in available]
 
     transactions = []
     pos_invoice_ids = set()
@@ -156,7 +219,7 @@ def collect_payments(execute, day):
     # (Sep 2026: -8h, then +4h, on one login only). Trade-off: a sale rung up
     # offline shows the time it synced.
     pos_payment_fields = existing_fields(
-        "pos.payment", ["amount", "create_date", "payment_method_id", "pos_order_id"]
+        execute, "pos.payment", ["amount", "create_date", "payment_method_id", "pos_order_id"]
     )
     pos_payments = execute(
         "pos.payment", "search_read",
@@ -168,7 +231,7 @@ def collect_payments(execute, day):
     pos_orders = {}
     pos_lines_by_order = {}
     if pos_order_ids:
-        order_fields = existing_fields("pos.order", ["name", "partner_id", "account_move", "state"])
+        order_fields = existing_fields(execute, "pos.order", ["name", "partner_id", "account_move", "state"])
         for order in execute("pos.order", "search_read", [["id", "in", pos_order_ids]], fields=order_fields):
             pos_orders[order["id"]] = order
             invoice_id = rel_id(order.get("account_move"))
@@ -176,7 +239,7 @@ def collect_payments(execute, day):
                 pos_invoice_ids.add(invoice_id)
 
         pos_line_fields = existing_fields(
-            "pos.order.line", ["order_id", "product_id", "qty", "price_subtotal_incl"]
+            execute, "pos.order.line", ["order_id", "product_id", "qty", "price_subtotal_incl"]
         )
         for line in execute(
             "pos.order.line", "search_read", [["order_id", "in", pos_order_ids]], fields=pos_line_fields
@@ -215,7 +278,7 @@ def collect_payments(execute, day):
 
     # ---- 2. Accounting customer payments ------------------------------------
     payment_fields = existing_fields(
-        "account.payment",
+        execute, "account.payment",
         ["amount", "date", "partner_id", "journal_id", "ref", "name", "reconciled_invoice_ids"],
     )
     account_payments = execute(
@@ -248,7 +311,7 @@ def collect_payments(execute, day):
         # real-time-valuation product since then has carried this phantom
         # cancelling pair, doubling as three "line items" for one product.
         move_line_fields = existing_fields(
-            "account.move.line", ["move_id", "product_id", "quantity", "price_total", "display_type"]
+            execute, "account.move.line", ["move_id", "product_id", "quantity", "price_total", "display_type"]
         )
         for line in execute(
             "account.move.line", "search_read",
@@ -362,6 +425,7 @@ def day_entry(execute, day, generated_at):
     aggregation now, by the same once-per-reference rule.
     """
     transactions, skipped = collect_payments(execute, day)
+    cash_outs = collect_cash_outs(execute, day)
     return {
         "date": day.isoformat(),
         "generatedAt": generated_at,
@@ -372,4 +436,6 @@ def day_entry(execute, day, generated_at):
         "transfer": bucket(transactions, "transfer"),
         "other": bucket(transactions, "other"),
         "transactions": transactions,
+        "cashOut": bucket_out(cash_outs),
+        "cashOutTransactions": cash_outs,
     }, transactions, skipped

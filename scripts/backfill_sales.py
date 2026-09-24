@@ -79,6 +79,7 @@ def main():
             f"  {entry['date']}: Received {received}{change} - "
             f"Cash {entry['cash']['total']}, Transfer {entry['transfer']['total']}, "
             f"Other {entry['other']['total']}, Transactions {len(entry['transactions'])}, "
+            f"Cash Out {entry['cashOut']['total']} / {entry['cashOut']['count']}, "
             f"skipped {skipped['pos_invoice']} POS invoice(s) / "
             f"{skipped['pos_settlement']} session settlement(s)"
         )

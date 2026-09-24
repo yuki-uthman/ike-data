@@ -11,7 +11,11 @@ aggregating across POS and invoice lines without counting an invoice twice,
 and a real-time-valuation product's COGS/inventory-valuation line pair (same
 product_id, amounts that cancel to zero) not being mistaken for a second and
 third sold line - see INV/2026/00187, 2026-09-21, once MRH turned on
-Anglo-Saxon accounting.
+Anglo-Saxon accounting. Also covers till cash-out: the native POS Cash Out
+button's "-out-" statement lines (no hr.expense/account.payment behind them
+at all - ike-pos's only source for them), a same-day "-in-" top-up that must
+NOT be counted as an out, and a different day's cash-out that must not leak
+into this day's total.
 """
 import sys, json
 from pathlib import Path
@@ -32,6 +36,7 @@ FIELDS = {  # what fields_get would report
     ],
     "account.payment": ["amount", "date", "partner_id", "journal_id", "ref", "name", "reconciled_invoice_ids"],
     "account.move.line": ["move_id", "product_id", "quantity", "price_total"],
+    "account.bank.statement.line": ["payment_ref", "amount", "journal_id", "pos_session_id", "create_date"],
 }
 
 DATA = {
@@ -80,6 +85,22 @@ DATA = {
         {"move_id": [901, "INV/2026/0002"], "product_id": [52, "[3C270] Foil box"], "quantity": 1.0, "price_total": -867.0, "display_type": "cogs"},
     ],
     "sale.order": [{"amount_total": 1960.0}, {"amount_total": 500.0}],
+    "account.bank.statement.line": [
+        # (a) a real till cash-out, same day - must be counted.
+        {"date": "2026-09-16", "amount": -85.0, "payment_ref": "Ike/00028-out-Central Pickup\nStaff-Murshid",
+         "journal_id": [10, "Cash"], "pos_session_id": [47, "Ike/00028"], "create_date": "2026-09-16 03:30:00"},
+        # (b) a same-day cash IN (float top-up) via the same wizard - must NOT
+        #     be counted as an out (wrong sign, and its ref has no "-out-").
+        {"date": "2026-09-16", "amount": 200.0, "payment_ref": "Ike/00028-in-Float top-up",
+         "journal_id": [10, "Cash"], "pos_session_id": [47, "Ike/00028"], "create_date": "2026-09-16 03:00:00"},
+        # (c) a genuine cash-out, but on a DIFFERENT day - must not leak in.
+        {"date": "2026-09-15", "amount": -50.0, "payment_ref": "Ike/00027-out-Petrol",
+         "journal_id": [10, "Cash"], "pos_session_id": [46, "Ike/00027"], "create_date": "2026-09-15 10:00:00"},
+        # (d) an unrelated Cash-journal entry with no pos_session_id at all -
+        #     not a till cash-out, must be excluded even though it is negative.
+        {"date": "2026-09-16", "amount": -30.0, "payment_ref": "Bank charge",
+         "journal_id": [10, "Cash"], "pos_session_id": False, "create_date": "2026-09-16 06:00:00"},
+    ],
 }
 
 POS_PAYMENT_DOMAINS = []
@@ -101,6 +122,17 @@ def execute(model, method, *args, **kwargs):
             rows = [r for r in rows if op.rel_id(r["order_id"]) in val]
         elif f == "display_type" and opr == "=":
             rows = [r for r in rows if r.get("display_type") == val]
+        # account.bank.statement.line only - account.payment's own "date"
+        # condition is deliberately left unhandled above/unfiltered, as it
+        # always was: its canned rows carry no date field at all.
+        elif model == "account.bank.statement.line" and f == "date" and opr == "=":
+            rows = [r for r in rows if r.get("date") == val]
+        elif model == "account.bank.statement.line" and f == "pos_session_id" and opr == "!=" and val is False:
+            rows = [r for r in rows if r.get("pos_session_id")]
+        elif model == "account.bank.statement.line" and f == "amount" and opr == "<":
+            rows = [r for r in rows if (r.get("amount") or 0) < val]
+        elif model == "account.bank.statement.line" and f == "payment_ref" and opr == "like":
+            rows = [r for r in rows if val in (r.get("payment_ref") or "")]
     return rows
 
 txns, skipped = op.collect_payments(execute, DAY)
@@ -165,6 +197,22 @@ if not plates or plates["qty"] != 7.0 or plates["total"] != 290.0:
 advance = [t for t in txns if t["amount"] == 1000.0][0]
 if advance["ref"] != "CUST.IN/2026/0012": fail.append("unreconciled advance did not fall back to its own reference")
 if entry["pendingQuotations"] != {"total": 2460.0, "count": 2}: fail.append("pendingQuotations changed meaning")
+
+# --- till cash-out ---
+cash_outs = op.collect_cash_outs(execute, DAY)
+print("\ncash outs:", cash_outs)
+if entry["cashOut"] != {"total": 85.0, "count": 1}:
+    fail.append(f"cashOut wrong: {entry['cashOut']} (expected only the same-day -out- line, 85.0/1)")
+if len(cash_outs) != 1 or cash_outs[0]["amount"] != 85.0:
+    fail.append(f"collect_cash_outs returned the wrong rows: {cash_outs}")
+elif cash_outs[0]["reason"] != "Central Pickup · Staff-Murshid":
+    fail.append(f"cash-out reason not extracted/joined correctly: {cash_outs[0]['reason']!r}")
+if any(c["amount"] == 200.0 for c in cash_outs):
+    fail.append("a same-day cash IN (-in-) was wrongly counted as a cash-out")
+if any(c["amount"] == 50.0 for c in cash_outs):
+    fail.append("a different day's cash-out leaked into this day's total")
+if any(c["amount"] == 30.0 for c in cash_outs):
+    fail.append("a non-POS Cash-journal entry (no pos_session_id) was wrongly counted as a till cash-out")
 
 print("\n" + ("FAILURES:\n  " + "\n  ".join(fail) if fail else "ALL ASSERTIONS PASS"))
 sys.exit(1 if fail else 0)
