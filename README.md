@@ -4,8 +4,8 @@ The shared Odoo data pipeline for MRH Investment's dashboards. This repo owns
 the Odoo credential and the scheduled pull; it has no frontend of its own.
 Each dashboard ([ike-sales](https://github.com/yuki-uthman/ike-sales),
 ike-expenses, [ike-pos](https://github.com/yuki-uthman/ike-pos) (renamed from
-ike-today 2026-09-24, when it grew a date-pill history view and a Cash Out
-card), [ike-quotations](https://github.com/yuki-uthman/ike-quotations)) is a
+ike-today 2026-09-24, when it grew a date-pill history view and an In/Out
+split on its Cash card), [ike-quotations](https://github.com/yuki-uthman/ike-quotations)) is a
 separate, static-only repo that fetches its JSON straight from here via
 `raw.githubusercontent.com` — no server, no API, no shared secret.
 
