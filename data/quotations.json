@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-25T16:01:28Z",
-  "openCount": 141,
-  "openTotal": 1532819.2,
-  "quotationCount": 49,
-  "quotationTotal": 624660.75,
+  "generatedAt": "2026-09-25T16:15:54Z",
+  "openCount": 142,
+  "openTotal": 1539854.2,
+  "quotationCount": 50,
+  "quotationTotal": 631695.75,
   "orderCount": 92,
   "orderTotal": 908158.45,
   "days": [
@@ -185,12 +185,31 @@
     },
     {
       "date": "2026-09-25",
-      "count": 1,
-      "outstanding": 1550.0,
-      "total": 1550.0
+      "count": 2,
+      "outstanding": 8585.0,
+      "total": 8585.0
     }
   ],
   "quotations": [
+    {
+      "id": 345,
+      "ref": "S00346",
+      "kind": "quotation",
+      "customer": "Angle lamb/ Maamigilli-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-25",
+      "expires": "2026-10-25",
+      "total": 7035.0,
+      "settled": 0.0,
+      "outstanding": 7035.0,
+      "lines": [
+        {
+          "name": "[70196] Cash Counter 6ftx2ft",
+          "qty": 1.0,
+          "total": 7035.0
+        }
+      ]
+    },
     {
       "id": 344,
       "ref": "S00345",
