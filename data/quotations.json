@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-25T11:45:47Z",
-  "openCount": 140,
-  "openTotal": 1531269.2,
-  "quotationCount": 48,
-  "quotationTotal": 623110.75,
+  "generatedAt": "2026-09-25T12:01:16Z",
+  "openCount": 141,
+  "openTotal": 1532819.2,
+  "quotationCount": 49,
+  "quotationTotal": 624660.75,
   "orderCount": 92,
   "orderTotal": 908158.45,
   "days": [
@@ -185,12 +185,31 @@
     },
     {
       "date": "2026-09-25",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 1550.0,
+      "total": 1550.0
     }
   ],
   "quotations": [
+    {
+      "id": 344,
+      "ref": "S00345",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-25",
+      "expires": "2026-10-25",
+      "total": 1550.0,
+      "settled": 0.0,
+      "outstanding": 1550.0,
+      "lines": [
+        {
+          "name": "[202607] Tile Ceramic 600x600mm",
+          "qty": 25.0,
+          "total": 1550.0
+        }
+      ]
+    },
     {
       "id": 335,
       "ref": "S00336",
