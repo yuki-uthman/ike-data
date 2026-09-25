@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T12:15:38Z",
+  "generatedAt": "2026-09-25T12:30:53Z",
   "cash": {
-    "total": 10.0,
-    "count": 1
+    "total": 184.0,
+    "count": 2
   },
   "transfer": {
     "total": 0,
@@ -16,6 +16,27 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "Ike - 000226",
+      "customer": "Walk-in",
+      "amount": 174.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:25",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01641] Aroma Diffuser 12w 200ml 092:17 #4",
+          "qty": 1.0,
+          "total": 139.0
+        },
+        {
+          "name": "[02105] Essential Oil Lavender 10ml#7",
+          "qty": 1.0,
+          "total": 35.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000225",
       "customer": "Walk-in",
@@ -37,8 +58,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 10.0
+      "count": 2,
+      "total": 184.0
     }
   ],
   "cashOut": {
@@ -48,7 +69,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 4947.0,
-    "expectedClosing": 4957.0,
+    "expectedClosing": 5131.0,
     "counted": null,
     "difference": null,
     "closed": false,
