@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T17:01:09Z",
+  "generatedAt": "2026-09-25T17:15:38Z",
   "cash": {
     "total": 184.0,
     "count": 2
@@ -63,13 +63,28 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 55.0,
+    "count": 2
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Medicine \u00b7 Staff - Nagarajn",
+      "amount": 45.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:10"
+    },
+    {
+      "reason": "Gate pass \u00b7 Staff-Zubaid",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:11"
+    }
+  ],
   "till": {
     "opening": 4947.0,
-    "expectedClosing": 5131.0,
+    "expectedClosing": 5076.0,
     "counted": null,
     "difference": null,
     "closed": false,
