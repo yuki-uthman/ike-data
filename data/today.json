@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T11:15:41Z",
+  "generatedAt": "2026-09-25T11:30:54Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 10.0,
+    "count": 1
   },
   "transfer": {
     "total": 0,
@@ -15,8 +15,32 @@
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "Ike - 000225",
+      "customer": "Walk-in",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:18",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Kraft burger box 1pcs",
+          "qty": 5.0,
+          "total": 10.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 10.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
@@ -24,7 +48,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 4947.0,
-    "expectedClosing": 4947.0,
+    "expectedClosing": 4957.0,
     "counted": null,
     "difference": null,
     "closed": false,
