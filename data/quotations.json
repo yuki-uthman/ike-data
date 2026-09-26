@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T08:45:51Z",
-  "openCount": 143,
-  "openTotal": 1544633.2,
+  "generatedAt": "2026-09-26T09:01:16Z",
+  "openCount": 144,
+  "openTotal": 1546068.2,
   "quotationCount": 50,
   "quotationTotal": 635894.75,
-  "orderCount": 93,
-  "orderTotal": 908738.45,
+  "orderCount": 94,
+  "orderTotal": 910173.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -191,9 +191,9 @@
     },
     {
       "date": "2026-09-26",
-      "count": 3,
-      "outstanding": 5930.0,
-      "total": 5930.0
+      "count": 4,
+      "outstanding": 7365.0,
+      "total": 7365.0
     }
   ],
   "quotations": [
@@ -223,6 +223,40 @@
           "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
           "qty": 1.0,
           "total": 1650.0
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "ref": "S00351",
+      "kind": "order",
+      "customer": "Star Ufaa J-3",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-26",
+      "expires": "2026-10-26",
+      "total": 1435.0,
+      "settled": 0.0,
+      "outstanding": 1435.0,
+      "lines": [
+        {
+          "name": "[70049] Slipper 57(1)",
+          "qty": 5.0,
+          "total": 395.0
+        },
+        {
+          "name": "[70044] Slipper#1112",
+          "qty": 10.0,
+          "total": 590.0
+        },
+        {
+          "name": "[01633] Kitchen Sale 5kg#KE-2",
+          "qty": 2.0,
+          "total": 330.0
+        },
+        {
+          "name": "[79687] Hook Slat with 7 Pegs",
+          "qty": 3.0,
+          "total": 120.0
         }
       ]
     },

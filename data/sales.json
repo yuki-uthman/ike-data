@@ -13789,10 +13789,10 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T08:45:34Z",
+      "generatedAt": "2026-09-26T09:01:05Z",
       "pos": {
-        "total": 32.0,
-        "count": 1
+        "total": 841.0,
+        "count": 2
       },
       "regularSales": {
         "total": 14530.0,
@@ -13803,8 +13803,8 @@
         "count": 2
       },
       "cash": {
-        "total": 612.0,
-        "count": 2
+        "total": 1421.0,
+        "count": 3
       },
       "transfer": {
         "total": 13950.0,
@@ -13874,6 +13874,37 @@
           ]
         },
         {
+          "ref": "Ike - 000229",
+          "customer": "Walk-in",
+          "amount": 809.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:00",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[19958] PLASTIC CHAIR 21",
+              "qty": 5.0,
+              "total": 600.0
+            },
+            {
+              "name": "[01666] Flat Roti Pan 28cm#8",
+              "qty": 1.0,
+              "total": 120.0
+            },
+            {
+              "name": "[70082] Plastic Basket #401",
+              "qty": 1.0,
+              "total": 49.0
+            },
+            {
+              "name": "[70014] Plastic Tray Yellow",
+              "qty": 1.0,
+              "total": 40.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00226",
           "customer": "Ald Mart",
           "amount": 580.0,
@@ -13913,7 +13944,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 5076.0,
-        "expectedClosing": 5688.0,
+        "expectedClosing": 6497.0,
         "counted": null,
         "difference": null,
         "closed": false,
