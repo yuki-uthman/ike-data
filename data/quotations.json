@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T15:15:45Z",
-  "openCount": 142,
-  "openTotal": 1532729.2,
-  "quotationCount": 48,
-  "quotationTotal": 623430.75,
+  "generatedAt": "2026-09-26T15:31:01Z",
+  "openCount": 143,
+  "openTotal": 1533329.2,
+  "quotationCount": 49,
+  "quotationTotal": 624030.75,
   "orderCount": 94,
   "orderTotal": 909298.45,
   "days": [
@@ -191,9 +191,9 @@
     },
     {
       "date": "2026-09-26",
-      "count": 4,
-      "outstanding": 7120.0,
-      "total": 7120.0
+      "count": 5,
+      "outstanding": 7720.0,
+      "total": 7720.0
     }
   ],
   "quotations": [
@@ -242,6 +242,25 @@
           "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 1400.0
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "ref": "S00356",
+      "kind": "quotation",
+      "customer": "Trade Maldives Pvt Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-26",
+      "expires": "2026-10-26",
+      "total": 600.0,
+      "settled": 0.0,
+      "outstanding": 600.0,
+      "lines": [
+        {
+          "name": "[A16] Plastic Container A16",
+          "qty": 200.0,
+          "total": 600.0
         }
       ]
     },
