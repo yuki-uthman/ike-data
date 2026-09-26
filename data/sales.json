@@ -13789,14 +13789,14 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T06:08:25Z",
+      "generatedAt": "2026-09-26T06:15:35Z",
       "pos": {
         "total": 32.0,
         "count": 1
       },
       "regularSales": {
-        "total": 2860.0,
-        "count": 2
+        "total": 4660.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 1200.0,
@@ -13807,8 +13807,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 2280.0,
-        "count": 1
+        "total": 4080.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -13828,6 +13828,22 @@
               "name": "[8325C] Aluminium Foil Box 8325 [case]",
               "qty": 3.0,
               "total": 2280.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00227",
+          "customer": "MM TRADERS S-2",
+          "amount": 1800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70175] 51 Warehouse Rack White Medium",
+              "qty": 1.0,
+              "total": 1800.0
             }
           ]
         },
