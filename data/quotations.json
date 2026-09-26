@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T12:31:06Z",
-  "openCount": 144,
-  "openTotal": 1545483.2,
-  "quotationCount": 50,
-  "quotationTotal": 636184.75,
+  "generatedAt": "2026-09-26T12:45:57Z",
+  "openCount": 143,
+  "openTotal": 1539883.2,
+  "quotationCount": 49,
+  "quotationTotal": 630584.75,
   "orderCount": 94,
   "orderTotal": 909298.45,
   "days": [
@@ -191,31 +191,12 @@
     },
     {
       "date": "2026-09-26",
-      "count": 5,
-      "outstanding": 12720.0,
-      "total": 12720.0
+      "count": 4,
+      "outstanding": 7120.0,
+      "total": 7120.0
     }
   ],
   "quotations": [
-    {
-      "id": 353,
-      "ref": "S00354",
-      "kind": "quotation",
-      "customer": "Alithari/ F-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-26",
-      "expires": "2026-10-26",
-      "total": 5600.0,
-      "settled": 0.0,
-      "outstanding": 5600.0,
-      "lines": [
-        {
-          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
-          "qty": 2.0,
-          "total": 5600.0
-        }
-      ]
-    },
     {
       "id": 351,
       "ref": "S00352",
