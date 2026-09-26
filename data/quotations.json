@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T09:31:06Z",
+  "generatedAt": "2026-09-26T09:45:50Z",
   "openCount": 144,
-  "openTotal": 1548113.2,
+  "openTotal": 1546463.2,
   "quotationCount": 51,
-  "quotationTotal": 639374.75,
+  "quotationTotal": 637724.75,
   "orderCount": 93,
   "orderTotal": 908738.45,
   "days": [
@@ -192,40 +192,11 @@
     {
       "date": "2026-09-26",
       "count": 4,
-      "outstanding": 9410.0,
-      "total": 9410.0
+      "outstanding": 7760.0,
+      "total": 7760.0
     }
   ],
   "quotations": [
-    {
-      "id": 349,
-      "ref": "S00350",
-      "kind": "quotation",
-      "customer": "Superior Plus",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-26",
-      "expires": "2026-10-26",
-      "total": 4150.0,
-      "settled": 0.0,
-      "outstanding": 4150.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
-        },
-        {
-          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1400.0
-        },
-        {
-          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
-          "qty": 1.0,
-          "total": 1650.0
-        }
-      ]
-    },
     {
       "id": 351,
       "ref": "S00352",
@@ -247,6 +218,30 @@
           "name": "[70144] Hook Slat 8\"",
           "qty": 150.0,
           "total": 1800.0
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "ref": "S00350",
+      "kind": "quotation",
+      "customer": "Superior Plus",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-26",
+      "expires": "2026-10-26",
+      "total": 2500.0,
+      "settled": 0.0,
+      "outstanding": 2500.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
+        },
+        {
+          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1400.0
         }
       ]
     },
