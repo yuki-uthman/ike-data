@@ -13789,26 +13789,26 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T09:01:05Z",
+      "generatedAt": "2026-09-26T09:15:37Z",
       "pos": {
         "total": 841.0,
         "count": 2
       },
       "regularSales": {
-        "total": 14530.0,
-        "count": 4
+        "total": 15965.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 5350.0,
-        "count": 2
+        "total": 9250.0,
+        "count": 3
       },
       "cash": {
         "total": 1421.0,
         "count": 3
       },
       "transfer": {
-        "total": 13950.0,
-        "count": 3
+        "total": 15385.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -13870,6 +13870,37 @@
               "name": "[70175] 51 Warehouse Rack White Medium",
               "qty": 1.0,
               "total": 1800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00229",
+          "customer": "Star Ufaa J-3",
+          "amount": 1435.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70044] Slipper#1112",
+              "qty": 10.0,
+              "total": 590.0
+            },
+            {
+              "name": "[70049] Slipper 57(1)",
+              "qty": 5.0,
+              "total": 395.0
+            },
+            {
+              "name": "[01633] Kitchen Sale 5kg#KE-2",
+              "qty": 2.0,
+              "total": 330.0
+            },
+            {
+              "name": "[79687] Hook Slat with 7 Pegs",
+              "qty": 3.0,
+              "total": 120.0
             }
           ]
         },
