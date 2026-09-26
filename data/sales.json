@@ -13789,14 +13789,14 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T16:01:05Z",
+      "generatedAt": "2026-09-26T16:15:36Z",
       "pos": {
         "total": 1854.0,
         "count": 9
       },
       "regularSales": {
-        "total": 37569.0,
-        "count": 12
+        "total": 37761.0,
+        "count": 13
       },
       "pendingQuotations": {
         "total": 5980.0,
@@ -13807,8 +13807,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 36729.0,
-        "count": 11
+        "total": 36921.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -14147,6 +14147,22 @@
               "name": "[8389] Aluminium Foil Box 8389 Loose",
               "qty": 100.0,
               "total": 300.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00237",
+          "customer": "Sales",
+          "amount": 192.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70139] Hook Net 12\"",
+              "qty": 12.0,
+              "total": 192.0
             }
           ]
         },
