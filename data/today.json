@@ -2,20 +2,46 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T08:30:51Z",
+  "generatedAt": "2026-09-26T08:45:34Z",
   "cash": {
     "total": 612.0,
     "count": 2
   },
   "transfer": {
-    "total": 4080.0,
-    "count": 2
+    "total": 13950.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00228",
+      "customer": "Sky Wing Pvt Ltd",
+      "amount": 9870.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Gas Burner Table",
+          "qty": 6.0,
+          "total": 2550.0
+        },
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 6.0,
+          "total": 2160.0
+        },
+        {
+          "name": "[70215] Gas Pipe ( Yellow )",
+          "qty": 24.0,
+          "total": 360.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00225",
       "customer": "Smart Holding Private Limited",
@@ -85,8 +111,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 4080.0
+      "count": 3,
+      "total": 13950.0
     },
     {
       "name": "Cash",
