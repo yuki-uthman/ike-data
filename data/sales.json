@@ -13789,14 +13789,14 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T11:45:34Z",
+      "generatedAt": "2026-09-26T12:01:02Z",
       "pos": {
         "total": 1457.0,
         "count": 4
       },
       "regularSales": {
-        "total": 22465.0,
-        "count": 7
+        "total": 23665.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 11580.0,
@@ -13807,8 +13807,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 21325.0,
-        "count": 5
+        "total": 22525.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -13917,6 +13917,27 @@
               "name": "[79687] Hook Slat with 7 Pegs",
               "qty": 3.0,
               "total": 120.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00232",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[10008] Top Kokoa Creamy Cheese 1kg",
+              "qty": 2.0,
+              "total": 600.0
+            },
+            {
+              "name": "[70103] Wrapping Paper 12\" (Thoum) 1000pcs",
+              "qty": 1.0,
+              "total": 600.0
             }
           ]
         },

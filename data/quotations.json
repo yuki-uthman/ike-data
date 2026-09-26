@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T11:45:43Z",
-  "openCount": 145,
-  "openTotal": 1546683.2,
+  "generatedAt": "2026-09-26T12:01:14Z",
+  "openCount": 144,
+  "openTotal": 1545483.2,
   "quotationCount": 50,
   "quotationTotal": 636184.75,
-  "orderCount": 95,
-  "orderTotal": 910498.45,
+  "orderCount": 94,
+  "orderTotal": 909298.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -191,9 +191,9 @@
     },
     {
       "date": "2026-09-26",
-      "count": 6,
-      "outstanding": 13920.0,
-      "total": 13920.0
+      "count": 5,
+      "outstanding": 12720.0,
+      "total": 12720.0
     }
   ],
   "quotations": [
@@ -261,30 +261,6 @@
           "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 1400.0
-        }
-      ]
-    },
-    {
-      "id": 346,
-      "ref": "S00347",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-26",
-      "expires": "2026-10-26",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[10008] Top Kokoa Creamy Cheese 1kg",
-          "qty": 2.0,
-          "total": 600.0
-        },
-        {
-          "name": "[70103] Wrapping Paper 12\" (Thoum) 1000pcs",
-          "qty": 1.0,
-          "total": 600.0
         }
       ]
     },
