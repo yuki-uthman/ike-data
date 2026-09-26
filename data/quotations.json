@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T15:02:57Z",
-  "openCount": 143,
-  "openTotal": 1539883.2,
-  "quotationCount": 49,
-  "quotationTotal": 630584.75,
+  "generatedAt": "2026-09-26T15:15:45Z",
+  "openCount": 142,
+  "openTotal": 1532729.2,
+  "quotationCount": 48,
+  "quotationTotal": 623430.75,
   "orderCount": 94,
   "orderTotal": 909298.45,
   "days": [
@@ -179,9 +179,9 @@
     },
     {
       "date": "2026-09-24",
-      "count": 7,
-      "outstanding": 12013.0,
-      "total": 12013.0
+      "count": 6,
+      "outstanding": 4859.0,
+      "total": 4859.0
     },
     {
       "date": "2026-09-25",
@@ -318,65 +318,6 @@
           "name": "[202607] Tile Ceramic 600x600mm",
           "qty": 25.0,
           "total": 1550.0
-        }
-      ]
-    },
-    {
-      "id": 335,
-      "ref": "S00336",
-      "kind": "quotation",
-      "customer": "Sun Shine Arts",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-24",
-      "expires": "2026-10-24",
-      "total": 7154.0,
-      "settled": 0.0,
-      "outstanding": 7154.0,
-      "lines": [
-        {
-          "name": "2C Price Border Strip White",
-          "qty": 53.0,
-          "total": 1325.0
-        },
-        {
-          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
-          "qty": 10.0,
-          "total": 2900.0
-        },
-        {
-          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
-          "qty": 20.0,
-          "total": 0.0
-        },
-        {
-          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
-          "qty": 1.0,
-          "total": 1465.0
-        },
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 24.0,
-          "total": 384.0
-        },
-        {
-          "name": "[70145] Hook Slat 10\"",
-          "qty": 24.0,
-          "total": 336.0
-        },
-        {
-          "name": "[70144] Hook Slat 8\"",
-          "qty": 24.0,
-          "total": 288.0
-        },
-        {
-          "name": "[06023] Hanger Slipper",
-          "qty": 24.0,
-          "total": 336.0
-        },
-        {
-          "name": "[70143] Hook Slat 6\"",
-          "qty": 12.0,
-          "total": 120.0
         }
       ]
     },
