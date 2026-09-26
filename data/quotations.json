@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T09:15:47Z",
+  "generatedAt": "2026-09-26T09:31:06Z",
   "openCount": 144,
-  "openTotal": 1548533.2,
+  "openTotal": 1548113.2,
   "quotationCount": 51,
-  "quotationTotal": 639794.75,
+  "quotationTotal": 639374.75,
   "orderCount": 93,
   "orderTotal": 908738.45,
   "days": [
@@ -192,8 +192,8 @@
     {
       "date": "2026-09-26",
       "count": 4,
-      "outstanding": 9830.0,
-      "total": 9830.0
+      "outstanding": 9410.0,
+      "total": 9410.0
     }
   ],
   "quotations": [
@@ -234,19 +234,19 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-26",
       "expires": "2026-10-26",
-      "total": 3900.0,
+      "total": 3480.0,
       "settled": 0.0,
-      "outstanding": 3900.0,
+      "outstanding": 3480.0,
       "lines": [
         {
-          "name": "[70147] Hook Mesh 10\"",
+          "name": "[70145] Hook Slat 10\"",
           "qty": 120.0,
-          "total": 1800.0
+          "total": 1680.0
         },
         {
-          "name": "[35940] Hook Mesh 8\"",
+          "name": "[70144] Hook Slat 8\"",
           "qty": 150.0,
-          "total": 2100.0
+          "total": 1800.0
         }
       ]
     },

@@ -13789,22 +13789,22 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T09:15:37Z",
+      "generatedAt": "2026-09-26T09:30:52Z",
       "pos": {
-        "total": 841.0,
-        "count": 2
+        "total": 892.0,
+        "count": 3
       },
       "regularSales": {
         "total": 15965.0,
         "count": 5
       },
       "pendingQuotations": {
-        "total": 9250.0,
+        "total": 8830.0,
         "count": 3
       },
       "cash": {
-        "total": 1421.0,
-        "count": 3
+        "total": 1472.0,
+        "count": 4
       },
       "transfer": {
         "total": 15385.0,
@@ -13952,6 +13952,27 @@
           ]
         },
         {
+          "ref": "Ike - 000230",
+          "customer": "Walk-in",
+          "amount": 51.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:26",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Sponges Colorful 10pcs#31",
+              "qty": 1.0,
+              "total": 32.0
+            },
+            {
+              "name": "[70077] Sponge 5pcs*6pk#23",
+              "qty": 1.0,
+              "total": 19.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000227",
           "customer": "Walk-in",
           "amount": 32.0,
@@ -13975,7 +13996,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 5076.0,
-        "expectedClosing": 6497.0,
+        "expectedClosing": 6548.0,
         "counted": null,
         "difference": null,
         "closed": false,
