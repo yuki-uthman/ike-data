@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T06:45:50Z",
-  "openCount": 143,
-  "openTotal": 1550353.2,
-  "quotationCount": 50,
-  "quotationTotal": 641614.75,
+  "generatedAt": "2026-09-26T07:01:17Z",
+  "openCount": 144,
+  "openTotal": 1552853.2,
+  "quotationCount": 51,
+  "quotationTotal": 644114.75,
   "orderCount": 93,
   "orderTotal": 908738.45,
   "days": [
@@ -191,9 +191,9 @@
     },
     {
       "date": "2026-09-26",
-      "count": 3,
-      "outstanding": 11650.0,
-      "total": 11650.0
+      "count": 4,
+      "outstanding": 14150.0,
+      "total": 14150.0
     }
   ],
   "quotations": [
@@ -228,6 +228,30 @@
           "name": "[70215] Gas Pipe ( Yellow )",
           "qty": 24.0,
           "total": 360.0
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "ref": "S00350",
+      "kind": "quotation",
+      "customer": "Superior Plus",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-26",
+      "expires": "2026-10-26",
+      "total": 2500.0,
+      "settled": 0.0,
+      "outstanding": 2500.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
+        },
+        {
+          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1400.0
         }
       ]
     },
