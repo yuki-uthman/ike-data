@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T15:45:35Z",
+  "generatedAt": "2026-09-26T16:01:05Z",
   "cash": {
-    "total": 2656.0,
-    "count": 9
+    "total": 2694.0,
+    "count": 10
   },
   "transfer": {
-    "total": 36129.0,
-    "count": 10
+    "total": 36729.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -246,6 +246,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00236",
+      "customer": "Trade Maldives Pvt Ltd",
+      "amount": 600.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[A16] Plastic Container A16",
+          "qty": 200.0,
+          "total": 600.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00226",
       "customer": "Ald Mart",
       "amount": 580.0,
@@ -357,6 +373,22 @@
       ]
     },
     {
+      "ref": "Ike - 000235",
+      "customer": "Walk-in",
+      "amount": 38.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:55",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01681] Table Mat Pvc 30x45cm #4",
+          "qty": 2.0,
+          "total": 38.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000231",
       "customer": "Walk-in",
       "amount": 32.0,
@@ -425,14 +457,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 35829.0
+      "count": 10,
+      "total": 36429.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 9,
-      "total": 2656.0
+      "count": 10,
+      "total": 2694.0
     },
     {
       "name": "Bank Transfer",
@@ -448,7 +480,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 5076.0,
-    "expectedClosing": 7732.0,
+    "expectedClosing": 7770.0,
     "counted": null,
     "difference": null,
     "closed": false,
