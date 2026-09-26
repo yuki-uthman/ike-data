@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T11:20:30Z",
-  "openCount": 144,
-  "openTotal": 1546463.2,
-  "quotationCount": 51,
-  "quotationTotal": 637724.75,
-  "orderCount": 93,
-  "orderTotal": 908738.45,
+  "generatedAt": "2026-09-26T11:30:59Z",
+  "openCount": 145,
+  "openTotal": 1547023.2,
+  "quotationCount": 50,
+  "quotationTotal": 631784.75,
+  "orderCount": 95,
+  "orderTotal": 915238.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -83,9 +83,9 @@
     },
     {
       "date": "2026-09-08",
-      "count": 10,
-      "outstanding": 161165.0,
-      "total": 161165.0
+      "count": 9,
+      "outstanding": 155225.0,
+      "total": 155225.0
     },
     {
       "date": "2026-09-09",
@@ -191,12 +191,31 @@
     },
     {
       "date": "2026-09-26",
-      "count": 4,
-      "outstanding": 7760.0,
-      "total": 7760.0
+      "count": 6,
+      "outstanding": 14260.0,
+      "total": 14260.0
     }
   ],
   "quotations": [
+    {
+      "id": 189,
+      "ref": "S00190",
+      "kind": "order",
+      "customer": "Maldiviana Airline Services",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-26",
+      "expires": "2026-10-08",
+      "total": 5940.0,
+      "settled": 0.0,
+      "outstanding": 5940.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 3.0,
+          "total": 5940.0
+        }
+      ]
+    },
     {
       "id": 351,
       "ref": "S00352",
@@ -285,6 +304,25 @@
           "name": "Paper Plate 9'' 100pcs Bundle",
           "qty": 12.0,
           "total": 580.0
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "ref": "S00353",
+      "kind": "order",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-26",
+      "expires": "2026-10-26",
+      "total": 560.0,
+      "settled": 0.0,
+      "outstanding": 560.0,
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 2.0,
+          "total": 560.0
         }
       ]
     },
@@ -1600,25 +1638,6 @@
           "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
           "qty": 12.0,
           "total": 9480.0
-        }
-      ]
-    },
-    {
-      "id": 189,
-      "ref": "S00190",
-      "kind": "quotation",
-      "customer": "Maldiviana Airline Services",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-08",
-      "expires": "2026-10-08",
-      "total": 5940.0,
-      "settled": 0.0,
-      "outstanding": 5940.0,
-      "lines": [
-        {
-          "name": "[70176] 51 Warehouse Rack White Large",
-          "qty": 3.0,
-          "total": 5940.0
         }
       ]
     },

@@ -13789,22 +13789,22 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T11:20:21Z",
+      "generatedAt": "2026-09-26T11:30:51Z",
       "pos": {
-        "total": 892.0,
-        "count": 3
+        "total": 1457.0,
+        "count": 4
       },
       "regularSales": {
-        "total": 15965.0,
-        "count": 5
+        "total": 16525.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 7180.0,
         "count": 3
       },
       "cash": {
-        "total": 1472.0,
-        "count": 4
+        "total": 2597.0,
+        "count": 6
       },
       "transfer": {
         "total": 15385.0,
@@ -13952,6 +13952,48 @@
           ]
         },
         {
+          "ref": "Ike - 000228",
+          "customer": "Walk-in",
+          "amount": 565.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:28",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01650] Iron Electric Hoffmans SI200#HM-9001",
+              "qty": 1.0,
+              "total": 311.0
+            },
+            {
+              "name": "[01955] ironing board large",
+              "qty": 1.0,
+              "total": 195.0
+            },
+            {
+              "name": "[70040] Ignitor Battery Operated",
+              "qty": 1.0,
+              "total": 59.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00230",
+          "customer": "Sales",
+          "amount": 560.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 2.0,
+              "total": 560.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000230",
           "customer": "Walk-in",
           "amount": 51.0,
@@ -13996,7 +14038,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 5076.0,
-        "expectedClosing": 6548.0,
+        "expectedClosing": 7673.0,
         "counted": null,
         "difference": null,
         "closed": false,
