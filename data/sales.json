@@ -13789,10 +13789,10 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T12:15:37Z",
+      "generatedAt": "2026-09-26T12:30:52Z",
       "pos": {
-        "total": 1457.0,
-        "count": 4
+        "total": 1504.0,
+        "count": 6
       },
       "regularSales": {
         "total": 24215.0,
@@ -13803,8 +13803,8 @@
         "count": 3
       },
       "cash": {
-        "total": 2597.0,
-        "count": 6
+        "total": 2644.0,
+        "count": 8
       },
       "transfer": {
         "total": 23075.0,
@@ -14068,6 +14068,22 @@
           ]
         },
         {
+          "ref": "Ike - 000231",
+          "customer": "Walk-in",
+          "amount": 32.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:26",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70063] Brush Toilet 3212 A62",
+              "qty": 1.0,
+              "total": 32.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000227",
           "customer": "Walk-in",
           "amount": 32.0,
@@ -14082,6 +14098,22 @@
               "total": 32.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000232",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:26",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -14091,7 +14123,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 5076.0,
-        "expectedClosing": 7673.0,
+        "expectedClosing": 7720.0,
         "counted": null,
         "difference": null,
         "closed": false,
