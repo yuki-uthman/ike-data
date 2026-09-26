@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-26T05:45:43Z",
-  "openCount": 142,
-  "openTotal": 1538782.2,
+  "generatedAt": "2026-09-26T06:01:18Z",
+  "openCount": 143,
+  "openTotal": 1539354.2,
   "quotationCount": 50,
-  "quotationTotal": 630623.75,
-  "orderCount": 92,
-  "orderTotal": 908158.45,
+  "quotationTotal": 630615.75,
+  "orderCount": 93,
+  "orderTotal": 908738.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -191,9 +191,9 @@
     },
     {
       "date": "2026-09-26",
-      "count": 1,
-      "outstanding": 1208.0,
-      "total": 1208.0
+      "count": 2,
+      "outstanding": 1780.0,
+      "total": 1780.0
     }
   ],
   "quotations": [
@@ -205,9 +205,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-26",
       "expires": "2026-10-26",
-      "total": 1208.0,
+      "total": 1200.0,
       "settled": 0.0,
-      "outstanding": 1208.0,
+      "outstanding": 1200.0,
       "lines": [
         {
           "name": "[10008] Top Kokoa Creamy Cheese 1kg",
@@ -215,14 +215,33 @@
           "total": 600.0
         },
         {
-          "name": "[8388] Black Base Rectangular Container 38oz w/ PP Lid (TPLM C053)",
-          "qty": 1.0,
-          "total": 8.0
-        },
-        {
           "name": "[70103] Wrapping Paper 12\" (Thoum) 1000pcs",
           "qty": 1.0,
           "total": 600.0
+        },
+        {
+          "name": "Black base ",
+          "qty": 1.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "ref": "S00348",
+      "kind": "order",
+      "customer": "Ald Mart",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-26",
+      "expires": "2026-10-26",
+      "total": 580.0,
+      "settled": 0.0,
+      "outstanding": 580.0,
+      "lines": [
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 12.0,
+          "total": 580.0
         }
       ]
     },
