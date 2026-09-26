@@ -13789,10 +13789,10 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T04:15:34Z",
+      "generatedAt": "2026-09-26T04:30:50Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 32.0,
+        "count": 1
       },
       "regularSales": {
         "total": 2280.0,
@@ -13803,8 +13803,8 @@
         "count": 0
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 32.0,
+        "count": 1
       },
       "transfer": {
         "total": 2280.0,
@@ -13830,6 +13830,22 @@
               "total": 2280.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000227",
+          "customer": "Walk-in",
+          "amount": 32.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:27",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Sponges Colorful 10pcs#31",
+              "qty": 1.0,
+              "total": 32.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -13839,7 +13855,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 5076.0,
-        "expectedClosing": 5076.0,
+        "expectedClosing": 5108.0,
         "counted": null,
         "difference": null,
         "closed": false,
