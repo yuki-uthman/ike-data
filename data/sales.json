@@ -14270,7 +14270,7 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T17:45:35Z",
+      "generatedAt": "2026-09-27T17:59:09Z",
       "pos": {
         "total": 164.0,
         "count": 6
@@ -14500,8 +14500,8 @@
         }
       ],
       "cashOut": {
-        "total": 5885.0,
-        "count": 4
+        "total": 5945.0,
+        "count": 5
       },
       "cashOutTransactions": [
         {
@@ -14526,6 +14526,13 @@
           "time": "20:46"
         },
         {
+          "reason": "Tea money 3 days  \u00b7 Staff = jafar",
+          "amount": 60.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:47"
+        },
+        {
           "reason": "Gate pass \u00b7 Staff=Zubaid",
           "amount": 15.0,
           "method": "cash",
@@ -14535,10 +14542,10 @@
       ],
       "till": {
         "opening": 7770.0,
-        "expectedClosing": 2939.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "expectedClosing": 2879.0,
+        "counted": 2879.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
