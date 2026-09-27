@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T15:01:06Z",
+  "generatedAt": "2026-09-27T15:15:37Z",
   "cash": {
-    "total": 990.0,
-    "count": 6
+    "total": 1050.0,
+    "count": 7
   },
   "transfer": {
     "total": 3767.0,
@@ -139,6 +139,22 @@
       ]
     },
     {
+      "ref": "Ike - 000241",
+      "customer": "Walk-in",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:05",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
+          "qty": 12.0,
+          "total": 60.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000240",
       "customer": "Walk-in",
       "amount": 19.0,
@@ -197,8 +213,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 990.0
+      "count": 7,
+      "total": 1050.0
     }
   ],
   "cashOut": {
@@ -208,7 +224,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 7770.0,
-    "expectedClosing": 3590.0,
+    "expectedClosing": 3650.0,
     "counted": null,
     "difference": null,
     "closed": false,
