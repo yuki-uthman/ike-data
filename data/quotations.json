@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-27T09:15:45Z",
+  "generatedAt": "2026-09-27T09:31:03Z",
   "openCount": 145,
   "openTotal": 1542669.2,
   "quotationCount": 49,
@@ -236,7 +236,7 @@
       "id": 358,
       "ref": "S00359",
       "kind": "order",
-      "customer": "Delivery To Shop",
+      "customer": "Sales",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-27",
       "expires": "2026-10-27",
