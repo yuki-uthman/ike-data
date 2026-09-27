@@ -14270,14 +14270,14 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T12:30:51Z",
+      "generatedAt": "2026-09-27T12:45:32Z",
       "pos": {
         "total": 100.0,
         "count": 4
       },
       "regularSales": {
-        "total": 2867.0,
-        "count": 4
+        "total": 4417.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 113555.0,
@@ -14288,14 +14288,30 @@
         "count": 6
       },
       "transfer": {
-        "total": 1977.0,
-        "count": 2
+        "total": 3527.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00242",
+          "customer": "Marie",
+          "amount": 1550.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[202607] Tile Ceramic 600x600mm",
+              "qty": 25.0,
+              "total": 1550.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00240",
           "customer": "United Huvadhoo Holding PVT LTD",
