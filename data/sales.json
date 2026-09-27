@@ -14270,26 +14270,26 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T12:16:09Z",
+      "generatedAt": "2026-09-27T12:30:51Z",
       "pos": {
         "total": 100.0,
         "count": 4
       },
       "regularSales": {
-        "total": 2387.0,
-        "count": 3
+        "total": 2867.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 114035.0,
-        "count": 7
+        "total": 113555.0,
+        "count": 6
       },
       "cash": {
         "total": 990.0,
         "count": 6
       },
       "transfer": {
-        "total": 1497.0,
-        "count": 1
+        "total": 1977.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -14335,6 +14335,22 @@
               "name": "[70182] Gas Burner ( High Pressure )",
               "qty": 1.0,
               "total": 800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00241",
+          "customer": "Addu International Airport Pvt Ltd",
+          "amount": 480.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[75053] Hook Mesh 12\"",
+              "qty": 30.0,
+              "total": 480.0
             }
           ]
         },
