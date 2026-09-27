@@ -331,14 +331,14 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T10:01:10Z",
+      "generatedAt": "2026-09-27T10:16:48Z",
       "confirmed": {
         "total": 0,
         "count": 0
       },
       "pending": {
-        "total": 40.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "categories": []
     }
