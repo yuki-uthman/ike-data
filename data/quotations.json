@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-27T04:15:45Z",
-  "openCount": 142,
-  "openTotal": 1532729.2,
-  "quotationCount": 48,
-  "quotationTotal": 623430.75,
+  "generatedAt": "2026-09-27T04:31:01Z",
+  "openCount": 143,
+  "openTotal": 1541779.2,
+  "quotationCount": 49,
+  "quotationTotal": 632480.75,
   "orderCount": 94,
   "orderTotal": 909298.45,
   "days": [
@@ -197,12 +197,41 @@
     },
     {
       "date": "2026-09-27",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 9050.0,
+      "total": 9050.0
     }
   ],
   "quotations": [
+    {
+      "id": 356,
+      "ref": "S00357",
+      "kind": "quotation",
+      "customer": "Hithadhoo Town office Addu City Council",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-27",
+      "expires": "2026-10-27",
+      "total": 9050.0,
+      "settled": 0.0,
+      "outstanding": 9050.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+          "qty": 2.0,
+          "total": 5000.0
+        },
+        {
+          "name": "[RD8-WHT-DSP-1550-X01] #RD8 White Double Side Perforated 1550mm x1",
+          "qty": 1.0,
+          "total": 3500.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 22.0,
+          "total": 550.0
+        }
+      ]
+    },
     {
       "id": 351,
       "ref": "S00352",
