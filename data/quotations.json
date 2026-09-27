@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-27T09:45:44Z",
-  "openCount": 145,
-  "openTotal": 1542669.2,
-  "quotationCount": 49,
-  "quotationTotal": 632480.75,
+  "generatedAt": "2026-09-27T10:01:12Z",
+  "openCount": 146,
+  "openTotal": 1624119.2,
+  "quotationCount": 50,
+  "quotationTotal": 713930.75,
   "orderCount": 96,
   "orderTotal": 910188.45,
   "days": [
@@ -197,12 +197,71 @@
     },
     {
       "date": "2026-09-27",
-      "count": 3,
-      "outstanding": 9940.0,
-      "total": 9940.0
+      "count": 4,
+      "outstanding": 91390.0,
+      "total": 91390.0
     }
   ],
   "quotations": [
+    {
+      "id": 359,
+      "ref": "S00360",
+      "kind": "quotation",
+      "customer": "Vvy Private Limited",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-27",
+      "expires": "2026-10-27",
+      "total": 81450.0,
+      "settled": 0.0,
+      "outstanding": 81450.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X02] #RD8 White Single Perforated 1950mm x2",
+          "qty": 1.0,
+          "total": 4400.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
+          "qty": 1.0,
+          "total": 6450.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X04] #RD8 White Single Perforated 1950mm x4",
+          "qty": 1.0,
+          "total": 8500.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X05] #RD8 White Single Perforated 1950mm x5",
+          "qty": 1.0,
+          "total": 10550.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X06] #RD8 White Single Perforated 1950mm x6",
+          "qty": 1.0,
+          "total": 12600.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X07] #RD8 White Single Perforated 1950mm x7",
+          "qty": 1.0,
+          "total": 15250.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X08] #RD8 White Single Perforated 1950mm x8",
+          "qty": 1.0,
+          "total": 17400.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 5.0,
+          "total": 3950.0
+        }
+      ]
+    },
     {
       "id": 356,
       "ref": "S00357",
