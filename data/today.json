@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T05:15:33Z",
+  "generatedAt": "2026-09-27T05:30:48Z",
   "cash": {
-    "total": 90.0,
-    "count": 1
+    "total": 890.0,
+    "count": 2
   },
   "transfer": {
     "total": 0,
@@ -16,6 +16,22 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00239",
+      "customer": "Delivery To Shop",
+      "amount": 800.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00238",
       "customer": "United Huvadhoo Holding PVT LTD",
@@ -37,8 +53,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 90.0
+      "count": 2,
+      "total": 890.0
     }
   ],
   "cashOut": {
@@ -48,7 +64,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 7770.0,
-    "expectedClosing": 7860.0,
+    "expectedClosing": 8660.0,
     "counted": null,
     "difference": null,
     "closed": false,

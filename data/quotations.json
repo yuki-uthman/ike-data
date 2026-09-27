@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-27T05:15:41Z",
-  "openCount": 144,
-  "openTotal": 1541869.2,
+  "generatedAt": "2026-09-27T05:30:56Z",
+  "openCount": 145,
+  "openTotal": 1542669.2,
   "quotationCount": 49,
   "quotationTotal": 632480.75,
-  "orderCount": 95,
-  "orderTotal": 909388.45,
+  "orderCount": 96,
+  "orderTotal": 910188.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -197,9 +197,9 @@
     },
     {
       "date": "2026-09-27",
-      "count": 2,
-      "outstanding": 9140.0,
-      "total": 9140.0
+      "count": 3,
+      "outstanding": 9940.0,
+      "total": 9940.0
     }
   ],
   "quotations": [
@@ -229,6 +229,25 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 22.0,
           "total": 550.0
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "ref": "S00359",
+      "kind": "order",
+      "customer": "Delivery To Shop",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-27",
+      "expires": "2026-10-27",
+      "total": 800.0,
+      "settled": 0.0,
+      "outstanding": 800.0,
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
         }
       ]
     },
