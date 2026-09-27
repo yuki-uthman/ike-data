@@ -14270,10 +14270,10 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T06:45:42Z",
+      "generatedAt": "2026-09-27T07:01:05Z",
       "pos": {
-        "total": 18.0,
-        "count": 2
+        "total": 81.0,
+        "count": 3
       },
       "regularSales": {
         "total": 890.0,
@@ -14284,8 +14284,8 @@
         "count": 1
       },
       "cash": {
-        "total": 908.0,
-        "count": 4
+        "total": 971.0,
+        "count": 5
       },
       "transfer": {
         "total": 0,
@@ -14329,6 +14329,22 @@
           ]
         },
         {
+          "ref": "Ike - 000239",
+          "customer": "Walk-in",
+          "amount": 63.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:49",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[90046] Flower Pot 20x17cm E250",
+              "qty": 7.0,
+              "total": 63.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000238",
           "customer": "Walk-in",
           "amount": 12.0,
@@ -14368,7 +14384,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 7770.0,
-        "expectedClosing": 8678.0,
+        "expectedClosing": 8741.0,
         "counted": null,
         "difference": null,
         "closed": false,
