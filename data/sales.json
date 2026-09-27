@@ -14270,14 +14270,14 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T11:15:33Z",
+      "generatedAt": "2026-09-27T11:30:49Z",
       "pos": {
         "total": 81.0,
         "count": 3
       },
       "regularSales": {
-        "total": 890.0,
-        "count": 2
+        "total": 2387.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 91740.0,
@@ -14288,14 +14288,40 @@
         "count": 5
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1497.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00240",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1497.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+              "qty": 1.0,
+              "total": 1200.0
+            },
+            {
+              "name": "[01841] Mop Bucket with Mop",
+              "qty": 1.0,
+              "total": 259.0
+            },
+            {
+              "name": "[01864] Toilet Brush Plastic Code:208 #35",
+              "qty": 2.0,
+              "total": 38.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00239",
           "customer": "Sales",
