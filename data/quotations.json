@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-27T05:01:07Z",
-  "openCount": 143,
-  "openTotal": 1541779.2,
+  "generatedAt": "2026-09-27T05:15:41Z",
+  "openCount": 144,
+  "openTotal": 1541869.2,
   "quotationCount": 49,
   "quotationTotal": 632480.75,
-  "orderCount": 94,
-  "orderTotal": 909298.45,
+  "orderCount": 95,
+  "orderTotal": 909388.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -197,9 +197,9 @@
     },
     {
       "date": "2026-09-27",
-      "count": 1,
-      "outstanding": 9050.0,
-      "total": 9050.0
+      "count": 2,
+      "outstanding": 9140.0,
+      "total": 9140.0
     }
   ],
   "quotations": [
@@ -229,6 +229,25 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 22.0,
           "total": 550.0
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "ref": "S00358",
+      "kind": "order",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-27",
+      "expires": "2026-10-27",
+      "total": 90.0,
+      "settled": 0.0,
+      "outstanding": 90.0,
+      "lines": [
+        {
+          "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
+          "qty": 2.0,
+          "total": 90.0
         }
       ]
     },

@@ -14270,22 +14270,22 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T05:01:00Z",
+      "generatedAt": "2026-09-27T05:15:33Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 90.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 9050.0,
         "count": 1
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 90.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -14295,7 +14295,24 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00238",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 90.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
+              "qty": 2.0,
+              "total": 90.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -14303,7 +14320,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 7770.0,
-        "expectedClosing": 7770.0,
+        "expectedClosing": 7860.0,
         "counted": null,
         "difference": null,
         "closed": false,
