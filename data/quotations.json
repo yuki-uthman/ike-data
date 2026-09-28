@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-28T04:31:01Z",
-  "openCount": 152,
-  "openTotal": 1781704.2,
+  "generatedAt": "2026-09-28T04:45:48Z",
+  "openCount": 151,
+  "openTotal": 1778224.2,
   "quotationCount": 54,
   "quotationTotal": 866835.75,
-  "orderCount": 98,
-  "orderTotal": 914868.45,
+  "orderCount": 97,
+  "orderTotal": 911388.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -203,36 +203,12 @@
     },
     {
       "date": "2026-09-28",
-      "count": 2,
-      "outstanding": 4680.0,
-      "total": 4680.0
+      "count": 1,
+      "outstanding": 1200.0,
+      "total": 1200.0
     }
   ],
   "quotations": [
-    {
-      "id": 351,
-      "ref": "S00352",
-      "kind": "order",
-      "customer": "Brothers Mart B-12",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-26",
-      "total": 3480.0,
-      "settled": 0.0,
-      "outstanding": 3480.0,
-      "lines": [
-        {
-          "name": "[70145] Hook Slat 10\"",
-          "qty": 120.0,
-          "total": 1680.0
-        },
-        {
-          "name": "[70144] Hook Slat 8\"",
-          "qty": 150.0,
-          "total": 1800.0
-        }
-      ]
-    },
     {
       "id": 370,
       "ref": "S00371",
