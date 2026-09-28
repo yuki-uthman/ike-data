@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-28T09:31:12Z",
+  "generatedAt": "2026-09-28T09:45:46Z",
   "openCount": 153,
   "openTotal": 1782624.2,
-  "quotationCount": 55,
-  "quotationTotal": 870735.75,
-  "orderCount": 98,
-  "orderTotal": 911888.45,
+  "quotationCount": 54,
+  "quotationTotal": 854835.75,
+  "orderCount": 99,
+  "orderTotal": 927788.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -197,18 +197,42 @@
     },
     {
       "date": "2026-09-27",
-      "count": 11,
-      "outstanding": 251825.0,
-      "total": 251825.0
+      "count": 10,
+      "outstanding": 235925.0,
+      "total": 235925.0
     },
     {
       "date": "2026-09-28",
-      "count": 3,
-      "outstanding": 5600.0,
-      "total": 5600.0
+      "count": 4,
+      "outstanding": 21500.0,
+      "total": 21500.0
     }
   ],
   "quotations": [
+    {
+      "id": 363,
+      "ref": "S00364",
+      "kind": "order",
+      "customer": "Feather Investment",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-28",
+      "expires": "2026-10-27",
+      "total": 15900.0,
+      "settled": 0.0,
+      "outstanding": 15900.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-DSP-1550-X01] #RD8 White Double Side Perforated 1550mm x1",
+          "qty": 4.0,
+          "total": 12000.0
+        },
+        {
+          "name": "[RD8-WHT-ERF-1550] #RD8 White End Rack Flat 1550mm",
+          "qty": 2.0,
+          "total": 3900.0
+        }
+      ]
+    },
     {
       "id": 374,
       "ref": "S00375",
@@ -370,30 +394,6 @@
           "name": "37 White Single Side 2400mm",
           "qty": 4.0,
           "total": 15200.0
-        }
-      ]
-    },
-    {
-      "id": 363,
-      "ref": "S00364",
-      "kind": "quotation",
-      "customer": "Feather Investment",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-27",
-      "expires": "2026-10-27",
-      "total": 15900.0,
-      "settled": 0.0,
-      "outstanding": 15900.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-DSP-1550-X01] #RD8 White Double Side Perforated 1550mm x1",
-          "qty": 4.0,
-          "total": 12000.0
-        },
-        {
-          "name": "[RD8-WHT-ERF-1550] #RD8 White End Rack Flat 1550mm",
-          "qty": 2.0,
-          "total": 3900.0
         }
       ]
     },
