@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-28T05:31:44Z",
-  "openCount": 151,
-  "openTotal": 1778224.2,
+  "generatedAt": "2026-09-28T05:45:53Z",
+  "openCount": 152,
+  "openTotal": 1778724.2,
   "quotationCount": 54,
   "quotationTotal": 866835.75,
-  "orderCount": 97,
-  "orderTotal": 911388.45,
+  "orderCount": 98,
+  "orderTotal": 911888.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -203,9 +203,9 @@
     },
     {
       "date": "2026-09-28",
-      "count": 1,
-      "outstanding": 1200.0,
-      "total": 1200.0
+      "count": 2,
+      "outstanding": 1700.0,
+      "total": 1700.0
     }
   ],
   "quotations": [
@@ -225,6 +225,25 @@
           "name": "Paper Plate 9'' 100pcs Bundle",
           "qty": 24.0,
           "total": 1200.0
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "ref": "S00372",
+      "kind": "order",
+      "customer": "Bluebell Solutions PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-28",
+      "expires": "2026-10-28",
+      "total": 500.0,
+      "settled": 0.0,
+      "outstanding": 500.0,
+      "lines": [
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 10.0,
+          "total": 500.0
         }
       ]
     },

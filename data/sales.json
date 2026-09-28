@@ -14516,22 +14516,22 @@
     },
     {
       "date": "2026-09-28",
-      "generatedAt": "2026-09-28T05:31:27Z",
+      "generatedAt": "2026-09-28T05:45:37Z",
       "pos": {
         "total": 39.0,
         "count": 1
       },
       "regularSales": {
-        "total": 7180.0,
-        "count": 3
+        "total": 7680.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 1239.0,
-        "count": 2
+        "total": 1739.0,
+        "count": 3
       },
       "transfer": {
         "total": 5980.0,
@@ -14601,6 +14601,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00247",
+          "customer": "Bluebell Solutions PVT LTD",
+          "amount": 500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Paper Plate 9'' 100pcs Bundle",
+              "qty": 10.0,
+              "total": 500.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000243",
           "customer": "Walk-in",
           "amount": 39.0,
@@ -14624,7 +14640,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2879.0,
-        "expectedClosing": 4118.0,
+        "expectedClosing": 4618.0,
         "counted": null,
         "difference": null,
         "closed": false,
