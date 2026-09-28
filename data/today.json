@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T11:45:37Z",
+  "generatedAt": "2026-09-28T12:01:07Z",
   "cash": {
-    "total": 1799.0,
-    "count": 4
+    "total": 5699.0,
+    "count": 5
   },
   "transfer": {
     "total": 8040.0,
@@ -16,6 +16,22 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00251",
+      "customer": "Bluebell Solutions Pvt Ltd",
+      "amount": 3900.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[R12C] Plastic Container A12 [case]",
+          "qty": 3.0,
+          "total": 3900.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00246",
       "customer": "Brothers Mart B-12",
@@ -181,8 +197,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 1799.0
+      "count": 5,
+      "total": 5699.0
     }
   ],
   "cashOut": {
@@ -192,7 +208,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2879.0,
-    "expectedClosing": 4678.0,
+    "expectedClosing": 8578.0,
     "counted": null,
     "difference": null,
     "closed": false,

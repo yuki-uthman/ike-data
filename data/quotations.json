@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-28T11:45:52Z",
+  "generatedAt": "2026-09-28T12:01:18Z",
   "openCount": 155,
   "openTotal": 1784434.2,
-  "quotationCount": 56,
-  "quotationTotal": 856645.75,
-  "orderCount": 99,
-  "orderTotal": 927788.45,
+  "quotationCount": 55,
+  "quotationTotal": 852745.75,
+  "orderCount": 100,
+  "orderTotal": 931688.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -236,7 +236,7 @@
     {
       "id": 374,
       "ref": "S00375",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Bluebell Solutions Pvt Ltd",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-28",
