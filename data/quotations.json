@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-28T06:31:11Z",
-  "openCount": 152,
-  "openTotal": 1778724.2,
-  "quotationCount": 54,
-  "quotationTotal": 866835.75,
+  "generatedAt": "2026-09-28T06:45:47Z",
+  "openCount": 153,
+  "openTotal": 1779404.2,
+  "quotationCount": 55,
+  "quotationTotal": 867515.75,
   "orderCount": 98,
   "orderTotal": 911888.45,
   "days": [
@@ -203,9 +203,9 @@
     },
     {
       "date": "2026-09-28",
-      "count": 2,
-      "outstanding": 1700.0,
-      "total": 1700.0
+      "count": 3,
+      "outstanding": 2380.0,
+      "total": 2380.0
     }
   ],
   "quotations": [
@@ -225,6 +225,25 @@
           "name": "Paper Plate 9'' 100pcs Bundle",
           "qty": 24.0,
           "total": 1200.0
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "ref": "S00374",
+      "kind": "quotation",
+      "customer": "Mnt Home Decore Q-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-28",
+      "expires": "2026-10-28",
+      "total": 680.0,
+      "settled": 0.0,
+      "outstanding": 680.0,
+      "lines": [
+        {
+          "name": "[02532] Printer roll",
+          "qty": 50.0,
+          "total": 680.0
         }
       ]
     },

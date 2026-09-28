@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T06:30:54Z",
+  "generatedAt": "2026-09-28T06:45:37Z",
   "cash": {
     "total": 1739.0,
     "count": 3
   },
   "transfer": {
-    "total": 5980.0,
-    "count": 2
+    "total": 6760.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -75,6 +75,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00248",
+      "customer": "Oceno Maldives Private Limited",
+      "amount": 780.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[65356] Tool Box X1",
+          "qty": 12.0,
+          "total": 780.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00247",
       "customer": "Bluebell Solutions PVT LTD",
       "amount": 500.0,
@@ -111,8 +127,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 5980.0
+      "count": 3,
+      "total": 6760.0
     },
     {
       "name": "Cash",
