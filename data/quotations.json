@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-28T08:45:51Z",
+  "generatedAt": "2026-09-28T09:01:17Z",
   "openCount": 153,
-  "openTotal": 1779404.2,
+  "openTotal": 1782624.2,
   "quotationCount": 55,
-  "quotationTotal": 867515.75,
+  "quotationTotal": 870735.75,
   "orderCount": 98,
   "orderTotal": 911888.45,
   "days": [
@@ -204,16 +204,35 @@
     {
       "date": "2026-09-28",
       "count": 3,
-      "outstanding": 2380.0,
-      "total": 2380.0
+      "outstanding": 5600.0,
+      "total": 5600.0
     }
   ],
   "quotations": [
     {
+      "id": 374,
+      "ref": "S00375",
+      "kind": "quotation",
+      "customer": "Bluebell Solutions Pvt Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-28",
+      "expires": "2026-10-28",
+      "total": 3900.0,
+      "settled": 0.0,
+      "outstanding": 3900.0,
+      "lines": [
+        {
+          "name": "[R12C] Plastic Container A12 [case]",
+          "qty": 3.0,
+          "total": 3900.0
+        }
+      ]
+    },
+    {
       "id": 370,
       "ref": "S00371",
       "kind": "order",
-      "customer": "Bluebell Solutions PVT LTD",
+      "customer": "Bluebell Solutions Pvt Ltd",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-28",
       "expires": "2026-10-28",
@@ -229,29 +248,10 @@
       ]
     },
     {
-      "id": 373,
-      "ref": "S00374",
-      "kind": "quotation",
-      "customer": "Mnt Home Decore Q-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-28",
-      "total": 680.0,
-      "settled": 0.0,
-      "outstanding": 680.0,
-      "lines": [
-        {
-          "name": "[02532] Printer roll",
-          "qty": 50.0,
-          "total": 680.0
-        }
-      ]
-    },
-    {
       "id": 371,
       "ref": "S00372",
       "kind": "order",
-      "customer": "Bluebell Solutions PVT LTD",
+      "customer": "Bluebell Solutions Pvt Ltd",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-28",
       "expires": "2026-10-28",
@@ -832,7 +832,7 @@
       "id": 323,
       "ref": "S00324",
       "kind": "order",
-      "customer": "Bluebell Solutions PVT LTD",
+      "customer": "Bluebell Solutions Pvt Ltd",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-23",
       "expires": "2026-10-23",

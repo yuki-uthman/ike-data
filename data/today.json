@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T08:45:37Z",
+  "generatedAt": "2026-09-28T09:01:07Z",
   "cash": {
     "total": 1739.0,
     "count": 3
   },
   "transfer": {
-    "total": 6760.0,
-    "count": 3
+    "total": 7440.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -60,7 +60,7 @@
     },
     {
       "ref": "INV/2026/00245",
-      "customer": "Bluebell Solutions PVT LTD",
+      "customer": "Bluebell Solutions Pvt Ltd",
       "amount": 1200.0,
       "method": "cash",
       "rawMethod": "Cash",
@@ -91,8 +91,24 @@
       ]
     },
     {
+      "ref": "INV/2026/00249",
+      "customer": "Mnt Home Decore Q-10",
+      "amount": 680.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[02532] Printer roll",
+          "qty": 50.0,
+          "total": 680.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00247",
-      "customer": "Bluebell Solutions PVT LTD",
+      "customer": "Bluebell Solutions Pvt Ltd",
       "amount": 500.0,
       "method": "cash",
       "rawMethod": "Cash",
@@ -127,8 +143,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 6760.0
+      "count": 4,
+      "total": 7440.0
     },
     {
       "name": "Cash",
