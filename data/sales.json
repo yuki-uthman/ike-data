@@ -14516,22 +14516,22 @@
     },
     {
       "date": "2026-09-28",
-      "generatedAt": "2026-09-28T15:01:47Z",
+      "generatedAt": "2026-09-28T15:15:40Z",
       "pos": {
-        "total": 99.0,
-        "count": 2
+        "total": 115.0,
+        "count": 3
       },
       "regularSales": {
         "total": 13640.0,
         "count": 8
       },
       "pendingQuotations": {
-        "total": 1810.0,
-        "count": 2
+        "total": 2170.0,
+        "count": 3
       },
       "cash": {
-        "total": 5699.0,
-        "count": 5
+        "total": 5715.0,
+        "count": 6
       },
       "transfer": {
         "total": 8040.0,
@@ -14711,6 +14711,22 @@
               "total": 39.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000246",
+          "customer": "Walk-in",
+          "amount": 16.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:10",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[3377] Aluminium Foil Box 3 compartment 3377 Loose",
+              "qty": 16.0,
+              "total": 16.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -14720,7 +14736,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2879.0,
-        "expectedClosing": 8578.0,
+        "expectedClosing": 8594.0,
         "counted": null,
         "difference": null,
         "closed": false,
