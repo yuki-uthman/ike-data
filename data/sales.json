@@ -14516,14 +14516,14 @@
     },
     {
       "date": "2026-09-28",
-      "generatedAt": "2026-09-28T04:11:06Z",
+      "generatedAt": "2026-09-28T04:15:39Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 2500.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
@@ -14534,14 +14534,36 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 2500.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00244",
+          "customer": "Superior Plus O-6",
+          "amount": 2500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1400.0
+            },
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1100.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0

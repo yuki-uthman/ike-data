@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-28T04:11:14Z",
-  "openCount": 152,
-  "openTotal": 1783004.2,
+  "generatedAt": "2026-09-28T04:15:47Z",
+  "openCount": 151,
+  "openTotal": 1780504.2,
   "quotationCount": 55,
   "quotationTotal": 870315.75,
-  "orderCount": 97,
-  "orderTotal": 912688.45,
+  "orderCount": 96,
+  "orderTotal": 910188.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -203,36 +203,12 @@
     },
     {
       "date": "2026-09-28",
-      "count": 1,
-      "outstanding": 2500.0,
-      "total": 2500.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 349,
-      "ref": "S00350",
-      "kind": "order",
-      "customer": "Superior Plus O-6",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-26",
-      "total": 2500.0,
-      "settled": 0.0,
-      "outstanding": 2500.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
-        },
-        {
-          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1400.0
-        }
-      ]
-    },
     {
       "id": 367,
       "ref": "S00368",
