@@ -14516,26 +14516,26 @@
     },
     {
       "date": "2026-09-28",
-      "generatedAt": "2026-09-28T10:52:36Z",
+      "generatedAt": "2026-09-28T11:02:56Z",
       "pos": {
         "total": 99.0,
         "count": 2
       },
       "regularSales": {
-        "total": 9140.0,
-        "count": 6
+        "total": 9740.0,
+        "count": 7
       },
       "pendingQuotations": {
-        "total": 4110.0,
-        "count": 2
+        "total": 5710.0,
+        "count": 3
       },
       "cash": {
         "total": 1799.0,
         "count": 4
       },
       "transfer": {
-        "total": 7440.0,
-        "count": 4
+        "total": 8040.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -14629,6 +14629,22 @@
               "name": "[02532] Printer roll",
               "qty": 50.0,
               "total": 680.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00250",
+          "customer": "Blooms Supplies",
+          "amount": 600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 3.0,
+              "total": 600.0
             }
           ]
         },
