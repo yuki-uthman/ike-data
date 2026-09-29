@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T05:15:47Z",
-  "openCount": 158,
-  "openTotal": 1781775.2,
+  "generatedAt": "2026-09-29T05:31:01Z",
+  "openCount": 159,
+  "openTotal": 1781895.2,
   "quotationCount": 57,
   "quotationTotal": 864463.75,
-  "orderCount": 101,
-  "orderTotal": 917311.45,
+  "orderCount": 102,
+  "orderTotal": 917431.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 3,
-      "outstanding": 11748.0,
-      "total": 11748.0
+      "count": 4,
+      "outstanding": 11868.0,
+      "total": 11868.0
     }
   ],
   "quotations": [
@@ -284,6 +284,25 @@
           "name": "[70110] paper plates 9 inch 100pcs",
           "qty": 24.0,
           "total": 1200.0
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "ref": "S00385",
+      "kind": "order",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-29",
+      "total": 120.0,
+      "settled": 0.0,
+      "outstanding": 120.0,
+      "lines": [
+        {
+          "name": "[2268] Tooth Pick",
+          "qty": 12.0,
+          "total": 120.0
         }
       ]
     },

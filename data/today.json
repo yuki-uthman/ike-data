@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T05:15:38Z",
+  "generatedAt": "2026-09-29T05:30:53Z",
   "cash": {
-    "total": 1200.0,
-    "count": 1
+    "total": 1320.0,
+    "count": 2
   },
   "transfer": {
     "total": 555.0,
@@ -82,14 +82,30 @@
           "total": 50.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00257",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 120.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2268] Tooth Pick",
+          "qty": 12.0,
+          "total": 120.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 1200.0
+      "count": 2,
+      "total": 1320.0
     },
     {
       "name": "Bank",
@@ -105,7 +121,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 9092.0,
-    "expectedClosing": 10292.0,
+    "expectedClosing": 10412.0,
     "counted": null,
     "difference": null,
     "closed": false,
