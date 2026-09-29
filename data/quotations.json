@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T15:15:53Z",
-  "openCount": 165,
-  "openTotal": 1809262.2,
-  "quotationCount": 61,
-  "quotationTotal": 890062.75,
+  "generatedAt": "2026-09-29T15:31:08Z",
+  "openCount": 166,
+  "openTotal": 1815224.2,
+  "quotationCount": 62,
+  "quotationTotal": 896024.75,
   "orderCount": 104,
   "orderTotal": 919199.45,
   "days": [
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 11,
-      "outstanding": 29895.0,
-      "total": 29895.0
+      "count": 12,
+      "outstanding": 35857.0,
+      "total": 35857.0
     }
   ],
   "quotations": [
@@ -296,6 +296,120 @@
           "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
           "qty": 1.0,
           "total": 320.0
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "ref": "S00393",
+      "kind": "quotation",
+      "customer": "Zilaal Mart R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-29",
+      "total": 5962.0,
+      "settled": 0.0,
+      "outstanding": 5962.0,
+      "lines": [
+        {
+          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+          "qty": 1.0,
+          "total": 329.0
+        },
+        {
+          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (12pcs, 400 ml)",
+          "qty": 1.0,
+          "total": 164.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 159.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (12pcs, 400 ml)",
+          "qty": 1.0,
+          "total": 165.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Soklin Softener Paris In Love (Pink) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 1.0,
+          "total": 460.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
         }
       ]
     },
