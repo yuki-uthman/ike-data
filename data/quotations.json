@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T10:45:49Z",
+  "generatedAt": "2026-09-29T11:01:53Z",
   "openCount": 164,
-  "openTotal": 1805704.2,
+  "openTotal": 1807714.2,
   "quotationCount": 61,
-  "quotationTotal": 888052.75,
+  "quotationTotal": 890062.75,
   "orderCount": 103,
   "orderTotal": 917651.45,
   "days": [
@@ -210,8 +210,8 @@
     {
       "date": "2026-09-29",
       "count": 10,
-      "outstanding": 26337.0,
-      "total": 26337.0
+      "outstanding": 28347.0,
+      "total": 28347.0
     }
   ],
   "quotations": [
@@ -223,9 +223,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-29",
       "expires": "2026-10-29",
-      "total": 6467.0,
+      "total": 8477.0,
       "settled": 0.0,
-      "outstanding": 6467.0,
+      "outstanding": 8477.0,
       "lines": [
         {
           "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
@@ -276,6 +276,26 @@
           "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
           "qty": 1.0,
           "total": 264.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 2.0,
+          "total": 920.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
         }
       ]
     },
