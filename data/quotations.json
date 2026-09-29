@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T15:31:08Z",
-  "openCount": 166,
-  "openTotal": 1815224.2,
-  "quotationCount": 62,
-  "quotationTotal": 896024.75,
+  "generatedAt": "2026-09-29T15:45:46Z",
+  "openCount": 167,
+  "openTotal": 1815924.2,
+  "quotationCount": 63,
+  "quotationTotal": 896724.75,
   "orderCount": 104,
   "orderTotal": 919199.45,
   "days": [
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 12,
-      "outstanding": 35857.0,
-      "total": 35857.0
+      "count": 13,
+      "outstanding": 36557.0,
+      "total": 36557.0
     }
   ],
   "quotations": [
@@ -632,6 +632,25 @@
           "name": "[70110] paper plates 9 inch 100pcs",
           "qty": 24.0,
           "total": 1200.0
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "ref": "S00394",
+      "kind": "quotation",
+      "customer": "Iresm Pvt Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-29",
+      "total": 700.0,
+      "settled": 0.0,
+      "outstanding": 700.0,
+      "lines": [
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 50.0,
+          "total": 700.0
         }
       ]
     },
