@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T16:30:56Z",
+  "generatedAt": "2026-09-29T16:45:38Z",
   "cash": {
     "total": 3408.0,
     "count": 8
   },
   "transfer": {
-    "total": 7777.0,
-    "count": 4
+    "total": 8477.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -191,6 +191,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00262",
+      "customer": "Iresm Pvt Ltd",
+      "amount": 700.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 50.0,
+          "total": 700.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00256",
       "customer": "VI MART",
       "amount": 555.0,
@@ -358,8 +374,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 7677.0
+      "count": 4,
+      "total": 8377.0
     },
     {
       "name": "Cash",
