@@ -14816,7 +14816,7 @@
     },
     {
       "date": "2026-09-29",
-      "generatedAt": "2026-09-29T16:01:09Z",
+      "generatedAt": "2026-09-29T16:15:37Z",
       "pos": {
         "total": 420.0,
         "count": 5
@@ -15070,13 +15070,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 40.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Tea money 2 days \u00b7 Staff = Jaufaru rasheed",
+          "amount": 40.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:09"
+        }
+      ],
       "till": {
         "opening": 9092.0,
-        "expectedClosing": 12500.0,
+        "expectedClosing": 12460.0,
         "counted": null,
         "difference": null,
         "closed": false,
