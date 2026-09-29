@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T05:01:06Z",
+  "generatedAt": "2026-09-29T05:15:38Z",
   "cash": {
     "total": 1200.0,
     "count": 1
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 555.0,
+    "count": 1
   },
   "other": {
     "total": 0,
@@ -31,6 +31,57 @@
           "total": 1200.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00256",
+      "customer": "VI MART",
+      "amount": 555.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 2.0,
+          "total": 100.0
+        },
+        {
+          "name": "Wooden Fork 100pcs",
+          "qty": 2.0,
+          "total": 90.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 4.0,
+          "total": 80.0
+        },
+        {
+          "name": "[01011] Paper straw 12 mm 50 pcs",
+          "qty": 2.0,
+          "total": 70.0
+        },
+        {
+          "name": "[PSC16] Paper Soup cup 16oz",
+          "qty": 50.0,
+          "total": 65.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 2.0,
+          "total": 50.0
+        },
+        {
+          "name": "[PSB750B] Paper Salad Bowl 750ml",
+          "qty": 50.0,
+          "total": 50.0
+        },
+        {
+          "name": "[02222] Paper Salad Bowl 500ml",
+          "qty": 50.0,
+          "total": 50.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -39,6 +90,12 @@
       "method": "cash",
       "count": 1,
       "total": 1200.0
+    },
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 555.0
     }
   ],
   "cashOut": {
