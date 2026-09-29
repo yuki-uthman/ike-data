@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T16:15:54Z",
-  "openCount": 167,
-  "openTotal": 1815924.2,
-  "quotationCount": 62,
-  "quotationTotal": 890762.75,
+  "generatedAt": "2026-09-29T16:31:08Z",
+  "openCount": 166,
+  "openTotal": 1810962.2,
+  "quotationCount": 61,
+  "quotationTotal": 888062.75,
   "orderCount": 105,
-  "orderTotal": 925161.45,
+  "orderTotal": 922899.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -203,15 +203,15 @@
     },
     {
       "date": "2026-09-28",
-      "count": 6,
-      "outstanding": 8903.0,
-      "total": 8903.0
+      "count": 5,
+      "outstanding": 6203.0,
+      "total": 6203.0
     },
     {
       "date": "2026-09-29",
       "count": 13,
-      "outstanding": 36557.0,
-      "total": 36557.0
+      "outstanding": 34295.0,
+      "total": 34295.0
     }
   ],
   "quotations": [
@@ -300,120 +300,6 @@
       ]
     },
     {
-      "id": 392,
-      "ref": "S00393",
-      "kind": "order",
-      "customer": "Zilaal Mart R-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 5962.0,
-      "settled": 0.0,
-      "outstanding": 5962.0,
-      "lines": [
-        {
-          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
-          "qty": 1.0,
-          "total": 329.0
-        },
-        {
-          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
-          "qty": 1.0,
-          "total": 350.0
-        },
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Apple (Green) - Case (12pcs, 400 ml)",
-          "qty": 1.0,
-          "total": 164.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 159.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (12pcs, 400 ml)",
-          "qty": 1.0,
-          "total": 165.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 160.0
-        },
-        {
-          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
-          "qty": 1.0,
-          "total": 264.0
-        },
-        {
-          "name": "Soklin Softener Paris In Love (Pink) - Case (12pcs, 820 ml)",
-          "qty": 1.0,
-          "total": 264.0
-        },
-        {
-          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
-          "qty": 1.0,
-          "total": 264.0
-        },
-        {
-          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
-          "qty": 1.0,
-          "total": 460.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        }
-      ]
-    },
-    {
       "id": 383,
       "ref": "S00384",
       "kind": "quotation",
@@ -429,6 +315,35 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 2.0,
           "total": 5700.0
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "ref": "S00377",
+      "kind": "order",
+      "customer": "Zilaal Mart R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-28",
+      "total": 3700.0,
+      "settled": 0.0,
+      "outstanding": 3700.0,
+      "lines": [
+        {
+          "name": "[10007] Plastic Container T2 [case]",
+          "qty": 2.0,
+          "total": 2000.0
+        },
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 12.0,
+          "total": 600.0
+        },
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
         }
       ]
     },
@@ -708,35 +623,6 @@
           "name": "[R12C] Plastic Container A12 [case]",
           "qty": 3.0,
           "total": 3900.0
-        }
-      ]
-    },
-    {
-      "id": 376,
-      "ref": "S00377",
-      "kind": "quotation",
-      "customer": "Zilaal Mart R-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-28",
-      "total": 2700.0,
-      "settled": 0.0,
-      "outstanding": 2700.0,
-      "lines": [
-        {
-          "name": "[10007] Plastic Container T2 [case]",
-          "qty": 1.0,
-          "total": 1000.0
-        },
-        {
-          "name": "[70110] paper plates 9 inch 100pcs",
-          "qty": 12.0,
-          "total": 600.0
-        },
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1100.0
         }
       ]
     },

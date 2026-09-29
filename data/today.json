@@ -2,20 +2,131 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T16:15:37Z",
+  "generatedAt": "2026-09-29T16:30:56Z",
   "cash": {
     "total": 3408.0,
     "count": 8
   },
   "transfer": {
-    "total": 1815.0,
-    "count": 3
+    "total": 7777.0,
+    "count": 4
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00261",
+      "customer": "Zilaal Mart R-1",
+      "amount": 5962.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 1.0,
+          "total": 460.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+          "qty": 1.0,
+          "total": 329.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        },
+        {
+          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Soklin Softener Paris In Love (Pink) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (12pcs, 400 ml)",
+          "qty": 1.0,
+          "total": 165.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (12pcs, 400 ml)",
+          "qty": 1.0,
+          "total": 164.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 159.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00260",
       "customer": "Sales",
@@ -245,16 +356,16 @@
   ],
   "methodsSeen": [
     {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 3,
+      "total": 7677.0
+    },
+    {
       "name": "Cash",
       "method": "cash",
       "count": 8,
       "total": 3408.0
-    },
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 2,
-      "total": 1715.0
     },
     {
       "name": "Bank Transfer",
