@@ -14816,10 +14816,10 @@
     },
     {
       "date": "2026-09-29",
-      "generatedAt": "2026-09-29T12:31:01Z",
+      "generatedAt": "2026-09-29T12:45:39Z",
       "pos": {
-        "total": 275.0,
-        "count": 2
+        "total": 335.0,
+        "count": 4
       },
       "regularSales": {
         "total": 3255.0,
@@ -14830,8 +14830,8 @@
         "count": 7
       },
       "cash": {
-        "total": 1715.0,
-        "count": 4
+        "total": 1775.0,
+        "count": 6
       },
       "transfer": {
         "total": 1815.0,
@@ -14988,6 +14988,38 @@
               "total": 100.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000252",
+          "customer": "Walk-in",
+          "amount": 45.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:44",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
+              "qty": 1.0,
+              "total": 45.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000251",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70074] Towel 042-02 30*40cm",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -14997,7 +15029,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 9092.0,
-        "expectedClosing": 10807.0,
+        "expectedClosing": 10867.0,
         "counted": null,
         "difference": null,
         "closed": false,
