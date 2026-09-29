@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T10:01:10Z",
+  "generatedAt": "2026-09-29T10:15:38Z",
   "cash": {
-    "total": 1320.0,
-    "count": 2
+    "total": 1715.0,
+    "count": 4
   },
   "transfer": {
     "total": 555.0,
@@ -84,6 +84,38 @@
       ]
     },
     {
+      "ref": "INV/2026/00258",
+      "customer": "Snap Buy",
+      "amount": 220.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 1.0,
+          "total": 220.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000249",
+      "customer": "Walk-in",
+      "amount": 175.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "15:05",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[JBY705] Shoes Rack 4 Tier Steel 86x23x60cm",
+          "qty": 1.0,
+          "total": 175.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00257",
       "customer": "United Huvadhoo Holding PVT LTD",
       "amount": 120.0,
@@ -104,8 +136,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 1320.0
+      "count": 4,
+      "total": 1715.0
     },
     {
       "name": "Bank",
@@ -121,7 +153,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 9092.0,
-    "expectedClosing": 10412.0,
+    "expectedClosing": 10807.0,
     "counted": null,
     "difference": null,
     "closed": false,
