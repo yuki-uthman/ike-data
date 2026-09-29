@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T09:31:09Z",
-  "openCount": 163,
-  "openTotal": 1803184.2,
-  "quotationCount": 61,
-  "quotationTotal": 885752.75,
+  "generatedAt": "2026-09-29T09:45:57Z",
+  "openCount": 164,
+  "openTotal": 1806644.2,
+  "quotationCount": 62,
+  "quotationTotal": 889212.75,
   "orderCount": 102,
   "orderTotal": 917431.45,
   "days": [
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 8,
-      "outstanding": 22657.0,
-      "total": 22657.0
+      "count": 9,
+      "outstanding": 26117.0,
+      "total": 26117.0
     }
   ],
   "quotations": [
@@ -295,6 +295,25 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 2.0,
           "total": 5700.0
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "ref": "S00390",
+      "kind": "quotation",
+      "customer": "Scent Investment Private Limited",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-29",
+      "total": 3460.0,
+      "settled": 0.0,
+      "outstanding": 3460.0,
+      "lines": [
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 1.0,
+          "total": 3460.0
         }
       ]
     },
