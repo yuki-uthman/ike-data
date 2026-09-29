@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T06:45:50Z",
-  "openCount": 160,
-  "openTotal": 1783695.2,
-  "quotationCount": 58,
-  "quotationTotal": 866263.75,
+  "generatedAt": "2026-09-29T07:01:26Z",
+  "openCount": 161,
+  "openTotal": 1796657.2,
+  "quotationCount": 59,
+  "quotationTotal": 879225.75,
   "orderCount": 102,
   "orderTotal": 917431.45,
   "days": [
@@ -156,8 +156,8 @@
     {
       "date": "2026-09-20",
       "count": 3,
-      "outstanding": 87050.0,
-      "total": 87050.0
+      "outstanding": 98050.0,
+      "total": 98050.0
     },
     {
       "date": "2026-09-21",
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 5,
-      "outstanding": 13668.0,
-      "total": 13668.0
+      "count": 6,
+      "outstanding": 15630.0,
+      "total": 15630.0
     }
   ],
   "quotations": [
@@ -265,6 +265,50 @@
           "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
           "qty": 1.0,
           "total": 360.0
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "ref": "S00387",
+      "kind": "quotation",
+      "customer": "Zilaal Mart R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-29",
+      "total": 1962.0,
+      "settled": 0.0,
+      "outstanding": 1962.0,
+      "lines": [
+        {
+          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+          "qty": 1.0,
+          "total": 329.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
         }
       ]
     },
@@ -1201,9 +1245,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-20",
       "expires": "2026-10-20",
-      "total": 55500.0,
+      "total": 66500.0,
       "settled": 0.0,
-      "outstanding": 55500.0,
+      "outstanding": 66500.0,
       "lines": [
         {
           "name": "[88734] Tool Box X3",
@@ -1221,9 +1265,9 @@
           "total": 9750.0
         },
         {
-          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "name": "[40639] 33 Warehouse RACK Gray 1200X600X2000MM",
           "qty": 10.0,
-          "total": 28500.0
+          "total": 39500.0
         }
       ]
     },
