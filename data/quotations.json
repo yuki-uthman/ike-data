@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T08:45:51Z",
-  "openCount": 161,
-  "openTotal": 1793807.2,
-  "quotationCount": 59,
-  "quotationTotal": 876375.75,
+  "generatedAt": "2026-09-29T09:01:25Z",
+  "openCount": 162,
+  "openTotal": 1764131.2,
+  "quotationCount": 60,
+  "quotationTotal": 846699.75,
   "orderCount": 102,
   "orderTotal": 917431.45,
   "days": [
@@ -156,8 +156,8 @@
     {
       "date": "2026-09-20",
       "count": 3,
-      "outstanding": 98050.0,
-      "total": 98050.0
+      "outstanding": 62500.0,
+      "total": 62500.0
     },
     {
       "date": "2026-09-21",
@@ -209,12 +209,66 @@
     },
     {
       "date": "2026-09-29",
-      "count": 6,
-      "outstanding": 12780.0,
-      "total": 12780.0
+      "count": 7,
+      "outstanding": 18654.0,
+      "total": 18654.0
     }
   ],
   "quotations": [
+    {
+      "id": 387,
+      "ref": "S00388",
+      "kind": "quotation",
+      "customer": "Sun Shine Arts",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-29",
+      "total": 5874.0,
+      "settled": 0.0,
+      "outstanding": 5874.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 3.0,
+          "total": 1017.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 3.0,
+          "total": 1017.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 2.0,
+          "total": 720.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 2.0,
+          "total": 720.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
+          "qty": 2.0,
+          "total": 360.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 2.0,
+          "total": 310.0
+        },
+        {
+          "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
+          "qty": 2.0,
+          "total": 830.0
+        }
+      ]
+    },
     {
       "id": 383,
       "ref": "S00384",
@@ -1245,9 +1299,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-20",
       "expires": "2026-10-20",
-      "total": 66500.0,
+      "total": 30950.0,
       "settled": 0.0,
-      "outstanding": 66500.0,
+      "outstanding": 30950.0,
       "lines": [
         {
           "name": "[88734] Tool Box X3",
@@ -1265,9 +1319,9 @@
           "total": 9750.0
         },
         {
-          "name": "[40639] 33 Warehouse RACK Gray 1200X600X2000MM",
-          "qty": 10.0,
-          "total": 39500.0
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 1.0,
+          "total": 3950.0
         }
       ]
     },
