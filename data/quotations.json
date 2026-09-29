@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T15:47:48Z",
+  "generatedAt": "2026-09-29T16:01:18Z",
   "openCount": 167,
   "openTotal": 1815924.2,
-  "quotationCount": 63,
-  "quotationTotal": 896724.75,
-  "orderCount": 104,
-  "orderTotal": 919199.45,
+  "quotationCount": 62,
+  "quotationTotal": 890762.75,
+  "orderCount": 105,
+  "orderTotal": 925161.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -302,7 +302,7 @@
     {
       "id": 392,
       "ref": "S00393",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Zilaal Mart R-1",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-29",
