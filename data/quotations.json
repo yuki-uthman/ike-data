@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T17:31:08Z",
-  "openCount": 166,
-  "openTotal": 1810962.2,
+  "generatedAt": "2026-09-29T17:45:52Z",
+  "openCount": 165,
+  "openTotal": 1810262.2,
   "quotationCount": 60,
   "quotationTotal": 887362.75,
-  "orderCount": 106,
-  "orderTotal": 923599.45,
+  "orderCount": 105,
+  "orderTotal": 922899.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 13,
-      "outstanding": 34295.0,
-      "total": 34295.0
+      "count": 12,
+      "outstanding": 33595.0,
+      "total": 33595.0
     }
   ],
   "quotations": [
@@ -547,25 +547,6 @@
           "name": "[70110] paper plates 9 inch 100pcs",
           "qty": 24.0,
           "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 394,
-      "ref": "S00395",
-      "kind": "order",
-      "customer": "police ayya b.eydhafushi",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 700.0,
-      "settled": 0.0,
-      "outstanding": 700.0,
-      "lines": [
-        {
-          "name": "[01011] Paper straw 12 mm 50 pcs",
-          "qty": 20.0,
-          "total": 700.0
         }
       ]
     },

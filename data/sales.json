@@ -14816,14 +14816,14 @@
     },
     {
       "date": "2026-09-29",
-      "generatedAt": "2026-09-29T17:30:57Z",
+      "generatedAt": "2026-09-29T17:45:38Z",
       "pos": {
         "total": 420.0,
         "count": 5
       },
       "regularSales": {
-        "total": 11465.0,
-        "count": 8
+        "total": 12165.0,
+        "count": 9
       },
       "pendingQuotations": {
         "total": 26807.0,
@@ -14834,8 +14834,8 @@
         "count": 8
       },
       "transfer": {
-        "total": 8477.0,
-        "count": 5
+        "total": 9177.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -15013,6 +15013,22 @@
               "name": "Paper Plate 9'' 100pcs Bundle",
               "qty": 24.0,
               "total": 1160.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00263",
+          "customer": "police ayya b.eydhafushi",
+          "amount": 700.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[01011] Paper straw 12 mm 50 pcs",
+              "qty": 20.0,
+              "total": 700.0
             }
           ]
         },
