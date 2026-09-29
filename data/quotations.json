@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T09:02:36Z",
+  "generatedAt": "2026-09-29T09:15:56Z",
   "openCount": 162,
-  "openTotal": 1764131.2,
+  "openTotal": 1764724.2,
   "quotationCount": 60,
-  "quotationTotal": 846699.75,
+  "quotationTotal": 847292.75,
   "orderCount": 102,
   "orderTotal": 917431.45,
   "days": [
@@ -210,8 +210,8 @@
     {
       "date": "2026-09-29",
       "count": 7,
-      "outstanding": 18654.0,
-      "total": 18654.0
+      "outstanding": 19247.0,
+      "total": 19247.0
     }
   ],
   "quotations": [
@@ -223,9 +223,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-29",
       "expires": "2026-10-29",
-      "total": 5874.0,
+      "total": 6467.0,
       "settled": 0.0,
-      "outstanding": 5874.0,
+      "outstanding": 6467.0,
       "lines": [
         {
           "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
@@ -266,6 +266,16 @@
           "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
           "qty": 2.0,
           "total": 830.0
+        },
+        {
+          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+          "qty": 1.0,
+          "total": 329.0
+        },
+        {
+          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
         }
       ]
     },
