@@ -14816,10 +14816,10 @@
     },
     {
       "date": "2026-09-29",
-      "generatedAt": "2026-09-29T11:30:52Z",
+      "generatedAt": "2026-09-29T11:45:40Z",
       "pos": {
-        "total": 175.0,
-        "count": 1
+        "total": 275.0,
+        "count": 2
       },
       "regularSales": {
         "total": 3255.0,
@@ -14834,8 +14834,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 1715.0,
-        "count": 2
+        "total": 1815.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -14970,6 +14970,22 @@
               "name": "[2268] Tooth Pick",
               "qty": 12.0,
               "total": 120.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000250",
+          "customer": "Walk-in",
+          "amount": 100.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "16:32",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[09884] Wooden Hanger 5pcs",
+              "qty": 5.0,
+              "total": 100.0
             }
           ]
         }
