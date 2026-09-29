@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T08:31:15Z",
+  "generatedAt": "2026-09-29T08:45:51Z",
   "openCount": 161,
-  "openTotal": 1796657.2,
+  "openTotal": 1793807.2,
   "quotationCount": 59,
-  "quotationTotal": 879225.75,
+  "quotationTotal": 876375.75,
   "orderCount": 102,
   "orderTotal": 917431.45,
   "days": [
@@ -210,8 +210,8 @@
     {
       "date": "2026-09-29",
       "count": 6,
-      "outstanding": 15630.0,
-      "total": 15630.0
+      "outstanding": 12780.0,
+      "total": 12780.0
     }
   ],
   "quotations": [
@@ -223,14 +223,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-29",
       "expires": "2026-10-29",
-      "total": 8550.0,
+      "total": 5700.0,
       "settled": 0.0,
-      "outstanding": 8550.0,
+      "outstanding": 5700.0,
       "lines": [
         {
           "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 3.0,
-          "total": 8550.0
+          "qty": 2.0,
+          "total": 5700.0
         }
       ]
     },
