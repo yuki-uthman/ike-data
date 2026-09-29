@@ -14816,14 +14816,14 @@
     },
     {
       "date": "2026-09-29",
-      "generatedAt": "2026-09-29T10:30:55Z",
+      "generatedAt": "2026-09-29T10:45:38Z",
       "pos": {
         "total": 175.0,
         "count": 1
       },
       "regularSales": {
-        "total": 2095.0,
-        "count": 4
+        "total": 3255.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 24797.0,
@@ -14834,8 +14834,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 555.0,
-        "count": 1
+        "total": 1715.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -14855,6 +14855,22 @@
               "name": "[70110] paper plates 9 inch 100pcs",
               "qty": 24.0,
               "total": 1200.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00259",
+          "customer": "Snap Buy",
+          "amount": 1160.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Paper Plate 9'' 100pcs Bundle",
+              "qty": 24.0,
+              "total": 1160.0
             }
           ]
         },
