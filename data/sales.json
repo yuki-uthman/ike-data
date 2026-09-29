@@ -14816,22 +14816,22 @@
     },
     {
       "date": "2026-09-29",
-      "generatedAt": "2026-09-29T04:31:27Z",
+      "generatedAt": "2026-09-29T04:45:37Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1200.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 1998.0,
+        "count": 1
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 1200.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -14841,7 +14841,24 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00255",
+          "customer": "Bluebell Solutions Pvt Ltd",
+          "amount": 1200.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70110] paper plates 9 inch 100pcs",
+              "qty": 24.0,
+              "total": 1200.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -14849,7 +14866,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 9092.0,
-        "expectedClosing": 9092.0,
+        "expectedClosing": 10292.0,
         "counted": null,
         "difference": null,
         "closed": false,
