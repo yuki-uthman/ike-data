@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T12:45:39Z",
+  "generatedAt": "2026-09-29T13:01:15Z",
   "cash": {
-    "total": 1775.0,
-    "count": 6
+    "total": 3323.0,
+    "count": 7
   },
   "transfer": {
     "total": 1815.0,
@@ -16,6 +16,37 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00260",
+      "customer": "Sales",
+      "amount": 1548.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70045] Kids slipper",
+          "qty": 12.0,
+          "total": 828.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 20.0,
+          "total": 200.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00255",
       "customer": "Bluebell Solutions Pvt Ltd",
@@ -200,8 +231,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 1775.0
+      "count": 7,
+      "total": 3323.0
     },
     {
       "name": "Bank",
@@ -223,7 +254,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 9092.0,
-    "expectedClosing": 10867.0,
+    "expectedClosing": 12415.0,
     "counted": null,
     "difference": null,
     "closed": false,

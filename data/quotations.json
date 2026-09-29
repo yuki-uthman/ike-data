@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-29T12:45:56Z",
-  "openCount": 164,
-  "openTotal": 1807714.2,
+  "generatedAt": "2026-09-29T13:01:26Z",
+  "openCount": 165,
+  "openTotal": 1809262.2,
   "quotationCount": 61,
   "quotationTotal": 890062.75,
-  "orderCount": 103,
-  "orderTotal": 917651.45,
+  "orderCount": 104,
+  "orderTotal": 919199.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 10,
-      "outstanding": 28347.0,
-      "total": 28347.0
+      "count": 11,
+      "outstanding": 29895.0,
+      "total": 29895.0
     }
   ],
   "quotations": [
@@ -465,6 +465,40 @@
           "name": "[70175] 51 Warehouse Rack White Medium",
           "qty": 1.0,
           "total": 1800.0
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "ref": "S00392",
+      "kind": "order",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-29",
+      "expires": "2026-10-29",
+      "total": 1548.0,
+      "settled": 0.0,
+      "outstanding": 1548.0,
+      "lines": [
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 20.0,
+          "total": 200.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        },
+        {
+          "name": "[70045] Kids slipper",
+          "qty": 12.0,
+          "total": 828.0
         }
       ]
     },
