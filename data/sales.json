@@ -15201,10 +15201,10 @@
     },
     {
       "date": "2026-09-30",
-      "generatedAt": "2026-09-30T16:30:55Z",
+      "generatedAt": "2026-09-30T16:45:34Z",
       "pos": {
-        "total": 1612.0,
-        "count": 8
+        "total": 1630.0,
+        "count": 9
       },
       "regularSales": {
         "total": 50789.0,
@@ -15215,8 +15215,8 @@
         "count": 4
       },
       "cash": {
-        "total": 5336.0,
-        "count": 12
+        "total": 5354.0,
+        "count": 13
       },
       "transfer": {
         "total": 47065.0,
@@ -15744,6 +15744,22 @@
               "total": 29.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000262",
+          "customer": "Walk-in",
+          "amount": 18.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:42",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70065] Sponges 5pcs YQE07",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -15761,7 +15777,7 @@
       ],
       "till": {
         "opening": 12460.0,
-        "expectedClosing": 6796.0,
+        "expectedClosing": 6814.0,
         "counted": null,
         "difference": null,
         "closed": false,
