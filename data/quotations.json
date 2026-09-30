@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T11:45:47Z",
-  "openCount": 165,
-  "openTotal": 1771747.2,
-  "quotationCount": 55,
-  "quotationTotal": 843817.75,
+  "generatedAt": "2026-09-30T12:01:54Z",
+  "openCount": 167,
+  "openTotal": 1784217.2,
+  "quotationCount": 57,
+  "quotationTotal": 856287.75,
   "orderCount": 110,
   "orderTotal": 927929.45,
   "days": [
@@ -215,12 +215,31 @@
     },
     {
       "date": "2026-09-30",
-      "count": 6,
-      "outstanding": 5810.0,
-      "total": 5810.0
+      "count": 8,
+      "outstanding": 18280.0,
+      "total": 18280.0
     }
   ],
   "quotations": [
+    {
+      "id": 402,
+      "ref": "S00403",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 11750.0,
+      "settled": 0.0,
+      "outstanding": 11750.0,
+      "lines": [
+        {
+          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "qty": 5.0,
+          "total": 11750.0
+        }
+      ]
+    },
     {
       "id": 395,
       "ref": "S00396",
@@ -280,6 +299,25 @@
           "name": "[5000311241456] Tea Powder Al-Kabous 454g",
           "qty": 3.0,
           "total": 780.0
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "ref": "S00402",
+      "kind": "quotation",
+      "customer": "OCEANO MALDIVES PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 720.0,
+      "settled": 0.0,
+      "outstanding": 720.0,
+      "lines": [
+        {
+          "name": "[65356] Tool Box X1",
+          "qty": 12.0,
+          "total": 720.0
         }
       ]
     },
