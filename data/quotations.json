@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T11:01:12Z",
-  "openCount": 164,
-  "openTotal": 1771327.2,
+  "generatedAt": "2026-09-30T11:15:55Z",
+  "openCount": 165,
+  "openTotal": 1771747.2,
   "quotationCount": 55,
   "quotationTotal": 843817.75,
-  "orderCount": 109,
-  "orderTotal": 927509.45,
+  "orderCount": 110,
+  "orderTotal": 927929.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,9 +215,9 @@
     },
     {
       "date": "2026-09-30",
-      "count": 5,
-      "outstanding": 5390.0,
-      "total": 5390.0
+      "count": 6,
+      "outstanding": 5810.0,
+      "total": 5810.0
     }
   ],
   "quotations": [
@@ -280,6 +280,25 @@
           "name": "[5000311241456] Tea Powder Al-Kabous 454g",
           "qty": 3.0,
           "total": 780.0
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "ref": "S00401",
+      "kind": "order",
+      "customer": "ASRAFEE BOOKSHOP",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 420.0,
+      "settled": 0.0,
+      "outstanding": 420.0,
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 30.0,
+          "total": 420.0
         }
       ]
     },

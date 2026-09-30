@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T11:01:04Z",
+  "generatedAt": "2026-09-30T11:15:41Z",
   "cash": {
-    "total": 1884.0,
-    "count": 6
+    "total": 2304.0,
+    "count": 7
   },
   "transfer": {
     "total": 44325.0,
@@ -239,6 +239,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00273",
+      "customer": "ASRAFEE BOOKSHOP",
+      "amount": 420.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 30.0,
+          "total": 420.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00271",
       "customer": "United Huvadhoo Holding PVT LTD",
       "amount": 300.0,
@@ -349,18 +365,26 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 1884.0
+      "count": 7,
+      "total": 2304.0
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 11000.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Owner's drawing  \u00b7 Uthman",
+      "amount": 11000.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:07"
+    }
+  ],
   "till": {
     "opening": 12460.0,
-    "expectedClosing": 14344.0,
+    "expectedClosing": 3764.0,
     "counted": null,
     "difference": null,
     "closed": false,
