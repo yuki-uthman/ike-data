@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T17:15:39Z",
+  "generatedAt": "2026-09-30T17:30:54Z",
   "cash": {
-    "total": 5414.0,
-    "count": 14
+    "total": 5486.0,
+    "count": 16
   },
   "transfer": {
     "total": 47065.0,
@@ -535,6 +535,43 @@
       ]
     },
     {
+      "ref": "Ike - 000264",
+      "customer": "Walk-in",
+      "amount": 42.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:19",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70083] Towel",
+          "qty": 3.0,
+          "total": 24.0
+        },
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 2.0,
+          "total": 18.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000265",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:27",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 2.0,
+          "total": 30.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000254",
       "customer": "Walk-in",
       "amount": 29.0,
@@ -577,8 +614,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 14,
-      "total": 5414.0
+      "count": 16,
+      "total": 5486.0
     },
     {
       "name": "Bank Transfer",
@@ -602,7 +639,7 @@
   ],
   "till": {
     "opening": 12460.0,
-    "expectedClosing": 6874.0,
+    "expectedClosing": 6946.0,
     "counted": null,
     "difference": null,
     "closed": false,
