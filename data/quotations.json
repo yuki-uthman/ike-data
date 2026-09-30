@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T12:01:54Z",
-  "openCount": 167,
-  "openTotal": 1784217.2,
-  "quotationCount": 57,
-  "quotationTotal": 856287.75,
-  "orderCount": 110,
-  "orderTotal": 927929.45,
+  "generatedAt": "2026-09-30T12:15:47Z",
+  "openCount": 169,
+  "openTotal": 1784551.2,
+  "quotationCount": 58,
+  "quotationTotal": 856567.75,
+  "orderCount": 111,
+  "orderTotal": 927983.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,9 +215,9 @@
     },
     {
       "date": "2026-09-30",
-      "count": 8,
-      "outstanding": 18280.0,
-      "total": 18280.0
+      "count": 10,
+      "outstanding": 18614.0,
+      "total": 18614.0
     }
   ],
   "quotations": [
@@ -365,6 +365,25 @@
       ]
     },
     {
+      "id": 405,
+      "ref": "S00406",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 280.0,
+      "settled": 0.0,
+      "outstanding": 280.0,
+      "lines": [
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        }
+      ]
+    },
+    {
       "id": 396,
       "ref": "S00397",
       "kind": "order",
@@ -380,6 +399,25 @@
           "name": "Top Kokoa Hokkaido White Chocolate 1kg",
           "qty": 1.0,
           "total": 250.0
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "ref": "S00405",
+      "kind": "order",
+      "customer": "Poise perfume",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 54.0,
+      "settled": 0.0,
+      "outstanding": 54.0,
+      "lines": [
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 6.0,
+          "total": 54.0
         }
       ]
     },
