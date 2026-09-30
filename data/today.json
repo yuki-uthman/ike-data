@@ -2,21 +2,60 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T04:15:37Z",
+  "generatedAt": "2026-09-30T04:30:50Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 3410.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "INV/2026/00264",
+      "customer": "Aguma Trade A-6",
+      "amount": 3410.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 5.0,
+          "total": 1500.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 2.0,
+          "total": 720.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 2.0,
+          "total": 600.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 2.0,
+          "total": 590.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 3410.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0

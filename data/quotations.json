@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T04:15:46Z",
-  "openCount": 165,
-  "openTotal": 1810262.2,
-  "quotationCount": 60,
-  "quotationTotal": 887362.75,
+  "generatedAt": "2026-09-30T04:31:01Z",
+  "openCount": 164,
+  "openTotal": 1806852.2,
+  "quotationCount": 59,
+  "quotationTotal": 883952.75,
   "orderCount": 105,
   "orderTotal": 922899.45,
   "days": [
@@ -209,9 +209,9 @@
     },
     {
       "date": "2026-09-29",
-      "count": 12,
-      "outstanding": 33595.0,
-      "total": 33595.0
+      "count": 11,
+      "outstanding": 30185.0,
+      "total": 30185.0
     },
     {
       "date": "2026-09-30",
@@ -369,40 +369,6 @@
           "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
           "qty": 1.0,
           "total": 3460.0
-        }
-      ]
-    },
-    {
-      "id": 388,
-      "ref": "S00389",
-      "kind": "quotation",
-      "customer": "Aguma Trade A-6",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 3410.0,
-      "settled": 0.0,
-      "outstanding": 3410.0,
-      "lines": [
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 2.0,
-          "total": 720.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 5.0,
-          "total": 1500.0
-        },
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 2.0,
-          "total": 590.0
-        },
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 2.0,
-          "total": 600.0
         }
       ]
     },
