@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T10:31:09Z",
-  "openCount": 164,
-  "openTotal": 1779367.2,
-  "quotationCount": 57,
-  "quotationTotal": 853357.75,
-  "orderCount": 107,
-  "orderTotal": 926009.45,
+  "generatedAt": "2026-09-30T10:45:52Z",
+  "openCount": 163,
+  "openTotal": 1775907.2,
+  "quotationCount": 55,
+  "quotationTotal": 844117.75,
+  "orderCount": 108,
+  "orderTotal": 931789.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -197,9 +197,9 @@
     },
     {
       "date": "2026-09-27",
-      "count": 8,
-      "outstanding": 213565.0,
-      "total": 213565.0
+      "count": 7,
+      "outstanding": 207785.0,
+      "total": 207785.0
     },
     {
       "date": "2026-09-28",
@@ -209,18 +209,47 @@
     },
     {
       "date": "2026-09-29",
-      "count": 9,
-      "outstanding": 19710.0,
-      "total": 19710.0
+      "count": 8,
+      "outstanding": 16250.0,
+      "total": 16250.0
     },
     {
       "date": "2026-09-30",
-      "count": 3,
-      "outstanding": 4190.0,
-      "total": 4190.0
+      "count": 4,
+      "outstanding": 9970.0,
+      "total": 9970.0
     }
   ],
   "quotations": [
+    {
+      "id": 369,
+      "ref": "S00370",
+      "kind": "order",
+      "customer": "Bandahage PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-27",
+      "total": 5780.0,
+      "settled": 0.0,
+      "outstanding": 5780.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-SHTOP-700] RD8 Gray Shelf Top 700x300mm",
+          "qty": 4.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
+          "qty": 12.0,
+          "total": 4680.0
+        },
+        {
+          "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
+          "qty": 32.0,
+          "total": 0.0
+        }
+      ]
+    },
     {
       "id": 395,
       "ref": "S00396",
@@ -338,25 +367,6 @@
           "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
           "qty": 1.0,
           "total": 1100.0
-        }
-      ]
-    },
-    {
-      "id": 389,
-      "ref": "S00390",
-      "kind": "quotation",
-      "customer": "Scent Investment Private Limited",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 3460.0,
-      "settled": 0.0,
-      "outstanding": 3460.0,
-      "lines": [
-        {
-          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
-          "qty": 1.0,
-          "total": 3460.0
         }
       ]
     },
@@ -723,35 +733,6 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 22.0,
           "total": 550.0
-        }
-      ]
-    },
-    {
-      "id": 369,
-      "ref": "S00370",
-      "kind": "quotation",
-      "customer": "Bandahage PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-27",
-      "expires": "2026-10-27",
-      "total": 5780.0,
-      "settled": 0.0,
-      "outstanding": 5780.0,
-      "lines": [
-        {
-          "name": "[RD8-GRY-SHTOP-700] RD8 Gray Shelf Top 700x300mm",
-          "qty": 4.0,
-          "total": 1100.0
-        },
-        {
-          "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
-          "qty": 12.0,
-          "total": 4680.0
-        },
-        {
-          "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
-          "qty": 32.0,
-          "total": 0.0
         }
       ]
     },

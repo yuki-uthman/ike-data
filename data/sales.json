@@ -15201,14 +15201,14 @@
     },
     {
       "date": "2026-09-30",
-      "generatedAt": "2026-09-30T10:30:52Z",
+      "generatedAt": "2026-09-30T10:45:40Z",
       "pos": {
         "total": 134.0,
         "count": 3
       },
       "regularSales": {
-        "total": 35335.0,
-        "count": 5
+        "total": 38795.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 1080.0,
@@ -15219,8 +15219,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 35085.0,
-        "count": 4
+        "total": 38545.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -15326,6 +15326,22 @@
               "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
               "qty": 1.0,
               "total": 264.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00269",
+          "customer": "Scent Investment Private Limited",
+          "amount": 3460.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+              "qty": 1.0,
+              "total": 3460.0
             }
           ]
         },
