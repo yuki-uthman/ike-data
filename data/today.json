@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T15:45:37Z",
+  "generatedAt": "2026-09-30T16:01:14Z",
   "cash": {
-    "total": 2548.0,
-    "count": 10
+    "total": 2876.0,
+    "count": 11
   },
   "transfer": {
     "total": 47065.0,
@@ -303,6 +303,32 @@
       ]
     },
     {
+      "ref": "Ike - 000261",
+      "customer": "Walk-in",
+      "amount": 328.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:54",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[53825] Fork Flatware Ss#6 Green",
+          "qty": 2.0,
+          "total": 116.0
+        },
+        {
+          "name": "[10731] Spoon Big Flatware Ss#5 Green",
+          "qty": 2.0,
+          "total": 116.0
+        },
+        {
+          "name": "[25084] Spoon Small Flatware Ss#7 Green",
+          "qty": 3.0,
+          "total": 96.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00271",
       "customer": "United Huvadhoo Holding PVT LTD",
       "amount": 300.0,
@@ -503,8 +529,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 10,
-      "total": 2548.0
+      "count": 11,
+      "total": 2876.0
     },
     {
       "name": "Bank Transfer",
@@ -528,7 +554,7 @@
   ],
   "till": {
     "opening": 12460.0,
-    "expectedClosing": 4008.0,
+    "expectedClosing": 4336.0,
     "counted": null,
     "difference": null,
     "closed": false,
