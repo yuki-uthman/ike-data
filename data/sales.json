@@ -15201,10 +15201,10 @@
     },
     {
       "date": "2026-09-30",
-      "generatedAt": "2026-09-30T08:30:53Z",
+      "generatedAt": "2026-09-30T08:45:38Z",
       "pos": {
-        "total": 86.0,
-        "count": 2
+        "total": 134.0,
+        "count": 3
       },
       "regularSales": {
         "total": 14135.0,
@@ -15215,8 +15215,8 @@
         "count": 0
       },
       "cash": {
-        "total": 336.0,
-        "count": 3
+        "total": 384.0,
+        "count": 4
       },
       "transfer": {
         "total": 13885.0,
@@ -15408,6 +15408,32 @@
           ]
         },
         {
+          "ref": "Ike - 000256",
+          "customer": "Walk-in",
+          "amount": 48.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
+              "qty": 2.0,
+              "total": 20.0
+            },
+            {
+              "name": "[53824] Fork Flatware Ss #6 Green (loose pc)",
+              "qty": 2.0,
+              "total": 20.0
+            },
+            {
+              "name": "[42688] Spoon small flatware Ss#3 Red",
+              "qty": 1.0,
+              "total": 8.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000254",
           "customer": "Walk-in",
           "amount": 29.0,
@@ -15431,7 +15457,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 12460.0,
-        "expectedClosing": 12796.0,
+        "expectedClosing": 12844.0,
         "counted": null,
         "difference": null,
         "closed": false,

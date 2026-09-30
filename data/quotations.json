@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T08:31:11Z",
+  "generatedAt": "2026-09-30T08:45:46Z",
   "openCount": 164,
   "openTotal": 1799487.2,
-  "quotationCount": 57,
-  "quotationTotal": 873477.75,
-  "orderCount": 107,
-  "orderTotal": 926009.45,
+  "quotationCount": 56,
+  "quotationTotal": 852277.75,
+  "orderCount": 108,
+  "orderTotal": 947209.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -197,9 +197,9 @@
     },
     {
       "date": "2026-09-27",
-      "count": 9,
-      "outstanding": 234765.0,
-      "total": 234765.0
+      "count": 8,
+      "outstanding": 213565.0,
+      "total": 213565.0
     },
     {
       "date": "2026-09-28",
@@ -215,12 +215,36 @@
     },
     {
       "date": "2026-09-30",
-      "count": 2,
-      "outstanding": 3110.0,
-      "total": 3110.0
+      "count": 3,
+      "outstanding": 24310.0,
+      "total": 24310.0
     }
   ],
   "quotations": [
+    {
+      "id": 368,
+      "ref": "S00369",
+      "kind": "order",
+      "customer": "Vision Bookshop",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-27",
+      "total": 21200.0,
+      "settled": 0.0,
+      "outstanding": 21200.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-DSF-1550-X01] #RD8 White Double Side Flat 1550mm x1",
+          "qty": 2.0,
+          "total": 6000.0
+        },
+        {
+          "name": "37 White Single Side 2400mm",
+          "qty": 4.0,
+          "total": 15200.0
+        }
+      ]
+    },
     {
       "id": 395,
       "ref": "S00396",
@@ -665,30 +689,6 @@
           "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
           "qty": 5.0,
           "total": 3950.0
-        }
-      ]
-    },
-    {
-      "id": 368,
-      "ref": "S00369",
-      "kind": "quotation",
-      "customer": "Vision Bookshop",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-27",
-      "expires": "2026-10-27",
-      "total": 21200.0,
-      "settled": 0.0,
-      "outstanding": 21200.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-DSF-1550-X01] #RD8 White Double Side Flat 1550mm x1",
-          "qty": 2.0,
-          "total": 6000.0
-        },
-        {
-          "name": "37 White Single Side 2400mm",
-          "qty": 4.0,
-          "total": 15200.0
         }
       ]
     },
