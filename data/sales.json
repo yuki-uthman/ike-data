@@ -15201,22 +15201,22 @@
     },
     {
       "date": "2026-09-30",
-      "generatedAt": "2026-09-30T16:15:39Z",
+      "generatedAt": "2026-09-30T16:30:55Z",
       "pos": {
         "total": 1612.0,
         "count": 8
       },
       "regularSales": {
-        "total": 48329.0,
-        "count": 14
+        "total": 50789.0,
+        "count": 15
       },
       "pendingQuotations": {
         "total": 92350.0,
         "count": 4
       },
       "cash": {
-        "total": 2876.0,
-        "count": 11
+        "total": 5336.0,
+        "count": 12
       },
       "transfer": {
         "total": 47065.0,
@@ -15399,6 +15399,22 @@
               "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
               "qty": 2.0,
               "total": 590.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00278",
+          "customer": "Sales",
+          "amount": 2460.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2169RED] PLASTIC CHAIR Red #2169",
+              "qty": 12.0,
+              "total": 2460.0
             }
           ]
         },
@@ -15745,7 +15761,7 @@
       ],
       "till": {
         "opening": 12460.0,
-        "expectedClosing": 4336.0,
+        "expectedClosing": 6796.0,
         "counted": null,
         "difference": null,
         "closed": false,

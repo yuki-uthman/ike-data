@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T16:15:49Z",
-  "openCount": 167,
-  "openTotal": 1863371.2,
+  "generatedAt": "2026-09-30T16:31:07Z",
+  "openCount": 168,
+  "openTotal": 1865831.2,
   "quotationCount": 56,
   "quotationTotal": 935387.75,
-  "orderCount": 111,
-  "orderTotal": 927983.45,
+  "orderCount": 112,
+  "orderTotal": 930443.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,9 +215,9 @@
     },
     {
       "date": "2026-09-30",
-      "count": 8,
-      "outstanding": 97434.0,
-      "total": 97434.0
+      "count": 9,
+      "outstanding": 99894.0,
+      "total": 99894.0
     }
   ],
   "quotations": [
@@ -290,6 +290,25 @@
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 10.0,
           "total": 2200.0
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "ref": "S00409",
+      "kind": "order",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 2460.0,
+      "settled": 0.0,
+      "outstanding": 2460.0,
+      "lines": [
+        {
+          "name": "[2169RED] PLASTIC CHAIR Red #2169",
+          "qty": 12.0,
+          "total": 2460.0
         }
       ]
     },
