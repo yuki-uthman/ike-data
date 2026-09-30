@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T17:30:54Z",
+  "generatedAt": "2026-09-30T17:45:37Z",
   "cash": {
     "total": 5486.0,
     "count": 16
@@ -625,8 +625,8 @@
     }
   ],
   "cashOut": {
-    "total": 11000.0,
-    "count": 1
+    "total": 11010.0,
+    "count": 2
   },
   "cashOutTransactions": [
     {
@@ -635,11 +635,18 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "16:07"
+    },
+    {
+      "reason": "Gate pass  \u00b7 staff = Zubaid",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:43"
     }
   ],
   "till": {
     "opening": 12460.0,
-    "expectedClosing": 6946.0,
+    "expectedClosing": 6936.0,
     "counted": null,
     "difference": null,
     "closed": false,

@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T17:31:04Z",
+  "generatedAt": "2026-09-30T17:45:47Z",
   "openCount": 168,
-  "openTotal": 1865831.2,
+  "openTotal": 1864831.2,
   "quotationCount": 56,
-  "quotationTotal": 935387.75,
+  "quotationTotal": 934387.75,
   "orderCount": 112,
   "orderTotal": 930443.45,
   "days": [
@@ -216,8 +216,8 @@
     {
       "date": "2026-09-30",
       "count": 9,
-      "outstanding": 99894.0,
-      "total": 99894.0
+      "outstanding": 98894.0,
+      "total": 98894.0
     }
   ],
   "quotations": [
@@ -229,14 +229,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-30",
       "expires": "2026-10-30",
-      "total": 80600.0,
+      "total": 79600.0,
       "settled": 0.0,
-      "outstanding": 80600.0,
+      "outstanding": 79600.0,
       "lines": [
         {
           "name": "[RD8-WHT-DSP-1950-X05] #RD8 White Double Side Perforated 1950mm x5",
           "qty": 4.0,
-          "total": 66800.0
+          "total": 65800.0
         },
         {
           "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
