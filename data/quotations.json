@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T04:31:01Z",
+  "generatedAt": "2026-09-30T04:45:44Z",
   "openCount": 164,
   "openTotal": 1806852.2,
-  "quotationCount": 59,
-  "quotationTotal": 883952.75,
-  "orderCount": 105,
-  "orderTotal": 922899.45,
+  "quotationCount": 58,
+  "quotationTotal": 875475.75,
+  "orderCount": 106,
+  "orderTotal": 931376.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -209,25 +209,25 @@
     },
     {
       "date": "2026-09-29",
-      "count": 11,
-      "outstanding": 30185.0,
-      "total": 30185.0
+      "count": 10,
+      "outstanding": 21708.0,
+      "total": 21708.0
     },
     {
       "date": "2026-09-30",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 8477.0,
+      "total": 8477.0
     }
   ],
   "quotations": [
     {
       "id": 387,
       "ref": "S00388",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Sun Shine Arts",
       "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "expires": "2026-10-29",
       "total": 8477.0,
       "settled": 0.0,
