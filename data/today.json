@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T06:01:07Z",
+  "generatedAt": "2026-09-30T06:16:12Z",
   "cash": {
-    "total": 29.0,
-    "count": 1
+    "total": 86.0,
+    "count": 2
   },
   "transfer": {
     "total": 13885.0,
@@ -160,6 +160,27 @@
       ]
     },
     {
+      "ref": "Ike - 000255",
+      "customer": "Walk-in",
+      "amount": 57.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "11:15",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01618] Ceramic Bowl 9\" #6",
+          "qty": 1.0,
+          "total": 32.0
+        },
+        {
+          "name": "[01613] Creamic Bowl 7\"#1",
+          "qty": 1.0,
+          "total": 25.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000254",
       "customer": "Walk-in",
       "amount": 29.0,
@@ -186,8 +207,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 29.0
+      "count": 2,
+      "total": 86.0
     }
   ],
   "cashOut": {
@@ -197,7 +218,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 12460.0,
-    "expectedClosing": 12489.0,
+    "expectedClosing": 12546.0,
     "counted": null,
     "difference": null,
     "closed": false,
