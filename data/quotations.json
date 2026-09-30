@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T04:45:44Z",
-  "openCount": 164,
-  "openTotal": 1806852.2,
+  "generatedAt": "2026-09-30T05:02:33Z",
+  "openCount": 163,
+  "openTotal": 1798375.2,
   "quotationCount": 58,
   "quotationTotal": 875475.75,
-  "orderCount": 106,
-  "orderTotal": 931376.45,
+  "orderCount": 105,
+  "orderTotal": 922899.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,96 +215,12 @@
     },
     {
       "date": "2026-09-30",
-      "count": 1,
-      "outstanding": 8477.0,
-      "total": 8477.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 387,
-      "ref": "S00388",
-      "kind": "order",
-      "customer": "Sun Shine Arts",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-29",
-      "total": 8477.0,
-      "settled": 0.0,
-      "outstanding": 8477.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 3.0,
-          "total": 900.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 3.0,
-          "total": 1017.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 3.0,
-          "total": 1017.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 2.0,
-          "total": 720.0
-        },
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 2.0,
-          "total": 720.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
-          "qty": 2.0,
-          "total": 360.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 2.0,
-          "total": 310.0
-        },
-        {
-          "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
-          "qty": 2.0,
-          "total": 830.0
-        },
-        {
-          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
-          "qty": 1.0,
-          "total": 329.0
-        },
-        {
-          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
-          "qty": 1.0,
-          "total": 264.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        },
-        {
-          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
-          "qty": 2.0,
-          "total": 920.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        }
-      ]
-    },
     {
       "id": 383,
       "ref": "S00384",
