@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T05:45:44Z",
-  "openCount": 163,
-  "openTotal": 1798375.2,
+  "generatedAt": "2026-09-30T06:01:20Z",
+  "openCount": 162,
+  "openTotal": 1796377.2,
   "quotationCount": 57,
   "quotationTotal": 873477.75,
-  "orderCount": 106,
-  "orderTotal": 924897.45,
+  "orderCount": 105,
+  "orderTotal": 922899.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,46 +215,12 @@
     },
     {
       "date": "2026-09-30",
-      "count": 1,
-      "outstanding": 1998.0,
-      "total": 1998.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 381,
-      "ref": "S00382",
-      "kind": "order",
-      "customer": "Linseed",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-29",
-      "total": 1998.0,
-      "settled": 0.0,
-      "outstanding": 1998.0,
-      "lines": [
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 2.0,
-          "total": 678.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 2.0,
-          "total": 600.0
-        },
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        }
-      ]
-    },
     {
       "id": 383,
       "ref": "S00384",
