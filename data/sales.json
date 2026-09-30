@@ -15201,26 +15201,26 @@
     },
     {
       "date": "2026-09-30",
-      "generatedAt": "2026-09-30T10:45:40Z",
+      "generatedAt": "2026-09-30T11:01:04Z",
       "pos": {
         "total": 134.0,
         "count": 3
       },
       "regularSales": {
-        "total": 38795.0,
-        "count": 6
+        "total": 46075.0,
+        "count": 9
       },
       "pendingQuotations": {
-        "total": 1080.0,
-        "count": 1
+        "total": 780.0,
+        "count": 2
       },
       "cash": {
-        "total": 384.0,
-        "count": 4
+        "total": 1884.0,
+        "count": 6
       },
       "transfer": {
-        "total": 38545.0,
-        "count": 5
+        "total": 44325.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -15330,6 +15330,32 @@
           ]
         },
         {
+          "ref": "INV/2026/00270",
+          "customer": "Bandahage PVT LTD",
+          "amount": 5780.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
+              "qty": 12.0,
+              "total": 4680.0
+            },
+            {
+              "name": "[RD8-GRY-SHTOP-700] RD8 Gray Shelf Top 700x300mm",
+              "qty": 4.0,
+              "total": 1100.0
+            },
+            {
+              "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
+              "qty": 32.0,
+              "total": 0.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00269",
           "customer": "Scent Investment Private Limited",
           "amount": 3460.0,
@@ -15404,6 +15430,43 @@
               "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
               "qty": 1.0,
               "total": 360.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00272",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1200.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+              "qty": 1.0,
+              "total": 1200.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00271",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 300.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70099] Cake Cup Paper 8.5cm 1000pcs",
+              "qty": 4.0,
+              "total": 280.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
             }
           ]
         },
@@ -15494,7 +15557,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 12460.0,
-        "expectedClosing": 12844.0,
+        "expectedClosing": 14344.0,
         "counted": null,
         "difference": null,
         "closed": false,
