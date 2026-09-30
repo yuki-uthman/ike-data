@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T16:01:25Z",
-  "openCount": 166,
-  "openTotal": 1782771.2,
-  "quotationCount": 55,
-  "quotationTotal": 854787.75,
+  "generatedAt": "2026-09-30T16:11:49Z",
+  "openCount": 167,
+  "openTotal": 1863371.2,
+  "quotationCount": 56,
+  "quotationTotal": 935387.75,
   "orderCount": 111,
   "orderTotal": 927983.45,
   "days": [
@@ -215,12 +215,41 @@
     },
     {
       "date": "2026-09-30",
-      "count": 7,
-      "outstanding": 16834.0,
-      "total": 16834.0
+      "count": 8,
+      "outstanding": 97434.0,
+      "total": 97434.0
     }
   ],
   "quotations": [
+    {
+      "id": 407,
+      "ref": "S00408",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 80600.0,
+      "settled": 0.0,
+      "outstanding": 80600.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-DSP-1950-X05] #RD8 White Double Side Perforated 1950mm x5",
+          "qty": 4.0,
+          "total": 66800.0
+        },
+        {
+          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+          "qty": 4.0,
+          "total": 7800.0
+        },
+        {
+          "name": "[70218] RD8 Price Border Strip  Green 900mm (875)",
+          "qty": 240.0,
+          "total": 6000.0
+        }
+      ]
+    },
     {
       "id": 402,
       "ref": "S00403",
