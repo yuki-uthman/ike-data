@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T11:15:41Z",
+  "generatedAt": "2026-09-30T11:30:51Z",
   "cash": {
     "total": 2304.0,
     "count": 7
   },
   "transfer": {
-    "total": 44325.0,
-    "count": 6
+    "total": 44430.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -292,6 +292,32 @@
       ]
     },
     {
+      "ref": "Ike - 000257",
+      "customer": "Walk-in",
+      "amount": 105.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "16:26",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02231] Wooden Fork 100pcs",
+          "qty": 1.0,
+          "total": 45.0
+        },
+        {
+          "name": "Paper Plate 7'' Bundle 50pcs",
+          "qty": 1.0,
+          "total": 40.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 1.0,
+          "total": 20.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000255",
       "customer": "Walk-in",
       "amount": 57.0,
@@ -367,6 +393,12 @@
       "method": "cash",
       "count": 7,
       "total": 2304.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 105.0
     }
   ],
   "cashOut": {
