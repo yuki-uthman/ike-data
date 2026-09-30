@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T12:45:40Z",
+  "generatedAt": "2026-09-30T13:01:11Z",
   "cash": {
     "total": 2548.0,
     "count": 10
   },
   "transfer": {
-    "total": 46210.0,
-    "count": 10
+    "total": 47065.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -235,6 +235,22 @@
           "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
           "qty": 1.0,
           "total": 1200.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000260",
+      "customer": "Walk-in",
+      "amount": 855.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:48",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02442] Sweet Box  25X10X4CM",
+          "qty": 95.0,
+          "total": 855.0
         }
       ]
     },
@@ -493,8 +509,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 105.0
+      "count": 2,
+      "total": 960.0
     }
   ],
   "cashOut": {
