@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T06:31:01Z",
-  "openCount": 163,
-  "openTotal": 1799237.2,
-  "quotationCount": 58,
-  "quotationTotal": 876337.75,
-  "orderCount": 105,
-  "orderTotal": 922899.45,
+  "generatedAt": "2026-09-30T06:45:50Z",
+  "openCount": 164,
+  "openTotal": 1799487.2,
+  "quotationCount": 57,
+  "quotationTotal": 873477.75,
+  "orderCount": 107,
+  "orderTotal": 926009.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,16 +215,16 @@
     },
     {
       "date": "2026-09-30",
-      "count": 1,
-      "outstanding": 2860.0,
-      "total": 2860.0
+      "count": 2,
+      "outstanding": 3110.0,
+      "total": 3110.0
     }
   ],
   "quotations": [
     {
       "id": 395,
       "ref": "S00396",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Sky Deck D-10",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-30",
@@ -242,6 +242,25 @@
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 10.0,
           "total": 2200.0
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "ref": "S00397",
+      "kind": "order",
+      "customer": "Ubuntu",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-09-30",
+      "expires": "2026-10-30",
+      "total": 250.0,
+      "settled": 0.0,
+      "outstanding": 250.0,
+      "lines": [
+        {
+          "name": "Top Kokoa Hokkaido White Chocolate 1kg",
+          "qty": 1.0,
+          "total": 250.0
         }
       ]
     },
