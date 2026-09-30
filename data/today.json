@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T15:30:58Z",
+  "generatedAt": "2026-09-30T15:45:37Z",
   "cash": {
     "total": 2548.0,
     "count": 10
@@ -272,7 +272,7 @@
     },
     {
       "ref": "INV/2026/00276",
-      "customer": "OCEANO MALDIVES PVT LTD",
+      "customer": "Oceano Maldives Pvt Ltd",
       "amount": 720.0,
       "method": "transfer",
       "rawMethod": "Bank",
@@ -288,7 +288,7 @@
     },
     {
       "ref": "INV/2026/00273",
-      "customer": "ASRAFEE BOOKSHOP",
+      "customer": "Asrafee Bookshop",
       "amount": 420.0,
       "method": "cash",
       "rawMethod": "Cash",
@@ -436,7 +436,7 @@
     },
     {
       "ref": "INV/2026/00274",
-      "customer": "Poise perfume",
+      "customer": "Poise Perfume",
       "amount": 54.0,
       "method": "cash",
       "rawMethod": "Cash",
