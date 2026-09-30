@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T16:45:34Z",
+  "generatedAt": "2026-09-30T17:01:13Z",
   "cash": {
-    "total": 5354.0,
-    "count": 13
+    "total": 5414.0,
+    "count": 14
   },
   "transfer": {
     "total": 47065.0,
@@ -456,6 +456,22 @@
       ]
     },
     {
+      "ref": "Ike - 000263",
+      "customer": "Walk-in",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:56",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 3.0,
+          "total": 60.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000255",
       "customer": "Walk-in",
       "amount": 57.0,
@@ -561,8 +577,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 13,
-      "total": 5354.0
+      "count": 14,
+      "total": 5414.0
     },
     {
       "name": "Bank Transfer",
@@ -586,7 +602,7 @@
   ],
   "till": {
     "opening": 12460.0,
-    "expectedClosing": 6814.0,
+    "expectedClosing": 6874.0,
     "counted": null,
     "difference": null,
     "closed": false,
