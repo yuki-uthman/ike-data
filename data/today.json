@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T12:30:52Z",
+  "generatedAt": "2026-09-30T12:45:40Z",
   "cash": {
-    "total": 2358.0,
-    "count": 8
+    "total": 2548.0,
+    "count": 10
   },
   "transfer": {
-    "total": 45430.0,
-    "count": 9
+    "total": 46210.0,
+    "count": 10
   },
   "other": {
     "total": 0,
@@ -239,6 +239,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00277",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 780.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[5000311241456] Tea Powder Al-Kabous 454g",
+          "qty": 3.0,
+          "total": 780.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00276",
       "customer": "OCEANO MALDIVES PVT LTD",
       "amount": 720.0,
@@ -350,6 +366,38 @@
       ]
     },
     {
+      "ref": "Ike - 000259",
+      "customer": "Walk-in",
+      "amount": 95.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:36",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01940] TOWEL 166-219 BATH 70X140CM",
+          "qty": 1.0,
+          "total": 95.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000258",
+      "customer": "Walk-in",
+      "amount": 95.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[04000] 400 ml clam shell box 50pcs",
+          "qty": 1.0,
+          "total": 95.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000255",
       "customer": "Walk-in",
       "amount": 57.0,
@@ -433,14 +481,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 45325.0
+      "count": 9,
+      "total": 46105.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 8,
-      "total": 2358.0
+      "count": 10,
+      "total": 2548.0
     },
     {
       "name": "Bank Transfer",
@@ -464,7 +512,7 @@
   ],
   "till": {
     "opening": 12460.0,
-    "expectedClosing": 3818.0,
+    "expectedClosing": 4008.0,
     "counted": null,
     "difference": null,
     "closed": false,
