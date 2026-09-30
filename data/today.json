@@ -2,20 +2,41 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T08:45:38Z",
+  "generatedAt": "2026-09-30T09:01:08Z",
   "cash": {
     "total": 384.0,
     "count": 4
   },
   "transfer": {
-    "total": 13885.0,
-    "count": 3
+    "total": 35085.0,
+    "count": 4
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00268",
+      "customer": "Vision Bookshop",
+      "amount": 21200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "37 White Single Side 2400mm",
+          "qty": 4.0,
+          "total": 15200.0
+        },
+        {
+          "name": "[RD8-WHT-DSF-1550-X01] #RD8 White Double Side Flat 1550mm x1",
+          "qty": 2.0,
+          "total": 6000.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00265",
       "customer": "Sun Shine Arts",
@@ -243,8 +264,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 13885.0
+      "count": 4,
+      "total": 35085.0
     },
     {
       "name": "Cash",

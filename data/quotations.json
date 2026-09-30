@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-09-30T08:45:46Z",
-  "openCount": 164,
-  "openTotal": 1799487.2,
+  "generatedAt": "2026-09-30T09:01:16Z",
+  "openCount": 163,
+  "openTotal": 1778287.2,
   "quotationCount": 56,
   "quotationTotal": 852277.75,
-  "orderCount": 108,
-  "orderTotal": 947209.45,
+  "orderCount": 107,
+  "orderTotal": 926009.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,36 +215,12 @@
     },
     {
       "date": "2026-09-30",
-      "count": 3,
-      "outstanding": 24310.0,
-      "total": 24310.0
+      "count": 2,
+      "outstanding": 3110.0,
+      "total": 3110.0
     }
   ],
   "quotations": [
-    {
-      "id": 368,
-      "ref": "S00369",
-      "kind": "order",
-      "customer": "Vision Bookshop",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-27",
-      "total": 21200.0,
-      "settled": 0.0,
-      "outstanding": 21200.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-DSF-1550-X01] #RD8 White Double Side Flat 1550mm x1",
-          "qty": 2.0,
-          "total": 6000.0
-        },
-        {
-          "name": "37 White Single Side 2400mm",
-          "qty": 4.0,
-          "total": 15200.0
-        }
-      ]
-    },
     {
       "id": 395,
       "ref": "S00396",
