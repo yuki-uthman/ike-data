@@ -2,20 +2,52 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-01",
-  "generatedAt": "2026-10-01T05:01:07Z",
+  "generatedAt": "2026-10-01T05:15:36Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 464.0,
+    "count": 1
   },
   "transfer": {
-    "total": 63.0,
-    "count": 1
+    "total": 1263.0,
+    "count": 2
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00280",
+      "customer": "Scent Investment Private Limited",
+      "amount": 1200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+          "qty": 1.0,
+          "total": 1200.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00281",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 464.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[A12B] Plastic Container A12 (Bundle)",
+          "qty": 4.0,
+          "total": 464.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00279",
       "customer": "Surf In Maldives Pvt Ltd",
@@ -37,8 +69,14 @@
     {
       "name": "Bank",
       "method": "transfer",
+      "count": 2,
+      "total": 1263.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
       "count": 1,
-      "total": 63.0
+      "total": 464.0
     }
   ],
   "cashOut": {
@@ -48,7 +86,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 6936.0,
-    "expectedClosing": 6936.0,
+    "expectedClosing": 7400.0,
     "counted": null,
     "difference": null,
     "closed": false,

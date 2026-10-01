@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-01T05:01:15Z",
+  "generatedAt": "2026-10-01T05:15:45Z",
   "openCount": 169,
-  "openTotal": 1866031.2,
+  "openTotal": 1865295.2,
   "quotationCount": 56,
   "quotationTotal": 934387.75,
   "orderCount": 113,
-  "orderTotal": 931643.45,
+  "orderTotal": 930907.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -222,27 +222,27 @@
     {
       "date": "2026-10-01",
       "count": 1,
-      "outstanding": 1200.0,
-      "total": 1200.0
+      "outstanding": 464.0,
+      "total": 464.0
     }
   ],
   "quotations": [
     {
-      "id": 409,
-      "ref": "S00410",
+      "id": 411,
+      "ref": "S00412",
       "kind": "order",
-      "customer": "Scent Investment Private Limited",
+      "customer": "United Huvadhoo Holding PVT LTD",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-01",
       "expires": "2026-10-31",
-      "total": 1200.0,
+      "total": 464.0,
       "settled": 0.0,
-      "outstanding": 1200.0,
+      "outstanding": 464.0,
       "lines": [
         {
-          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
-          "qty": 1.0,
-          "total": 1200.0
+          "name": "[A12B] Plastic Container A12 (Bundle)",
+          "qty": 4.0,
+          "total": 464.0
         }
       ]
     },
