@@ -15811,32 +15811,58 @@
     },
     {
       "date": "2026-10-01",
-      "generatedAt": "2026-10-01T06:01:07Z",
+      "generatedAt": "2026-10-01T06:15:36Z",
       "pos": {
         "total": 90.0,
         "count": 1
       },
       "regularSales": {
-        "total": 1727.0,
-        "count": 3
+        "total": 5612.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 464.0,
-        "count": 1
+        "total": 1664.0,
+        "count": 2
       },
       "transfer": {
-        "total": 1353.0,
-        "count": 3
+        "total": 4038.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00284",
+          "customer": "Dhivehige B-12",
+          "amount": 1585.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70182] Gas Burner ( High Pressure )",
+              "qty": 1.0,
+              "total": 800.0
+            },
+            {
+              "name": "Gas Burner Table",
+              "qty": 1.0,
+              "total": 425.0
+            },
+            {
+              "name": "[70037] Gas Regular (High Pressure)",
+              "qty": 1.0,
+              "total": 360.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00280",
           "customer": "Scent Investment Private Limited",
@@ -15850,6 +15876,38 @@
               "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
               "qty": 1.0,
               "total": 1200.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00282",
+          "customer": "Snap Buy",
+          "amount": 1200.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 6.0,
+              "total": 1200.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00283",
+          "customer": "Diamond Root",
+          "amount": 1100.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1100.0
             }
           ]
         },
@@ -15914,7 +15972,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 6936.0,
-        "expectedClosing": 7400.0,
+        "expectedClosing": 8600.0,
         "counted": null,
         "difference": null,
         "closed": false,
