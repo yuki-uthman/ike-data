@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-01T06:16:05Z",
-  "openCount": 170,
-  "openTotal": 1866495.2,
-  "quotationCount": 56,
-  "quotationTotal": 934387.75,
+  "generatedAt": "2026-10-01T06:31:03Z",
+  "openCount": 171,
+  "openTotal": 1872195.2,
+  "quotationCount": 57,
+  "quotationTotal": 940087.75,
   "orderCount": 114,
   "orderTotal": 932107.45,
   "days": [
@@ -221,12 +221,31 @@
     },
     {
       "date": "2026-10-01",
-      "count": 2,
-      "outstanding": 1664.0,
-      "total": 1664.0
+      "count": 3,
+      "outstanding": 7364.0,
+      "total": 7364.0
     }
   ],
   "quotations": [
+    {
+      "id": 415,
+      "ref": "S00416",
+      "kind": "quotation",
+      "customer": "S&Y Mart",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-01",
+      "expires": "2026-10-31",
+      "total": 5700.0,
+      "settled": 0.0,
+      "outstanding": 5700.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 2.0,
+          "total": 5700.0
+        }
+      ]
+    },
     {
       "id": 414,
       "ref": "S00415",
