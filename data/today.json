@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-01",
-  "generatedAt": "2026-10-01T16:45:37Z",
+  "generatedAt": "2026-10-01T17:01:08Z",
   "cash": {
-    "total": 1897.0,
-    "count": 5
+    "total": 2136.0,
+    "count": 6
   },
   "transfer": {
     "total": 18806.0,
@@ -222,6 +222,22 @@
       ]
     },
     {
+      "ref": "Ike - 000270",
+      "customer": "Walk-in",
+      "amount": 239.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:56",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01647] Electric Kettle 1.8L Hoffmas#HM-2537",
+          "qty": 1.0,
+          "total": 239.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00290",
       "customer": "Blooms Supplies",
       "amount": 218.0,
@@ -343,8 +359,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 1897.0
+      "count": 6,
+      "total": 2136.0
     },
     {
       "name": "Bank Transfer",
@@ -354,13 +370,35 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 535.0,
+    "count": 3
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Diesel \u00b7 Staaf-Zubaid",
+      "amount": 500.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:47"
+    },
+    {
+      "reason": "Gate pass  \u00b7 Staff = Zubaid",
+      "amount": 25.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:49"
+    },
+    {
+      "reason": "Gate pass \u00b7 staff= Nagarajan",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:48"
+    }
+  ],
   "till": {
     "opening": 6936.0,
-    "expectedClosing": 8833.0,
+    "expectedClosing": 8537.0,
     "counted": null,
     "difference": null,
     "closed": false,
