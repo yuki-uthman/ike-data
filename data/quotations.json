@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-01T09:01:27Z",
-  "openCount": 173,
-  "openTotal": 1877815.2,
+  "generatedAt": "2026-10-01T09:15:46Z",
+  "openCount": 174,
+  "openTotal": 1884515.2,
   "quotationCount": 57,
   "quotationTotal": 940087.75,
-  "orderCount": 116,
-  "orderTotal": 937727.45,
+  "orderCount": 117,
+  "orderTotal": 944427.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -221,12 +221,41 @@
     },
     {
       "date": "2026-10-01",
-      "count": 5,
-      "outstanding": 12984.0,
-      "total": 12984.0
+      "count": 6,
+      "outstanding": 19684.0,
+      "total": 19684.0
     }
   ],
   "quotations": [
+    {
+      "id": 418,
+      "ref": "S00419",
+      "kind": "order",
+      "customer": "Naushad E-16",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-01",
+      "expires": "2026-10-31",
+      "total": 6700.0,
+      "settled": 0.0,
+      "outstanding": 6700.0,
+      "lines": [
+        {
+          "name": "37 MINISO RACK End Rack",
+          "qty": 1.0,
+          "total": 1950.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        }
+      ]
+    },
     {
       "id": 415,
       "ref": "S00416",
