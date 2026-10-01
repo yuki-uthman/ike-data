@@ -15811,14 +15811,14 @@
     },
     {
       "date": "2026-10-01",
-      "generatedAt": "2026-10-01T10:01:12Z",
+      "generatedAt": "2026-10-01T10:15:40Z",
       "pos": {
         "total": 90.0,
         "count": 1
       },
       "regularSales": {
-        "total": 17932.0,
-        "count": 9
+        "total": 19950.0,
+        "count": 11
       },
       "pendingQuotations": {
         "total": 5700.0,
@@ -15829,8 +15829,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 16358.0,
-        "count": 8
+        "total": 18376.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -15876,6 +15876,22 @@
               "name": "[70176] 51 Warehouse Rack White Large",
               "qty": 2.0,
               "total": 3960.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00289",
+          "customer": "EkuTravels And Tourist Pvt ltd",
+          "amount": 1800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70175] 51 Warehouse Rack White Medium",
+              "qty": 1.0,
+              "total": 1800.0
             }
           ]
         },
@@ -15997,6 +16013,22 @@
               "name": "[A12B] Plastic Container A12 (Bundle)",
               "qty": 4.0,
               "total": 464.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00290",
+          "customer": "Blooms Supplies",
+          "amount": 218.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70043] Hotpack coffee stirrer wooden 14cm",
+              "qty": 2.0,
+              "total": 218.0
             }
           ]
         },
