@@ -15811,10 +15811,10 @@
     },
     {
       "date": "2026-10-01",
-      "generatedAt": "2026-10-01T17:15:39Z",
+      "generatedAt": "2026-10-01T17:30:54Z",
       "pos": {
-        "total": 562.0,
-        "count": 5
+        "total": 577.0,
+        "count": 6
       },
       "regularSales": {
         "total": 20380.0,
@@ -15825,12 +15825,12 @@
         "count": 4
       },
       "cash": {
-        "total": 2136.0,
+        "total": 1977.0,
         "count": 6
       },
       "transfer": {
-        "total": 18806.0,
-        "count": 11
+        "total": 18980.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -16078,8 +16078,8 @@
           "ref": "Ike - 000269",
           "customer": "Walk-in",
           "amount": 174.0,
-          "method": "cash",
-          "rawMethod": "Cash",
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
           "time": "21:36",
           "source": "pos",
           "lines": [
@@ -16168,6 +16168,22 @@
               "total": 20.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000271",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:29",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[BB32P] Bagasse Bowl 32oz",
+              "qty": 3.0,
+              "total": 15.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -16199,7 +16215,7 @@
       ],
       "till": {
         "opening": 6936.0,
-        "expectedClosing": 8537.0,
+        "expectedClosing": 8378.0,
         "counted": null,
         "difference": null,
         "closed": false,
