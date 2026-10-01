@@ -15811,10 +15811,10 @@
     },
     {
       "date": "2026-10-01",
-      "generatedAt": "2026-10-01T17:45:40Z",
+      "generatedAt": "2026-10-01T18:01:11Z",
       "pos": {
-        "total": 577.0,
-        "count": 6
+        "total": 636.0,
+        "count": 7
       },
       "regularSales": {
         "total": 20380.0,
@@ -15829,8 +15829,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 18980.0,
-        "count": 12
+        "total": 19039.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -16133,6 +16133,22 @@
           ]
         },
         {
+          "ref": "Ike - 000272",
+          "customer": "Walk-in",
+          "amount": 59.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:53",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[60171329216959] Heat Trivet IKEA",
+              "qty": 1.0,
+              "total": 59.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000267",
           "customer": "Walk-in",
           "amount": 39.0,
@@ -16223,9 +16239,9 @@
       "till": {
         "opening": 6936.0,
         "expectedClosing": 8338.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "counted": 8338.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
