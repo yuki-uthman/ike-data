@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-01T05:15:45Z",
-  "openCount": 169,
-  "openTotal": 1865295.2,
-  "quotationCount": 56,
-  "quotationTotal": 934387.75,
-  "orderCount": 113,
-  "orderTotal": 930907.45,
+  "generatedAt": "2026-10-01T05:30:59Z",
+  "openCount": 171,
+  "openTotal": 1867980.2,
+  "quotationCount": 57,
+  "quotationTotal": 935487.75,
+  "orderCount": 114,
+  "orderTotal": 932492.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -221,12 +221,60 @@
     },
     {
       "date": "2026-10-01",
-      "count": 1,
-      "outstanding": 464.0,
-      "total": 464.0
+      "count": 3,
+      "outstanding": 3149.0,
+      "total": 3149.0
     }
   ],
   "quotations": [
+    {
+      "id": 412,
+      "ref": "S00413",
+      "kind": "order",
+      "customer": "Dhivehige B-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-01",
+      "expires": "2026-10-31",
+      "total": 1585.0,
+      "settled": 0.0,
+      "outstanding": 1585.0,
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "ref": "S00414",
+      "kind": "quotation",
+      "customer": "Diamond Root",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-01",
+      "expires": "2026-10-31",
+      "total": 1100.0,
+      "settled": 0.0,
+      "outstanding": 1100.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1100.0
+        }
+      ]
+    },
     {
       "id": 411,
       "ref": "S00412",
