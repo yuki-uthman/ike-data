@@ -15811,17 +15811,17 @@
     },
     {
       "date": "2026-10-01",
-      "generatedAt": "2026-10-01T04:30:55Z",
+      "generatedAt": "2026-10-01T04:45:36Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 63.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 2740.0,
+        "total": 1200.0,
         "count": 1
       },
       "cash": {
@@ -15829,14 +15829,31 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 63.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00279",
+          "customer": "Surf In Maldives Pvt Ltd",
+          "amount": 63.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70072] Sponge 4pcs #28 D-21",
+              "qty": 3.0,
+              "total": 63.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0

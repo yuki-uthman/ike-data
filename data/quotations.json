@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-01T04:31:04Z",
+  "generatedAt": "2026-10-01T04:45:43Z",
   "openCount": 169,
-  "openTotal": 1867571.2,
+  "openTotal": 1866031.2,
   "quotationCount": 57,
-  "quotationTotal": 937127.75,
+  "quotationTotal": 935587.75,
   "orderCount": 112,
   "orderTotal": 930443.45,
   "days": [
@@ -222,8 +222,8 @@
     {
       "date": "2026-10-01",
       "count": 1,
-      "outstanding": 2740.0,
-      "total": 2740.0
+      "outstanding": 1200.0,
+      "total": 1200.0
     }
   ],
   "quotations": [
@@ -235,15 +235,10 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-01",
       "expires": "2026-10-31",
-      "total": 2740.0,
+      "total": 1200.0,
       "settled": 0.0,
-      "outstanding": 2740.0,
+      "outstanding": 1200.0,
       "lines": [
-        {
-          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
-          "qty": 1.0,
-          "total": 1540.0
-        },
         {
           "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
           "qty": 1.0,
