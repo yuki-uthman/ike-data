@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-01T04:45:43Z",
+  "generatedAt": "2026-10-01T05:01:15Z",
   "openCount": 169,
   "openTotal": 1866031.2,
-  "quotationCount": 57,
-  "quotationTotal": 935587.75,
-  "orderCount": 112,
-  "orderTotal": 930443.45,
+  "quotationCount": 56,
+  "quotationTotal": 934387.75,
+  "orderCount": 113,
+  "orderTotal": 931643.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -230,7 +230,7 @@
     {
       "id": 409,
       "ref": "S00410",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Scent Investment Private Limited",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-01",
