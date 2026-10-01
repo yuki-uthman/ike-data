@@ -15811,14 +15811,14 @@
     },
     {
       "date": "2026-10-01",
-      "generatedAt": "2026-10-01T16:15:36Z",
+      "generatedAt": "2026-10-01T16:30:54Z",
       "pos": {
         "total": 149.0,
         "count": 3
       },
       "regularSales": {
-        "total": 19950.0,
-        "count": 11
+        "total": 20380.0,
+        "count": 12
       },
       "pendingQuotations": {
         "total": 5700.0,
@@ -15829,8 +15829,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 18376.0,
-        "count": 10
+        "total": 18806.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -16013,6 +16013,32 @@
               "name": "[A12B] Plastic Container A12 (Bundle)",
               "qty": 4.0,
               "total": 464.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00291",
+          "customer": "Sales",
+          "amount": 430.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+              "qty": 1.0,
+              "total": 320.0
+            },
+            {
+              "name": "[01836] Broom Wooden#7",
+              "qty": 2.0,
+              "total": 90.0
+            },
+            {
+              "name": "[70033] Pot Cleaner Brush Steel Wool Plastic 6 in # 1222",
+              "qty": 1.0,
+              "total": 20.0
             }
           ]
         },
