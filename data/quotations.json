@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-01T05:30:59Z",
+  "generatedAt": "2026-10-01T05:45:44Z",
   "openCount": 171,
   "openTotal": 1867980.2,
-  "quotationCount": 57,
-  "quotationTotal": 935487.75,
-  "orderCount": 114,
-  "orderTotal": 932492.45,
+  "quotationCount": 56,
+  "quotationTotal": 934387.75,
+  "orderCount": 115,
+  "orderTotal": 933592.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -259,7 +259,7 @@
     {
       "id": 413,
       "ref": "S00414",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Diamond Root",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-01",
