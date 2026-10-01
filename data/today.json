@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-01",
-  "generatedAt": "2026-10-01T16:01:19Z",
+  "generatedAt": "2026-10-01T16:15:36Z",
   "cash": {
-    "total": 1703.0,
-    "count": 3
+    "total": 1723.0,
+    "count": 4
   },
   "transfer": {
     "total": 18376.0,
@@ -268,6 +268,22 @@
           "total": 18.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000268",
+      "customer": "Walk-in",
+      "amount": 20.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:02",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 4.0,
+          "total": 20.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -280,8 +296,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 3,
-      "total": 1703.0
+      "count": 4,
+      "total": 1723.0
     },
     {
       "name": "Bank Transfer",
@@ -297,7 +313,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 6936.0,
-    "expectedClosing": 8639.0,
+    "expectedClosing": 8659.0,
     "counted": null,
     "difference": null,
     "closed": false,
