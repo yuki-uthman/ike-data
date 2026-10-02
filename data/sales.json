@@ -16212,32 +16212,49 @@
     },
     {
       "date": "2026-10-02",
-      "generatedAt": "2026-10-02T11:01:11Z",
+      "generatedAt": "2026-10-02T11:15:38Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 840.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 5000.0,
-        "count": 2
+        "total": 4160.0,
+        "count": 1
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 840.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00292",
+          "customer": "Naushad E-16",
+          "amount": 840.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70157] GRASS CARPET",
+              "qty": 8.0,
+              "total": 840.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
