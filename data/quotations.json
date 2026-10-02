@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-02T15:15:51Z",
+  "generatedAt": "2026-10-02T15:31:07Z",
   "openCount": 172,
-  "openTotal": 1889645.2,
-  "quotationCount": 57,
-  "quotationTotal": 942447.75,
-  "orderCount": 115,
-  "orderTotal": 947197.45,
+  "openTotal": 1876140.2,
+  "quotationCount": 58,
+  "quotationTotal": 944032.75,
+  "orderCount": 114,
+  "orderTotal": 932107.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -228,45 +228,11 @@
     {
       "date": "2026-10-02",
       "count": 2,
-      "outstanding": 19250.0,
-      "total": 19250.0
+      "outstanding": 5745.0,
+      "total": 5745.0
     }
   ],
   "quotations": [
-    {
-      "id": 426,
-      "ref": "S00427",
-      "kind": "order",
-      "customer": "Husnuheenaage G-2",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-02",
-      "expires": "2026-11-01",
-      "total": 15090.0,
-      "settled": 0.0,
-      "outstanding": 15090.0,
-      "lines": [
-        {
-          "name": "[2C-WHT-SS-2000-X03] #2C White Single Side 2000mm x3",
-          "qty": 1.0,
-          "total": 4850.0
-        },
-        {
-          "name": "[2C-WHT-SS-2000-X05] #2C White Single Side 2000mm x5",
-          "qty": 1.0,
-          "total": 7950.0
-        },
-        {
-          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-          "qty": 1.0,
-          "total": 790.0
-        },
-        {
-          "name": "[2C-WHT-ER-1800-X01] #2C White End Rack 1800mm x1",
-          "qty": 1.0,
-          "total": 1500.0
-        }
-      ]
-    },
     {
       "id": 424,
       "ref": "S00425",
@@ -288,6 +254,35 @@
           "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
           "qty": 8.0,
           "total": 2560.0
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "ref": "S00428",
+      "kind": "quotation",
+      "customer": "Amore The Island Cafe / Guraidhoo H-13",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-02",
+      "expires": "2026-11-01",
+      "total": 1585.0,
+      "settled": 0.0,
+      "outstanding": 1585.0,
+      "lines": [
+        {
+          "name": "[70037] Gas Regular (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
         }
       ]
     },
