@@ -16212,14 +16212,14 @@
     },
     {
       "date": "2026-10-02",
-      "generatedAt": "2026-10-02T15:30:58Z",
+      "generatedAt": "2026-10-02T15:45:40Z",
       "pos": {
         "total": 19.0,
         "count": 1
       },
       "regularSales": {
-        "total": 15930.0,
-        "count": 2
+        "total": 16210.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 5745.0,
@@ -16230,8 +16230,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 15930.0,
-        "count": 2
+        "total": 16210.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -16282,6 +16282,27 @@
               "name": "[70157] GRASS CARPET",
               "qty": 8.0,
               "total": 840.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00294",
+          "customer": "Sales",
+          "amount": 280.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 10.0,
+              "total": 160.0
+            },
+            {
+              "name": "[70144] Hook Slat 8\"",
+              "qty": 10.0,
+              "total": 120.0
             }
           ]
         },
