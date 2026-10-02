@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-02T10:31:12Z",
-  "openCount": 170,
-  "openTotal": 1870395.2,
-  "quotationCount": 56,
-  "quotationTotal": 938287.75,
+  "generatedAt": "2026-10-02T10:45:50Z",
+  "openCount": 171,
+  "openTotal": 1874555.2,
+  "quotationCount": 57,
+  "quotationTotal": 942447.75,
   "orderCount": 114,
   "orderTotal": 932107.45,
   "days": [
@@ -227,12 +227,36 @@
     },
     {
       "date": "2026-10-02",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 4160.0,
+      "total": 4160.0
     }
   ],
   "quotations": [
+    {
+      "id": 424,
+      "ref": "S00425",
+      "kind": "quotation",
+      "customer": "Zilaal Mart R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-02",
+      "expires": "2026-11-01",
+      "total": 4160.0,
+      "settled": 0.0,
+      "outstanding": 4160.0,
+      "lines": [
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 5.0,
+          "total": 1600.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 8.0,
+          "total": 2560.0
+        }
+      ]
+    },
     {
       "id": 415,
       "ref": "S00416",
