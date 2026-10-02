@@ -1,212 +1,26 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T18:45:38Z",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-02T19:01:10Z",
   "cash": {
-    "total": 119.0,
-    "count": 2
+    "total": 0,
+    "count": 0
   },
   "transfer": {
-    "total": 18120.0,
-    "count": 5
+    "total": 0,
+    "count": 0
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [
-    {
-      "ref": "INV/2026/00293",
-      "customer": "Husnuheenaage G-2",
-      "amount": 15090.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[2C-WHT-SS-2000-X05] #2C White Single Side 2000mm x5",
-          "qty": 1.0,
-          "total": 7950.0
-        },
-        {
-          "name": "[2C-WHT-SS-2000-X03] #2C White Single Side 2000mm x3",
-          "qty": 1.0,
-          "total": 4850.0
-        },
-        {
-          "name": "[2C-WHT-ER-1800-X01] #2C White End Rack 1800mm x1",
-          "qty": 1.0,
-          "total": 1500.0
-        },
-        {
-          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-          "qty": 1.0,
-          "total": 790.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00295",
-      "customer": "Amore The Island Cafe / Guraidhoo H-13",
-      "amount": 1160.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70182] Gas Burner ( High Pressure )",
-          "qty": 1.0,
-          "total": 800.0
-        },
-        {
-          "name": "[70037] Gas Regular (High Pressure)",
-          "qty": 1.0,
-          "total": 360.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00292",
-      "customer": "Naushad E-16",
-      "amount": 840.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70157] GRASS CARPET",
-          "qty": 8.0,
-          "total": 840.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00296",
-      "customer": "Trusted bricks Dhigurah",
-      "amount": 750.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 40.0,
-          "total": 750.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00294",
-      "customer": "Sales",
-      "amount": 280.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": null,
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 10.0,
-          "total": 160.0
-        },
-        {
-          "name": "[70144] Hook Slat 8\"",
-          "qty": 10.0,
-          "total": 120.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000274",
-      "customer": "Walk-in",
-      "amount": 100.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:38",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 1.0,
-          "total": 20.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 1.0,
-          "total": 20.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 1.0,
-          "total": 20.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 1.0,
-          "total": 20.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 1.0,
-          "total": 20.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000273",
-      "customer": "Walk-in",
-      "amount": 19.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "17:58",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[01860] Sponges Colorful #31",
-          "qty": 1.0,
-          "total": 19.0
-        }
-      ]
-    }
-  ],
-  "methodsSeen": [
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 5,
-      "total": 18120.0
-    },
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 2,
-      "total": 119.0
-    }
-  ],
+  "transactions": [],
+  "methodsSeen": [],
   "cashOut": {
-    "total": 6000.0,
-    "count": 1
+    "total": 0,
+    "count": 0
   },
-  "cashOutTransactions": [
-    {
-      "reason": "Owner's Drawing - Uthman",
-      "amount": 6000.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "16:20"
-    }
-  ],
-  "till": {
-    "opening": 8339.5,
-    "expectedClosing": 2458.5,
-    "counted": 2458.5,
-    "difference": 0.0,
-    "closed": true,
-    "sessionCount": 1
-  }
+  "cashOutTransactions": [],
+  "till": null
 }

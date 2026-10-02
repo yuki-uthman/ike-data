@@ -406,6 +406,19 @@
         "count": 0
       },
       "categories": []
+    },
+    {
+      "date": "2026-10-03",
+      "generatedAt": "2026-10-02T19:01:22Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
     }
   ]
 }
