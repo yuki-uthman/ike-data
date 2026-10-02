@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-02T15:01:22Z",
+  "generatedAt": "2026-10-02T15:15:51Z",
   "openCount": 172,
   "openTotal": 1889645.2,
-  "quotationCount": 58,
-  "quotationTotal": 957537.75,
-  "orderCount": 114,
-  "orderTotal": 932107.45,
+  "quotationCount": 57,
+  "quotationTotal": 942447.75,
+  "orderCount": 115,
+  "orderTotal": 947197.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -236,8 +236,8 @@
     {
       "id": 426,
       "ref": "S00427",
-      "kind": "quotation",
-      "customer": "Sales",
+      "kind": "order",
+      "customer": "Husnuheenaage G-2",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-02",
       "expires": "2026-11-01",
