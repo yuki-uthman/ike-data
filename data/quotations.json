@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-02T12:31:15Z",
-  "openCount": 171,
-  "openTotal": 1874555.2,
-  "quotationCount": 57,
-  "quotationTotal": 942447.75,
+  "generatedAt": "2026-10-02T12:45:49Z",
+  "openCount": 172,
+  "openTotal": 1888145.2,
+  "quotationCount": 58,
+  "quotationTotal": 956037.75,
   "orderCount": 114,
   "orderTotal": 932107.45,
   "days": [
@@ -227,12 +227,46 @@
     },
     {
       "date": "2026-10-02",
-      "count": 1,
-      "outstanding": 4160.0,
-      "total": 4160.0
+      "count": 2,
+      "outstanding": 17750.0,
+      "total": 17750.0
     }
   ],
   "quotations": [
+    {
+      "id": 426,
+      "ref": "S00427",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-02",
+      "expires": "2026-11-01",
+      "total": 13590.0,
+      "settled": 0.0,
+      "outstanding": 13590.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X03] #2C White Single Side 2000mm x3",
+          "qty": 1.0,
+          "total": 4850.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X05] #2C White Single Side 2000mm x5",
+          "qty": 1.0,
+          "total": 7950.0
+        },
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 1.0,
+          "total": 790.0
+        },
+        {
+          "name": "2c ",
+          "qty": 1.0,
+          "total": 0.0
+        }
+      ]
+    },
     {
       "id": 424,
       "ref": "S00425",
