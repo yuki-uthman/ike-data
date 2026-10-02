@@ -16212,10 +16212,10 @@
     },
     {
       "date": "2026-10-02",
-      "generatedAt": "2026-10-02T17:30:54Z",
+      "generatedAt": "2026-10-02T17:45:39Z",
       "pos": {
-        "total": 19.0,
-        "count": 1
+        "total": 119.0,
+        "count": 2
       },
       "regularSales": {
         "total": 17370.0,
@@ -16226,8 +16226,8 @@
         "count": 1
       },
       "cash": {
-        "total": 19.0,
-        "count": 1
+        "total": 119.0,
+        "count": 2
       },
       "transfer": {
         "total": 17370.0,
@@ -16328,6 +16328,42 @@
           ]
         },
         {
+          "ref": "Ike - 000274",
+          "customer": "Walk-in",
+          "amount": 100.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:38",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000273",
           "customer": "Walk-in",
           "amount": 19.0,
@@ -16359,7 +16395,7 @@
       ],
       "till": {
         "opening": 8339.5,
-        "expectedClosing": 2358.5,
+        "expectedClosing": 2458.5,
         "counted": null,
         "difference": null,
         "closed": false,
