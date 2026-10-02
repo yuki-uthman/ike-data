@@ -16212,14 +16212,14 @@
     },
     {
       "date": "2026-10-02",
-      "generatedAt": "2026-10-02T17:45:39Z",
+      "generatedAt": "2026-10-02T18:01:50Z",
       "pos": {
         "total": 119.0,
         "count": 2
       },
       "regularSales": {
-        "total": 17370.0,
-        "count": 4
+        "total": 18120.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 4160.0,
@@ -16230,8 +16230,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 17370.0,
-        "count": 4
+        "total": 18120.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -16303,6 +16303,22 @@
               "name": "[70157] GRASS CARPET",
               "qty": 8.0,
               "total": 840.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00296",
+          "customer": "Trusted bricks Dhigurah",
+          "amount": 750.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 40.0,
+              "total": 750.0
             }
           ]
         },
@@ -16396,9 +16412,9 @@
       "till": {
         "opening": 8339.5,
         "expectedClosing": 2458.5,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "counted": 2458.5,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
