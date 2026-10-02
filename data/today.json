@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T11:15:38Z",
+  "generatedAt": "2026-10-02T11:30:57Z",
   "cash": {
     "total": 0,
     "count": 0
@@ -42,13 +42,21 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 6000.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Owner's Drawing - Uthman",
+      "amount": 6000.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:20"
+    }
+  ],
   "till": {
     "opening": 8339.5,
-    "expectedClosing": 8339.5,
+    "expectedClosing": 2339.5,
     "counted": null,
     "difference": null,
     "closed": false,
