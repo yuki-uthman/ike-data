@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T12:45:39Z",
+  "generatedAt": "2026-10-02T13:01:12Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 19.0,
+    "count": 1
   },
   "transfer": {
     "total": 840.0,
@@ -31,6 +31,22 @@
           "total": 840.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000273",
+      "customer": "Walk-in",
+      "amount": 19.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:58",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01860] Sponges Colorful #31",
+          "qty": 1.0,
+          "total": 19.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -39,6 +55,12 @@
       "method": "transfer",
       "count": 1,
       "total": 840.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 19.0
     }
   ],
   "cashOut": {
@@ -56,7 +78,7 @@
   ],
   "till": {
     "opening": 8339.5,
-    "expectedClosing": 2339.5,
+    "expectedClosing": 2358.5,
     "counted": null,
     "difference": null,
     "closed": false,
