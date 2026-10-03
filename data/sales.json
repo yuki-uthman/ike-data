@@ -16385,10 +16385,10 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T16:15:38Z",
+      "generatedAt": "2026-10-03T16:30:57Z",
       "pos": {
-        "total": 878.0,
-        "count": 11
+        "total": 888.0,
+        "count": 12
       },
       "regularSales": {
         "total": 30198.0,
@@ -16403,8 +16403,8 @@
         "count": 11
       },
       "transfer": {
-        "total": 29304.0,
-        "count": 9
+        "total": 29314.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -16781,6 +16781,22 @@
               "name": "Falcon Aluminum Container 8342 10pcs",
               "qty": 1.0,
               "total": 15.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000286",
+          "customer": "Walk-in",
+          "amount": 10.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:24",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Kraft burger box 1pcs",
+              "qty": 5.0,
+              "total": 10.0
             }
           ]
         },
