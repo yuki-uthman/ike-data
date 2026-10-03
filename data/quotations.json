@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T10:15:55Z",
-  "openCount": 174,
-  "openTotal": 1876195.2,
-  "quotationCount": 59,
-  "quotationTotal": 943877.75,
+  "generatedAt": "2026-10-03T10:31:31Z",
+  "openCount": 173,
+  "openTotal": 1875475.2,
+  "quotationCount": 58,
+  "quotationTotal": 943157.75,
   "orderCount": 115,
   "orderTotal": 932317.45,
   "days": [
@@ -233,41 +233,12 @@
     },
     {
       "date": "2026-10-03",
-      "count": 3,
-      "outstanding": 1640.0,
-      "total": 1640.0
+      "count": 2,
+      "outstanding": 920.0,
+      "total": 920.0
     }
   ],
   "quotations": [
-    {
-      "id": 436,
-      "ref": "S00437",
-      "kind": "quotation",
-      "customer": "Snack Out C-16",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-03",
-      "expires": "2026-11-02",
-      "total": 720.0,
-      "settled": 0.0,
-      "outstanding": 720.0,
-      "lines": [
-        {
-          "name": "[90042] Milkshake Powder Avocado",
-          "qty": 1.0,
-          "total": 220.0
-        },
-        {
-          "name": "[06705] Milkshake Powder Vanilla",
-          "qty": 1.0,
-          "total": 220.0
-        },
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 1.0,
-          "total": 280.0
-        }
-      ]
-    },
     {
       "id": 430,
       "ref": "S00431",
