@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T11:45:45Z",
-  "openCount": 173,
-  "openTotal": 1877675.2,
-  "quotationCount": 58,
-  "quotationTotal": 945357.75,
+  "generatedAt": "2026-10-03T12:01:22Z",
+  "openCount": 174,
+  "openTotal": 1893275.2,
+  "quotationCount": 59,
+  "quotationTotal": 960957.75,
   "orderCount": 115,
   "orderTotal": 932317.45,
   "days": [
@@ -233,12 +233,36 @@
     },
     {
       "date": "2026-10-03",
-      "count": 2,
-      "outstanding": 920.0,
-      "total": 920.0
+      "count": 3,
+      "outstanding": 16520.0,
+      "total": 16520.0
     }
   ],
   "quotations": [
+    {
+      "id": 439,
+      "ref": "S00440",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-03",
+      "expires": "2026-11-02",
+      "total": 15600.0,
+      "settled": 0.0,
+      "outstanding": 15600.0,
+      "lines": [
+        {
+          "name": "37 Black Single Side 2400mm",
+          "qty": 3.0,
+          "total": 11400.0
+        },
+        {
+          "name": "37 Miniso Cupboard",
+          "qty": 3.0,
+          "total": 4200.0
+        }
+      ]
+    },
     {
       "id": 430,
       "ref": "S00431",

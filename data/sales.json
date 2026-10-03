@@ -16385,22 +16385,22 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T11:45:35Z",
+      "generatedAt": "2026-10-03T12:01:05Z",
       "pos": {
-        "total": 684.0,
-        "count": 6
+        "total": 694.0,
+        "count": 7
       },
       "regularSales": {
         "total": 28374.0,
         "count": 7
       },
       "pendingQuotations": {
-        "total": 710.0,
-        "count": 1
+        "total": 16310.0,
+        "count": 2
       },
       "cash": {
-        "total": 378.0,
-        "count": 5
+        "total": 388.0,
+        "count": 6
       },
       "transfer": {
         "total": 28680.0,
@@ -16678,6 +16678,22 @@
               "total": 15.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000281",
+          "customer": "Walk-in",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:45",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Kraft burger box 1pcs",
+              "qty": 5.0,
+              "total": 10.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -16687,7 +16703,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2458.0,
-        "expectedClosing": 2836.0,
+        "expectedClosing": 2846.0,
         "counted": null,
         "difference": null,
         "closed": false,
