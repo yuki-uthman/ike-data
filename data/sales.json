@@ -16385,32 +16385,53 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T06:30:53Z",
+      "generatedAt": "2026-10-03T06:45:38Z",
       "pos": {
         "total": 431.0,
         "count": 2
       },
       "regularSales": {
-        "total": 1399.0,
-        "count": 2
+        "total": 17399.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 16710.0,
-        "count": 3
+        "total": 3880.0,
+        "count": 2
       },
       "cash": {
         "total": 225.0,
         "count": 2
       },
       "transfer": {
-        "total": 1605.0,
-        "count": 2
+        "total": 17605.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00300",
+          "customer": "Abdul Nafiu",
+          "amount": 16000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-DSP-1550-X01] #RD8 Gray Double Side Perforated 1550mm x1",
+              "qty": 5.0,
+              "total": 15000.0
+            },
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 40.0,
+              "total": 1000.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00299",
           "customer": "Okaaz R1",
