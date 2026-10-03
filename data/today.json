@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T15:45:38Z",
+  "generatedAt": "2026-10-03T16:01:10Z",
   "cash": {
-    "total": 1762.0,
-    "count": 10
+    "total": 1772.0,
+    "count": 11
   },
   "transfer": {
-    "total": 28680.0,
-    "count": 8
+    "total": 29304.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -149,6 +149,37 @@
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 1.0,
           "total": 220.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00306",
+      "customer": "My View E-13",
+      "amount": 624.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 12.0,
+          "total": 192.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 12.0,
+          "total": 168.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 12.0,
+          "total": 144.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 12.0,
+          "total": 120.0
         }
       ]
     },
@@ -359,6 +390,22 @@
       ]
     },
     {
+      "ref": "Ike - 000285",
+      "customer": "Walk-in",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:57",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[BB32P] Bagasse Bowl 32oz",
+          "qty": 2.0,
+          "total": 10.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000281",
       "customer": "Walk-in",
       "amount": 10.0,
@@ -379,14 +426,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 6,
-      "total": 28164.0
+      "count": 7,
+      "total": 28788.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 10,
-      "total": 1762.0
+      "count": 11,
+      "total": 1772.0
     },
     {
       "name": "Bank Transfer",
@@ -402,7 +449,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2458.0,
-    "expectedClosing": 4220.0,
+    "expectedClosing": 4230.0,
     "counted": null,
     "difference": null,
     "closed": false,
