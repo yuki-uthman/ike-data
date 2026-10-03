@@ -16385,26 +16385,26 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T08:30:53Z",
+      "generatedAt": "2026-10-03T08:45:37Z",
       "pos": {
-        "total": 431.0,
-        "count": 2
+        "total": 584.0,
+        "count": 5
       },
       "regularSales": {
-        "total": 17399.0,
-        "count": 3
+        "total": 20569.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 710.0,
         "count": 1
       },
       "cash": {
-        "total": 225.0,
-        "count": 2
+        "total": 378.0,
+        "count": 5
       },
       "transfer": {
-        "total": 17605.0,
-        "count": 3
+        "total": 20775.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -16429,6 +16429,27 @@
               "name": "[70216] RD8 Price Border Strip White 900mm (875)",
               "qty": 40.0,
               "total": 1000.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00301",
+          "customer": "Quay Mart Q-10",
+          "amount": 3170.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 2.0,
+              "total": 1770.0
+            },
+            {
+              "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1400.0
             }
           ]
         },
@@ -16511,6 +16532,59 @@
           ]
         },
         {
+          "ref": "Ike - 000279",
+          "customer": "Walk-in",
+          "amount": 110.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:42",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+              "qty": 1.0,
+              "total": 60.0
+            },
+            {
+              "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
+              "qty": 1.0,
+              "total": 50.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000277",
+          "customer": "Walk-in",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:36",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01699] Strainer Steel 10cm Ym-055#17",
+              "qty": 1.0,
+              "total": 25.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000278",
+          "customer": "Walk-in",
+          "amount": 18.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70070] Glass Wiper A63",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000275",
           "customer": "Walk-in",
           "amount": 15.0,
@@ -16534,7 +16608,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2458.0,
-        "expectedClosing": 2683.0,
+        "expectedClosing": 2836.0,
         "counted": null,
         "difference": null,
         "closed": false,
