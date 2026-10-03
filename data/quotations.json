@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T06:45:47Z",
+  "generatedAt": "2026-10-03T07:01:19Z",
   "openCount": 175,
   "openTotal": 1882605.2,
-  "quotationCount": 59,
-  "quotationTotal": 946327.75,
-  "orderCount": 116,
-  "orderTotal": 936277.45,
+  "quotationCount": 58,
+  "quotationTotal": 943157.75,
+  "orderCount": 117,
+  "orderTotal": 939447.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -261,7 +261,7 @@
     {
       "id": 435,
       "ref": "S00436",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Quay Mart Q-10",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-03",
