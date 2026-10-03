@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T08:45:49Z",
-  "openCount": 174,
-  "openTotal": 1879435.2,
-  "quotationCount": 58,
-  "quotationTotal": 943157.75,
+  "generatedAt": "2026-10-03T09:01:18Z",
+  "openCount": 175,
+  "openTotal": 1880155.2,
+  "quotationCount": 59,
+  "quotationTotal": 943877.75,
   "orderCount": 116,
   "orderTotal": 936277.45,
   "days": [
@@ -233,9 +233,9 @@
     },
     {
       "date": "2026-10-03",
-      "count": 3,
-      "outstanding": 4880.0,
-      "total": 4880.0
+      "count": 4,
+      "outstanding": 5600.0,
+      "total": 5600.0
     }
   ],
   "quotations": [
@@ -255,6 +255,35 @@
           "name": "[70176] 51 Warehouse Rack White Large",
           "qty": 2.0,
           "total": 3960.0
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "ref": "S00437",
+      "kind": "quotation",
+      "customer": "Snack Out C-16",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-03",
+      "expires": "2026-11-02",
+      "total": 720.0,
+      "settled": 0.0,
+      "outstanding": 720.0,
+      "lines": [
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
         }
       ]
     },

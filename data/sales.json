@@ -16385,26 +16385,26 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T08:45:37Z",
+      "generatedAt": "2026-10-03T09:01:08Z",
       "pos": {
-        "total": 584.0,
-        "count": 5
+        "total": 684.0,
+        "count": 6
       },
       "regularSales": {
         "total": 20569.0,
         "count": 4
       },
       "pendingQuotations": {
-        "total": 710.0,
-        "count": 1
+        "total": 1430.0,
+        "count": 2
       },
       "cash": {
         "total": 378.0,
         "count": 5
       },
       "transfer": {
-        "total": 20775.0,
-        "count": 4
+        "total": 20875.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -16549,6 +16549,27 @@
               "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
               "qty": 1.0,
               "total": 50.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000280",
+          "customer": "Walk-in",
+          "amount": 100.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "13:47",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01870] Duster 15cm#42",
+              "qty": 1.0,
+              "total": 55.0
+            },
+            {
+              "name": "[02172] plastic round container 01762",
+              "qty": 1.0,
+              "total": 45.0
             }
           ]
         },
