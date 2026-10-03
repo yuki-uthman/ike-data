@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T05:31:02Z",
-  "openCount": 174,
-  "openTotal": 1880414.2,
+  "generatedAt": "2026-10-03T05:45:45Z",
+  "openCount": 176,
+  "openTotal": 1896624.2,
   "quotationCount": 59,
-  "quotationTotal": 944346.75,
-  "orderCount": 115,
-  "orderTotal": 936067.45,
+  "quotationTotal": 959157.75,
+  "orderCount": 117,
+  "orderTotal": 937466.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -233,12 +233,36 @@
     },
     {
       "date": "2026-10-03",
-      "count": 3,
-      "outstanding": 5859.0,
-      "total": 5859.0
+      "count": 5,
+      "outstanding": 22069.0,
+      "total": 22069.0
     }
   ],
   "quotations": [
+    {
+      "id": 433,
+      "ref": "S00434",
+      "kind": "quotation",
+      "customer": "The grain shop.",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-03",
+      "expires": "2026-11-02",
+      "total": 16000.0,
+      "settled": 0.0,
+      "outstanding": 16000.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-DSP-1550-X01] #RD8 Gray Double Side Perforated 1550mm x1",
+          "qty": 5.0,
+          "total": 15000.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 40.0,
+          "total": 1000.0
+        }
+      ]
+    },
     {
       "id": 432,
       "ref": "S00433",
@@ -261,7 +285,7 @@
     {
       "id": 431,
       "ref": "S00432",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Okaaz R1",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-03",
@@ -318,6 +342,25 @@
           "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
           "qty": 1.0,
           "total": 355.0
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "ref": "S00435",
+      "kind": "order",
+      "customer": "Aria Mart H-6",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-03",
+      "expires": "2026-11-02",
+      "total": 210.0,
+      "settled": 0.0,
+      "outstanding": 210.0,
+      "lines": [
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 15.0,
+          "total": 210.0
         }
       ]
     },
