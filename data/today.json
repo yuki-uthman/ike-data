@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T17:31:27Z",
+  "generatedAt": "2026-10-03T17:45:39Z",
   "cash": {
     "total": 1772.0,
     "count": 11
   },
   "transfer": {
-    "total": 29894.0,
-    "count": 11
+    "total": 30544.0,
+    "count": 12
   },
   "other": {
     "total": 0,
@@ -149,6 +149,27 @@
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 1.0,
           "total": 220.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00308",
+      "customer": "Scapers",
+      "amount": 650.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 25.0,
+          "total": 350.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 25.0,
+          "total": 300.0
         }
       ]
     },
@@ -468,8 +489,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 29368.0
+      "count": 9,
+      "total": 30018.0
     },
     {
       "name": "Cash",
@@ -485,13 +506,21 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 20.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "gate pass \u00b7 nagarajn",
+      "amount": 20.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:43"
+    }
+  ],
   "till": {
     "opening": 2458.0,
-    "expectedClosing": 4230.0,
+    "expectedClosing": 4210.0,
     "counted": null,
     "difference": null,
     "closed": false,
