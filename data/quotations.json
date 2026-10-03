@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T04:31:04Z",
-  "openCount": 171,
-  "openTotal": 1874555.2,
-  "quotationCount": 57,
-  "quotationTotal": 942447.75,
+  "generatedAt": "2026-10-03T04:45:45Z",
+  "openCount": 173,
+  "openTotal": 1876454.2,
+  "quotationCount": 59,
+  "quotationTotal": 944346.75,
   "orderCount": 114,
   "orderTotal": 932107.45,
   "days": [
@@ -233,12 +233,75 @@
     },
     {
       "date": "2026-10-03",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 2,
+      "outstanding": 1899.0,
+      "total": 1899.0
     }
   ],
   "quotations": [
+    {
+      "id": 431,
+      "ref": "S00432",
+      "kind": "quotation",
+      "customer": "Okaaz R1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-03",
+      "expires": "2026-11-02",
+      "total": 1189.0,
+      "settled": 0.0,
+      "outstanding": 1189.0,
+      "lines": [
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 159.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Lavender (Purple) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "ref": "S00431",
+      "kind": "quotation",
+      "customer": "Lucky Way Plaza / H-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-03",
+      "expires": "2026-11-02",
+      "total": 710.0,
+      "settled": 0.0,
+      "outstanding": 710.0,
+      "lines": [
+        {
+          "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        }
+      ]
+    },
     {
       "id": 424,
       "ref": "S00425",
