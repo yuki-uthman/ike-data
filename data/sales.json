@@ -16385,10 +16385,10 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T12:01:05Z",
+      "generatedAt": "2026-10-03T12:15:37Z",
       "pos": {
-        "total": 694.0,
-        "count": 7
+        "total": 712.0,
+        "count": 8
       },
       "regularSales": {
         "total": 28374.0,
@@ -16399,8 +16399,8 @@
         "count": 2
       },
       "cash": {
-        "total": 388.0,
-        "count": 6
+        "total": 406.0,
+        "count": 7
       },
       "transfer": {
         "total": 28680.0,
@@ -16648,6 +16648,22 @@
           ]
         },
         {
+          "ref": "Ike - 000282",
+          "customer": "Walk-in",
+          "amount": 18.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:12",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70070] Glass Wiper A63",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000278",
           "customer": "Walk-in",
           "amount": 18.0,
@@ -16703,7 +16719,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2458.0,
-        "expectedClosing": 2846.0,
+        "expectedClosing": 2864.0,
         "counted": null,
         "difference": null,
         "closed": false,
