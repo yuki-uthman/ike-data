@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T11:31:07Z",
+  "generatedAt": "2026-10-03T11:45:45Z",
   "openCount": 173,
-  "openTotal": 1875475.2,
+  "openTotal": 1877675.2,
   "quotationCount": 58,
-  "quotationTotal": 943157.75,
+  "quotationTotal": 945357.75,
   "orderCount": 115,
   "orderTotal": 932317.45,
   "days": [
@@ -216,8 +216,8 @@
     {
       "date": "2026-09-30",
       "count": 9,
-      "outstanding": 98894.0,
-      "total": 98894.0
+      "outstanding": 101094.0,
+      "total": 101094.0
     },
     {
       "date": "2026-10-01",
@@ -367,13 +367,13 @@
       "id": 407,
       "ref": "S00408",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "Unique Grocery Mart",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-30",
       "expires": "2026-10-30",
-      "total": 79600.0,
+      "total": 81800.0,
       "settled": 0.0,
-      "outstanding": 79600.0,
+      "outstanding": 81800.0,
       "lines": [
         {
           "name": "[RD8-WHT-DSP-1950-X05] #RD8 White Double Side Perforated 1950mm x5",
@@ -382,13 +382,13 @@
         },
         {
           "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
-          "qty": 4.0,
-          "total": 7800.0
+          "qty": 5.0,
+          "total": 9750.0
         },
         {
-          "name": "[70218] RD8 Price Border Strip  Green 900mm (875)",
-          "qty": 240.0,
-          "total": 6000.0
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 250.0,
+          "total": 6250.0
         }
       ]
     },
