@@ -16385,14 +16385,14 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T09:15:36Z",
+      "generatedAt": "2026-10-03T09:30:53Z",
       "pos": {
         "total": 684.0,
         "count": 6
       },
       "regularSales": {
-        "total": 4569.0,
-        "count": 3
+        "total": 23319.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 1430.0,
@@ -16403,14 +16403,35 @@
         "count": 5
       },
       "transfer": {
-        "total": 4875.0,
-        "count": 4
+        "total": 23625.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00302",
+          "customer": "Abdul Nafiu",
+          "amount": 18750.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
+              "qty": 5.0,
+              "total": 17500.0
+            },
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 50.0,
+              "total": 1250.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00301",
           "customer": "Quay Mart Q-10",

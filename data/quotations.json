@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-03T09:15:50Z",
-  "openCount": 176,
-  "openTotal": 1898905.2,
+  "generatedAt": "2026-10-03T09:31:02Z",
+  "openCount": 175,
+  "openTotal": 1880155.2,
   "quotationCount": 59,
   "quotationTotal": 943877.75,
-  "orderCount": 117,
-  "orderTotal": 955027.45,
+  "orderCount": 116,
+  "orderTotal": 936277.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -233,36 +233,12 @@
     },
     {
       "date": "2026-10-03",
-      "count": 5,
-      "outstanding": 24350.0,
-      "total": 24350.0
+      "count": 4,
+      "outstanding": 5600.0,
+      "total": 5600.0
     }
   ],
   "quotations": [
-    {
-      "id": 437,
-      "ref": "S00438",
-      "kind": "order",
-      "customer": "Abdul Nafiu",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-03",
-      "expires": "2026-11-02",
-      "total": 18750.0,
-      "settled": 0.0,
-      "outstanding": 18750.0,
-      "lines": [
-        {
-          "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
-          "qty": 5.0,
-          "total": 17500.0
-        },
-        {
-          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-          "qty": 50.0,
-          "total": 1250.0
-        }
-      ]
-    },
     {
       "id": 432,
       "ref": "S00433",
