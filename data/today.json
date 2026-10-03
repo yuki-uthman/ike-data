@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T09:30:53Z",
+  "generatedAt": "2026-10-03T09:45:37Z",
   "cash": {
     "total": 378.0,
     "count": 5
   },
   "transfer": {
-    "total": 23625.0,
-    "count": 5
+    "total": 27960.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -34,6 +34,22 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 50.0,
           "total": 1250.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00297",
+      "customer": "Ruby A-2",
+      "amount": 3960.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 2.0,
+          "total": 3960.0
         }
       ]
     },
@@ -117,6 +133,22 @@
           "name": "[70018] PLASTIC BASKET ROUND 2# 902",
           "qty": 1.0,
           "total": 12.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00303",
+      "customer": "Myst Pvt Ltd",
+      "amount": 375.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 125.0,
+          "total": 375.0
         }
       ]
     },
@@ -231,8 +263,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 23109.0
+      "count": 5,
+      "total": 27444.0
     },
     {
       "name": "Bank Transfer",
