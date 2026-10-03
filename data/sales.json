@@ -16385,32 +16385,68 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T05:45:36Z",
+      "generatedAt": "2026-10-03T06:01:06Z",
       "pos": {
         "total": 15.0,
         "count": 1
       },
       "regularSales": {
-        "total": 210.0,
-        "count": 1
+        "total": 1399.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 16710.0,
-        "count": 2
+        "count": 3
       },
       "cash": {
         "total": 225.0,
         "count": 2
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1189.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00299",
+          "customer": "Okaaz R1",
+          "amount": 1189.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
+              "qty": 1.0,
+              "total": 355.0
+            },
+            {
+              "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+              "qty": 1.0,
+              "total": 355.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+              "qty": 1.0,
+              "total": 160.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Lavender (Purple) - Case (6pcs, 800 ml)",
+              "qty": 1.0,
+              "total": 160.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+              "qty": 1.0,
+              "total": 159.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00298",
           "customer": "Aria Mart H-6",
