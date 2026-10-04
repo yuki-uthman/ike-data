@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T09:01:22Z",
-  "openCount": 178,
-  "openTotal": 1899150.2,
-  "quotationCount": 59,
-  "quotationTotal": 881442.75,
-  "orderCount": 119,
-  "orderTotal": 1017707.45,
+  "generatedAt": "2026-10-04T09:16:06Z",
+  "openCount": 177,
+  "openTotal": 1815490.2,
+  "quotationCount": 60,
+  "quotationTotal": 882442.75,
+  "orderCount": 117,
+  "orderTotal": 933047.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -215,9 +215,9 @@
     },
     {
       "date": "2026-09-30",
-      "count": 8,
-      "outstanding": 19294.0,
-      "total": 19294.0
+      "count": 7,
+      "outstanding": 16434.0,
+      "total": 16434.0
     },
     {
       "date": "2026-10-01",
@@ -240,40 +240,11 @@
     {
       "date": "2026-10-04",
       "count": 3,
-      "outstanding": 86455.0,
-      "total": 86455.0
+      "outstanding": 5655.0,
+      "total": 5655.0
     }
   ],
   "quotations": [
-    {
-      "id": 407,
-      "ref": "S00408",
-      "kind": "order",
-      "customer": "Unique Grocery Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-04",
-      "expires": "2026-10-30",
-      "total": 81800.0,
-      "settled": 0.0,
-      "outstanding": 81800.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-DSP-1950-X05] #RD8 White Double Side Perforated 1950mm x5",
-          "qty": 4.0,
-          "total": 65800.0
-        },
-        {
-          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
-          "qty": 5.0,
-          "total": 9750.0
-        },
-        {
-          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-          "qty": 250.0,
-          "total": 6250.0
-        }
-      ]
-    },
     {
       "id": 446,
       "ref": "S00447",
@@ -314,6 +285,25 @@
           "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 1400.0
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "ref": "S00450",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-04",
+      "expires": "2026-11-03",
+      "total": 1000.0,
+      "settled": 0.0,
+      "outstanding": 1000.0,
+      "lines": [
+        {
+          "name": "[10007] Plastic Container T2 [case]",
+          "qty": 1.0,
+          "total": 1000.0
         }
       ]
     },
@@ -519,30 +509,6 @@
           "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
           "qty": 5.0,
           "total": 11750.0
-        }
-      ]
-    },
-    {
-      "id": 395,
-      "ref": "S00396",
-      "kind": "order",
-      "customer": "Sky Deck D-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-30",
-      "total": 2860.0,
-      "settled": 0.0,
-      "outstanding": 2860.0,
-      "lines": [
-        {
-          "name": "[90035] Milkshake Powder Strawberry",
-          "qty": 3.0,
-          "total": 660.0
-        },
-        {
-          "name": "[06705] Milkshake Powder Vanilla",
-          "qty": 10.0,
-          "total": 2200.0
         }
       ]
     },

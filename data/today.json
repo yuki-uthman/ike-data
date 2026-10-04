@@ -2,20 +2,67 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T09:01:14Z",
+  "generatedAt": "2026-10-04T09:15:55Z",
   "cash": {
     "total": 2423.0,
     "count": 2
   },
   "transfer": {
-    "total": 1400.0,
-    "count": 3
+    "total": 86060.0,
+    "count": 5
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00313",
+      "customer": "Unique Grocery Mart",
+      "amount": 81800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-WHT-DSP-1950-X05] #RD8 White Double Side Perforated 1950mm x5",
+          "qty": 4.0,
+          "total": 65800.0
+        },
+        {
+          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+          "qty": 5.0,
+          "total": 9750.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 250.0,
+          "total": 6250.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00314",
+      "customer": "Sky Deck D-10",
+      "amount": 2860.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 10.0,
+          "total": 2200.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 3.0,
+          "total": 660.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00310",
       "customer": "Naifu",
@@ -109,16 +156,16 @@
   ],
   "methodsSeen": [
     {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 4,
+      "total": 86030.0
+    },
+    {
       "name": "Cash",
       "method": "cash",
       "count": 2,
       "total": 2423.0
-    },
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 2,
-      "total": 1370.0
     },
     {
       "name": "Bank Transfer",
