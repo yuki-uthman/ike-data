@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T04:45:47Z",
-  "openCount": 177,
-  "openTotal": 1895665.2,
-  "quotationCount": 60,
-  "quotationTotal": 962127.75,
-  "orderCount": 117,
-  "orderTotal": 933537.45,
+  "generatedAt": "2026-10-04T05:01:14Z",
+  "openCount": 178,
+  "openTotal": 1898035.2,
+  "quotationCount": 59,
+  "quotationTotal": 960957.75,
+  "orderCount": 119,
+  "orderTotal": 937077.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -239,16 +239,35 @@
     },
     {
       "date": "2026-10-04",
-      "count": 1,
-      "outstanding": 1170.0,
-      "total": 1170.0
+      "count": 2,
+      "outstanding": 3540.0,
+      "total": 3540.0
     }
   ],
   "quotations": [
     {
+      "id": 446,
+      "ref": "S00447",
+      "kind": "order",
+      "customer": "Naifu",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-04",
+      "expires": "2026-11-03",
+      "total": 2370.0,
+      "settled": 0.0,
+      "outstanding": 2370.0,
+      "lines": [
+        {
+          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+          "qty": 3.0,
+          "total": 2370.0
+        }
+      ]
+    },
+    {
       "id": 445,
       "ref": "S00446",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Four Step K-4",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-04",

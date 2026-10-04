@@ -16885,22 +16885,22 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T04:45:38Z",
+      "generatedAt": "2026-10-04T05:01:06Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 1170.0,
+        "total": 2370.0,
         "count": 1
       },
-      "cash": {
+      "pendingQuotations": {
         "total": 0,
         "count": 0
+      },
+      "cash": {
+        "total": 2370.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -16910,7 +16910,24 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00310",
+          "customer": "Naifu",
+          "amount": 2370.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
+              "qty": 3.0,
+              "total": 2370.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -16918,7 +16935,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 4230.0,
-        "expectedClosing": 4230.0,
+        "expectedClosing": 6600.0,
         "counted": null,
         "difference": null,
         "closed": false,
