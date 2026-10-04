@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T05:01:06Z",
+  "generatedAt": "2026-10-04T05:15:37Z",
   "cash": {
     "total": 2370.0,
     "count": 1
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 1170.0,
+    "count": 1
   },
   "other": {
     "total": 0,
@@ -31,6 +31,22 @@
           "total": 2370.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00311",
+      "customer": "Four Step K-4",
+      "amount": 1170.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[26038] A2 IRONING BOARD",
+          "qty": 6.0,
+          "total": 1170.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -39,6 +55,12 @@
       "method": "cash",
       "count": 1,
       "total": 2370.0
+    },
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 1170.0
     }
   ],
   "cashOut": {

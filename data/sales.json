@@ -16885,14 +16885,14 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T05:01:06Z",
+      "generatedAt": "2026-10-04T05:15:37Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 2370.0,
-        "count": 1
+        "total": 3540.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 0,
@@ -16903,8 +16903,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1170.0,
+        "count": 1
       },
       "other": {
         "total": 0,
@@ -16924,6 +16924,22 @@
               "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
               "qty": 3.0,
               "total": 2370.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00311",
+          "customer": "Four Step K-4",
+          "amount": 1170.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[26038] A2 IRONING BOARD",
+              "qty": 6.0,
+              "total": 1170.0
             }
           ]
         }

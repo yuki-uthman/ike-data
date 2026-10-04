@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T05:01:14Z",
-  "openCount": 178,
-  "openTotal": 1898035.2,
+  "generatedAt": "2026-10-04T05:15:46Z",
+  "openCount": 177,
+  "openTotal": 1896865.2,
   "quotationCount": 59,
   "quotationTotal": 960957.75,
-  "orderCount": 119,
-  "orderTotal": 937077.45,
+  "orderCount": 118,
+  "orderTotal": 935907.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -239,9 +239,9 @@
     },
     {
       "date": "2026-10-04",
-      "count": 2,
-      "outstanding": 3540.0,
-      "total": 3540.0
+      "count": 1,
+      "outstanding": 2370.0,
+      "total": 2370.0
     }
   ],
   "quotations": [
@@ -261,25 +261,6 @@
           "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
           "qty": 3.0,
           "total": 2370.0
-        }
-      ]
-    },
-    {
-      "id": 445,
-      "ref": "S00446",
-      "kind": "order",
-      "customer": "Four Step K-4",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-04",
-      "expires": "2026-11-03",
-      "total": 1170.0,
-      "settled": 0.0,
-      "outstanding": 1170.0,
-      "lines": [
-        {
-          "name": "[26038] A2 IRONING BOARD",
-          "qty": 6.0,
-          "total": 1170.0
         }
       ]
     },
