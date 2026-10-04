@@ -16885,26 +16885,26 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T16:01:05Z",
+      "generatedAt": "2026-10-04T16:15:37Z",
       "pos": {
-        "total": 265.0,
-        "count": 4
+        "total": 745.0,
+        "count": 5
       },
       "regularSales": {
-        "total": 92280.0,
-        "count": 9
+        "total": 102980.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 24504.0,
-        "count": 5
+        "total": 13804.0,
+        "count": 4
       },
       "cash": {
         "total": 2845.0,
         "count": 5
       },
       "transfer": {
-        "total": 89700.0,
-        "count": 8
+        "total": 100880.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -16934,6 +16934,27 @@
               "name": "[70216] RD8 Price Border Strip White 900mm (875)",
               "qty": 250.0,
               "total": 6250.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00319",
+          "customer": "Buy Some G-2",
+          "amount": 10700.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X03] #2C White Double Side 2000mm x3",
+              "qty": 1.0,
+              "total": 7900.0
+            },
+            {
+              "name": "2C White End Round Shelves",
+              "qty": 2.0,
+              "total": 2800.0
             }
           ]
         },
@@ -17035,6 +17056,22 @@
               "name": "[10007] Plastic Container T2 [case]",
               "qty": 1.0,
               "total": 1000.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000291",
+          "customer": "Walk-in",
+          "amount": 480.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:05",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[3377] Aluminium Foil Box 3 compartment 3377 Loose",
+              "qty": 160.0,
+              "total": 480.0
             }
           ]
         },
