@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T16:15:37Z",
+  "generatedAt": "2026-10-04T16:30:54Z",
   "cash": {
-    "total": 2845.0,
-    "count": 5
+    "total": 2851.0,
+    "count": 6
   },
   "transfer": {
     "total": 100880.0,
@@ -300,6 +300,22 @@
           "total": 30.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000292",
+      "customer": "Walk-in",
+      "amount": 6.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:25",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[BC96B] Bagasse Clamshell 9\"X6\" Loose",
+          "qty": 2.0,
+          "total": 6.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -312,8 +328,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 2845.0
+      "count": 6,
+      "total": 2851.0
     },
     {
       "name": "Bank Transfer",
@@ -323,13 +339,28 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 80.0,
+    "count": 2
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Tea money 3 days \u00b7 Jafar",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:26"
+    },
+    {
+      "reason": "Gtae pass \u00b7 Staff - Nagarajan",
+      "amount": 20.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:27"
+    }
+  ],
   "till": {
     "opening": 4230.0,
-    "expectedClosing": 7075.0,
+    "expectedClosing": 7001.0,
     "counted": null,
     "difference": null,
     "closed": false,

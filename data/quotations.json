@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T16:15:47Z",
+  "generatedAt": "2026-10-04T16:31:08Z",
   "openCount": 179,
   "openTotal": 1825009.2,
-  "quotationCount": 61,
-  "quotationTotal": 891721.75,
-  "orderCount": 118,
-  "orderTotal": 933287.45,
+  "quotationCount": 60,
+  "quotationTotal": 890921.75,
+  "orderCount": 119,
+  "orderTotal": 934087.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -369,7 +369,7 @@
     {
       "id": 455,
       "ref": "S00456",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Nan Nukiyaa Store / Q8",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-04",
