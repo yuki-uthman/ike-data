@@ -16885,14 +16885,14 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T05:45:36Z",
+      "generatedAt": "2026-10-04T06:01:11Z",
       "pos": {
         "total": 30.0,
         "count": 1
       },
       "regularSales": {
-        "total": 3540.0,
-        "count": 2
+        "total": 3740.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 0,
@@ -16903,8 +16903,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 1200.0,
-        "count": 2
+        "total": 1400.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -16940,6 +16940,22 @@
               "name": "[26038] A2 IRONING BOARD",
               "qty": 6.0,
               "total": 1170.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00312",
+          "customer": "Sales",
+          "amount": 200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
+              "qty": 4.0,
+              "total": 200.0
             }
           ]
         },
