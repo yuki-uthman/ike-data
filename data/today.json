@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T15:30:53Z",
+  "generatedAt": "2026-10-04T15:45:35Z",
   "cash": {
-    "total": 2765.0,
-    "count": 4
+    "total": 2845.0,
+    "count": 5
   },
   "transfer": {
     "total": 89700.0,
@@ -202,6 +202,27 @@
       ]
     },
     {
+      "ref": "Ike - 000290",
+      "customer": "Walk-in",
+      "amount": 80.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[92381] Cake Box Paper 25x25x10cm #8",
+          "qty": 4.0,
+          "total": 60.0
+        },
+        {
+          "name": "[18637] Cake Box Paper 20x20x10cm #7",
+          "qty": 2.0,
+          "total": 20.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000288",
       "customer": "Walk-in",
       "amount": 53.0,
@@ -254,8 +275,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 2765.0
+      "count": 5,
+      "total": 2845.0
     },
     {
       "name": "Bank Transfer",
@@ -271,7 +292,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 4230.0,
-    "expectedClosing": 6995.0,
+    "expectedClosing": 7075.0,
     "counted": null,
     "difference": null,
     "closed": false,
