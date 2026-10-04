@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T16:30:54Z",
+  "generatedAt": "2026-10-04T16:45:37Z",
   "cash": {
     "total": 2851.0,
     "count": 6
   },
   "transfer": {
-    "total": 100880.0,
-    "count": 10
+    "total": 101680.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -161,6 +161,22 @@
           "name": "[10007] Plastic Container T2 [case]",
           "qty": 1.0,
           "total": 1000.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00320",
+      "customer": "Nan Nukiyaa Store / Q8",
+      "amount": 800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 5.0,
+          "total": 800.0
         }
       ]
     },
@@ -322,8 +338,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 100370.0
+      "count": 9,
+      "total": 101170.0
     },
     {
       "name": "Cash",
