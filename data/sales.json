@@ -16885,22 +16885,22 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T11:15:39Z",
+      "generatedAt": "2026-10-04T11:30:58Z",
       "pos": {
-        "total": 83.0,
-        "count": 2
+        "total": 185.0,
+        "count": 3
       },
       "regularSales": {
         "total": 89640.0,
         "count": 6
       },
       "pendingQuotations": {
-        "total": 3285.0,
-        "count": 2
+        "total": 13119.0,
+        "count": 3
       },
       "cash": {
-        "total": 2423.0,
-        "count": 2
+        "total": 2525.0,
+        "count": 3
       },
       "transfer": {
         "total": 87300.0,
@@ -17023,6 +17023,32 @@
           ]
         },
         {
+          "ref": "Ike - 000289",
+          "customer": "Walk-in",
+          "amount": 102.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:20",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02142] Glass Bowl with lid#9 01606 small",
+              "qty": 1.0,
+              "total": 45.0
+            },
+            {
+              "name": "[70063] Brush Toilet 3212 A62",
+              "qty": 1.0,
+              "total": 32.0
+            },
+            {
+              "name": "[01920] Wall hook pink #8022",
+              "qty": 1.0,
+              "total": 25.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000288",
           "customer": "Walk-in",
           "amount": 53.0,
@@ -17072,7 +17098,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 4230.0,
-        "expectedClosing": 6653.0,
+        "expectedClosing": 6755.0,
         "counted": null,
         "difference": null,
         "closed": false,

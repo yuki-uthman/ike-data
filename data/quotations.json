@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T11:15:49Z",
-  "openCount": 176,
-  "openTotal": 1814250.2,
-  "quotationCount": 59,
-  "quotationTotal": 881202.75,
+  "generatedAt": "2026-10-04T11:31:10Z",
+  "openCount": 177,
+  "openTotal": 1824084.2,
+  "quotationCount": 60,
+  "quotationTotal": 891036.75,
   "orderCount": 117,
   "orderTotal": 933047.45,
   "days": [
@@ -239,12 +239,71 @@
     },
     {
       "date": "2026-10-04",
-      "count": 3,
-      "outstanding": 5655.0,
-      "total": 5655.0
+      "count": 4,
+      "outstanding": 15489.0,
+      "total": 15489.0
     }
   ],
   "quotations": [
+    {
+      "id": 450,
+      "ref": "S00451",
+      "kind": "quotation",
+      "customer": "Ekuveri Store I-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-04",
+      "expires": "2026-11-03",
+      "total": 9834.0,
+      "settled": 0.0,
+      "outstanding": 9834.0,
+      "lines": [
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 4.0,
+          "total": 1280.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 10.0,
+          "total": 1550.0
+        },
+        {
+          "name": "Soklin Softergent Magnolia Berries (Red) - Case (12pcs, 700 gr)",
+          "qty": 2.0,
+          "total": 710.0
+        },
+        {
+          "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
+          "qty": 3.0,
+          "total": 1245.0
+        },
+        {
+          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+          "qty": 5.0,
+          "total": 1645.0
+        },
+        {
+          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
+          "qty": 2.0,
+          "total": 700.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 2.0,
+          "total": 600.0
+        },
+        {
+          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 4.0,
+          "total": 1840.0
+        }
+      ]
+    },
     {
       "id": 446,
       "ref": "S00447",
