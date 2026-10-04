@@ -16885,10 +16885,10 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T05:15:37Z",
+      "generatedAt": "2026-10-04T05:30:56Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 30.0,
+        "count": 1
       },
       "regularSales": {
         "total": 3540.0,
@@ -16903,8 +16903,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 1170.0,
-        "count": 1
+        "total": 1200.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -16940,6 +16940,22 @@
               "name": "[26038] A2 IRONING BOARD",
               "qty": 6.0,
               "total": 1170.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000287",
+          "customer": "Walk-in",
+          "amount": 30.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "10:30",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+              "qty": 1.0,
+              "total": 30.0
             }
           ]
         }
