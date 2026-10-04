@@ -16885,22 +16885,22 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T17:01:06Z",
+      "generatedAt": "2026-10-04T17:15:38Z",
       "pos": {
-        "total": 1720.0,
-        "count": 9
+        "total": 1735.0,
+        "count": 10
       },
       "regularSales": {
         "total": 103780.0,
         "count": 11
       },
       "pendingQuotations": {
-        "total": 14024.0,
-        "count": 4
+        "total": 13004.0,
+        "count": 3
       },
       "cash": {
-        "total": 2860.0,
-        "count": 8
+        "total": 2875.0,
+        "count": 9
       },
       "transfer": {
         "total": 102640.0,
@@ -17239,6 +17239,22 @@
           ]
         },
         {
+          "ref": "Ike - 000296",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:03",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[731015129508] Sponge 5pcs WJ631",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000295",
           "customer": "Walk-in",
           "amount": 6.0,
@@ -17309,7 +17325,7 @@
       ],
       "till": {
         "opening": 4230.0,
-        "expectedClosing": 7010.0,
+        "expectedClosing": 7025.0,
         "counted": null,
         "difference": null,
         "closed": false,

@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T17:01:17Z",
+  "generatedAt": "2026-10-04T17:15:48Z",
   "openCount": 179,
   "openTotal": 1825229.2,
-  "quotationCount": 61,
-  "quotationTotal": 891941.75,
-  "orderCount": 118,
-  "orderTotal": 933287.45,
+  "quotationCount": 60,
+  "quotationTotal": 890921.75,
+  "orderCount": 119,
+  "orderTotal": 934307.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -350,7 +350,7 @@
     {
       "id": 456,
       "ref": "S00457",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Okaaz R1",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-04",
