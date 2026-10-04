@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T04:31:02Z",
+  "generatedAt": "2026-10-04T04:45:47Z",
   "openCount": 177,
   "openTotal": 1895665.2,
   "quotationCount": 60,
@@ -249,7 +249,7 @@
       "id": 445,
       "ref": "S00446",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "Four Step K-4",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-04",
       "expires": "2026-11-03",
