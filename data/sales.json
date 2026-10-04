@@ -16885,10 +16885,10 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T17:45:36Z",
+      "generatedAt": "2026-10-04T18:01:03Z",
       "pos": {
-        "total": 1785.0,
-        "count": 11
+        "total": 1851.0,
+        "count": 12
       },
       "regularSales": {
         "total": 104800.0,
@@ -16899,8 +16899,8 @@
         "count": 3
       },
       "cash": {
-        "total": 2875.0,
-        "count": 9
+        "total": 2941.0,
+        "count": 10
       },
       "transfer": {
         "total": 103710.0,
@@ -17223,6 +17223,22 @@
           ]
         },
         {
+          "ref": "Ike - 000298",
+          "customer": "Walk-in",
+          "amount": 66.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:49",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01623] Ceramic Plate 8\"#12",
+              "qty": 2.0,
+              "total": 66.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000288",
           "customer": "Walk-in",
           "amount": 53.0,
@@ -17367,10 +17383,10 @@
       ],
       "till": {
         "opening": 4230.0,
-        "expectedClosing": 7025.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "expectedClosing": 7091.0,
+        "counted": 7091.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
