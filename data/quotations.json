@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T11:31:10Z",
+  "generatedAt": "2026-10-04T11:45:51Z",
   "openCount": 177,
-  "openTotal": 1824084.2,
-  "quotationCount": 60,
-  "quotationTotal": 891036.75,
-  "orderCount": 117,
-  "orderTotal": 933047.45,
+  "openTotal": 1823324.2,
+  "quotationCount": 59,
+  "quotationTotal": 890036.75,
+  "orderCount": 118,
+  "orderTotal": 933287.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -240,8 +240,8 @@
     {
       "date": "2026-10-04",
       "count": 4,
-      "outstanding": 15489.0,
-      "total": 15489.0
+      "outstanding": 14729.0,
+      "total": 14729.0
     }
   ],
   "quotations": [
@@ -348,21 +348,21 @@
       ]
     },
     {
-      "id": 449,
-      "ref": "S00450",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
+      "id": 451,
+      "ref": "S00452",
+      "kind": "order",
+      "customer": "2T Traders",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-04",
       "expires": "2026-11-03",
-      "total": 1000.0,
+      "total": 240.0,
       "settled": 0.0,
-      "outstanding": 1000.0,
+      "outstanding": 240.0,
       "lines": [
         {
-          "name": "[10007] Plastic Container T2 [case]",
-          "qty": 1.0,
-          "total": 1000.0
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 15.0,
+          "total": 240.0
         }
       ]
     },
