@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T15:45:46Z",
-  "openCount": 178,
-  "openTotal": 1824209.2,
-  "quotationCount": 60,
-  "quotationTotal": 890921.75,
+  "generatedAt": "2026-10-04T16:01:14Z",
+  "openCount": 180,
+  "openTotal": 1835709.2,
+  "quotationCount": 62,
+  "quotationTotal": 902421.75,
   "orderCount": 118,
   "orderTotal": 933287.45,
   "days": [
@@ -239,12 +239,36 @@
     },
     {
       "date": "2026-10-04",
-      "count": 5,
-      "outstanding": 15614.0,
-      "total": 15614.0
+      "count": 7,
+      "outstanding": 27114.0,
+      "total": 27114.0
     }
   ],
   "quotations": [
+    {
+      "id": 454,
+      "ref": "S00455",
+      "kind": "quotation",
+      "customer": "Buy Some G-2",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-04",
+      "expires": "2026-11-03",
+      "total": 10700.0,
+      "settled": 0.0,
+      "outstanding": 10700.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-DS-2000-X03] #2C White Double Side 2000mm x3",
+          "qty": 1.0,
+          "total": 7900.0
+        },
+        {
+          "name": "2C White End Round Shelves",
+          "qty": 2.0,
+          "total": 2800.0
+        }
+      ]
+    },
     {
       "id": 450,
       "ref": "S00451",
@@ -363,6 +387,25 @@
           "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
           "qty": 1.0,
           "total": 885.0
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "ref": "S00456",
+      "kind": "quotation",
+      "customer": "Nan Nukiyaa Store / Q8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-04",
+      "expires": "2026-11-03",
+      "total": 800.0,
+      "settled": 0.0,
+      "outstanding": 800.0,
+      "lines": [
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 5.0,
+          "total": 800.0
         }
       ]
     },
