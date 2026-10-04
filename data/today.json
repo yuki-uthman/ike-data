@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T17:15:38Z",
+  "generatedAt": "2026-10-04T17:30:55Z",
   "cash": {
     "total": 2875.0,
     "count": 9
   },
   "transfer": {
-    "total": 102640.0,
-    "count": 12
+    "total": 103710.0,
+    "count": 14
   },
   "other": {
     "total": 0,
@@ -145,6 +145,32 @@
           "name": "[26038] A2 IRONING BOARD",
           "qty": 6.0,
           "total": 1170.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00321",
+      "customer": "Okaaz R1",
+      "amount": 1020.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
         }
       ]
     },
@@ -328,6 +354,22 @@
       ]
     },
     {
+      "ref": "Ike - 000297",
+      "customer": "Walk-in",
+      "amount": 50.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:22",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 1.0,
+          "total": 50.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000287",
       "customer": "Walk-in",
       "amount": 30.0,
@@ -412,8 +454,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 101170.0
+      "count": 10,
+      "total": 102190.0
     },
     {
       "name": "Cash",
@@ -424,8 +466,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 3,
-      "total": 1470.0
+      "count": 4,
+      "total": 1520.0
     }
   ],
   "cashOut": {
