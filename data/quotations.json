@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T04:15:46Z",
-  "openCount": 176,
-  "openTotal": 1894495.2,
-  "quotationCount": 59,
-  "quotationTotal": 960957.75,
+  "generatedAt": "2026-10-04T04:31:02Z",
+  "openCount": 177,
+  "openTotal": 1895665.2,
+  "quotationCount": 60,
+  "quotationTotal": 962127.75,
   "orderCount": 117,
   "orderTotal": 933537.45,
   "days": [
@@ -239,12 +239,31 @@
     },
     {
       "date": "2026-10-04",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 1170.0,
+      "total": 1170.0
     }
   ],
   "quotations": [
+    {
+      "id": 445,
+      "ref": "S00446",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-04",
+      "expires": "2026-11-03",
+      "total": 1170.0,
+      "settled": 0.0,
+      "outstanding": 1170.0,
+      "lines": [
+        {
+          "name": "[26038] A2 IRONING BOARD",
+          "qty": 6.0,
+          "total": 1170.0
+        }
+      ]
+    },
     {
       "id": 439,
       "ref": "S00440",
