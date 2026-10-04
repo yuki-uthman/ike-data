@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-04T16:45:49Z",
-  "openCount": 178,
-  "openTotal": 1824209.2,
-  "quotationCount": 60,
-  "quotationTotal": 890921.75,
+  "generatedAt": "2026-10-04T17:01:17Z",
+  "openCount": 179,
+  "openTotal": 1825229.2,
+  "quotationCount": 61,
+  "quotationTotal": 891941.75,
   "orderCount": 118,
   "orderTotal": 933287.45,
   "days": [
@@ -239,9 +239,9 @@
     },
     {
       "date": "2026-10-04",
-      "count": 5,
-      "outstanding": 15614.0,
-      "total": 15614.0
+      "count": 6,
+      "outstanding": 16634.0,
+      "total": 16634.0
     }
   ],
   "quotations": [
@@ -344,6 +344,35 @@
           "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 1400.0
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "ref": "S00457",
+      "kind": "quotation",
+      "customer": "Okaaz R1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-04",
+      "expires": "2026-11-03",
+      "total": 1020.0,
+      "settled": 0.0,
+      "outstanding": 1020.0,
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
         }
       ]
     },
