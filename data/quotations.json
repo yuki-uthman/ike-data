@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-05T08:45:53Z",
-  "openCount": 181,
-  "openTotal": 1827741.2,
-  "quotationCount": 61,
-  "quotationTotal": 893561.75,
+  "generatedAt": "2026-10-05T09:01:24Z",
+  "openCount": 182,
+  "openTotal": 1820086.2,
+  "quotationCount": 62,
+  "quotationTotal": 885906.75,
   "orderCount": 120,
   "orderTotal": 934179.45,
   "days": [
@@ -239,15 +239,15 @@
     },
     {
       "date": "2026-10-04",
-      "count": 5,
-      "outstanding": 15614.0,
-      "total": 15614.0
+      "count": 4,
+      "outstanding": 5780.0,
+      "total": 5780.0
     },
     {
       "date": "2026-10-05",
-      "count": 3,
-      "outstanding": 3532.0,
-      "total": 3532.0
+      "count": 5,
+      "outstanding": 5711.0,
+      "total": 5711.0
     }
   ],
   "quotations": [
@@ -277,6 +277,54 @@
           "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
           "qty": 6.0,
           "total": 1584.0
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "ref": "S00463",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-05",
+      "expires": "2026-11-04",
+      "total": 1200.0,
+      "settled": 0.0,
+      "outstanding": 1200.0,
+      "lines": [
+        {
+          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+          "qty": 1.0,
+          "total": 1200.0
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "ref": "S00462",
+      "kind": "quotation",
+      "customer": "I Select E-16",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-05",
+      "expires": "2026-11-04",
+      "total": 979.0,
+      "settled": 0.0,
+      "outstanding": 979.0,
+      "lines": [
+        {
+          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+          "qty": 1.0,
+          "total": 329.0
+        },
+        {
+          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
         }
       ]
     },
@@ -320,65 +368,6 @@
           "name": "[70141] Hook Net 8\"",
           "qty": 12.0,
           "total": 144.0
-        }
-      ]
-    },
-    {
-      "id": 450,
-      "ref": "S00451",
-      "kind": "quotation",
-      "customer": "Ekuveri Store I-8",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-04",
-      "expires": "2026-11-03",
-      "total": 9834.0,
-      "settled": 0.0,
-      "outstanding": 9834.0,
-      "lines": [
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 4.0,
-          "total": 1280.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 10.0,
-          "total": 1550.0
-        },
-        {
-          "name": "Soklin Softergent Magnolia Berries (Red) - Case (12pcs, 700 gr)",
-          "qty": 2.0,
-          "total": 710.0
-        },
-        {
-          "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
-          "qty": 3.0,
-          "total": 1245.0
-        },
-        {
-          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
-          "qty": 5.0,
-          "total": 1645.0
-        },
-        {
-          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
-          "qty": 2.0,
-          "total": 700.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 2.0,
-          "total": 600.0
-        },
-        {
-          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
-          "qty": 1.0,
-          "total": 264.0
-        },
-        {
-          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
-          "qty": 4.0,
-          "total": 1840.0
         }
       ]
     },

@@ -17357,32 +17357,88 @@
     },
     {
       "date": "2026-10-05",
-      "generatedAt": "2026-10-05T08:45:42Z",
+      "generatedAt": "2026-10-05T09:01:15Z",
       "pos": {
-        "total": 422.0,
-        "count": 5
+        "total": 552.0,
+        "count": 6
       },
       "regularSales": {
-        "total": 1172.0,
-        "count": 3
+        "total": 11006.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 2640.0,
-        "count": 1
+        "total": 4819.0,
+        "count": 3
       },
       "cash": {
         "total": 1089.0,
         "count": 6
       },
       "transfer": {
-        "total": 505.0,
-        "count": 2
+        "total": 10469.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00326",
+          "customer": "Ekuveri Store I-8",
+          "amount": 9834.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+              "qty": 4.0,
+              "total": 1840.0
+            },
+            {
+              "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+              "qty": 5.0,
+              "total": 1645.0
+            },
+            {
+              "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+              "qty": 10.0,
+              "total": 1550.0
+            },
+            {
+              "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+              "qty": 4.0,
+              "total": 1280.0
+            },
+            {
+              "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
+              "qty": 3.0,
+              "total": 1245.0
+            },
+            {
+              "name": "Soklin Softergent Magnolia Berries (Red) - Case (12pcs, 700 gr)",
+              "qty": 2.0,
+              "total": 710.0
+            },
+            {
+              "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
+              "qty": 2.0,
+              "total": 700.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 2.0,
+              "total": 600.0
+            },
+            {
+              "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+              "qty": 1.0,
+              "total": 264.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00323",
           "customer": "Snap Buy",
@@ -17475,6 +17531,22 @@
               "name": "[70143] Hook Slat 6\"",
               "qty": 2.0,
               "total": 20.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000302",
+          "customer": "Walk-in",
+          "amount": 130.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "13:51",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soklin Detergent Liquid White (1 liter)",
+              "qty": 2.0,
+              "total": 130.0
             }
           ]
         },
