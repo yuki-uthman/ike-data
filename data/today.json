@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T05:15:40Z",
+  "generatedAt": "2026-10-05T05:30:57Z",
   "cash": {
-    "total": 20.0,
-    "count": 1
+    "total": 154.0,
+    "count": 2
   },
   "transfer": {
     "total": 0,
@@ -16,6 +16,32 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "Ike - 000299",
+      "customer": "Walk-in",
+      "amount": 134.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:19",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01928] Ceramic Mug#48-1",
+          "qty": 6.0,
+          "total": 90.0
+        },
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 2.0,
+          "total": 24.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 2.0,
+          "total": 20.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000141",
       "customer": "Walk-in",
@@ -37,8 +63,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 20.0
+      "count": 2,
+      "total": 154.0
     }
   ],
   "cashOut": {
@@ -48,7 +74,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 7091.0,
-    "expectedClosing": 7111.0,
+    "expectedClosing": 7245.0,
     "counted": null,
     "difference": null,
     "closed": false,
