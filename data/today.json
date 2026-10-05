@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T15:45:42Z",
+  "generatedAt": "2026-10-05T16:01:16Z",
   "cash": {
     "total": 1116.0,
     "count": 8
   },
   "transfer": {
-    "total": 15933.0,
-    "count": 8
+    "total": 16128.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -216,6 +216,22 @@
       ]
     },
     {
+      "ref": "Ike - 000304",
+      "customer": "Walk-in",
+      "amount": 195.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "20:46",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01955] ironing board large",
+          "qty": 1.0,
+          "total": 195.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000299",
       "customer": "Walk-in",
       "amount": 134.0,
@@ -354,8 +370,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 355.0
+      "count": 3,
+      "total": 550.0
     }
   ],
   "cashOut": {
