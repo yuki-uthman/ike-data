@@ -17357,10 +17357,10 @@
     },
     {
       "date": "2026-10-05",
-      "generatedAt": "2026-10-05T17:15:41Z",
+      "generatedAt": "2026-10-05T17:30:59Z",
       "pos": {
-        "total": 890.0,
-        "count": 11
+        "total": 1788.0,
+        "count": 12
       },
       "regularSales": {
         "total": 19020.0,
@@ -17371,8 +17371,8 @@
         "count": 1
       },
       "cash": {
-        "total": 1205.0,
-        "count": 9
+        "total": 2103.0,
+        "count": 10
       },
       "transfer": {
         "total": 18705.0,
@@ -17515,6 +17515,57 @@
               "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
               "qty": 1.0,
               "total": 300.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000307",
+          "customer": "Walk-in",
+          "amount": 898.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:21",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01648] Electric Kettle 1.8L Hoffmas#HM-2535",
+              "qty": 1.0,
+              "total": 249.0
+            },
+            {
+              "name": "[02087] Stockpot Granite #5 01663 Loose Pot #4",
+              "qty": 1.0,
+              "total": 203.0
+            },
+            {
+              "name": "[01955] ironing board large",
+              "qty": 1.0,
+              "total": 195.0
+            },
+            {
+              "name": "[01666] Flat Roti Pan 28cm#8",
+              "qty": 1.0,
+              "total": 120.0
+            },
+            {
+              "name": "[6956779400357] PLASTIC BUCKET WITH LID A808 Big",
+              "qty": 1.0,
+              "total": 59.0
+            },
+            {
+              "name": "Door Mat Code02#38*58",
+              "qty": 1.0,
+              "total": 39.0
+            },
+            {
+              "name": "[70076] Towel 042-0980 30*30cm",
+              "qty": 2.0,
+              "total": 18.0
+            },
+            {
+              "name": "[01911] Spray Bottle A34",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
@@ -17775,13 +17826,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 20.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Gate pass \u00b7 Staff=Nagarajan",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:30"
+        }
+      ],
       "till": {
         "opening": 7091.0,
-        "expectedClosing": 8536.0,
+        "expectedClosing": 9414.0,
         "counted": null,
         "difference": null,
         "closed": false,
