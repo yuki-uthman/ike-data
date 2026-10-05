@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-05T10:45:59Z",
-  "openCount": 182,
-  "openTotal": 1820086.2,
+  "generatedAt": "2026-10-05T11:01:29Z",
+  "openCount": 181,
+  "openTotal": 1819107.2,
   "quotationCount": 61,
   "quotationTotal": 884927.75,
-  "orderCount": 121,
-  "orderTotal": 935158.45,
+  "orderCount": 120,
+  "orderTotal": 934179.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -245,9 +245,9 @@
     },
     {
       "date": "2026-10-05",
-      "count": 5,
-      "outstanding": 5711.0,
-      "total": 5711.0
+      "count": 4,
+      "outstanding": 4732.0,
+      "total": 4732.0
     }
   ],
   "quotations": [
@@ -296,35 +296,6 @@
           "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
           "qty": 1.0,
           "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 461,
-      "ref": "S00462",
-      "kind": "order",
-      "customer": "I Select E-16",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-05",
-      "expires": "2026-11-04",
-      "total": 979.0,
-      "settled": 0.0,
-      "outstanding": 979.0,
-      "lines": [
-        {
-          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
-          "qty": 1.0,
-          "total": 329.0
-        },
-        {
-          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
-          "qty": 1.0,
-          "total": 350.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
         }
       ]
     },
