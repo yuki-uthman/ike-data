@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T05:36:53Z",
+  "generatedAt": "2026-10-05T05:45:39Z",
   "cash": {
     "total": 154.0,
     "count": 2
   },
   "transfer": {
-    "total": 280.0,
-    "count": 1
+    "total": 505.0,
+    "count": 2
   },
   "other": {
     "total": 0,
@@ -29,6 +29,22 @@
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 1.0,
           "total": 280.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000300",
+      "customer": "Walk-in",
+      "amount": 225.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "10:37",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[TPLCH014] Oval Hinged Container 500ml",
+          "qty": 1.0,
+          "total": 225.0
         }
       ]
     },
@@ -81,6 +97,12 @@
       "method": "transfer",
       "count": 1,
       "total": 280.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 225.0
     },
     {
       "name": "Cash",
