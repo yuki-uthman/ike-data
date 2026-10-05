@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-05T16:31:12Z",
-  "openCount": 180,
-  "openTotal": 1819572.2,
+  "generatedAt": "2026-10-05T16:45:51Z",
+  "openCount": 181,
+  "openTotal": 1819601.2,
   "quotationCount": 59,
   "quotationTotal": 882842.75,
-  "orderCount": 121,
-  "orderTotal": 936729.45,
+  "orderCount": 122,
+  "orderTotal": 936758.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -245,9 +245,9 @@
     },
     {
       "date": "2026-10-05",
-      "count": 4,
-      "outstanding": 6082.0,
-      "total": 6082.0
+      "count": 5,
+      "outstanding": 6111.0,
+      "total": 6111.0
     }
   ],
   "quotations": [
@@ -344,6 +344,25 @@
           "name": "[70141] Hook Net 8\"",
           "qty": 12.0,
           "total": 144.0
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "ref": "S00466",
+      "kind": "order",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-05",
+      "expires": "2026-11-04",
+      "total": 29.0,
+      "settled": 0.0,
+      "outstanding": 29.0,
+      "lines": [
+        {
+          "name": "[01871] Duster#43",
+          "qty": 1.0,
+          "total": 29.0
         }
       ]
     },
