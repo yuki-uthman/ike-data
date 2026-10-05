@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T11:01:14Z",
+  "generatedAt": "2026-10-05T11:15:42Z",
   "cash": {
     "total": 1104.0,
     "count": 7
   },
   "transfer": {
-    "total": 13848.0,
-    "count": 6
+    "total": 15933.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -89,6 +89,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00330",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 1200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+          "qty": 1.0,
+          "total": 1200.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00328",
       "customer": "I Select E-16",
       "amount": 979.0,
@@ -111,6 +127,22 @@
           "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
           "qty": 1.0,
           "total": 300.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00329",
+      "customer": "Ball Tree Trade Pvt Ltd F-8",
+      "amount": 885.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
         }
       ]
     },
@@ -294,8 +326,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 13493.0
+      "count": 6,
+      "total": 15578.0
     },
     {
       "name": "Cash",

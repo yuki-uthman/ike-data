@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-05T11:01:29Z",
-  "openCount": 181,
-  "openTotal": 1819107.2,
-  "quotationCount": 61,
-  "quotationTotal": 884927.75,
+  "generatedAt": "2026-10-05T11:15:53Z",
+  "openCount": 179,
+  "openTotal": 1817022.2,
+  "quotationCount": 59,
+  "quotationTotal": 882842.75,
   "orderCount": 120,
   "orderTotal": 934179.45,
   "days": [
@@ -239,15 +239,15 @@
     },
     {
       "date": "2026-10-04",
-      "count": 4,
-      "outstanding": 5780.0,
-      "total": 5780.0
+      "count": 3,
+      "outstanding": 4895.0,
+      "total": 4895.0
     },
     {
       "date": "2026-10-05",
-      "count": 4,
-      "outstanding": 4732.0,
-      "total": 4732.0
+      "count": 3,
+      "outstanding": 3532.0,
+      "total": 3532.0
     }
   ],
   "quotations": [
@@ -277,25 +277,6 @@
           "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
           "qty": 6.0,
           "total": 1584.0
-        }
-      ]
-    },
-    {
-      "id": 462,
-      "ref": "S00463",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-05",
-      "expires": "2026-11-04",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
-          "qty": 1.0,
-          "total": 1200.0
         }
       ]
     },
@@ -382,25 +363,6 @@
           "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 1400.0
-        }
-      ]
-    },
-    {
-      "id": 453,
-      "ref": "S00454",
-      "kind": "quotation",
-      "customer": "Ball Tree Trade Pvt Ltd F-8",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-04",
-      "expires": "2026-11-03",
-      "total": 885.0,
-      "settled": 0.0,
-      "outstanding": 885.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
         }
       ]
     },
