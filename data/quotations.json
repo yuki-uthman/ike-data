@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-05T05:01:21Z",
-  "openCount": 178,
-  "openTotal": 1824209.2,
-  "quotationCount": 60,
-  "quotationTotal": 890921.75,
+  "generatedAt": "2026-10-05T05:15:55Z",
+  "openCount": 179,
+  "openTotal": 1826849.2,
+  "quotationCount": 61,
+  "quotationTotal": 893561.75,
   "orderCount": 118,
   "orderTotal": 933287.45,
   "days": [
@@ -245,12 +245,41 @@
     },
     {
       "date": "2026-10-05",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2640.0,
+      "total": 2640.0
     }
   ],
   "quotations": [
+    {
+      "id": 457,
+      "ref": "S00458",
+      "kind": "quotation",
+      "customer": "Koobe E-08",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-05",
+      "expires": "2026-11-04",
+      "total": 2640.0,
+      "settled": 0.0,
+      "outstanding": 2640.0,
+      "lines": [
+        {
+          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+          "qty": 2.0,
+          "total": 528.0
+        },
+        {
+          "name": "Soklin Softener Paris In Love (Pink) - Case (12pcs, 820 ml)",
+          "qty": 2.0,
+          "total": 528.0
+        },
+        {
+          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
+          "qty": 6.0,
+          "total": 1584.0
+        }
+      ]
+    },
     {
       "id": 450,
       "ref": "S00451",
