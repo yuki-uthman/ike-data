@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-05T06:01:20Z",
-  "openCount": 179,
-  "openTotal": 1826849.2,
+  "generatedAt": "2026-10-05T06:15:51Z",
+  "openCount": 180,
+  "openTotal": 1827429.2,
   "quotationCount": 61,
   "quotationTotal": 893561.75,
-  "orderCount": 118,
-  "orderTotal": 933287.45,
+  "orderCount": 119,
+  "orderTotal": 933867.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -245,9 +245,9 @@
     },
     {
       "date": "2026-10-05",
-      "count": 1,
-      "outstanding": 2640.0,
-      "total": 2640.0
+      "count": 2,
+      "outstanding": 3220.0,
+      "total": 3220.0
     }
   ],
   "quotations": [
@@ -277,6 +277,25 @@
           "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
           "qty": 6.0,
           "total": 1584.0
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "ref": "S00460",
+      "kind": "order",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-05",
+      "expires": "2026-11-04",
+      "total": 580.0,
+      "settled": 0.0,
+      "outstanding": 580.0,
+      "lines": [
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 12.0,
+          "total": 579.99
         }
       ]
     },
