@@ -17357,10 +17357,10 @@
     },
     {
       "date": "2026-10-05",
-      "generatedAt": "2026-10-05T17:30:59Z",
+      "generatedAt": "2026-10-05T17:45:39Z",
       "pos": {
-        "total": 1788.0,
-        "count": 12
+        "total": 1770.0,
+        "count": 13
       },
       "regularSales": {
         "total": 19020.0,
@@ -17371,8 +17371,8 @@
         "count": 1
       },
       "cash": {
-        "total": 2103.0,
-        "count": 10
+        "total": 2085.0,
+        "count": 11
       },
       "transfer": {
         "total": 18705.0,
@@ -17823,6 +17823,22 @@
               "total": 12.0
             }
           ]
+        },
+        {
+          "ref": "RINV/2026/00009 (Reversal of: INV/2026/00324)",
+          "customer": "Snap Buy",
+          "amount": -18.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:36",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70070] Glass Wiper A63",
+              "qty": -1.0,
+              "total": 18.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -17840,7 +17856,7 @@
       ],
       "till": {
         "opening": 7091.0,
-        "expectedClosing": 9414.0,
+        "expectedClosing": 9396.0,
         "counted": null,
         "difference": null,
         "closed": false,
