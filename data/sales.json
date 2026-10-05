@@ -17357,14 +17357,14 @@
     },
     {
       "date": "2026-10-05",
-      "generatedAt": "2026-10-05T09:30:58Z",
+      "generatedAt": "2026-10-05T09:45:42Z",
       "pos": {
         "total": 552.0,
         "count": 6
       },
       "regularSales": {
-        "total": 11006.0,
-        "count": 4
+        "total": 13406.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 4819.0,
@@ -17375,8 +17375,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 10469.0,
-        "count": 4
+        "total": 12869.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -17436,6 +17436,22 @@
               "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
               "qty": 1.0,
               "total": 264.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00327",
+          "customer": "Sales",
+          "amount": 2400.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70144] Hook Slat 8\"",
+              "qty": 200.0,
+              "total": 2400.0
             }
           ]
         },
