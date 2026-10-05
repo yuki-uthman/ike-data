@@ -17357,14 +17357,14 @@
     },
     {
       "date": "2026-10-05",
-      "generatedAt": "2026-10-05T16:45:40Z",
+      "generatedAt": "2026-10-05T17:01:14Z",
       "pos": {
         "total": 890.0,
         "count": 11
       },
       "regularSales": {
-        "total": 16470.0,
-        "count": 8
+        "total": 19020.0,
+        "count": 9
       },
       "pendingQuotations": {
         "total": 2640.0,
@@ -17375,8 +17375,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 16155.0,
-        "count": 10
+        "total": 18705.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -17436,6 +17436,27 @@
               "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
               "qty": 1.0,
               "total": 264.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00332",
+          "customer": "Nina",
+          "amount": 2550.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+              "qty": 1.0,
+              "total": 2500.0
+            },
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 2.0,
+              "total": 50.0
             }
           ]
         },
