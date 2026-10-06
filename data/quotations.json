@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T10:01:27Z",
-  "openCount": 181,
-  "openTotal": 1867126.2,
+  "generatedAt": "2026-10-06T10:16:03Z",
+  "openCount": 180,
+  "openTotal": 1820126.2,
   "quotationCount": 57,
   "quotationTotal": 874857.75,
-  "orderCount": 124,
-  "orderTotal": 992268.45,
+  "orderCount": 123,
+  "orderTotal": 945268.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -251,31 +251,12 @@
     },
     {
       "date": "2026-10-06",
-      "count": 3,
-      "outstanding": 58060.0,
-      "total": 58060.0
+      "count": 2,
+      "outstanding": 11060.0,
+      "total": 11060.0
     }
   ],
   "quotations": [
-    {
-      "id": 470,
-      "ref": "S00471",
-      "kind": "order",
-      "customer": "Cilantro Emporium Private Limited",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-06",
-      "expires": "2026-11-05",
-      "total": 47000.0,
-      "settled": 0.0,
-      "outstanding": 47000.0,
-      "lines": [
-        {
-          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
-          "qty": 20.0,
-          "total": 47000.0
-        }
-      ]
-    },
     {
       "id": 469,
       "ref": "S00470",

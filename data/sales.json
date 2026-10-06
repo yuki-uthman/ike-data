@@ -17830,14 +17830,14 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T10:01:16Z",
+      "generatedAt": "2026-10-06T10:15:45Z",
       "pos": {
         "total": 181.0,
         "count": 3
       },
       "regularSales": {
-        "total": 26485.0,
-        "count": 7
+        "total": 73485.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 0,
@@ -17848,14 +17848,30 @@
         "count": 4
       },
       "transfer": {
-        "total": 15520.0,
-        "count": 6
+        "total": 62520.0,
+        "count": 7
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00340",
+          "customer": "Cilantro Emporium Private Limited",
+          "amount": 47000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+              "qty": 20.0,
+              "total": 47000.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00337",
           "customer": "Bl Mart Q-5",
