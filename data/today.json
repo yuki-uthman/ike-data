@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T11:15:43Z",
+  "generatedAt": "2026-10-06T11:31:00Z",
   "cash": {
-    "total": 11296.0,
-    "count": 5
+    "total": 11340.0,
+    "count": 6
   },
   "transfer": {
     "total": 62520.0,
@@ -248,6 +248,27 @@
       ]
     },
     {
+      "ref": "Ike - 000312",
+      "customer": "Walk-in",
+      "amount": 44.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:19",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01871] Duster#43",
+          "qty": 1.0,
+          "total": 29.0
+        },
+        {
+          "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000309",
       "customer": "Walk-in",
       "amount": 15.0,
@@ -274,8 +295,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 11296.0
+      "count": 6,
+      "total": 11340.0
     },
     {
       "name": "Bank Transfer",
@@ -291,7 +312,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 9223.0,
-    "expectedClosing": 20519.0,
+    "expectedClosing": 20563.0,
     "counted": null,
     "difference": null,
     "closed": false,
