@@ -11,13 +11,18 @@ settled orders in this instance, and `invoice_status` lies in the other
 direction: S00203 reads "Fully Invoiced" with zero linked invoices. Trusting
 either would leave dozens of already-paid orders sitting on the follow-up
 list forever. Money actually reaches an order two ways here, and each needs
-its own join:
+its own join, and a third covers money Odoo has not yet booked onto the invoice:
 
   - account.move.invoice_origin : the ORDER NAME written on the invoice.
     Carried by 154 of 155 customer invoices; `invoice_ids` is not.
   - pos.order.line.sale_order_line_id : the counter settling a quotation
     against its order lines directly, producing no sale-order invoice at all.
     625 POS lines point back this way.
+  - account.payment.reconciled_invoice_ids : a payment registered against an
+    invoice whose journal entry is still a draft. The invoice then reads
+    not_paid with its full residual, though the cash was taken and the Sales
+    dashboard counts it. Counted per invoice as max(booked, payments), so a
+    payment Odoo has posted is never counted twice.
 
 So "paid" is computed, never read:
 
@@ -124,6 +129,26 @@ def main():
         if order_id:
             pos_settled[order_id] += pl["price_subtotal_incl"]
 
+    # --- Channel 3: payments Odoo has not yet reflected on the invoice ---
+    # A customer payment can be registered against an invoice while its journal
+    # entry is still a draft. The payment is real money (the Sales dashboard
+    # counts it, through the same NOT_RECEIVED_STATES rule), but the invoice
+    # stays payment_state=not_paid with its full amount_residual, so channel 1
+    # reads it as untouched. Seen on S00470 / S00469. Only a payment against a
+    # single invoice is counted: with several there is no telling how the
+    # amount splits, and guessing would settle the wrong one.
+    # Filtered in Python: reconciled_invoice_ids is computed and not searchable.
+    paid_by_move = defaultdict(float)
+    for pay in execute(
+        "account.payment", "search_read",
+        [["payment_type", "=", "inbound"], ["partner_type", "=", "customer"],
+         ["state", "not in", op.NOT_RECEIVED_STATES]],
+        fields=["amount", "reconciled_invoice_ids"],
+    ):
+        linked = pay.get("reconciled_invoice_ids") or []
+        if len(linked) == 1:
+            paid_by_move[linked[0]] += pay["amount"]
+
     def invoice_settled(order):
         seen, total = set(), 0.0
         candidates = [move_by_id[i] for i in order["invoice_ids"] if i in move_by_id]
@@ -132,7 +157,10 @@ def main():
             if m["id"] in seen or m["payment_state"] == "reversed":
                 continue
             seen.add(m["id"])
-            total += m["amount_total"] - m["amount_residual"]
+            # The larger of the two, never the sum: once Odoo does post the
+            # entry both describe the same money. Capped at the invoice total.
+            booked = m["amount_total"] - m["amount_residual"]
+            total += min(m["amount_total"], max(booked, paid_by_move.get(m["id"], 0.0)))
         return total
 
     open_orders = []
