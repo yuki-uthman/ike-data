@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T09:45:52Z",
-  "openCount": 182,
-  "openTotal": 1868011.2,
-  "quotationCount": 58,
-  "quotationTotal": 875742.75,
+  "generatedAt": "2026-10-06T10:01:27Z",
+  "openCount": 181,
+  "openTotal": 1867126.2,
+  "quotationCount": 57,
+  "quotationTotal": 874857.75,
   "orderCount": 124,
   "orderTotal": 992268.45,
   "days": [
@@ -239,9 +239,9 @@
     },
     {
       "date": "2026-10-04",
-      "count": 3,
-      "outstanding": 3495.0,
-      "total": 3495.0
+      "count": 2,
+      "outstanding": 2610.0,
+      "total": 2610.0
     },
     {
       "date": "2026-10-05",
@@ -431,25 +431,6 @@
           "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
           "qty": 3.0,
           "total": 2370.0
-        }
-      ]
-    },
-    {
-      "id": 448,
-      "ref": "S00449",
-      "kind": "quotation",
-      "customer": "Four Sons Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-04",
-      "expires": "2026-11-03",
-      "total": 885.0,
-      "settled": 0.0,
-      "outstanding": 885.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
         }
       ]
     },
