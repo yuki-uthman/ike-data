@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T09:31:11Z",
+  "generatedAt": "2026-10-06T09:45:52Z",
   "openCount": 182,
-  "openTotal": 1869411.2,
-  "quotationCount": 59,
-  "quotationTotal": 924142.75,
-  "orderCount": 123,
-  "orderTotal": 945268.45,
+  "openTotal": 1868011.2,
+  "quotationCount": 58,
+  "quotationTotal": 875742.75,
+  "orderCount": 124,
+  "orderTotal": 992268.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -240,8 +240,8 @@
     {
       "date": "2026-10-04",
       "count": 3,
-      "outstanding": 4895.0,
-      "total": 4895.0
+      "outstanding": 3495.0,
+      "total": 3495.0
     },
     {
       "date": "2026-10-05",
@@ -260,7 +260,7 @@
     {
       "id": 470,
       "ref": "S00471",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Cilantro Emporium Private Limited",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-06",
@@ -442,19 +442,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-04",
       "expires": "2026-11-03",
-      "total": 2285.0,
+      "total": 885.0,
       "settled": 0.0,
-      "outstanding": 2285.0,
+      "outstanding": 885.0,
       "lines": [
         {
           "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
           "qty": 1.0,
           "total": 885.0
-        },
-        {
-          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1400.0
         }
       ]
     },

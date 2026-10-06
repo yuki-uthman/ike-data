@@ -17830,26 +17830,26 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T09:31:02Z",
+      "generatedAt": "2026-10-06T09:45:41Z",
       "pos": {
-        "total": 86.0,
-        "count": 2
+        "total": 181.0,
+        "count": 3
       },
       "regularSales": {
         "total": 25600.0,
         "count": 6
       },
       "pendingQuotations": {
-        "total": 47000.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 11146.0,
         "count": 4
       },
       "transfer": {
-        "total": 14540.0,
-        "count": 4
+        "total": 14635.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -17994,6 +17994,22 @@
               "name": "[90048] Milkshake Powder Belgian Chocolate",
               "qty": 2.0,
               "total": 560.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000310",
+          "customer": "Walk-in",
+          "amount": 95.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "14:36",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70050] Slipper#1",
+              "qty": 1.0,
+              "total": 95.0
             }
           ]
         },
