@@ -17830,14 +17830,14 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T09:15:42Z",
+      "generatedAt": "2026-10-06T09:31:02Z",
       "pos": {
         "total": 86.0,
         "count": 2
       },
       "regularSales": {
-        "total": 23700.0,
-        "count": 5
+        "total": 25600.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 47000.0,
@@ -17848,8 +17848,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 12640.0,
-        "count": 3
+        "total": 14540.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -17941,6 +17941,27 @@
               "name": "[90051] Milkshake Powder Hazelnut Chocolate",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00338",
+          "customer": "Honey Mart",
+          "amount": 1900.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70144] Hook Slat 8\"",
+              "qty": 100.0,
+              "total": 1200.0
+            },
+            {
+              "name": "[70145] Hook Slat 10\"",
+              "qty": 50.0,
+              "total": 700.0
             }
           ]
         },
