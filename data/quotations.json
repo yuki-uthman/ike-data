@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T11:45:59Z",
-  "openCount": 180,
-  "openTotal": 1820126.2,
-  "quotationCount": 57,
-  "quotationTotal": 874857.75,
+  "generatedAt": "2026-10-06T12:01:24Z",
+  "openCount": 181,
+  "openTotal": 1824276.2,
+  "quotationCount": 58,
+  "quotationTotal": 879007.75,
   "orderCount": 123,
   "orderTotal": 945268.45,
   "days": [
@@ -251,9 +251,9 @@
     },
     {
       "date": "2026-10-06",
-      "count": 2,
-      "outstanding": 11060.0,
-      "total": 11060.0
+      "count": 3,
+      "outstanding": 15210.0,
+      "total": 15210.0
     }
   ],
   "quotations": [
@@ -283,6 +283,30 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 24.0,
           "total": 600.0
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "ref": "S00473",
+      "kind": "quotation",
+      "customer": "Swimsol Maldives Pvt Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-06",
+      "expires": "2026-11-05",
+      "total": 4150.0,
+      "settled": 0.0,
+      "outstanding": 4150.0,
+      "lines": [
+        {
+          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 1.0,
+          "total": 1800.0
         }
       ]
     },
