@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T08:31:20Z",
+  "generatedAt": "2026-10-06T08:45:55Z",
   "openCount": 181,
   "openTotal": 1822411.2,
-  "quotationCount": 59,
-  "quotationTotal": 887642.75,
-  "orderCount": 122,
-  "orderTotal": 934768.45,
+  "quotationCount": 58,
+  "quotationTotal": 877142.75,
+  "orderCount": 123,
+  "orderTotal": 945268.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -260,8 +260,8 @@
     {
       "id": 469,
       "ref": "S00470",
-      "kind": "quotation",
-      "customer": "Sales",
+      "kind": "order",
+      "customer": "Bl Mart Q-5",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-06",
       "expires": "2026-11-05",
