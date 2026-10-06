@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T06:15:49Z",
-  "openCount": 182,
-  "openTotal": 1823151.2,
-  "quotationCount": 60,
-  "quotationTotal": 888382.75,
+  "generatedAt": "2026-10-06T06:31:10Z",
+  "openCount": 181,
+  "openTotal": 1817611.2,
+  "quotationCount": 59,
+  "quotationTotal": 882842.75,
   "orderCount": 122,
   "orderTotal": 934768.45,
   "days": [
@@ -251,61 +251,12 @@
     },
     {
       "date": "2026-10-06",
-      "count": 2,
-      "outstanding": 6100.0,
-      "total": 6100.0
+      "count": 1,
+      "outstanding": 560.0,
+      "total": 560.0
     }
   ],
   "quotations": [
-    {
-      "id": 467,
-      "ref": "S00468",
-      "kind": "quotation",
-      "customer": "Pink / C-16",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-06",
-      "expires": "2026-11-05",
-      "total": 5540.0,
-      "settled": 0.0,
-      "outstanding": 5540.0,
-      "lines": [
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 5.0,
-          "total": 1400.0
-        },
-        {
-          "name": "[90041] Milkshake Powder Red Velvet",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[90042] Milkshake Powder Avocado",
-          "qty": 2.0,
-          "total": 400.0
-        },
-        {
-          "name": "[90035] Milkshake Powder Strawberry",
-          "qty": 4.0,
-          "total": 880.0
-        },
-        {
-          "name": "[02440] Milkshake Powder Pistachio",
-          "qty": 5.0,
-          "total": 1100.0
-        },
-        {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-          "qty": 1.0,
-          "total": 220.0
-        },
-        {
-          "name": "[06705] Milkshake Powder Vanilla",
-          "qty": 5.0,
-          "total": 1100.0
-        }
-      ]
-    },
     {
       "id": 468,
       "ref": "S00469",

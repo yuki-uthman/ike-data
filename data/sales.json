@@ -17830,32 +17830,78 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T06:15:40Z",
+      "generatedAt": "2026-10-06T06:31:00Z",
       "pos": {
         "total": 86.0,
         "count": 2
       },
       "regularSales": {
-        "total": 1960.0,
-        "count": 2
+        "total": 7500.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 5540.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 646.0,
         "count": 3
       },
       "transfer": {
-        "total": 1400.0,
-        "count": 1
+        "total": 6940.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00335",
+          "customer": "Pink / C-16",
+          "amount": 5540.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 5.0,
+              "total": 1400.0
+            },
+            {
+              "name": "[02440] Milkshake Powder Pistachio",
+              "qty": 5.0,
+              "total": 1100.0
+            },
+            {
+              "name": "[06705] Milkshake Powder Vanilla",
+              "qty": 5.0,
+              "total": 1100.0
+            },
+            {
+              "name": "[90035] Milkshake Powder Strawberry",
+              "qty": 4.0,
+              "total": 880.0
+            },
+            {
+              "name": "[90041] Milkshake Powder Red Velvet",
+              "qty": 2.0,
+              "total": 440.0
+            },
+            {
+              "name": "[90042] Milkshake Powder Avocado",
+              "qty": 2.0,
+              "total": 400.0
+            },
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 1.0,
+              "total": 220.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00334",
           "customer": "Veyo Plaza N-11",
