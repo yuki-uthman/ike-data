@@ -17830,22 +17830,22 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T08:45:44Z",
+      "generatedAt": "2026-10-06T09:01:19Z",
       "pos": {
         "total": 86.0,
         "count": 2
       },
       "regularSales": {
-        "total": 13200.0,
-        "count": 4
+        "total": 23700.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 646.0,
-        "count": 3
+        "total": 11146.0,
+        "count": 4
       },
       "transfer": {
         "total": 12640.0,
@@ -17856,6 +17856,32 @@
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00337",
+          "customer": "Bl Mart Q-5",
+          "amount": 10500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-DSF-1550-X01] #RD8 White Double Side Flat 1550mm x1",
+              "qty": 2.0,
+              "total": 6000.0
+            },
+            {
+              "name": "[RD8-WHT-ERF-1550] #RD8 White End Rack Flat 1550mm",
+              "qty": 2.0,
+              "total": 3900.0
+            },
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 24.0,
+              "total": 600.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00336",
           "customer": "Mariyam Yusra R.Rasmaadhooo",
@@ -18000,7 +18026,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 9223.0,
-        "expectedClosing": 9869.0,
+        "expectedClosing": 20369.0,
         "counted": null,
         "difference": null,
         "closed": false,
