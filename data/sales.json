@@ -17830,14 +17830,14 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T06:31:00Z",
+      "generatedAt": "2026-10-06T06:46:18Z",
       "pos": {
         "total": 86.0,
         "count": 2
       },
       "regularSales": {
-        "total": 7500.0,
-        "count": 3
+        "total": 13200.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 0,
@@ -17848,14 +17848,30 @@
         "count": 3
       },
       "transfer": {
-        "total": 6940.0,
-        "count": 2
+        "total": 12640.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00336",
+          "customer": "Mariyam Yusra R.Rasmaadhooo",
+          "amount": 5700.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70161] Vegetable Rack 4 Square Baskets",
+              "qty": 2.0,
+              "total": 5700.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00335",
           "customer": "Pink / C-16",

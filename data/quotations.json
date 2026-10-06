@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T06:31:10Z",
-  "openCount": 181,
-  "openTotal": 1817611.2,
-  "quotationCount": 59,
-  "quotationTotal": 882842.75,
+  "generatedAt": "2026-10-06T06:46:29Z",
+  "openCount": 180,
+  "openTotal": 1811911.2,
+  "quotationCount": 58,
+  "quotationTotal": 877142.75,
   "orderCount": 122,
   "orderTotal": 934768.45,
   "days": [
@@ -221,9 +221,9 @@
     },
     {
       "date": "2026-10-01",
-      "count": 3,
-      "outstanding": 7364.0,
-      "total": 7364.0
+      "count": 2,
+      "outstanding": 1664.0,
+      "total": 1664.0
     },
     {
       "date": "2026-10-02",
@@ -555,25 +555,6 @@
           "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
           "qty": 8.0,
           "total": 2560.0
-        }
-      ]
-    },
-    {
-      "id": 415,
-      "ref": "S00416",
-      "kind": "quotation",
-      "customer": "S&Y Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-01",
-      "expires": "2026-10-31",
-      "total": 5700.0,
-      "settled": 0.0,
-      "outstanding": 5700.0,
-      "lines": [
-        {
-          "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 2.0,
-          "total": 5700.0
         }
       ]
     },
@@ -3462,7 +3443,7 @@
       "id": 82,
       "ref": "S00082",
       "kind": "order",
-      "customer": "S&Y Mart",
+      "customer": "Mariyam Yusra R.Rasmaadhooo",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-01",
       "expires": "2026-10-01",
@@ -3834,7 +3815,7 @@
       "id": 80,
       "ref": "S00080",
       "kind": "order",
-      "customer": "S&Y Mart",
+      "customer": "Mariyam Yusra R.Rasmaadhooo",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-08-31",
       "expires": "2026-09-30",
