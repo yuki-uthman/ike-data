@@ -17830,10 +17830,10 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T12:01:14Z",
+      "generatedAt": "2026-10-06T12:15:44Z",
       "pos": {
-        "total": 375.0,
-        "count": 5
+        "total": 390.0,
+        "count": 6
       },
       "regularSales": {
         "total": 73485.0,
@@ -17848,8 +17848,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 62520.0,
-        "count": 7
+        "total": 62535.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -18104,6 +18104,22 @@
             {
               "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
               "qty": 1.0,
+              "total": 15.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000313",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:08",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+              "qty": 3.0,
               "total": 15.0
             }
           ]
