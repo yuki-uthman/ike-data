@@ -17830,26 +17830,26 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T12:31:01Z",
+      "generatedAt": "2026-10-06T12:45:45Z",
       "pos": {
         "total": 390.0,
         "count": 6
       },
       "regularSales": {
-        "total": 73485.0,
-        "count": 8
+        "total": 76035.0,
+        "count": 9
       },
       "pendingQuotations": {
         "total": 4150.0,
-        "count": 3
+        "count": 2
       },
       "cash": {
         "total": 11340.0,
         "count": 6
       },
       "transfer": {
-        "total": 62535.0,
-        "count": 8
+        "total": 65085.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -17957,6 +17957,22 @@
               "name": "[90051] Milkshake Powder Hazelnut Chocolate",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00341",
+          "customer": "Fish Hub",
+          "amount": 2550.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Net Stand 1.8M Wheel",
+              "qty": 3.0,
+              "total": 2550.0
             }
           ]
         },
