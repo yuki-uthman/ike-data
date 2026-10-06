@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T06:01:24Z",
-  "openCount": 183,
-  "openTotal": 1825951.2,
+  "generatedAt": "2026-10-06T06:15:49Z",
+  "openCount": 182,
+  "openTotal": 1823151.2,
   "quotationCount": 60,
-  "quotationTotal": 889782.75,
-  "orderCount": 123,
-  "orderTotal": 936168.45,
+  "quotationTotal": 888382.75,
+  "orderCount": 122,
+  "orderTotal": 934768.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -251,9 +251,9 @@
     },
     {
       "date": "2026-10-06",
-      "count": 3,
-      "outstanding": 8900.0,
-      "total": 8900.0
+      "count": 2,
+      "outstanding": 6100.0,
+      "total": 6100.0
     }
   ],
   "quotations": [
@@ -265,9 +265,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-06",
       "expires": "2026-11-05",
-      "total": 6940.0,
+      "total": 5540.0,
       "settled": 0.0,
-      "outstanding": 6940.0,
+      "outstanding": 5540.0,
       "lines": [
         {
           "name": "[90048] Milkshake Powder Belgian Chocolate",
@@ -287,12 +287,7 @@
         {
           "name": "[90035] Milkshake Powder Strawberry",
           "qty": 4.0,
-          "total": 800.0
-        },
-        {
-          "name": "[90044] Milkshake Powder Mixberry",
-          "qty": 3.0,
-          "total": 600.0
+          "total": 880.0
         },
         {
           "name": "[02440] Milkshake Powder Pistachio",
@@ -300,33 +295,14 @@
           "total": 1100.0
         },
         {
-          "name": "[90050] Milkshake Powder French Vanilla",
-          "qty": 5.0,
-          "total": 1100.0
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 1.0,
+          "total": 220.0
         },
         {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "name": "[06705] Milkshake Powder Vanilla",
           "qty": 5.0,
           "total": 1100.0
-        }
-      ]
-    },
-    {
-      "id": 466,
-      "ref": "S00467",
-      "kind": "order",
-      "customer": "Veyo Plaza N-11",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-06",
-      "expires": "2026-11-05",
-      "total": 1400.0,
-      "settled": 0.0,
-      "outstanding": 1400.0,
-      "lines": [
-        {
-          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 1400.0
         }
       ]
     },
