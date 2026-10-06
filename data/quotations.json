@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T15:31:12Z",
-  "openCount": 181,
-  "openTotal": 1824276.2,
+  "generatedAt": "2026-10-06T15:45:51Z",
+  "openCount": 134,
+  "openTotal": 1770728.2,
   "quotationCount": 58,
   "quotationTotal": 879007.75,
-  "orderCount": 123,
-  "orderTotal": 945268.45,
+  "orderCount": 76,
+  "orderTotal": 891720.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -137,9 +137,9 @@
     },
     {
       "date": "2026-09-17",
-      "count": 6,
-      "outstanding": 5830.0,
-      "total": 5830.0
+      "count": 2,
+      "outstanding": 2250.0,
+      "total": 2250.0
     },
     {
       "date": "2026-09-18",
@@ -161,27 +161,27 @@
     },
     {
       "date": "2026-09-21",
-      "count": 3,
-      "outstanding": 1830.0,
-      "total": 1830.0
+      "count": 1,
+      "outstanding": 1180.0,
+      "total": 1180.0
     },
     {
       "date": "2026-09-22",
-      "count": 3,
-      "outstanding": 10192.0,
-      "total": 10192.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     },
     {
       "date": "2026-09-23",
-      "count": 6,
-      "outstanding": 2695.0,
-      "total": 2695.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     },
     {
       "date": "2026-09-24",
-      "count": 6,
-      "outstanding": 4859.0,
-      "total": 4859.0
+      "count": 2,
+      "outstanding": 1609.0,
+      "total": 1609.0
     },
     {
       "date": "2026-09-25",
@@ -191,39 +191,39 @@
     },
     {
       "date": "2026-09-26",
-      "count": 2,
-      "outstanding": 1140.0,
-      "total": 1140.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     },
     {
       "date": "2026-09-27",
-      "count": 6,
-      "outstanding": 206545.0,
-      "total": 206545.0
+      "count": 4,
+      "outstanding": 205655.0,
+      "total": 205655.0
     },
     {
       "date": "2026-09-28",
-      "count": 5,
-      "outstanding": 6203.0,
-      "total": 6203.0
+      "count": 1,
+      "outstanding": 280.0,
+      "total": 280.0
     },
     {
       "date": "2026-09-29",
-      "count": 7,
-      "outstanding": 14450.0,
-      "total": 14450.0
+      "count": 3,
+      "outstanding": 11362.0,
+      "total": 11362.0
     },
     {
       "date": "2026-09-30",
-      "count": 7,
-      "outstanding": 16434.0,
-      "total": 16434.0
+      "count": 1,
+      "outstanding": 11750.0,
+      "total": 11750.0
     },
     {
       "date": "2026-10-01",
-      "count": 2,
-      "outstanding": 1664.0,
-      "total": 1664.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     },
     {
       "date": "2026-10-02",
@@ -233,59 +233,30 @@
     },
     {
       "date": "2026-10-03",
-      "count": 5,
-      "outstanding": 17740.0,
-      "total": 17740.0
+      "count": 2,
+      "outstanding": 16310.0,
+      "total": 16310.0
     },
     {
       "date": "2026-10-04",
-      "count": 2,
-      "outstanding": 2610.0,
-      "total": 2610.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     },
     {
       "date": "2026-10-05",
-      "count": 4,
-      "outstanding": 3561.0,
-      "total": 3561.0
+      "count": 2,
+      "outstanding": 2669.0,
+      "total": 2669.0
     },
     {
       "date": "2026-10-06",
-      "count": 3,
-      "outstanding": 15210.0,
-      "total": 15210.0
+      "count": 2,
+      "outstanding": 4350.0,
+      "total": 14650.0
     }
   ],
   "quotations": [
-    {
-      "id": 469,
-      "ref": "S00470",
-      "kind": "order",
-      "customer": "Bl Mart Q-5",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-06",
-      "expires": "2026-11-05",
-      "total": 10500.0,
-      "settled": 0.0,
-      "outstanding": 10500.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-DSF-1550-X01] #RD8 White Double Side Flat 1550mm x1",
-          "qty": 2.0,
-          "total": 6000.0
-        },
-        {
-          "name": "[RD8-WHT-ERF-1550] #RD8 White End Rack Flat 1550mm",
-          "qty": 2.0,
-          "total": 3900.0
-        },
-        {
-          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-          "qty": 24.0,
-          "total": 600.0
-        }
-      ]
-    },
     {
       "id": 472,
       "ref": "S00473",
@@ -311,21 +282,31 @@
       ]
     },
     {
-      "id": 468,
-      "ref": "S00469",
+      "id": 469,
+      "ref": "S00470",
       "kind": "order",
-      "customer": "Snap Buy",
+      "customer": "Bl Mart Q-5",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-06",
       "expires": "2026-11-05",
-      "total": 560.0,
-      "settled": 0.0,
-      "outstanding": 560.0,
+      "total": 10500.0,
+      "settled": 10300.0,
+      "outstanding": 200.0,
       "lines": [
         {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "name": "[RD8-WHT-DSF-1550-X01] #RD8 White Double Side Flat 1550mm x1",
           "qty": 2.0,
-          "total": 560.0
+          "total": 6000.0
+        },
+        {
+          "name": "[RD8-WHT-ERF-1550] #RD8 White End Rack Flat 1550mm",
+          "qty": 2.0,
+          "total": 3900.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 24.0,
+          "total": 600.0
         }
       ]
     },
@@ -359,49 +340,6 @@
       ]
     },
     {
-      "id": 459,
-      "ref": "S00460",
-      "kind": "order",
-      "customer": "Snap Buy",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-05",
-      "expires": "2026-11-04",
-      "total": 580.0,
-      "settled": 0.0,
-      "outstanding": 580.0,
-      "lines": [
-        {
-          "name": "[70110] paper plates 9 inch 100pcs",
-          "qty": 12.0,
-          "total": 579.99
-        }
-      ]
-    },
-    {
-      "id": 460,
-      "ref": "S00461",
-      "kind": "order",
-      "customer": "Red Bee Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-05",
-      "expires": "2026-11-04",
-      "total": 312.0,
-      "settled": 0.0,
-      "outstanding": 312.0,
-      "lines": [
-        {
-          "name": "[70140] Hook Net 10\"",
-          "qty": 12.0,
-          "total": 168.0
-        },
-        {
-          "name": "[70141] Hook Net 8\"",
-          "qty": 12.0,
-          "total": 144.0
-        }
-      ]
-    },
-    {
       "id": 465,
       "ref": "S00466",
       "kind": "order",
@@ -417,44 +355,6 @@
           "name": "[01871] Duster#43",
           "qty": 1.0,
           "total": 29.0
-        }
-      ]
-    },
-    {
-      "id": 446,
-      "ref": "S00447",
-      "kind": "order",
-      "customer": "Naifu",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-04",
-      "expires": "2026-11-03",
-      "total": 2370.0,
-      "settled": 0.0,
-      "outstanding": 2370.0,
-      "lines": [
-        {
-          "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-          "qty": 3.0,
-          "total": 2370.0
-        }
-      ]
-    },
-    {
-      "id": 451,
-      "ref": "S00452",
-      "kind": "order",
-      "customer": "2T Traders",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-04",
-      "expires": "2026-11-03",
-      "total": 240.0,
-      "settled": 0.0,
-      "outstanding": 240.0,
-      "lines": [
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 15.0,
-          "total": 240.0
         }
       ]
     },
@@ -483,25 +383,6 @@
       ]
     },
     {
-      "id": 440,
-      "ref": "S00441",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-03",
-      "expires": "2026-11-02",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
-          "qty": 1.0,
-          "total": 1200.0
-        }
-      ]
-    },
-    {
       "id": 430,
       "ref": "S00431",
       "kind": "quotation",
@@ -522,44 +403,6 @@
           "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
           "qty": 1.0,
           "total": 355.0
-        }
-      ]
-    },
-    {
-      "id": 434,
-      "ref": "S00435",
-      "kind": "order",
-      "customer": "Aria Mart H-6",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-03",
-      "expires": "2026-11-02",
-      "total": 210.0,
-      "settled": 0.0,
-      "outstanding": 210.0,
-      "lines": [
-        {
-          "name": "[70140] Hook Net 10\"",
-          "qty": 15.0,
-          "total": 210.0
-        }
-      ]
-    },
-    {
-      "id": 444,
-      "ref": "S00445",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-03",
-      "expires": "2026-11-02",
-      "total": 20.0,
-      "settled": 0.0,
-      "outstanding": 20.0,
-      "lines": [
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 1.0,
-          "total": 20.0
         }
       ]
     },
@@ -588,44 +431,6 @@
       ]
     },
     {
-      "id": 414,
-      "ref": "S00415",
-      "kind": "order",
-      "customer": "Snap Buy",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-01",
-      "expires": "2026-10-31",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-          "qty": 6.0,
-          "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 411,
-      "ref": "S00412",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-01",
-      "expires": "2026-10-31",
-      "total": 464.0,
-      "settled": 0.0,
-      "outstanding": 464.0,
-      "lines": [
-        {
-          "name": "[A12B] Plastic Container A12 (Bundle)",
-          "qty": 4.0,
-          "total": 464.0
-        }
-      ]
-    },
-    {
       "id": 402,
       "ref": "S00403",
       "kind": "quotation",
@@ -641,125 +446,6 @@
           "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
           "qty": 5.0,
           "total": 11750.0
-        }
-      ]
-    },
-    {
-      "id": 408,
-      "ref": "S00409",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-30",
-      "total": 2460.0,
-      "settled": 0.0,
-      "outstanding": 2460.0,
-      "lines": [
-        {
-          "name": "[2169RED] PLASTIC CHAIR Red #2169",
-          "qty": 12.0,
-          "total": 2460.0
-        }
-      ]
-    },
-    {
-      "id": 399,
-      "ref": "S00400",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-30",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
-          "qty": 1.0,
-          "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 400,
-      "ref": "S00401",
-      "kind": "order",
-      "customer": "Asrafee Bookshop",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-30",
-      "total": 420.0,
-      "settled": 0.0,
-      "outstanding": 420.0,
-      "lines": [
-        {
-          "name": "[70140] Hook Net 10\"",
-          "qty": 30.0,
-          "total": 420.0
-        }
-      ]
-    },
-    {
-      "id": 398,
-      "ref": "S00399",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-30",
-      "total": 300.0,
-      "settled": 0.0,
-      "outstanding": 300.0,
-      "lines": [
-        {
-          "name": "[70099] Cake Cup Paper 8.5cm 1000pcs",
-          "qty": 4.0,
-          "total": 280.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 1.0,
-          "total": 20.0
-        }
-      ]
-    },
-    {
-      "id": 396,
-      "ref": "S00397",
-      "kind": "order",
-      "customer": "Ubuntu",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-30",
-      "total": 250.0,
-      "settled": 0.0,
-      "outstanding": 250.0,
-      "lines": [
-        {
-          "name": "Top Kokoa Hokkaido White Chocolate 1kg",
-          "qty": 1.0,
-          "total": 250.0
-        }
-      ]
-    },
-    {
-      "id": 404,
-      "ref": "S00405",
-      "kind": "order",
-      "customer": "Poise Perfume",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-30",
-      "expires": "2026-10-30",
-      "total": 54.0,
-      "settled": 0.0,
-      "outstanding": 54.0,
-      "lines": [
-        {
-          "name": "[70076] Towel 042-0980 30*30cm",
-          "qty": 6.0,
-          "total": 54.0
         }
       ]
     },
@@ -852,178 +538,6 @@
           "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
           "qty": 1.0,
           "total": 339.0
-        }
-      ]
-    },
-    {
-      "id": 391,
-      "ref": "S00392",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 1548.0,
-      "settled": 0.0,
-      "outstanding": 1548.0,
-      "lines": [
-        {
-          "name": "[70142] Hook Net 6\"",
-          "qty": 20.0,
-          "total": 200.0
-        },
-        {
-          "name": "[70141] Hook Net 8\"",
-          "qty": 20.0,
-          "total": 240.0
-        },
-        {
-          "name": "[70140] Hook Net 10\"",
-          "qty": 20.0,
-          "total": 280.0
-        },
-        {
-          "name": "[70045] Kids slipper",
-          "qty": 12.0,
-          "total": 828.0
-        }
-      ]
-    },
-    {
-      "id": 382,
-      "ref": "S00383",
-      "kind": "order",
-      "customer": "Bluebell Solutions Pvt Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[70110] paper plates 9 inch 100pcs",
-          "qty": 24.0,
-          "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 390,
-      "ref": "S00391",
-      "kind": "order",
-      "customer": "Snap Buy",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 220.0,
-      "settled": 0.0,
-      "outstanding": 220.0,
-      "lines": [
-        {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-          "qty": 1.0,
-          "total": 220.0
-        }
-      ]
-    },
-    {
-      "id": 384,
-      "ref": "S00385",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-29",
-      "expires": "2026-10-29",
-      "total": 120.0,
-      "settled": 0.0,
-      "outstanding": 120.0,
-      "lines": [
-        {
-          "name": "[2268] Tooth Pick",
-          "qty": 12.0,
-          "total": 120.0
-        }
-      ]
-    },
-    {
-      "id": 374,
-      "ref": "S00375",
-      "kind": "order",
-      "customer": "Bluebell Solutions Pvt Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-28",
-      "total": 3900.0,
-      "settled": 0.0,
-      "outstanding": 3900.0,
-      "lines": [
-        {
-          "name": "[R12C] Plastic Container A12 [case]",
-          "qty": 3.0,
-          "total": 3900.0
-        }
-      ]
-    },
-    {
-      "id": 370,
-      "ref": "S00371",
-      "kind": "order",
-      "customer": "Bluebell Solutions Pvt Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-28",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "Paper Plate 9'' 100pcs Bundle",
-          "qty": 24.0,
-          "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 371,
-      "ref": "S00372",
-      "kind": "order",
-      "customer": "Bluebell Solutions Pvt Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-28",
-      "total": 500.0,
-      "settled": 0.0,
-      "outstanding": 500.0,
-      "lines": [
-        {
-          "name": "Paper Plate 9'' 100pcs Bundle",
-          "qty": 10.0,
-          "total": 500.0
-        }
-      ]
-    },
-    {
-      "id": 379,
-      "ref": "S00380",
-      "kind": "order",
-      "customer": "On Point Ressort Supply",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-28",
-      "expires": "2026-10-28",
-      "total": 323.0,
-      "settled": 0.0,
-      "outstanding": 323.0,
-      "lines": [
-        {
-          "name": "[70148] Hook Mesh 6\"",
-          "qty": 5.0,
-          "total": 50.0
-        },
-        {
-          "name": "[70072] Sponge 4pcs #28 D-21",
-          "qty": 13.0,
-          "total": 273.0
         }
       ]
     },
@@ -1188,82 +702,6 @@
       ]
     },
     {
-      "id": 358,
-      "ref": "S00359",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-27",
-      "expires": "2026-10-27",
-      "total": 800.0,
-      "settled": 0.0,
-      "outstanding": 800.0,
-      "lines": [
-        {
-          "name": "[70182] Gas Burner ( High Pressure )",
-          "qty": 1.0,
-          "total": 800.0
-        }
-      ]
-    },
-    {
-      "id": 357,
-      "ref": "S00358",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-27",
-      "expires": "2026-10-27",
-      "total": 90.0,
-      "settled": 0.0,
-      "outstanding": 90.0,
-      "lines": [
-        {
-          "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
-          "qty": 2.0,
-          "total": 90.0
-        }
-      ]
-    },
-    {
-      "id": 347,
-      "ref": "S00348",
-      "kind": "order",
-      "customer": "Ald Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-26",
-      "expires": "2026-10-26",
-      "total": 580.0,
-      "settled": 0.0,
-      "outstanding": 580.0,
-      "lines": [
-        {
-          "name": "Paper Plate 9'' 100pcs Bundle",
-          "qty": 12.0,
-          "total": 580.0
-        }
-      ]
-    },
-    {
-      "id": 352,
-      "ref": "S00353",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-26",
-      "expires": "2026-10-26",
-      "total": 560.0,
-      "settled": 0.0,
-      "outstanding": 560.0,
-      "lines": [
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 2.0,
-          "total": 560.0
-        }
-      ]
-    },
-    {
       "id": 345,
       "ref": "S00346",
       "kind": "quotation",
@@ -1279,25 +717,6 @@
           "name": "[70196] Cash Counter 6ftx2ft",
           "qty": 1.0,
           "total": 7035.0
-        }
-      ]
-    },
-    {
-      "id": 322,
-      "ref": "S00323",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-24",
-      "expires": "2026-10-23",
-      "total": 2400.0,
-      "settled": 0.0,
-      "outstanding": 2400.0,
-      "lines": [
-        {
-          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
-          "qty": 2.0,
-          "total": 2400.0
         }
       ]
     },
@@ -1326,49 +745,6 @@
       ]
     },
     {
-      "id": 339,
-      "ref": "S00340",
-      "kind": "order",
-      "customer": "The Yacht Store",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-24",
-      "expires": "2026-10-24",
-      "total": 330.0,
-      "settled": 0.0,
-      "outstanding": 330.0,
-      "lines": [
-        {
-          "name": "[70135] 37 Hook Bar Tube",
-          "qty": 1.0,
-          "total": 240.0
-        },
-        {
-          "name": "[70136] 37 Hook Double Black 8\"",
-          "qty": 2.0,
-          "total": 90.0
-        }
-      ]
-    },
-    {
-      "id": 340,
-      "ref": "S00341",
-      "kind": "order",
-      "customer": "Petra Service Centeer",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-24",
-      "expires": "2026-10-24",
-      "total": 320.0,
-      "settled": 0.0,
-      "outstanding": 320.0,
-      "lines": [
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 20.0,
-          "total": 320.0
-        }
-      ]
-    },
-    {
       "id": 331,
       "ref": "S00332",
       "kind": "quotation",
@@ -1393,246 +769,6 @@
       ]
     },
     {
-      "id": 336,
-      "ref": "S00337",
-      "kind": "order",
-      "customer": "Snap Buy",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-24",
-      "expires": "2026-10-24",
-      "total": 200.0,
-      "settled": 0.0,
-      "outstanding": 200.0,
-      "lines": [
-        {
-          "name": "[90045] Milkshake Powder Thai Milk Tea",
-          "qty": 1.0,
-          "total": 200.0
-        }
-      ]
-    },
-    {
-      "id": 330,
-      "ref": "S00331",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 890.0,
-      "settled": 0.0,
-      "outstanding": 890.0,
-      "lines": [
-        {
-          "name": "[70148] Hook Mesh 6\"",
-          "qty": 20.0,
-          "total": 200.0
-        },
-        {
-          "name": "[35940] Hook Mesh 8\"",
-          "qty": 20.0,
-          "total": 240.0
-        },
-        {
-          "name": "[79687] Hook Slat with 7 Pegs",
-          "qty": 10.0,
-          "total": 450.0
-        }
-      ]
-    },
-    {
-      "id": 321,
-      "ref": "S00322",
-      "kind": "order",
-      "customer": "Snap Buy",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 800.0,
-      "settled": 0.0,
-      "outstanding": 800.0,
-      "lines": [
-        {
-          "name": "[02154] Milkshake Powder Mango",
-          "qty": 2.0,
-          "total": 400.0
-        },
-        {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-          "qty": 2.0,
-          "total": 400.0
-        }
-      ]
-    },
-    {
-      "id": 326,
-      "ref": "S00327",
-      "kind": "order",
-      "customer": "The Yacht Store",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 690.0,
-      "settled": 0.0,
-      "outstanding": 690.0,
-      "lines": [
-        {
-          "name": "[75053] Hook Mesh 12\"",
-          "qty": 10.0,
-          "total": 160.0
-        },
-        {
-          "name": "[70148] Hook Mesh 6\"",
-          "qty": 44.0,
-          "total": 440.0
-        },
-        {
-          "name": "[70136] 37 Hook Double Black 8\"",
-          "qty": 2.0,
-          "total": 90.0
-        }
-      ]
-    },
-    {
-      "id": 323,
-      "ref": "S00324",
-      "kind": "order",
-      "customer": "Bluebell Solutions Pvt Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 250.0,
-      "settled": 0.0,
-      "outstanding": 250.0,
-      "lines": [
-        {
-          "name": "Paper Plate 9'' 100pcs Bundle",
-          "qty": 5.0,
-          "total": 250.0
-        }
-      ]
-    },
-    {
-      "id": 319,
-      "ref": "S00320",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 36.0,
-      "settled": 0.0,
-      "outstanding": 36.0,
-      "lines": [
-        {
-          "name": "[70070] Glass Wiper A63",
-          "qty": 2.0,
-          "total": 36.0
-        }
-      ]
-    },
-    {
-      "id": 325,
-      "ref": "S00326",
-      "kind": "order",
-      "customer": "Hotel Flora",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-23",
-      "expires": "2026-10-23",
-      "total": 29.0,
-      "settled": 0.0,
-      "outstanding": 29.0,
-      "lines": [
-        {
-          "name": "[01871] Duster#43",
-          "qty": 1.0,
-          "total": 29.0
-        }
-      ]
-    },
-    {
-      "id": 309,
-      "ref": "S00310",
-      "kind": "order",
-      "customer": "mandara spa Maldives Pvt Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-22",
-      "expires": "2026-10-22",
-      "total": 7920.0,
-      "settled": 0.0,
-      "outstanding": 7920.0,
-      "lines": [
-        {
-          "name": "[70176] 51 Warehouse Rack White Large",
-          "qty": 4.0,
-          "total": 7920.0
-        }
-      ]
-    },
-    {
-      "id": 306,
-      "ref": "S00307",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-22",
-      "expires": "2026-10-22",
-      "total": 1672.0,
-      "settled": 0.0,
-      "outstanding": 1672.0,
-      "lines": [
-        {
-          "name": "[01681] Table Mat Pvc 30x45cm #4",
-          "qty": 10.0,
-          "total": 190.0
-        },
-        {
-          "name": "Door Mat Code02#38*58",
-          "qty": 2.0,
-          "total": 78.0
-        },
-        {
-          "name": "[70182] Gas Burner ( High Pressure )",
-          "qty": 1.0,
-          "total": 800.0
-        },
-        {
-          "name": "Gas Burner Table",
-          "qty": 1.0,
-          "total": 425.0
-        },
-        {
-          "name": "[70059] Dust Pan Dm-044",
-          "qty": 1.0,
-          "total": 50.0
-        },
-        {
-          "name": "[32071] CHAIR 14 INCH",
-          "qty": 1.0,
-          "total": 129.0
-        }
-      ]
-    },
-    {
-      "id": 310,
-      "ref": "S00311",
-      "kind": "order",
-      "customer": "Snap Buy",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-22",
-      "expires": "2026-10-22",
-      "total": 600.0,
-      "settled": 0.0,
-      "outstanding": 600.0,
-      "lines": [
-        {
-          "name": "[90045] Milkshake Powder Thai Milk Tea",
-          "qty": 3.0,
-          "total": 600.0
-        }
-      ]
-    },
-    {
       "id": 298,
       "ref": "S00299",
       "kind": "quotation",
@@ -1648,49 +784,6 @@
           "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
           "qty": 1.0,
           "total": 1180.0
-        }
-      ]
-    },
-    {
-      "id": 297,
-      "ref": "S00298",
-      "kind": "order",
-      "customer": "Ubuntu",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 550.0,
-      "settled": 0.0,
-      "outstanding": 550.0,
-      "lines": [
-        {
-          "name": "Top Kokoa Salted Caramel 1kg",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Top Kokoa Hokkaido White Chocolate 1kg",
-          "qty": 1.0,
-          "total": 250.0
-        }
-      ]
-    },
-    {
-      "id": 301,
-      "ref": "S00302",
-      "kind": "order",
-      "customer": "Deseo",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-21",
-      "expires": "2026-10-21",
-      "total": 100.0,
-      "settled": 0.0,
-      "outstanding": 100.0,
-      "lines": [
-        {
-          "name": "[70142] Hook Net 6\"",
-          "qty": 10.0,
-          "total": 100.0
         }
       ]
     },
@@ -1801,40 +894,6 @@
       ]
     },
     {
-      "id": 248,
-      "ref": "S00249",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 2300.0,
-      "settled": 0.0,
-      "outstanding": 2300.0,
-      "lines": [
-        {
-          "name": "Top kokoa Hokkaido white chocolate 1kg",
-          "qty": 0.0,
-          "total": 0.0
-        },
-        {
-          "name": "Top Kokoa Hokkaido White Chocolate 1kg",
-          "qty": 2.0,
-          "total": 500.0
-        },
-        {
-          "name": "[BBRE24300B] Black Base Container 24oz",
-          "qty": 6.0,
-          "total": 1440.0
-        },
-        {
-          "name": "Green's Carmelle [bundle]",
-          "qty": 2.0,
-          "total": 360.0
-        }
-      ]
-    },
-    {
       "id": 253,
       "ref": "S00254",
       "kind": "order",
@@ -1850,63 +909,6 @@
           "name": "[80001] Bagasse Plate 9'' 25 pcs",
           "qty": 40.0,
           "total": 2200.0
-        }
-      ]
-    },
-    {
-      "id": 259,
-      "ref": "S00260",
-      "kind": "order",
-      "customer": "H.Miz",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 800.0,
-      "settled": 0.0,
-      "outstanding": 800.0,
-      "lines": [
-        {
-          "name": "[70139] Hook Net 12\"",
-          "qty": 50.0,
-          "total": 800.0
-        }
-      ]
-    },
-    {
-      "id": 247,
-      "ref": "S00248",
-      "kind": "order",
-      "customer": "Eden Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 280.0,
-      "settled": 0.0,
-      "outstanding": 280.0,
-      "lines": [
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 1.0,
-          "total": 280.0
-        }
-      ]
-    },
-    {
-      "id": 263,
-      "ref": "S00264",
-      "kind": "order",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-09-17",
-      "expires": "2026-10-17",
-      "total": 200.0,
-      "settled": 0.0,
-      "outstanding": 200.0,
-      "lines": [
-        {
-          "name": "[06705] Milkshake Powder Vanilla",
-          "qty": 1.0,
-          "total": 200.0
         }
       ]
     },
