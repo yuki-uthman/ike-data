@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T04:45:50Z",
-  "openCount": 181,
-  "openTotal": 1818451.2,
+  "generatedAt": "2026-10-06T05:01:22Z",
+  "openCount": 182,
+  "openTotal": 1825391.2,
   "quotationCount": 60,
-  "quotationTotal": 884242.75,
-  "orderCount": 121,
-  "orderTotal": 934208.45,
+  "quotationTotal": 889782.75,
+  "orderCount": 122,
+  "orderTotal": 935608.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -251,16 +251,70 @@
     },
     {
       "date": "2026-10-06",
-      "count": 1,
-      "outstanding": 1400.0,
-      "total": 1400.0
+      "count": 2,
+      "outstanding": 8340.0,
+      "total": 8340.0
     }
   ],
   "quotations": [
     {
+      "id": 467,
+      "ref": "S00468",
+      "kind": "quotation",
+      "customer": "Pink / C-16",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-06",
+      "expires": "2026-11-05",
+      "total": 6940.0,
+      "settled": 0.0,
+      "outstanding": 6940.0,
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 5.0,
+          "total": 1400.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 2.0,
+          "total": 440.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 4.0,
+          "total": 800.0
+        },
+        {
+          "name": "[90044] Milkshake Powder Mixberry",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[02440] Milkshake Powder Pistachio",
+          "qty": 5.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[90050] Milkshake Powder French Vanilla",
+          "qty": 5.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 5.0,
+          "total": 1100.0
+        }
+      ]
+    },
+    {
       "id": 466,
       "ref": "S00467",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Veyo Plaza N-11",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-06",
