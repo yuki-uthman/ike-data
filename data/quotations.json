@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T05:01:22Z",
-  "openCount": 182,
-  "openTotal": 1825391.2,
+  "generatedAt": "2026-10-06T05:15:55Z",
+  "openCount": 183,
+  "openTotal": 1825951.2,
   "quotationCount": 60,
   "quotationTotal": 889782.75,
-  "orderCount": 122,
-  "orderTotal": 935608.45,
+  "orderCount": 123,
+  "orderTotal": 936168.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -251,9 +251,9 @@
     },
     {
       "date": "2026-10-06",
-      "count": 2,
-      "outstanding": 8340.0,
-      "total": 8340.0
+      "count": 3,
+      "outstanding": 8900.0,
+      "total": 8900.0
     }
   ],
   "quotations": [
@@ -327,6 +327,25 @@
           "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 1400.0
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "ref": "S00469",
+      "kind": "order",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-06",
+      "expires": "2026-11-05",
+      "total": 560.0,
+      "settled": 0.0,
+      "outstanding": 560.0,
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 2.0,
+          "total": 560.0
         }
       ]
     },
