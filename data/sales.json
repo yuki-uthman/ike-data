@@ -17830,10 +17830,10 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T17:31:00Z",
+      "generatedAt": "2026-10-06T17:45:39Z",
       "pos": {
-        "total": 943.0,
-        "count": 11
+        "total": 983.0,
+        "count": 12
       },
       "regularSales": {
         "total": 75835.0,
@@ -17848,8 +17848,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 65381.0,
-        "count": 11
+        "total": 65421.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -18153,6 +18153,22 @@
               "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
               "qty": 1.0,
               "total": 15.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000319",
+          "customer": "Walk-in",
+          "amount": 40.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:36",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 2.0,
+              "total": 40.0
             }
           ]
         },
