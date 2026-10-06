@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-06T04:31:11Z",
-  "openCount": 180,
-  "openTotal": 1817051.2,
-  "quotationCount": 59,
-  "quotationTotal": 882842.75,
+  "generatedAt": "2026-10-06T04:45:50Z",
+  "openCount": 181,
+  "openTotal": 1818451.2,
+  "quotationCount": 60,
+  "quotationTotal": 884242.75,
   "orderCount": 121,
   "orderTotal": 934208.45,
   "days": [
@@ -251,12 +251,31 @@
     },
     {
       "date": "2026-10-06",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 1400.0,
+      "total": 1400.0
     }
   ],
   "quotations": [
+    {
+      "id": 466,
+      "ref": "S00467",
+      "kind": "quotation",
+      "customer": "Veyo Plaza N-11",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-06",
+      "expires": "2026-11-05",
+      "total": 1400.0,
+      "settled": 0.0,
+      "outstanding": 1400.0,
+      "lines": [
+        {
+          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1400.0
+        }
+      ]
+    },
     {
       "id": 457,
       "ref": "S00458",
