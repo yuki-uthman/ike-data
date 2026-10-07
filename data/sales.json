@@ -18254,26 +18254,26 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T06:01:17Z",
+      "generatedAt": "2026-10-07T06:15:43Z",
       "pos": {
         "total": 90.0,
         "count": 1
       },
       "regularSales": {
-        "total": 1540.0,
-        "count": 1
+        "total": 2740.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 53060.0,
-        "count": 4
+        "total": 54460.0,
+        "count": 5
       },
       "cash": {
         "total": 1630.0,
         "count": 2
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1200.0,
+        "count": 1
       },
       "other": {
         "total": 0,
@@ -18293,6 +18293,22 @@
               "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
               "qty": 1.0,
               "total": 1540.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00343",
+          "customer": "Bluebell Solutions Pvt Ltd",
+          "amount": 1200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[PP9] PAPER PLATE 9\"",
+              "qty": 20.0,
+              "total": 1200.0
             }
           ]
         },
