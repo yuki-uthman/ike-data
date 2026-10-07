@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T09:15:42Z",
+  "generatedAt": "2026-10-07T09:31:01Z",
   "cash": {
     "total": 1639.0,
     "count": 3
   },
   "transfer": {
-    "total": 5090.0,
-    "count": 3
+    "total": 5650.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -86,6 +86,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00346",
+      "customer": "Siptopia",
+      "amount": 560.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 2.0,
+          "total": 560.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000320",
       "customer": "Walk-in",
       "amount": 90.0,
@@ -122,8 +138,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 5090.0
+      "count": 4,
+      "total": 5650.0
     },
     {
       "name": "Cash",
