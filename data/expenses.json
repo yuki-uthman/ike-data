@@ -471,6 +471,19 @@
         "count": 1
       },
       "categories": []
+    },
+    {
+      "date": "2026-10-08",
+      "generatedAt": "2026-10-07T19:01:21Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
     }
   ]
 }
