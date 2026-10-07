@@ -18254,10 +18254,10 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T12:01:17Z",
+      "generatedAt": "2026-10-07T12:15:41Z",
       "pos": {
-        "total": 99.0,
-        "count": 2
+        "total": 247.0,
+        "count": 3
       },
       "regularSales": {
         "total": 7190.0,
@@ -18272,8 +18272,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 5650.0,
-        "count": 4
+        "total": 5798.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -18362,6 +18362,32 @@
               "name": "[90048] Milkshake Powder Belgian Chocolate",
               "qty": 2.0,
               "total": 560.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000322",
+          "customer": "Walk-in",
+          "amount": 148.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:06",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01797] Toilet Brush Plastic #328-10048-1",
+              "qty": 2.0,
+              "total": 78.0
+            },
+            {
+              "name": "[70124] Dustbin Plastic 22cm #603",
+              "qty": 1.0,
+              "total": 55.0
+            },
+            {
+              "name": "[70060] Brush Toilet with Handle Plastic#38",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
