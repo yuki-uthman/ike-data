@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-07T17:03:30Z",
-  "openCount": 139,
-  "openTotal": 1912428.2,
+  "generatedAt": "2026-10-07T17:15:58Z",
+  "openCount": 138,
+  "openTotal": 1909508.2,
   "quotationCount": 62,
   "quotationTotal": 1017787.75,
-  "orderCount": 77,
-  "orderTotal": 894640.45,
+  "orderCount": 76,
+  "orderTotal": 891720.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -257,9 +257,9 @@
     },
     {
       "date": "2026-10-07",
-      "count": 6,
-      "outstanding": 142410.0,
-      "total": 142410.0
+      "count": 5,
+      "outstanding": 139490.0,
+      "total": 139490.0
     }
   ],
   "quotations": [
@@ -347,35 +347,6 @@
           "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
           "qty": 15.0,
           "total": 3960.0
-        }
-      ]
-    },
-    {
-      "id": 430,
-      "ref": "S00431",
-      "kind": "order",
-      "customer": "Lucky Way Plaza / H-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-07",
-      "expires": "2026-11-02",
-      "total": 2920.0,
-      "settled": 0.0,
-      "outstanding": 2920.0,
-      "lines": [
-        {
-          "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
-          "qty": 2.0,
-          "total": 710.0
-        },
-        {
-          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
-          "qty": 2.0,
-          "total": 710.0
-        },
-        {
-          "name": "[02228] Paper Cup 6oz (Bundle)",
-          "qty": 80.0,
-          "total": 1500.0
         }
       ]
     },

@@ -2,20 +2,46 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T17:03:19Z",
+  "generatedAt": "2026-10-07T17:15:44Z",
   "cash": {
     "total": 3239.0,
     "count": 8
   },
   "transfer": {
-    "total": 6097.0,
-    "count": 6
+    "total": 9017.0,
+    "count": 7
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00349",
+      "customer": "Lucky Way Plaza / H-1",
+      "amount": 2920.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
+          "qty": 80.0,
+          "total": 1500.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
+          "qty": 2.0,
+          "total": 710.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 2.0,
+          "total": 710.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00345",
       "customer": "Mohamed Didi Q-10",
@@ -280,8 +306,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 5650.0
+      "count": 5,
+      "total": 8570.0
     },
     {
       "name": "Cash",
