@@ -18254,10 +18254,10 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T18:01:15Z",
+      "generatedAt": "2026-10-07T18:15:40Z",
       "pos": {
-        "total": 1259.0,
-        "count": 12
+        "total": 1924.0,
+        "count": 13
       },
       "regularSales": {
         "total": 13360.0,
@@ -18272,8 +18272,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 11318.0,
-        "count": 11
+        "total": 11983.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -18409,6 +18409,37 @@
               "name": "[R12C] Plastic Container A12 [case]",
               "qty": 1.0,
               "total": 1160.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000332",
+          "customer": "Walk-in",
+          "amount": 665.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "23:01",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01650] Iron Electric Hoffmans SI200#HM-9001",
+              "qty": 1.0,
+              "total": 311.0
+            },
+            {
+              "name": "[6971368516455] Silicone Utensils Set 12 In 1 #20",
+              "qty": 1.0,
+              "total": 295.0
+            },
+            {
+              "name": "[01969] Glass Tea Cup and Saucer",
+              "qty": 2.0,
+              "total": 44.0
+            },
+            {
+              "name": "[70074] Towel 042-02 30*40cm",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
@@ -18728,9 +18759,9 @@
       "till": {
         "opening": 3600.0,
         "expectedClosing": 3634.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "counted": 3634.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
