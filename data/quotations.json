@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-07T11:31:09Z",
+  "generatedAt": "2026-10-07T11:45:50Z",
   "openCount": 139,
-  "openTotal": 1869918.2,
+  "openTotal": 1912218.2,
   "quotationCount": 63,
-  "quotationTotal": 978197.75,
+  "quotationTotal": 1020497.75,
   "orderCount": 76,
   "orderTotal": 891720.45,
   "days": [
@@ -258,8 +258,8 @@
     {
       "date": "2026-10-07",
       "count": 5,
-      "outstanding": 99190.0,
-      "total": 99190.0
+      "outstanding": 141490.0,
+      "total": 141490.0
     }
   ],
   "quotations": [
@@ -315,14 +315,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-07",
       "expires": "2026-11-06",
-      "total": 4700.0,
+      "total": 47000.0,
       "settled": 0.0,
-      "outstanding": 4700.0,
+      "outstanding": 47000.0,
       "lines": [
         {
           "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
           "qty": 9.0,
-          "total": 4700.0
+          "total": 47000.0
         }
       ]
     },
