@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T17:45:41Z",
+  "generatedAt": "2026-10-07T18:01:15Z",
   "cash": {
     "total": 3301.0,
     "count": 10
   },
   "transfer": {
-    "total": 11022.0,
-    "count": 9
+    "total": 11318.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -207,6 +207,32 @@
       ]
     },
     {
+      "ref": "Ike - 000330",
+      "customer": "Walk-in",
+      "amount": 260.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:53",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[0100T] Paper salad bowl 1000 ML",
+          "qty": 1.0,
+          "total": 150.0
+        },
+        {
+          "name": "[02422] KRAFT PAPER BAG 16*7*32CM 50PCS",
+          "qty": 1.0,
+          "total": 85.0
+        },
+        {
+          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+          "qty": 5.0,
+          "total": 25.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000329",
       "customer": "Walk-in",
       "amount": 195.0,
@@ -287,6 +313,22 @@
           "name": "[1612] Flower Pot 16x12cm",
           "qty": 6.0,
           "total": 90.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000331",
+      "customer": "Walk-in",
+      "amount": 36.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:56",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 12.0,
+          "total": 36.0
         }
       ]
     },
@@ -387,8 +429,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 3,
-      "total": 642.0
+      "count": 5,
+      "total": 938.0
     }
   ],
   "cashOut": {
