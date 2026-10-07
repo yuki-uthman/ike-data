@@ -18254,32 +18254,53 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T08:31:01Z",
+      "generatedAt": "2026-10-07T08:45:46Z",
       "pos": {
         "total": 90.0,
         "count": 1
       },
       "regularSales": {
-        "total": 4140.0,
-        "count": 3
+        "total": 6630.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 53060.0,
-        "count": 4
+        "total": 50570.0,
+        "count": 3
       },
       "cash": {
         "total": 1630.0,
         "count": 2
       },
       "transfer": {
-        "total": 2600.0,
-        "count": 2
+        "total": 5090.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00345",
+          "customer": "Mohamed Didi Q-10",
+          "amount": 2490.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+              "qty": 1.0,
+              "total": 1540.0
+            },
+            {
+              "name": "[80302] Tube Stand",
+              "qty": 1.0,
+              "total": 950.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00342",
           "customer": "Sales",
