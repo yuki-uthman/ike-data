@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-07T11:01:26Z",
-  "openCount": 137,
-  "openTotal": 1821298.2,
-  "quotationCount": 61,
-  "quotationTotal": 929577.75,
+  "generatedAt": "2026-10-07T11:15:53Z",
+  "openCount": 139,
+  "openTotal": 1912918.2,
+  "quotationCount": 63,
+  "quotationTotal": 1021197.75,
   "orderCount": 76,
   "orderTotal": 891720.45,
   "days": [
@@ -257,12 +257,56 @@
     },
     {
       "date": "2026-10-07",
-      "count": 3,
-      "outstanding": 50570.0,
-      "total": 50570.0
+      "count": 5,
+      "outstanding": 142190.0,
+      "total": 142190.0
     }
   ],
   "quotations": [
+    {
+      "id": 483,
+      "ref": "S00484",
+      "kind": "quotation",
+      "customer": "Auguste Maldives",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-07",
+      "expires": "2026-11-06",
+      "total": 87320.0,
+      "settled": 0.0,
+      "outstanding": 87320.0,
+      "lines": [
+        {
+          "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
+          "qty": 8.0,
+          "total": 26360.0
+        },
+        {
+          "name": "37 Miniso Black Double Side (37-Miniso-DS)",
+          "qty": 8.0,
+          "total": 34360.0
+        },
+        {
+          "name": "37 MINISO RACK End Rack",
+          "qty": 2.0,
+          "total": 3900.0
+        },
+        {
+          "name": "37 Miniso Cupboard",
+          "qty": 8.0,
+          "total": 11200.0
+        },
+        {
+          "name": "[00051] Cashier Desk #04",
+          "qty": 1.0,
+          "total": 8500.0
+        },
+        {
+          "name": "37 Price Border Long",
+          "qty": 120.0,
+          "total": 3000.0
+        }
+      ]
+    },
     {
       "id": 479,
       "ref": "S00480",
@@ -271,14 +315,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-07",
       "expires": "2026-11-06",
-      "total": 45900.0,
+      "total": 47700.0,
       "settled": 0.0,
-      "outstanding": 45900.0,
+      "outstanding": 47700.0,
       "lines": [
         {
-          "name": "[2C-BLK-DS-1800-X02] #2C Black Double Side 1800mm x2",
+          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
           "qty": 9.0,
-          "total": 45900.0
+          "total": 47700.0
         }
       ]
     },
@@ -298,6 +342,30 @@
           "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
           "qty": 15.0,
           "total": 3960.0
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "ref": "S00485",
+      "kind": "quotation",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-07",
+      "expires": "2026-11-06",
+      "total": 2500.0,
+      "settled": 0.0,
+      "outstanding": 2500.0,
+      "lines": [
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 5.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 5.0,
+          "total": 1400.0
         }
       ]
     },
