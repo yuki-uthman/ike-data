@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-07T17:15:58Z",
+  "generatedAt": "2026-10-07T17:31:33Z",
   "openCount": 138,
-  "openTotal": 1909508.2,
+  "openTotal": 1911508.2,
   "quotationCount": 62,
-  "quotationTotal": 1017787.75,
+  "quotationTotal": 1019787.75,
   "orderCount": 76,
   "orderTotal": 891720.45,
   "days": [
@@ -258,8 +258,8 @@
     {
       "date": "2026-10-07",
       "count": 5,
-      "outstanding": 139490.0,
-      "total": 139490.0
+      "outstanding": 141490.0,
+      "total": 141490.0
     }
   ],
   "quotations": [
@@ -271,9 +271,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-07",
       "expires": "2026-11-06",
-      "total": 85320.0,
+      "total": 87320.0,
       "settled": 0.0,
-      "outstanding": 85320.0,
+      "outstanding": 87320.0,
       "lines": [
         {
           "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
@@ -304,11 +304,6 @@
           "name": "37 Price Border Long",
           "qty": 120.0,
           "total": 3000.0
-        },
-        {
-          "name": "Discount",
-          "qty": 1.0,
-          "total": -2000.0
         }
       ]
     },

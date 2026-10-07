@@ -18254,22 +18254,22 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T17:15:44Z",
+      "generatedAt": "2026-10-07T17:31:23Z",
       "pos": {
-        "total": 706.0,
-        "count": 7
+        "total": 768.0,
+        "count": 9
       },
       "regularSales": {
         "total": 11550.0,
         "count": 8
       },
       "pendingQuotations": {
-        "total": 139490.0,
+        "total": 141490.0,
         "count": 5
       },
       "cash": {
-        "total": 3239.0,
-        "count": 8
+        "total": 3301.0,
+        "count": 10
       },
       "transfer": {
         "total": 9017.0,
@@ -18518,6 +18518,22 @@
           ]
         },
         {
+          "ref": "Ike - 000327",
+          "customer": "Walk-in",
+          "amount": 32.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:24",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70063] Brush Toilet 3212 A62",
+              "qty": 1.0,
+              "total": 32.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000323",
           "customer": "Walk-in",
           "amount": 32.0,
@@ -18530,6 +18546,22 @@
               "name": "[01915] Kiwi Knife 475",
               "qty": 1.0,
               "total": 32.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000328",
+          "customer": "Walk-in",
+          "amount": 30.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:27",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70100] Baking Paper 10m #4",
+              "qty": 1.0,
+              "total": 30.0
             }
           ]
         },
@@ -18609,7 +18641,7 @@
       ],
       "till": {
         "opening": 3600.0,
-        "expectedClosing": 3632.0,
+        "expectedClosing": 3694.0,
         "counted": null,
         "difference": null,
         "closed": false,
