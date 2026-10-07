@@ -18254,26 +18254,26 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T06:15:43Z",
+      "generatedAt": "2026-10-07T06:31:00Z",
       "pos": {
         "total": 90.0,
         "count": 1
       },
       "regularSales": {
-        "total": 2740.0,
-        "count": 2
+        "total": 4140.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 54460.0,
-        "count": 5
+        "total": 53060.0,
+        "count": 4
       },
       "cash": {
         "total": 1630.0,
         "count": 2
       },
       "transfer": {
-        "total": 1200.0,
-        "count": 1
+        "total": 2600.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -18293,6 +18293,22 @@
               "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
               "qty": 1.0,
               "total": 1540.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00344",
+          "customer": "Four Sons Mart",
+          "amount": 1400.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1400.0
             }
           ]
         },
