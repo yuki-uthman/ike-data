@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-07T05:45:54Z",
-  "openCount": 137,
-  "openTotal": 1777888.2,
-  "quotationCount": 61,
-  "quotationTotal": 886167.75,
+  "generatedAt": "2026-10-07T06:01:34Z",
+  "openCount": 138,
+  "openTotal": 1823788.2,
+  "quotationCount": 62,
+  "quotationTotal": 932067.75,
   "orderCount": 76,
   "orderTotal": 891720.45,
   "days": [
@@ -257,12 +257,31 @@
     },
     {
       "date": "2026-10-07",
-      "count": 3,
-      "outstanding": 7160.0,
-      "total": 7160.0
+      "count": 4,
+      "outstanding": 53060.0,
+      "total": 53060.0
     }
   ],
   "quotations": [
+    {
+      "id": 479,
+      "ref": "S00480",
+      "kind": "quotation",
+      "customer": "The Hawks PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-07",
+      "expires": "2026-11-06",
+      "total": 45900.0,
+      "settled": 0.0,
+      "outstanding": 45900.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-1800-X02] #2C Black Double Side 1800mm x2",
+          "qty": 9.0,
+          "total": 45900.0
+        }
+      ]
+    },
     {
       "id": 475,
       "ref": "S00476",
