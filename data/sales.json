@@ -18254,7 +18254,7 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T16:19:24Z",
+      "generatedAt": "2026-10-07T16:31:00Z",
       "pos": {
         "total": 407.0,
         "count": 6
@@ -18515,13 +18515,28 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 3047.0,
+        "count": 2
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "owners drawing",
+          "amount": 3000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:28"
+        },
+        {
+          "reason": "Petrol  \u00b7 staff= Hassan",
+          "amount": 47.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:30"
+        }
+      ],
       "till": {
         "opening": 3600.0,
-        "expectedClosing": 6839.0,
+        "expectedClosing": 3792.0,
         "counted": null,
         "difference": null,
         "closed": false,
