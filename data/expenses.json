@@ -461,14 +461,14 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T16:45:59Z",
+      "generatedAt": "2026-10-07T17:03:28Z",
       "confirmed": {
         "total": 0,
         "count": 0
       },
       "pending": {
-        "total": 20.0,
-        "count": 2
+        "total": 0,
+        "count": 0
       },
       "categories": []
     }
