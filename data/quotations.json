@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-07T16:01:24Z",
+  "generatedAt": "2026-10-07T16:19:34Z",
   "openCount": 139,
-  "openTotal": 1912218.2,
+  "openTotal": 1910948.2,
   "quotationCount": 63,
-  "quotationTotal": 1020497.75,
+  "quotationTotal": 1019227.75,
   "orderCount": 76,
   "orderTotal": 891720.45,
   "days": [
@@ -234,8 +234,8 @@
     {
       "date": "2026-10-03",
       "count": 2,
-      "outstanding": 16310.0,
-      "total": 16310.0
+      "outstanding": 17040.0,
+      "total": 17040.0
     },
     {
       "date": "2026-10-04",
@@ -258,8 +258,8 @@
     {
       "date": "2026-10-07",
       "count": 5,
-      "outstanding": 141490.0,
-      "total": 141490.0
+      "outstanding": 139490.0,
+      "total": 139490.0
     }
   ],
   "quotations": [
@@ -271,9 +271,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-07",
       "expires": "2026-11-06",
-      "total": 87320.0,
+      "total": 85320.0,
       "settled": 0.0,
-      "outstanding": 87320.0,
+      "outstanding": 85320.0,
       "lines": [
         {
           "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
@@ -304,6 +304,11 @@
           "name": "37 Price Border Long",
           "qty": 120.0,
           "total": 3000.0
+        },
+        {
+          "name": "Discount",
+          "qty": 1.0,
+          "total": -2000.0
         }
       ]
     },
@@ -526,19 +531,24 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-03",
       "expires": "2026-11-02",
-      "total": 710.0,
+      "total": 1440.0,
       "settled": 0.0,
-      "outstanding": 710.0,
+      "outstanding": 1440.0,
       "lines": [
         {
           "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
+          "qty": 2.0,
+          "total": 710.0
         },
         {
           "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 2.0,
+          "total": 710.0
+        },
+        {
+          "name": "[02228] Paper Cup 6oz (Bundle)",
           "qty": 1.0,
-          "total": 355.0
+          "total": 20.0
         }
       ]
     },
