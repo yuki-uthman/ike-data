@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-08T15:45:53Z",
-  "openCount": 139,
-  "openTotal": 1937798.2,
-  "quotationCount": 62,
-  "quotationTotal": 958757.75,
+  "generatedAt": "2026-10-08T15:59:38Z",
+  "openCount": 140,
+  "openTotal": 1939778.2,
+  "quotationCount": 63,
+  "quotationTotal": 960737.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -263,9 +263,9 @@
     },
     {
       "date": "2026-10-08",
-      "count": 3,
-      "outstanding": 117570.0,
-      "total": 117570.0
+      "count": 4,
+      "outstanding": 119550.0,
+      "total": 119550.0
     }
   ],
   "quotations": [
@@ -373,6 +373,25 @@
           "name": "Discount",
           "qty": 1.0,
           "total": -200.0
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "ref": "S00494",
+      "kind": "quotation",
+      "customer": "Dine-A-Mate",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-08",
+      "expires": "2026-11-07",
+      "total": 1980.0,
+      "settled": 0.0,
+      "outstanding": 1980.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 1.0,
+          "total": 1980.0
         }
       ]
     },
