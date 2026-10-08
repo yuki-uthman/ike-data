@@ -18732,26 +18732,26 @@
     },
     {
       "date": "2026-10-08",
-      "generatedAt": "2026-10-08T17:45:41Z",
+      "generatedAt": "2026-10-08T18:01:13Z",
       "pos": {
-        "total": 1453.0,
-        "count": 6
+        "total": 1863.0,
+        "count": 8
       },
       "regularSales": {
         "total": 8972.0,
         "count": 7
       },
       "pendingQuotations": {
-        "total": 32230.0,
+        "total": 32050.0,
         "count": 3
       },
       "cash": {
-        "total": 4985.0,
-        "count": 8
+        "total": 5340.0,
+        "count": 9
       },
       "transfer": {
-        "total": 5440.0,
-        "count": 5
+        "total": 5495.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -18932,6 +18932,27 @@
           ]
         },
         {
+          "ref": "Ike - 000339",
+          "customer": "Walk-in",
+          "amount": 355.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:51",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+              "qty": 1.0,
+              "total": 320.0
+            },
+            {
+              "name": "[01621] Ceramic Plate 9\"#10",
+              "qty": 1.0,
+              "total": 35.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000338",
           "customer": "Walk-in",
           "amount": 300.0,
@@ -19030,6 +19051,22 @@
               "total": 66.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000340",
+          "customer": "Walk-in",
+          "amount": 55.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[8850421071514] PLASTIC CANISTER RW0715 2 LITER",
+              "qty": 1.0,
+              "total": 55.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -19047,10 +19084,10 @@
       ],
       "till": {
         "opening": 3634.0,
-        "expectedClosing": 8599.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "expectedClosing": 8954.0,
+        "counted": 8954.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }

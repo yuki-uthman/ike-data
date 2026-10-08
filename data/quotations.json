@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-08T17:45:52Z",
+  "generatedAt": "2026-10-08T18:01:21Z",
   "openCount": 140,
-  "openTotal": 1939778.2,
+  "openTotal": 1939598.2,
   "quotationCount": 63,
-  "quotationTotal": 960737.75,
+  "quotationTotal": 960557.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -264,8 +264,8 @@
     {
       "date": "2026-10-08",
       "count": 4,
-      "outstanding": 119550.0,
-      "total": 119550.0
+      "outstanding": 119370.0,
+      "total": 119370.0
     }
   ],
   "quotations": [
@@ -384,14 +384,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-08",
       "expires": "2026-11-07",
-      "total": 1980.0,
+      "total": 1800.0,
       "settled": 0.0,
-      "outstanding": 1980.0,
+      "outstanding": 1800.0,
       "lines": [
         {
-          "name": "[70176] 51 Warehouse Rack White Large",
+          "name": "[70175] 51 Warehouse Rack White Medium",
           "qty": 1.0,
-          "total": 1980.0
+          "total": 1800.0
         }
       ]
     },
