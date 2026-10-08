@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-08T06:15:58Z",
+  "generatedAt": "2026-10-08T06:22:47Z",
   "totalCases": 112.0,
   "quoted": {
     "cases": 46.0,
@@ -15,7 +15,9 @@
       "size": "100 gr",
       "pack": "6 bundles",
       "active": true,
-      "cases": 8.0
+      "cases": 8.0,
+      "profitPct": 10.2,
+      "profitBasis": "sold"
     },
     {
       "id": 2075,
@@ -23,7 +25,9 @@
       "size": "23 gr",
       "pack": "12 bundles",
       "active": true,
-      "cases": 4.0
+      "cases": 4.0,
+      "profitPct": -0.9,
+      "profitBasis": "sold"
     },
     {
       "id": 2018,
@@ -31,7 +35,9 @@
       "size": "60 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 3.0
+      "cases": 3.0,
+      "profitPct": 6.0,
+      "profitBasis": "sold"
     },
     {
       "id": 2020,
@@ -39,7 +45,9 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 4.0
+      "cases": 4.0,
+      "profitPct": 1.5,
+      "profitBasis": "sold"
     },
     {
       "id": 2022,
@@ -47,7 +55,9 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 14.0
+      "cases": 14.0,
+      "profitPct": 1.5,
+      "profitBasis": "sold"
     },
     {
       "id": 2024,
@@ -55,7 +65,9 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 5.0
+      "cases": 5.0,
+      "profitPct": 0.9,
+      "profitBasis": "sold"
     },
     {
       "id": 2026,
@@ -63,7 +75,9 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 7.0
+      "cases": 7.0,
+      "profitPct": 0.9,
+      "profitBasis": "sold"
     },
     {
       "id": 2028,
@@ -71,7 +85,9 @@
       "size": "450 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 5.0
+      "cases": 5.0,
+      "profitPct": 2.4,
+      "profitBasis": "sold"
     },
     {
       "id": 2030,
@@ -79,7 +95,9 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 4.0
+      "cases": 4.0,
+      "profitPct": 18.2,
+      "profitBasis": "sold"
     },
     {
       "id": 2032,
@@ -87,7 +105,9 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 6.0
+      "cases": 6.0,
+      "profitPct": 18.2,
+      "profitBasis": "sold"
     },
     {
       "id": 2078,
@@ -95,7 +115,9 @@
       "size": "17 gr",
       "pack": "20 bundles",
       "active": true,
-      "cases": 7.0
+      "cases": 7.0,
+      "profitPct": -5.7,
+      "profitBasis": "sold"
     },
     {
       "id": 2070,
@@ -103,7 +125,9 @@
       "size": "1 liter",
       "pack": "6 pcs",
       "active": true,
-      "cases": 2.0
+      "cases": 2.0,
+      "profitPct": -2.4,
+      "profitBasis": "sold"
     },
     {
       "id": 2072,
@@ -111,7 +135,9 @@
       "size": "1 liter",
       "pack": "6 pcs",
       "active": true,
-      "cases": 7.0
+      "cases": 7.0,
+      "profitPct": -2.4,
+      "profitBasis": "sold"
     },
     {
       "id": 2036,
@@ -119,7 +145,9 @@
       "size": "400 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 1.0
+      "cases": 1.0,
+      "profitPct": 11.0,
+      "profitBasis": "sold"
     },
     {
       "id": 2034,
@@ -127,7 +155,9 @@
       "size": "800 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 2.0
+      "cases": 2.0,
+      "profitPct": 10.5,
+      "profitBasis": "sold"
     },
     {
       "id": 2038,
@@ -135,7 +165,9 @@
       "size": "800 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 1.0
+      "cases": 1.0,
+      "profitPct": 11.1,
+      "profitBasis": "sold"
     },
     {
       "id": 2042,
@@ -143,7 +175,9 @@
       "size": "400 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 1.0
+      "cases": 1.0,
+      "profitPct": 11.6,
+      "profitBasis": "sold"
     },
     {
       "id": 2040,
@@ -151,7 +185,9 @@
       "size": "800 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 2.0
+      "cases": 2.0,
+      "profitPct": 11.1,
+      "profitBasis": "sold"
     },
     {
       "id": 2044,
@@ -159,7 +195,9 @@
       "size": "820 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 1.0
+      "cases": 1.0,
+      "profitPct": 9.3,
+      "profitBasis": "sold"
     },
     {
       "id": 2046,
@@ -167,7 +205,9 @@
       "size": "820 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 1.0
+      "cases": 1.0,
+      "profitPct": 9.3,
+      "profitBasis": "sold"
     },
     {
       "id": 2048,
@@ -175,7 +215,9 @@
       "size": "820 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 3.0
+      "cases": 3.0,
+      "profitPct": 9.3,
+      "profitBasis": "sold"
     },
     {
       "id": 2050,
@@ -183,7 +225,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 3.0
+      "cases": 3.0,
+      "profitPct": 4.6,
+      "profitBasis": "sold"
     },
     {
       "id": 2052,
@@ -191,7 +235,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 3.0
+      "cases": 3.0,
+      "profitPct": 4.6,
+      "profitBasis": "sold"
     },
     {
       "id": 2054,
@@ -199,7 +245,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 0
+      "cases": 0,
+      "profitPct": 4.6,
+      "profitBasis": "list"
     },
     {
       "id": 2056,
@@ -207,7 +255,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 2.0
+      "cases": 2.0,
+      "profitPct": 4.6,
+      "profitBasis": "sold"
     },
     {
       "id": 2058,
@@ -215,7 +265,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 0
+      "cases": 0,
+      "profitPct": 4.6,
+      "profitBasis": "list"
     },
     {
       "id": 2060,
@@ -223,7 +275,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 0
+      "cases": 0,
+      "profitPct": 4.6,
+      "profitBasis": "list"
     },
     {
       "id": 2081,
@@ -231,7 +285,9 @@
       "size": "40 gr",
       "pack": "6 bundles",
       "active": true,
-      "cases": 2.0
+      "cases": 2.0,
+      "profitPct": 18.4,
+      "profitBasis": "sold"
     },
     {
       "id": 2062,
@@ -239,7 +295,9 @@
       "size": "360 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 2.0
+      "cases": 2.0,
+      "profitPct": 11.9,
+      "profitBasis": "sold"
     },
     {
       "id": 2064,
@@ -247,7 +305,9 @@
       "size": "750 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 12.0
+      "cases": 12.0,
+      "profitPct": 12.9,
+      "profitBasis": "sold"
     }
   ],
   "days": [
