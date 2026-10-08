@@ -18732,22 +18732,22 @@
     },
     {
       "date": "2026-10-08",
-      "generatedAt": "2026-10-08T06:01:13Z",
+      "generatedAt": "2026-10-08T06:15:43Z",
       "pos": {
-        "total": 66.0,
-        "count": 1
+        "total": 132.0,
+        "count": 2
       },
       "regularSales": {
         "total": 1732.0,
         "count": 1
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 12750.0,
+        "count": 1
       },
       "cash": {
-        "total": 1798.0,
-        "count": 2
+        "total": 1864.0,
+        "count": 3
       },
       "transfer": {
         "total": 0,
@@ -18790,6 +18790,32 @@
           ]
         },
         {
+          "ref": "Ike - 000334",
+          "customer": "Walk-in",
+          "amount": 66.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:13",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01871] Duster#43",
+              "qty": 1.0,
+              "total": 29.0
+            },
+            {
+              "name": "[70075] Towel 042-0983 35*75cm",
+              "qty": 1.0,
+              "total": 19.0
+            },
+            {
+              "name": "[70070] Glass Wiper A63",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000333",
           "customer": "Walk-in",
           "amount": 66.0,
@@ -18813,7 +18839,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3634.0,
-        "expectedClosing": 5432.0,
+        "expectedClosing": 5498.0,
         "counted": null,
         "difference": null,
         "closed": false,
