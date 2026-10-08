@@ -18732,22 +18732,22 @@
     },
     {
       "date": "2026-10-08",
-      "generatedAt": "2026-10-08T16:31:05Z",
+      "generatedAt": "2026-10-08T16:45:40Z",
       "pos": {
         "total": 1453.0,
         "count": 6
       },
       "regularSales": {
-        "total": 7622.0,
-        "count": 6
+        "total": 8972.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 32230.0,
         "count": 3
       },
       "cash": {
-        "total": 3635.0,
-        "count": 7
+        "total": 4985.0,
+        "count": 8
       },
       "transfer": {
         "total": 5440.0,
@@ -18802,6 +18802,22 @@
               "name": "Sponges Colorful 10pcs#31",
               "qty": 1.0,
               "total": 32.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00357",
+          "customer": "Snap Buy",
+          "amount": 1350.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Kimono Mixed Fruit Jelly",
+              "qty": 18.0,
+              "total": 1350.0
             }
           ]
         },
@@ -19023,7 +19039,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3634.0,
-        "expectedClosing": 7269.0,
+        "expectedClosing": 8619.0,
         "counted": null,
         "difference": null,
         "closed": false,
