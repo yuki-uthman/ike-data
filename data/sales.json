@@ -18732,14 +18732,14 @@
     },
     {
       "date": "2026-10-08",
-      "generatedAt": "2026-10-08T08:45:41Z",
+      "generatedAt": "2026-10-08T08:54:54Z",
       "pos": {
         "total": 932.0,
         "count": 3
       },
       "regularSales": {
-        "total": 1732.0,
-        "count": 1
+        "total": 2182.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 12550.0,
@@ -18750,8 +18750,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 450.0,
+        "count": 1
       },
       "other": {
         "total": 0,
@@ -18802,6 +18802,22 @@
               "name": "[01818] Rain Coat Polyester#5",
               "qty": 1.0,
               "total": 800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00352",
+          "customer": "Atollios Private Limited",
+          "amount": 450.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-PBOARD-900x320] RD8 White Perforated Board 900x320mm",
+              "qty": 1.0,
+              "total": 450.0
             }
           ]
         },
