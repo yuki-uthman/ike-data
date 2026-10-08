@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-08T06:45:56Z",
+  "generatedAt": "2026-10-08T07:01:31Z",
   "openCount": 139,
-  "openTotal": 1924258.2,
+  "openTotal": 1924058.2,
   "quotationCount": 62,
-  "quotationTotal": 945217.75,
+  "quotationTotal": 945017.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -264,8 +264,8 @@
     {
       "date": "2026-10-08",
       "count": 2,
-      "outstanding": 100070.0,
-      "total": 100070.0
+      "outstanding": 99870.0,
+      "total": 99870.0
     }
   ],
   "quotations": [
@@ -321,9 +321,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-08",
       "expires": "2026-11-07",
-      "total": 12750.0,
+      "total": 12550.0,
       "settled": 0.0,
-      "outstanding": 12750.0,
+      "outstanding": 12550.0,
       "lines": [
         {
           "name": "[70161] Vegetable Rack 4 Square Baskets",
@@ -339,6 +339,16 @@
           "name": "[RD8-WHT-ERF-1550] #RD8 White End Rack Flat 1550mm",
           "qty": 2.0,
           "total": 3900.0
+        },
+        {
+          "name": "Discount",
+          "qty": 1.0,
+          "total": 0.0
+        },
+        {
+          "name": "Discount",
+          "qty": 1.0,
+          "total": -200.0
         }
       ]
     },
