@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-08T10:45:53Z",
+  "generatedAt": "2026-10-08T11:01:31Z",
   "openCount": 139,
   "openTotal": 1924058.2,
-  "quotationCount": 62,
-  "quotationTotal": 945017.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 61,
+  "quotationTotal": 941057.75,
+  "orderCount": 78,
+  "orderTotal": 983000.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -257,15 +257,15 @@
     },
     {
       "date": "2026-10-07",
-      "count": 4,
-      "outstanding": 54170.0,
-      "total": 54170.0
+      "count": 3,
+      "outstanding": 50210.0,
+      "total": 50210.0
     },
     {
       "date": "2026-10-08",
-      "count": 2,
-      "outstanding": 99870.0,
-      "total": 99870.0
+      "count": 3,
+      "outstanding": 103830.0,
+      "total": 103830.0
     }
   ],
   "quotations": [
@@ -353,6 +353,25 @@
       ]
     },
     {
+      "id": 475,
+      "ref": "S00476",
+      "kind": "order",
+      "customer": "Fasmugoo F-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-08",
+      "expires": "2026-11-06",
+      "total": 3960.0,
+      "settled": 0.0,
+      "outstanding": 3960.0,
+      "lines": [
+        {
+          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
+          "qty": 15.0,
+          "total": 3960.0
+        }
+      ]
+    },
+    {
       "id": 479,
       "ref": "S00480",
       "kind": "quotation",
@@ -368,25 +387,6 @@
           "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
           "qty": 9.0,
           "total": 47000.0
-        }
-      ]
-    },
-    {
-      "id": 475,
-      "ref": "S00476",
-      "kind": "quotation",
-      "customer": "Fasmugoo F-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-07",
-      "expires": "2026-11-06",
-      "total": 3960.0,
-      "settled": 0.0,
-      "outstanding": 3960.0,
-      "lines": [
-        {
-          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
-          "qty": 15.0,
-          "total": 3960.0
         }
       ]
     },
