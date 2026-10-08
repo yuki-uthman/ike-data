@@ -26,6 +26,7 @@ GST, cost does not). For a product that has sold, net price is what was
 actually charged (confirmed sale-order lines, subtotal / cases); for one that
 has not, it is the list price less GST, flagged with basis "list". Only the
 percentage is written to the file - never the cost or the price themselves.
+A product at or below cost reads 0%, not a negative number.
 
 Days are Maldives calendar days (UTC+5), the same clock as the other pipelines.
 Reads ODOO_URL / ODOO_DB / ODOO_USERNAME / ODOO_API_KEY from the environment.
@@ -74,10 +75,13 @@ def maldives_day(utc_str):
 
 
 def margin_pct(cost, net_price):
-    """Profit as a % of the net selling price, 1 dp; None if either is unknown."""
+    """Profit as a % of the net selling price, 1 dp; None if either is unknown.
+
+    Floored at 0: a product sold at or below cost reads 0%, by decision of the
+    owner, so the published file never carries a loss figure."""
     if not cost or cost <= 0 or not net_price or net_price <= 0:
         return None
-    return round((net_price - cost) / net_price * 100, 1)
+    return max(0.0, round((net_price - cost) / net_price * 100, 1))
 
 
 def aggregate(products, sale_lines, quoted_lines, pos_lines, refund_lines):

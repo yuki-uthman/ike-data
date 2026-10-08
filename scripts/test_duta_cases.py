@@ -5,7 +5,7 @@
 Covers: a confirmed line counting once; a quotation staying out of the sold
 total but into `quoted`; a credit note subtracting; a day being the Maldives
 (UTC+5) day, so an order placed at 22:00 UTC lands on the NEXT calendar day;
-the profit % formula (negative allowed, unknown cost -> None), and the product-name cleanup (code prefix, bilingual colour, pack and size).
+the profit % formula (floored at 0, unknown cost -> None), and the product-name cleanup (code prefix, bilingual colour, pack and size).
 """
 import sys
 from pathlib import Path
@@ -37,7 +37,8 @@ assert days[1]["byProduct"] == {"1": 2.0, "2": 1.0}, days[1]
 assert sum(d["cases"] for d in days) == sum(totals.values()) == 10.0
 
 assert f.margin_pct(273.49, 304.63) == 10.2, f.margin_pct(273.49, 304.63)
-assert f.margin_pct(100, 80) == -25.0, "selling below cost is a negative margin, not hidden"
+assert f.margin_pct(100, 80) == 0.0, "below cost reads 0%, never negative"
+assert f.margin_pct(100, 100) == 0.0
 assert f.margin_pct(0, 300) is None and f.margin_pct(100, 0) is None and f.margin_pct(None, 5) is None
 
 print("ok")
