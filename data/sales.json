@@ -18732,7 +18732,7 @@
     },
     {
       "date": "2026-10-08",
-      "generatedAt": "2026-10-08T17:30:59Z",
+      "generatedAt": "2026-10-08T17:45:41Z",
       "pos": {
         "total": 1453.0,
         "count": 6
@@ -19033,13 +19033,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 20.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "gate passs  \u00b7 Staff= Nagrajan",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:39"
+        }
+      ],
       "till": {
         "opening": 3634.0,
-        "expectedClosing": 8619.0,
+        "expectedClosing": 8599.0,
         "counted": null,
         "difference": null,
         "closed": false,
