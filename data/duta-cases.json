@@ -1,0 +1,360 @@
+{
+  "company": "MRH Investment",
+  "supplier": "CV Duta",
+  "unit": "case",
+  "generatedAt": "2026-10-08T04:24:31Z",
+  "totalCases": 112.0,
+  "quoted": {
+    "cases": 46.0,
+    "orders": 5
+  },
+  "products": [
+    {
+      "id": 2016,
+      "name": "Better Fun Bites",
+      "size": "100 gr",
+      "pack": "6 bundles",
+      "active": true,
+      "cases": 8.0
+    },
+    {
+      "id": 2075,
+      "name": "Better Sandwich Biscuit",
+      "size": "23 gr",
+      "pack": "12 bundles",
+      "active": true,
+      "cases": 4.0
+    },
+    {
+      "id": 2018,
+      "name": "Chuba Cassava Chips Bbq",
+      "size": "60 gr",
+      "pack": "30 pcs",
+      "active": true,
+      "cases": 3.0
+    },
+    {
+      "id": 2020,
+      "name": "Chuba Cassava Chips Cheese",
+      "size": "125 gr",
+      "pack": "16 pcs",
+      "active": true,
+      "cases": 4.0
+    },
+    {
+      "id": 2022,
+      "name": "Chuba Cassava Chips Chili",
+      "size": "125 gr",
+      "pack": "16 pcs",
+      "active": true,
+      "cases": 14.0
+    },
+    {
+      "id": 2024,
+      "name": "Chuba Ubee Chips Spicy Garlic",
+      "size": "45 gr",
+      "pack": "30 pcs",
+      "active": true,
+      "cases": 5.0
+    },
+    {
+      "id": 2026,
+      "name": "Chuba Ubee Chips Sweet Corn",
+      "size": "45 gr",
+      "pack": "30 pcs",
+      "active": true,
+      "cases": 7.0
+    },
+    {
+      "id": 2028,
+      "name": "Harpic Toilet Cleaner Original",
+      "size": "450 ml",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 5.0
+    },
+    {
+      "id": 2030,
+      "name": "Maitos Tortilla Chips Corn Bbq",
+      "size": "140 gr",
+      "pack": "16 pcs",
+      "active": true,
+      "cases": 4.0
+    },
+    {
+      "id": 2032,
+      "name": "Maitos Tortilla Chips Corn Chilli",
+      "size": "140 gr",
+      "pack": "16 pcs",
+      "active": true,
+      "cases": 6.0
+    },
+    {
+      "id": 2078,
+      "name": "Nitto Wafer Chocolate",
+      "size": "17 gr",
+      "pack": "20 bundles",
+      "active": true,
+      "cases": 7.0
+    },
+    {
+      "id": 2070,
+      "name": "Soklin Detergent Liquid Purple",
+      "size": "1 liter",
+      "pack": "6 pcs",
+      "active": true,
+      "cases": 2.0
+    },
+    {
+      "id": 2072,
+      "name": "Soklin Detergent Liquid White",
+      "size": "1 liter",
+      "pack": "6 pcs",
+      "active": true,
+      "cases": 7.0
+    },
+    {
+      "id": 2036,
+      "name": "Soklin Floor Cleaner Apple (Green)",
+      "size": "400 ml",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 1.0
+    },
+    {
+      "id": 2034,
+      "name": "Soklin Floor Cleaner Apple (Green)",
+      "size": "800 ml",
+      "pack": "6 pcs",
+      "active": true,
+      "cases": 2.0
+    },
+    {
+      "id": 2038,
+      "name": "Soklin Floor Cleaner Lavender (Purple)",
+      "size": "800 ml",
+      "pack": "6 pcs",
+      "active": true,
+      "cases": 1.0
+    },
+    {
+      "id": 2042,
+      "name": "Soklin Floor Cleaner Rose (Pink)",
+      "size": "400 ml",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 1.0
+    },
+    {
+      "id": 2040,
+      "name": "Soklin Floor Cleaner Rose (Pink)",
+      "size": "800 ml",
+      "pack": "6 pcs",
+      "active": true,
+      "cases": 2.0
+    },
+    {
+      "id": 2044,
+      "name": "Soklin Softener Paris In Love (Pink)",
+      "size": "820 ml",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 1.0
+    },
+    {
+      "id": 2046,
+      "name": "Soklin Softener Starry New York (Blue)",
+      "size": "820 ml",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 1.0
+    },
+    {
+      "id": 2048,
+      "name": "Soklin Softener Tokyo Spring (Purple)",
+      "size": "820 ml",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 3.0
+    },
+    {
+      "id": 2050,
+      "name": "Soklin Softergent Fleurs Blanches No.7 (Purple)",
+      "size": "700 gr",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 3.0
+    },
+    {
+      "id": 2052,
+      "name": "Soklin Softergent Fleurs De Lis (Blue)",
+      "size": "700 gr",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 3.0
+    },
+    {
+      "id": 2054,
+      "name": "Soklin Softergent Lavender Lily (Purple)",
+      "size": "700 gr",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 0
+    },
+    {
+      "id": 2056,
+      "name": "Soklin Softergent Magnolia Berries (Red)",
+      "size": "700 gr",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 2.0
+    },
+    {
+      "id": 2058,
+      "name": "Soklin Softergent Rosy Pink",
+      "size": "700 gr",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 0
+    },
+    {
+      "id": 2060,
+      "name": "Soklin Softergent Velvet Orchid (Purple)",
+      "size": "700 gr",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 0
+    },
+    {
+      "id": 2081,
+      "name": "Willie Wafer Chocolate Stick",
+      "size": "40 gr",
+      "pack": "6 bundles",
+      "active": true,
+      "cases": 2.0
+    },
+    {
+      "id": 2062,
+      "name": "Wings Porcelain Cleaner Blue",
+      "size": "360 ml",
+      "pack": "12 pcs",
+      "active": true,
+      "cases": 2.0
+    },
+    {
+      "id": 2064,
+      "name": "Wings Porcelain Cleaner Blue",
+      "size": "750 ml",
+      "pack": "6 pcs",
+      "active": true,
+      "cases": 12.0
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-09-29",
+      "cases": 20.0,
+      "orders": 1,
+      "byProduct": {
+        "2016": 1.0,
+        "2018": 1.0,
+        "2020": 1.0,
+        "2022": 1.0,
+        "2024": 1.0,
+        "2026": 1.0,
+        "2030": 1.0,
+        "2032": 1.0,
+        "2034": 1.0,
+        "2036": 1.0,
+        "2040": 1.0,
+        "2042": 1.0,
+        "2044": 1.0,
+        "2046": 1.0,
+        "2048": 1.0,
+        "2070": 1.0,
+        "2072": 1.0,
+        "2075": 1.0,
+        "2078": 1.0,
+        "2081": 1.0
+      }
+    },
+    {
+      "date": "2026-09-30",
+      "cases": 43.0,
+      "orders": 3,
+      "byProduct": {
+        "2016": 1.0,
+        "2018": 2.0,
+        "2020": 2.0,
+        "2022": 10.0,
+        "2024": 3.0,
+        "2026": 5.0,
+        "2028": 2.0,
+        "2030": 3.0,
+        "2032": 5.0,
+        "2048": 1.0,
+        "2062": 2.0,
+        "2064": 2.0,
+        "2070": 1.0,
+        "2072": 1.0,
+        "2078": 2.0,
+        "2081": 1.0
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "cases": 1.0,
+      "orders": 1,
+      "byProduct": {
+        "2072": 1.0
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "cases": 5.0,
+      "orders": 1,
+      "byProduct": {
+        "2034": 1.0,
+        "2038": 1.0,
+        "2040": 1.0,
+        "2050": 1.0,
+        "2052": 1.0
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "cases": 3.0,
+      "orders": 1,
+      "byProduct": {
+        "2020": 1.0,
+        "2024": 1.0,
+        "2026": 1.0
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "cases": 36.0,
+      "orders": 2,
+      "byProduct": {
+        "2016": 6.0,
+        "2022": 3.0,
+        "2028": 3.0,
+        "2048": 1.0,
+        "2056": 2.0,
+        "2064": 10.0,
+        "2072": 4.0,
+        "2075": 3.0,
+        "2078": 4.0
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "cases": 4.0,
+      "orders": 1,
+      "byProduct": {
+        "2050": 2.0,
+        "2052": 2.0
+      }
+    }
+  ]
+}
