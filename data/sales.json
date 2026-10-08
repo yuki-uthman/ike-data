@@ -18732,22 +18732,22 @@
     },
     {
       "date": "2026-10-08",
-      "generatedAt": "2026-10-08T05:45:41Z",
+      "generatedAt": "2026-10-08T06:01:13Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 66.0,
+        "count": 1
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1732.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 1798.0,
+        "count": 2
       },
       "transfer": {
         "total": 0,
@@ -18757,7 +18757,55 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00351",
+          "customer": "Sales",
+          "amount": 1732.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[99133] Tool Box X4",
+              "qty": 6.0,
+              "total": 870.0
+            },
+            {
+              "name": "[60001] Tool Box x5",
+              "qty": 4.0,
+              "total": 780.0
+            },
+            {
+              "name": "[70067] Sponges 2pcs YQE19",
+              "qty": 5.0,
+              "total": 50.0
+            },
+            {
+              "name": "Sponges Colorful 10pcs#31",
+              "qty": 1.0,
+              "total": 32.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000333",
+          "customer": "Walk-in",
+          "amount": 66.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[25083] Spoon Small Flatware Ss #7 Green (loose pc)",
+              "qty": 11.0,
+              "total": 66.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -18765,7 +18813,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3634.0,
-        "expectedClosing": 3634.0,
+        "expectedClosing": 5432.0,
         "counted": null,
         "difference": null,
         "closed": false,
