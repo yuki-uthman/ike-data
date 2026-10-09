@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T17:15:43Z",
+  "generatedAt": "2026-10-09T17:31:02Z",
   "cash": {
-    "total": 9487.0,
-    "count": 7
+    "total": 9537.0,
+    "count": 9
   },
   "transfer": {
-    "total": 750.0,
-    "count": 5
+    "total": 789.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -133,6 +133,38 @@
       ]
     },
     {
+      "ref": "Ike - 000352",
+      "customer": "Walk-in",
+      "amount": 32.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:22",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70063] Brush Toilet 3212 A62",
+          "qty": 1.0,
+          "total": 32.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000349",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:19",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[3377] Aluminium Foil Box 3 compartment 3377 Loose",
+          "qty": 10.0,
+          "total": 30.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000144",
       "customer": "Walk-in",
       "amount": 27.0,
@@ -181,6 +213,22 @@
       ]
     },
     {
+      "ref": "Ike - 000350",
+      "customer": "Walk-in",
+      "amount": 18.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:19",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 2.0,
+          "total": 18.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000348",
       "customer": "Walk-in",
       "amount": 15.0,
@@ -193,6 +241,22 @@
           "name": "[01928] Ceramic Mug#48-1",
           "qty": 1.0,
           "total": 15.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000351",
+      "customer": "Walk-in",
+      "amount": 9.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:20",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 1.0,
+          "total": 9.0
         }
       ]
     },
@@ -233,8 +297,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 7,
-      "total": 9487.0
+      "count": 9,
+      "total": 9537.0
     },
     {
       "name": "Bank",
@@ -245,8 +309,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 4,
-      "total": 300.0
+      "count": 6,
+      "total": 339.0
     }
   ],
   "cashOut": {
@@ -256,7 +320,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 8954.0,
-    "expectedClosing": 18441.0,
+    "expectedClosing": 18491.0,
     "counted": null,
     "difference": null,
     "closed": false,
