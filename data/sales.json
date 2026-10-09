@@ -19058,10 +19058,10 @@
     },
     {
       "date": "2026-10-09",
-      "generatedAt": "2026-10-09T16:15:44Z",
+      "generatedAt": "2026-10-09T16:30:59Z",
       "pos": {
-        "total": 385.0,
-        "count": 7
+        "total": 400.0,
+        "count": 8
       },
       "regularSales": {
         "total": 8700.0,
@@ -19076,8 +19076,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 258.0,
-        "count": 2
+        "total": 273.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -19192,6 +19192,22 @@
               "name": "[70071] Sponge 5pcs X 6pkts #23",
               "qty": 1.0,
               "total": 19.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000348",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:25",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01928] Ceramic Mug#48-1",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
