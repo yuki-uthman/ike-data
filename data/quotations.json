@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-09T12:15:57Z",
-  "openCount": 141,
-  "openTotal": 1969298.2,
-  "quotationCount": 64,
-  "quotationTotal": 990257.75,
+  "generatedAt": "2026-10-09T12:31:12Z",
+  "openCount": 142,
+  "openTotal": 1976333.2,
+  "quotationCount": 65,
+  "quotationTotal": 997292.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -269,9 +269,9 @@
     },
     {
       "date": "2026-10-09",
-      "count": 1,
-      "outstanding": 29700.0,
-      "total": 29700.0
+      "count": 2,
+      "outstanding": 36735.0,
+      "total": 36735.0
     }
   ],
   "quotations": [
@@ -301,6 +301,25 @@
           "name": "2C White End Round Shelves",
           "qty": 2.0,
           "total": 2800.0
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "ref": "S00498",
+      "kind": "quotation",
+      "customer": "Good Day Mart",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-09",
+      "expires": "2026-11-08",
+      "total": 7035.0,
+      "settled": 0.0,
+      "outstanding": 7035.0,
+      "lines": [
+        {
+          "name": "[70196] Cash Counter 6ftx2ft",
+          "qty": 1.0,
+          "total": 7035.0
         }
       ]
     },
