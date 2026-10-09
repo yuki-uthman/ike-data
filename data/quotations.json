@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-09T11:45:51Z",
-  "openCount": 140,
-  "openTotal": 1939598.2,
-  "quotationCount": 63,
-  "quotationTotal": 960557.75,
+  "generatedAt": "2026-10-09T12:01:28Z",
+  "openCount": 141,
+  "openTotal": 1969298.2,
+  "quotationCount": 64,
+  "quotationTotal": 990257.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -269,12 +269,41 @@
     },
     {
       "date": "2026-10-09",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 29700.0,
+      "total": 29700.0
     }
   ],
   "quotations": [
+    {
+      "id": 496,
+      "ref": "S00497",
+      "kind": "quotation",
+      "customer": "Good Day Mart",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-09",
+      "expires": "2026-11-08",
+      "total": 29700.0,
+      "settled": 0.0,
+      "outstanding": 29700.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-DS-2000-X04] #2C White Double Side 2000mm x4",
+          "qty": 1.0,
+          "total": 10600.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X05] #2C White Single Side 2000mm x5",
+          "qty": 2.0,
+          "total": 16300.0
+        },
+        {
+          "name": "2C White End Round Shelves",
+          "qty": 2.0,
+          "total": 2800.0
+        }
+      ]
+    },
     {
       "id": 483,
       "ref": "S00484",

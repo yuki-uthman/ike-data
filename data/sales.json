@@ -19058,22 +19058,22 @@
     },
     {
       "date": "2026-10-09",
-      "generatedAt": "2026-10-09T11:45:42Z",
+      "generatedAt": "2026-10-09T12:01:18Z",
       "pos": {
-        "total": 87.0,
-        "count": 3
+        "total": 184.0,
+        "count": 5
       },
       "regularSales": {
         "total": 0,
         "count": 0
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 29700.0,
+        "count": 1
       },
       "cash": {
-        "total": 28.0,
-        "count": 2
+        "total": 125.0,
+        "count": 4
       },
       "transfer": {
         "total": 59.0,
@@ -19084,6 +19084,27 @@
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "Ike - 000345",
+          "customer": "Walk-in",
+          "amount": 72.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:56",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01903] Laundry Bag Mesh 30*30*46cm",
+              "qty": 2.0,
+              "total": 58.0
+            },
+            {
+              "name": "[70019] PLASTIC BASKET ROUND 3# 903",
+              "qty": 1.0,
+              "total": 14.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000343",
           "customer": "Walk-in",
@@ -19097,6 +19118,22 @@
               "name": "[70044] Slipper#1112",
               "qty": 1.0,
               "total": 59.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000344",
+          "customer": "Walk-in",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:57",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[8850421071316] plastic container 0.75 litre",
+              "qty": 1.0,
+              "total": 25.0
             }
           ]
         },
@@ -19140,7 +19177,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 8954.0,
-        "expectedClosing": 8982.0,
+        "expectedClosing": 9079.0,
         "counted": null,
         "difference": null,
         "closed": false,
