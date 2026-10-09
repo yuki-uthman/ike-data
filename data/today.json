@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T15:31:05Z",
+  "generatedAt": "2026-10-09T15:45:43Z",
   "cash": {
-    "total": 127.0,
-    "count": 5
+    "total": 8827.0,
+    "count": 6
   },
   "transfer": {
     "total": 59.0,
@@ -16,6 +16,32 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00358",
+      "customer": "Sales",
+      "amount": 8700.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": null,
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 2.0,
+          "total": 3500.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X02] #2C White Single Side 2000mm x2",
+          "qty": 1.0,
+          "total": 3300.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000345",
       "customer": "Walk-in",
@@ -122,8 +148,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 127.0
+      "count": 6,
+      "total": 8827.0
     },
     {
       "name": "Bank Transfer",
@@ -139,7 +165,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 8954.0,
-    "expectedClosing": 9081.0,
+    "expectedClosing": 17781.0,
     "counted": null,
     "difference": null,
     "closed": false,
