@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T17:45:43Z",
+  "generatedAt": "2026-10-09T18:01:15Z",
   "cash": {
-    "total": 9546.0,
-    "count": 10
+    "total": 9556.0,
+    "count": 11
   },
   "transfer": {
     "total": 789.0,
@@ -245,6 +245,22 @@
       ]
     },
     {
+      "ref": "Ike - 000354",
+      "customer": "Walk-in",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:50",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 5.0,
+          "total": 10.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000353",
       "customer": "Walk-in",
       "amount": 9.0,
@@ -313,8 +329,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 10,
-      "total": 9546.0
+      "count": 11,
+      "total": 9556.0
     },
     {
       "name": "Bank",
@@ -330,16 +346,24 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 14000.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Owner's drawing  \u00b7 Rashad boss",
+      "amount": 14000.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:58"
+    }
+  ],
   "till": {
     "opening": 8954.0,
-    "expectedClosing": 18500.0,
-    "counted": null,
-    "difference": null,
-    "closed": false,
+    "expectedClosing": 4510.0,
+    "counted": 3979.0,
+    "difference": -531.0,
+    "closed": true,
     "sessionCount": 1
   }
 }
