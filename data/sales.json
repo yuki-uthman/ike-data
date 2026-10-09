@@ -19058,14 +19058,14 @@
     },
     {
       "date": "2026-10-09",
-      "generatedAt": "2026-10-09T16:30:59Z",
+      "generatedAt": "2026-10-09T16:45:41Z",
       "pos": {
-        "total": 400.0,
-        "count": 8
+        "total": 427.0,
+        "count": 9
       },
       "regularSales": {
-        "total": 8700.0,
-        "count": 1
+        "total": 9150.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 36735.0,
@@ -19076,8 +19076,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 273.0,
-        "count": 3
+        "total": 750.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -19107,6 +19107,27 @@
               "name": "[70186] Trolley Stand 5 Layer Black",
               "qty": 1.0,
               "total": 1900.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00359",
+          "customer": "Sales",
+          "amount": 450.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": null,
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[86254] Cake board round 10\"",
+              "qty": 25.0,
+              "total": 250.0
+            },
+            {
+              "name": "[62500] Cake board round 8\"",
+              "qty": 25.0,
+              "total": 200.0
             }
           ]
         },
@@ -19160,6 +19181,22 @@
               "name": "[70044] Slipper#1112",
               "qty": 1.0,
               "total": 59.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000144",
+          "customer": "Walk-in",
+          "amount": 27.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:40",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Chuba Ubee Chips Spicy Garlic (45 gr)",
+              "qty": 1.0,
+              "total": 27.0
             }
           ]
         },
