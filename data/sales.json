@@ -19058,10 +19058,10 @@
     },
     {
       "date": "2026-10-09",
-      "generatedAt": "2026-10-09T15:45:43Z",
+      "generatedAt": "2026-10-09T16:01:18Z",
       "pos": {
-        "total": 186.0,
-        "count": 6
+        "total": 385.0,
+        "count": 7
       },
       "regularSales": {
         "total": 8700.0,
@@ -19076,8 +19076,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 59.0,
-        "count": 1
+        "total": 258.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -19107,6 +19107,22 @@
               "name": "[70186] Trolley Stand 5 Layer Black",
               "qty": 1.0,
               "total": 1900.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000347",
+          "customer": "Walk-in",
+          "amount": 199.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:50",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01761] Plastic Contanier Rectangular 3pcs set",
+              "qty": 1.0,
+              "total": 199.0
             }
           ]
         },
