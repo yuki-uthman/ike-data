@@ -19382,32 +19382,49 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T05:35:59Z",
+      "generatedAt": "2026-10-10T05:45:39Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 30.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
         "count": 0
       },
       "pendingQuotations": {
-        "total": 18475.0,
-        "count": 2
+        "total": 20015.0,
+        "count": 3
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 30.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "Ike - 000355",
+          "customer": "Walk-in",
+          "amount": 30.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "10:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soklin Softener Starry New York (Blue) (820 ml)",
+              "qty": 1.0,
+              "total": 30.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
