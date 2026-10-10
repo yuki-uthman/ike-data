@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T09:15:51Z",
-  "openCount": 150,
-  "openTotal": 2009537.2,
+  "generatedAt": "2026-10-10T09:31:11Z",
+  "openCount": 149,
+  "openTotal": 2009037.2,
   "quotationCount": 72,
   "quotationTotal": 1029996.75,
-  "orderCount": 78,
-  "orderTotal": 979540.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -275,9 +275,9 @@
     },
     {
       "date": "2026-10-10",
-      "count": 8,
-      "outstanding": 33204.0,
-      "total": 33204.0
+      "count": 7,
+      "outstanding": 32704.0,
+      "total": 32704.0
     }
   ],
   "quotations": [
@@ -447,30 +447,6 @@
           "name": "[10007] Plastic Container T2 [case]",
           "qty": 1.0,
           "total": 1000.0
-        }
-      ]
-    },
-    {
-      "id": 509,
-      "ref": "S00510",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-10",
-      "expires": "2026-11-09",
-      "total": 500.0,
-      "settled": 0.0,
-      "outstanding": 500.0,
-      "lines": [
-        {
-          "name": "[70083] Towel",
-          "qty": 20.0,
-          "total": 180.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
-          "qty": 2.0,
-          "total": 320.0
         }
       ]
     },

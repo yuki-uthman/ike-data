@@ -19382,22 +19382,22 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T09:15:42Z",
+      "generatedAt": "2026-10-10T09:31:01Z",
       "pos": {
         "total": 830.0,
         "count": 2
       },
       "regularSales": {
-        "total": 12455.0,
-        "count": 6
+        "total": 12955.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 32704.0,
         "count": 7
       },
       "cash": {
-        "total": 220.0,
-        "count": 1
+        "total": 720.0,
+        "count": 2
       },
       "transfer": {
         "total": 13065.0,
@@ -19489,6 +19489,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00368",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:17",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+              "qty": 2.0,
+              "total": 320.0
+            },
+            {
+              "name": "[70083] Towel",
+              "qty": 20.0,
+              "total": 180.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00363",
           "customer": "Sales",
           "amount": 240.0,
@@ -19544,7 +19565,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3979.0,
-        "expectedClosing": 4199.0,
+        "expectedClosing": 4699.0,
         "counted": null,
         "difference": null,
         "closed": false,
