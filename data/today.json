@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T16:15:43Z",
+  "generatedAt": "2026-10-10T16:31:02Z",
   "cash": {
     "total": 3374.0,
     "count": 8
   },
   "transfer": {
-    "total": 24725.0,
-    "count": 13
+    "total": 26675.0,
+    "count": 14
   },
   "other": {
     "total": 0,
@@ -140,6 +140,22 @@
           "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
           "qty": 5.0,
           "total": 0.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00375",
+      "customer": "Zinaadh I Motormates",
+      "amount": 1950.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:22",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-WHT-ERF-1950] #RD8 White End Rack Flat 1950mm",
+          "qty": 1.0,
+          "total": 1950.0
         }
       ]
     },
@@ -402,8 +418,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 23685.0
+      "count": 10,
+      "total": 25635.0
     },
     {
       "name": "Cash",
