@@ -19382,26 +19382,26 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T11:30:59Z",
+      "generatedAt": "2026-10-10T11:45:41Z",
       "pos": {
         "total": 1055.0,
         "count": 5
       },
       "regularSales": {
-        "total": 20575.0,
-        "count": 11
+        "total": 24625.0,
+        "count": 12
       },
       "pendingQuotations": {
-        "total": 30185.58,
-        "count": 5
+        "total": 26195.58,
+        "count": 4
       },
       "cash": {
         "total": 955.0,
         "count": 4
       },
       "transfer": {
-        "total": 20675.0,
-        "count": 12
+        "total": 24725.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -19421,6 +19421,27 @@
               "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
               "qty": 3.0,
               "total": 4950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00373",
+          "customer": "Mariyam Azza A Dh Omadhoo",
+          "amount": 4050.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70161] Vegetable Rack 4 Square Baskets",
+              "qty": 1.0,
+              "total": 2850.0
+            },
+            {
+              "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+              "qty": 1.0,
+              "total": 1200.0
             }
           ]
         },
