@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T06:45:58Z",
-  "openCount": 148,
-  "openTotal": 2002253.2,
-  "quotationCount": 71,
-  "quotationTotal": 1023212.75,
+  "generatedAt": "2026-10-10T07:01:32Z",
+  "openCount": 149,
+  "openTotal": 2007203.2,
+  "quotationCount": 72,
+  "quotationTotal": 1028162.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -275,9 +275,9 @@
     },
     {
       "date": "2026-10-10",
-      "count": 6,
-      "outstanding": 25920.0,
-      "total": 25920.0
+      "count": 7,
+      "outstanding": 30870.0,
+      "total": 30870.0
     }
   ],
   "quotations": [
@@ -307,6 +307,25 @@
           "name": "2C White Steel Barrier 900mm",
           "qty": 42.0,
           "total": 2520.0
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "ref": "S00513",
+      "kind": "quotation",
+      "customer": "Greenzone District",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 4950.0,
+      "settled": 0.0,
+      "outstanding": 4950.0,
+      "lines": [
+        {
+          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
+          "qty": 3.0,
+          "total": 4950.0
         }
       ]
     },
