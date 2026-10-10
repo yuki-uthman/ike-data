@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T06:15:47Z",
-  "openCount": 148,
-  "openTotal": 2004948.2,
-  "quotationCount": 71,
-  "quotationTotal": 1025907.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "generatedAt": "2026-10-10T06:31:11Z",
+  "openCount": 150,
+  "openTotal": 2006448.2,
+  "quotationCount": 72,
+  "quotationTotal": 1025867.75,
+  "orderCount": 78,
+  "orderTotal": 980580.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -275,9 +275,9 @@
     },
     {
       "date": "2026-10-10",
-      "count": 6,
-      "outstanding": 28615.0,
-      "total": 28615.0
+      "count": 8,
+      "outstanding": 30115.0,
+      "total": 30115.0
     }
   ],
   "quotations": [
@@ -370,7 +370,7 @@
     {
       "id": 504,
       "ref": "S00505",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Hashir Shopping Q-10",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-10",
@@ -383,6 +383,49 @@
           "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
           "qty": 1.0,
           "total": 1540.0
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "ref": "S00511",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 1000.0,
+      "settled": 0.0,
+      "outstanding": 1000.0,
+      "lines": [
+        {
+          "name": "[10007] Plastic Container T2 [case]",
+          "qty": 1.0,
+          "total": 1000.0
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "ref": "S00510",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 500.0,
+      "settled": 0.0,
+      "outstanding": 500.0,
+      "lines": [
+        {
+          "name": "[70083] Towel",
+          "qty": 20.0,
+          "total": 180.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 2.0,
+          "total": 320.0
         }
       ]
     },
