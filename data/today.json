@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T08:31:01Z",
+  "generatedAt": "2026-10-10T08:45:42Z",
   "cash": {
     "total": 220.0,
     "count": 1
   },
   "transfer": {
-    "total": 5265.0,
-    "count": 5
+    "total": 10215.0,
+    "count": 6
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00366",
+      "customer": "Greenzone District",
+      "amount": 4950.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:43",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
+          "qty": 3.0,
+          "total": 4950.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00364",
       "customer": "Yazuuru N-5",
@@ -117,8 +133,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 4435.0
+      "count": 4,
+      "total": 9385.0
     },
     {
       "name": "Bank Transfer",

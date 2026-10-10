@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T08:31:13Z",
-  "openCount": 149,
-  "openTotal": 2007203.2,
-  "quotationCount": 72,
-  "quotationTotal": 1028162.75,
+  "generatedAt": "2026-10-10T08:45:49Z",
+  "openCount": 150,
+  "openTotal": 2008593.2,
+  "quotationCount": 73,
+  "quotationTotal": 1029552.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -275,9 +275,9 @@
     },
     {
       "date": "2026-10-10",
-      "count": 7,
-      "outstanding": 30870.0,
-      "total": 30870.0
+      "count": 8,
+      "outstanding": 32260.0,
+      "total": 32260.0
     }
   ],
   "quotations": [
@@ -307,25 +307,6 @@
           "name": "2C White Steel Barrier 900mm",
           "qty": 42.0,
           "total": 2520.0
-        }
-      ]
-    },
-    {
-      "id": 512,
-      "ref": "S00513",
-      "kind": "quotation",
-      "customer": "Greenzone District",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-10",
-      "expires": "2026-11-09",
-      "total": 4950.0,
-      "settled": 0.0,
-      "outstanding": 4950.0,
-      "lines": [
-        {
-          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
-          "qty": 3.0,
-          "total": 4950.0
         }
       ]
     },
@@ -364,6 +345,49 @@
           "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
           "qty": 3.0,
           "total": 3600.0
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "ref": "S00514",
+      "kind": "quotation",
+      "customer": "Coral Life Pvt Ltd.",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 3490.0,
+      "settled": 0.0,
+      "outstanding": 3490.0,
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 8.0,
+          "total": 2240.0
+        },
+        {
+          "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
+          "qty": 5.0,
+          "total": 1250.0
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "ref": "S00515",
+      "kind": "quotation",
+      "customer": "Brc G-02",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 2850.0,
+      "settled": 0.0,
+      "outstanding": 2850.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
         }
       ]
     },
