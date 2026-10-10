@@ -19382,14 +19382,14 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T10:01:16Z",
+      "generatedAt": "2026-10-10T10:15:41Z",
       "pos": {
-        "total": 830.0,
-        "count": 2
+        "total": 845.0,
+        "count": 3
       },
       "regularSales": {
-        "total": 16975.0,
-        "count": 10
+        "total": 20575.0,
+        "count": 11
       },
       "pendingQuotations": {
         "total": 26195.58,
@@ -19400,8 +19400,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 16865.0,
-        "count": 9
+        "total": 20480.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -19421,6 +19421,22 @@
               "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
               "qty": 3.0,
               "total": 4950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00372",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 3600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:01",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+              "qty": 3.0,
+              "total": 3600.0
             }
           ]
         },
@@ -19602,6 +19618,22 @@
               "name": "Soklin Softener Starry New York (Blue) (820 ml)",
               "qty": 1.0,
               "total": 30.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000357",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "15:07",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         }
