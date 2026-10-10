@@ -19382,26 +19382,26 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T09:01:15Z",
+      "generatedAt": "2026-10-10T09:15:42Z",
       "pos": {
         "total": 830.0,
         "count": 2
       },
       "regularSales": {
-        "total": 9605.0,
-        "count": 5
+        "total": 12455.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 36054.0,
-        "count": 9
+        "total": 32704.0,
+        "count": 7
       },
       "cash": {
         "total": 220.0,
         "count": 1
       },
       "transfer": {
-        "total": 10215.0,
-        "count": 6
+        "total": 13065.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -19421,6 +19421,22 @@
               "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
               "qty": 3.0,
               "total": 4950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00367",
+          "customer": "Brc G-02",
+          "amount": 2850.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:13",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70161] Vegetable Rack 4 Square Baskets",
+              "qty": 1.0,
+              "total": 2850.0
             }
           ]
         },

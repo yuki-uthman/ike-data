@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:01:15Z",
+  "generatedAt": "2026-10-10T09:15:42Z",
   "cash": {
     "total": 220.0,
     "count": 1
   },
   "transfer": {
-    "total": 10215.0,
-    "count": 6
+    "total": 13065.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -29,6 +29,22 @@
           "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
           "qty": 3.0,
           "total": 4950.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00367",
+      "customer": "Brc G-02",
+      "amount": 2850.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:13",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
         }
       ]
     },
@@ -133,8 +149,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 9385.0
+      "count": 5,
+      "total": 12235.0
     },
     {
       "name": "Bank Transfer",
