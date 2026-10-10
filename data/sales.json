@@ -19382,32 +19382,64 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T06:31:00Z",
+      "generatedAt": "2026-10-10T06:45:44Z",
       "pos": {
         "total": 830.0,
         "count": 2
       },
       "regularSales": {
-        "total": 460.0,
-        "count": 2
+        "total": 4655.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 28575.0,
-        "count": 7
+        "total": 25920.0,
+        "count": 6
       },
       "cash": {
         "total": 220.0,
         "count": 1
       },
       "transfer": {
-        "total": 1070.0,
-        "count": 3
+        "total": 5265.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00364",
+          "customer": "Yazuuru N-5",
+          "amount": 2655.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+              "qty": 3.0,
+              "total": 2655.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00365",
+          "customer": "Hashir Shopping Q-10",
+          "amount": 1540.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:38",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+              "qty": 1.0,
+              "total": 1540.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000356",
           "customer": "Walk-in",
