@@ -19382,26 +19382,26 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T17:01:16Z",
+      "generatedAt": "2026-10-10T17:15:42Z",
       "pos": {
         "total": 1459.0,
         "count": 8
       },
       "regularSales": {
-        "total": 35960.0,
-        "count": 17
+        "total": 36840.0,
+        "count": 18
       },
       "pendingQuotations": {
-        "total": 37845.58,
-        "count": 7
+        "total": 36965.58,
+        "count": 6
       },
       "cash": {
         "total": 3694.0,
         "count": 9
       },
       "transfer": {
-        "total": 33725.0,
-        "count": 16
+        "total": 34605.0,
+        "count": 17
       },
       "other": {
         "total": 0,
@@ -19617,6 +19617,27 @@
               "name": "[10007] Plastic Container T2 [case]",
               "qty": 1.0,
               "total": 1000.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00379",
+          "customer": "Blue Barista E-16",
+          "amount": 880.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:05",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[02440] Milkshake Powder Pistachio",
+              "qty": 2.0,
+              "total": 440.0
+            },
+            {
+              "name": "[90042] Milkshake Powder Avocado",
+              "qty": 2.0,
+              "total": 440.0
             }
           ]
         },
