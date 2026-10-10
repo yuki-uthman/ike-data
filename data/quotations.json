@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T05:31:06Z",
+  "generatedAt": "2026-10-10T05:36:06Z",
   "openCount": 144,
-  "openTotal": 1994953.2,
-  "quotationCount": 66,
-  "quotationTotal": 1013112.75,
-  "orderCount": 78,
-  "orderTotal": 981840.45,
+  "openTotal": 1994808.2,
+  "quotationCount": 67,
+  "quotationTotal": 1015767.75,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -276,8 +276,8 @@
     {
       "date": "2026-10-10",
       "count": 2,
-      "outstanding": 18620.0,
-      "total": 18620.0
+      "outstanding": 18475.0,
+      "total": 18475.0
     }
   ],
   "quotations": [
@@ -311,21 +311,21 @@
       ]
     },
     {
-      "id": 502,
-      "ref": "S00503",
-      "kind": "order",
-      "customer": "Test Customer (Delete Me)",
-      "salesperson": "Ahmed Rashad",
+      "id": 503,
+      "ref": "S00504",
+      "kind": "quotation",
+      "customer": "Yazuuru N-5",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-10",
       "expires": "2026-11-09",
-      "total": 2800.0,
+      "total": 2655.0,
       "settled": 0.0,
-      "outstanding": 2800.0,
+      "outstanding": 2655.0,
       "lines": [
         {
-          "name": "[2C-BLK-DS-1800-X01] #2C Black Double Side 1800mm x1",
-          "qty": 1.0,
-          "total": 2800.0
+          "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+          "qty": 3.0,
+          "total": 2655.0
         }
       ]
     },
