@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T12:31:05Z",
+  "generatedAt": "2026-10-10T12:45:43Z",
   "cash": {
-    "total": 1020.0,
-    "count": 5
+    "total": 1359.0,
+    "count": 7
   },
   "transfer": {
     "total": 24725.0,
@@ -187,6 +187,32 @@
       ]
     },
     {
+      "ref": "Ike - 000361",
+      "customer": "Walk-in",
+      "amount": 320.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:31",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 50.0,
+          "total": 150.0
+        },
+        {
+          "name": "[02176] Plastic Container Rectangular#big",
+          "qty": 1.0,
+          "total": 85.0
+        },
+        {
+          "name": "[02176] Plastic Container Rectangular#big",
+          "qty": 1.0,
+          "total": 85.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00363",
       "customer": "Sales",
       "amount": 240.0,
@@ -298,6 +324,22 @@
       ]
     },
     {
+      "ref": "Ike - 000362",
+      "customer": "Walk-in",
+      "amount": 19.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:33",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01860] Sponges Colorful #31",
+          "qty": 1.0,
+          "total": 19.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000358",
       "customer": "Walk-in",
       "amount": 15.0,
@@ -338,16 +380,16 @@
       "total": 23685.0
     },
     {
+      "name": "Cash",
+      "method": "cash",
+      "count": 7,
+      "total": 1359.0
+    },
+    {
       "name": "Bank Transfer",
       "method": "transfer",
       "count": 4,
       "total": 1040.0
-    },
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 5,
-      "total": 1020.0
     }
   ],
   "cashOut": {
@@ -357,7 +399,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3979.0,
-    "expectedClosing": 4999.0,
+    "expectedClosing": 5338.0,
     "counted": null,
     "difference": null,
     "closed": false,

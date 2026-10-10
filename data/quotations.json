@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T12:31:19Z",
-  "openCount": 146,
-  "openTotal": 2002528.78,
-  "quotationCount": 69,
-  "quotationTotal": 1023488.33,
+  "generatedAt": "2026-10-10T12:45:54Z",
+  "openCount": 147,
+  "openTotal": 2010448.78,
+  "quotationCount": 70,
+  "quotationTotal": 1031408.33,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -275,9 +275,9 @@
     },
     {
       "date": "2026-10-10",
-      "count": 4,
-      "outstanding": 26195.58,
-      "total": 26195.58
+      "count": 5,
+      "outstanding": 34115.58,
+      "total": 34115.58
     }
   ],
   "quotations": [
@@ -307,6 +307,35 @@
           "name": "2C White Steel Barrier 900mm",
           "qty": 42.0,
           "total": 2520.0
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "ref": "S00519",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 7920.0,
+      "settled": 0.0,
+      "outstanding": 7920.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
+          "qty": 2.0,
+          "total": 5600.0
+        },
+        {
+          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+          "qty": 8.0,
+          "total": 2320.0
+        },
+        {
+          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+          "qty": 16.0,
+          "total": 0.0
         }
       ]
     },
