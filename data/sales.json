@@ -4,7 +4,7 @@
   "days": [
     {
       "date": "2026-08-12",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -39,7 +39,7 @@
     },
     {
       "date": "2026-08-13",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -74,7 +74,7 @@
     },
     {
       "date": "2026-08-14",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -109,7 +109,7 @@
     },
     {
       "date": "2026-08-15",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -144,7 +144,7 @@
     },
     {
       "date": "2026-08-16",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -179,7 +179,7 @@
     },
     {
       "date": "2026-08-17",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -214,7 +214,7 @@
     },
     {
       "date": "2026-08-18",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -249,7 +249,7 @@
     },
     {
       "date": "2026-08-19",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -284,7 +284,7 @@
     },
     {
       "date": "2026-08-20",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -319,7 +319,7 @@
     },
     {
       "date": "2026-08-21",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -354,7 +354,7 @@
     },
     {
       "date": "2026-08-22",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -389,7 +389,7 @@
     },
     {
       "date": "2026-08-23",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -424,7 +424,7 @@
     },
     {
       "date": "2026-08-24",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -459,7 +459,7 @@
     },
     {
       "date": "2026-08-25",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -494,7 +494,7 @@
     },
     {
       "date": "2026-08-26",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -529,7 +529,7 @@
     },
     {
       "date": "2026-08-27",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 11663.0,
         "count": 22
@@ -964,7 +964,7 @@
     },
     {
       "date": "2026-08-28",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 277.0,
         "count": 1
@@ -1023,7 +1023,7 @@
     },
     {
       "date": "2026-08-29",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 116886.0,
         "count": 17
@@ -1375,7 +1375,7 @@
           "amount": 15.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:26",
           "source": "payment",
           "lines": [
             {
@@ -1434,7 +1434,7 @@
     },
     {
       "date": "2026-08-30",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 34219.0,
         "count": 18
@@ -1855,7 +1855,7 @@
     },
     {
       "date": "2026-08-31",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 13638.0,
         "count": 17
@@ -2255,7 +2255,7 @@
     },
     {
       "date": "2026-09-01",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 35039.0,
         "count": 17
@@ -2640,7 +2640,7 @@
     },
     {
       "date": "2026-09-02",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 40930.0,
         "count": 19
@@ -3052,7 +3052,7 @@
     },
     {
       "date": "2026-09-03",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 28266.0,
         "count": 20
@@ -3455,7 +3455,7 @@
     },
     {
       "date": "2026-09-04",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 2992.0,
         "count": 10
@@ -3678,7 +3678,7 @@
     },
     {
       "date": "2026-09-05",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 40826.0,
         "count": 21
@@ -4130,7 +4130,7 @@
     },
     {
       "date": "2026-09-06",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 15571.0,
         "count": 15
@@ -4473,7 +4473,7 @@
     },
     {
       "date": "2026-09-07",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 28511.0,
         "count": 17
@@ -5538,7 +5538,7 @@
     },
     {
       "date": "2026-09-08",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 59304.0,
         "count": 9
@@ -5548,8 +5548,8 @@
         "count": 0
       },
       "pendingQuotations": {
-        "total": 149335.0,
-        "count": 8
+        "total": 143395.0,
+        "count": 7
       },
       "cash": {
         "total": 60.0,
@@ -6195,7 +6195,7 @@
     },
     {
       "date": "2026-09-09",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 18264.0,
         "count": 21
@@ -6609,7 +6609,7 @@
     },
     {
       "date": "2026-09-10",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 41387.0,
         "count": 17
@@ -7029,7 +7029,7 @@
     },
     {
       "date": "2026-09-11",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 778.0,
         "count": 8
@@ -7210,7 +7210,7 @@
     },
     {
       "date": "2026-09-12",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 26380.0,
         "count": 14
@@ -7374,7 +7374,7 @@
           "amount": 1900.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:14",
           "source": "payment",
           "lines": [
             {
@@ -8598,7 +8598,7 @@
     },
     {
       "date": "2026-09-13",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1848.0,
         "count": 13
@@ -8630,7 +8630,7 @@
           "amount": 10586.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:04",
           "source": "payment",
           "lines": [
             {
@@ -8661,7 +8661,7 @@
           "amount": 2600.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:04",
           "source": "payment",
           "lines": [
             {
@@ -8677,7 +8677,7 @@
           "amount": 1750.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:04",
           "source": "payment",
           "lines": [
             {
@@ -8693,7 +8693,7 @@
           "amount": 1025.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:58",
           "source": "payment",
           "lines": [
             {
@@ -8719,7 +8719,7 @@
           "amount": 800.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:21",
           "source": "payment",
           "lines": [
             {
@@ -8735,7 +8735,7 @@
           "amount": 720.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:16",
           "source": "payment",
           "lines": [
             {
@@ -8824,7 +8824,7 @@
           "amount": 250.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:51",
           "source": "payment",
           "lines": [
             {
@@ -9036,7 +9036,7 @@
     },
     {
       "date": "2026-09-14",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 478.0,
         "count": 5
@@ -9068,7 +9068,7 @@
           "amount": 5830.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "09:16",
           "source": "payment",
           "lines": [
             {
@@ -9089,7 +9089,7 @@
           "amount": 3950.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "16:16",
           "source": "payment",
           "lines": [
             {
@@ -9105,7 +9105,7 @@
           "amount": 3750.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:24",
           "source": "payment",
           "lines": [
             {
@@ -9131,7 +9131,7 @@
           "amount": 400.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:45",
           "source": "payment",
           "lines": [
             {
@@ -9163,7 +9163,7 @@
           "amount": 180.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:15",
           "source": "payment",
           "lines": [
             {
@@ -9259,7 +9259,7 @@
     },
     {
       "date": "2026-09-15",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1364.0,
         "count": 12
@@ -9291,7 +9291,7 @@
           "amount": 2320.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:04",
           "source": "payment",
           "lines": [
             {
@@ -9317,7 +9317,7 @@
           "amount": 1780.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:07",
           "source": "payment",
           "lines": [
             {
@@ -9338,7 +9338,7 @@
           "amount": 1035.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:15",
           "source": "payment",
           "lines": [
             {
@@ -9359,7 +9359,7 @@
           "amount": 446.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:45",
           "source": "payment",
           "lines": [
             {
@@ -9400,7 +9400,7 @@
           "amount": 390.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:16",
           "source": "payment",
           "lines": [
             {
@@ -9442,7 +9442,7 @@
           "amount": 360.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "14:00",
           "source": "payment",
           "lines": [
             {
@@ -9700,7 +9700,7 @@
     },
     {
       "date": "2026-09-16",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 651.0,
         "count": 7
@@ -9732,7 +9732,7 @@
           "amount": 4950.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:12",
           "source": "payment",
           "lines": [
             {
@@ -9748,7 +9748,7 @@
           "amount": 1980.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:50",
           "source": "payment",
           "lines": [
             {
@@ -9764,7 +9764,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:26",
           "source": "payment",
           "lines": [
             {
@@ -9780,7 +9780,7 @@
           "amount": 520.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:09",
           "source": "payment",
           "lines": [
             {
@@ -9952,7 +9952,7 @@
     },
     {
       "date": "2026-09-17",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 564.0,
         "count": 7
@@ -9984,7 +9984,7 @@
           "amount": 15200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:00",
           "source": "payment",
           "lines": [
             {
@@ -10005,7 +10005,7 @@
           "amount": 5755.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:46",
           "source": "payment",
           "lines": [
             {
@@ -10041,7 +10041,7 @@
           "amount": 2300.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:24",
           "source": "payment",
           "lines": [
             {
@@ -10067,7 +10067,7 @@
           "amount": 2200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:09",
           "source": "payment",
           "lines": [
             {
@@ -10083,7 +10083,7 @@
           "amount": 2200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:53",
           "source": "payment",
           "lines": [
             {
@@ -10099,7 +10099,7 @@
           "amount": 1900.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:36",
           "source": "payment",
           "lines": [
             {
@@ -10115,7 +10115,7 @@
           "amount": 1440.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:58",
           "source": "payment",
           "lines": [
             {
@@ -10131,7 +10131,7 @@
           "amount": 1280.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:02",
           "source": "payment",
           "lines": [
             {
@@ -10152,7 +10152,7 @@
           "amount": 800.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "16:16",
           "source": "payment",
           "lines": [
             {
@@ -10168,7 +10168,7 @@
           "amount": 280.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:08",
           "source": "payment",
           "lines": [
             {
@@ -10200,7 +10200,7 @@
           "amount": 220.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:28",
           "source": "payment",
           "lines": [
             {
@@ -10216,7 +10216,7 @@
           "amount": 200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "17:28",
           "source": "payment",
           "lines": [
             {
@@ -10248,7 +10248,7 @@
           "amount": 150.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:04",
           "source": "payment",
           "lines": [
             {
@@ -10355,7 +10355,7 @@
     },
     {
       "date": "2026-09-18",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 70.0,
         "count": 3
@@ -10387,7 +10387,7 @@
           "amount": 4100.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:56",
           "source": "payment",
           "lines": [
             {
@@ -10413,7 +10413,7 @@
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:21",
           "source": "payment",
           "lines": [
             {
@@ -10429,7 +10429,7 @@
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:15",
           "source": "payment",
           "lines": [
             {
@@ -10445,7 +10445,7 @@
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:04",
           "source": "payment",
           "lines": [
             {
@@ -10461,7 +10461,7 @@
           "amount": 940.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:07",
           "source": "payment",
           "lines": [
             {
@@ -10482,7 +10482,7 @@
           "amount": 320.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:14",
           "source": "payment",
           "lines": [
             {
@@ -10567,7 +10567,7 @@
     },
     {
       "date": "2026-09-19",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 457.0,
         "count": 8
@@ -10577,8 +10577,8 @@
         "count": 8
       },
       "pendingQuotations": {
-        "total": 43450.0,
-        "count": 3
+        "total": 38150.0,
+        "count": 2
       },
       "cash": {
         "total": 357.0,
@@ -10599,7 +10599,7 @@
           "amount": 19200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:33",
           "source": "payment",
           "lines": [
             {
@@ -10625,7 +10625,7 @@
           "amount": 5400.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:58",
           "source": "payment",
           "lines": [
             {
@@ -10641,7 +10641,7 @@
           "amount": 4400.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:53",
           "source": "payment",
           "lines": [
             {
@@ -10653,11 +10653,11 @@
         },
         {
           "ref": "INV/2026/00172",
-          "customer": "Bluebell Solutions PVT LTD",
+          "customer": "Bluebell Solutions Pvt Ltd",
           "amount": 3000.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:13",
           "source": "payment",
           "lines": [
             {
@@ -10673,7 +10673,7 @@
           "amount": 2500.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:23",
           "source": "payment",
           "lines": [
             {
@@ -10689,7 +10689,7 @@
           "amount": 1800.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:37",
           "source": "payment",
           "lines": [
             {
@@ -10705,7 +10705,7 @@
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:30",
           "source": "payment",
           "lines": [
             {
@@ -10721,7 +10721,7 @@
           "amount": 420.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:36",
           "source": "payment",
           "lines": [
             {
@@ -10892,7 +10892,7 @@
     },
     {
       "date": "2026-09-20",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 647.0,
         "count": 10
@@ -10902,7 +10902,7 @@
         "count": 6
       },
       "pendingQuotations": {
-        "total": 87050.0,
+        "total": 97550.0,
         "count": 3
       },
       "cash": {
@@ -10924,7 +10924,7 @@
           "amount": 25450.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:43",
           "source": "payment",
           "lines": [
             {
@@ -10945,7 +10945,7 @@
           "amount": 5550.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:31",
           "source": "payment",
           "lines": [
             {
@@ -10966,7 +10966,7 @@
           "amount": 1900.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:38",
           "source": "payment",
           "lines": [
             {
@@ -10982,7 +10982,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:59",
           "source": "payment",
           "lines": [
             {
@@ -10998,7 +10998,7 @@
           "amount": 680.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:55",
           "source": "payment",
           "lines": [
             {
@@ -11045,7 +11045,7 @@
           "amount": 177.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:51",
           "source": "payment",
           "lines": [
             {
@@ -11226,7 +11226,7 @@
     },
     {
       "date": "2026-09-21",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1755.0,
         "count": 18
@@ -11258,7 +11258,7 @@
           "amount": 1900.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:58",
           "source": "payment",
           "lines": [
             {
@@ -11274,7 +11274,7 @@
           "amount": 1526.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:33",
           "source": "payment",
           "lines": [
             {
@@ -11310,7 +11310,7 @@
           "amount": 760.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:40",
           "source": "payment",
           "lines": [
             {
@@ -11326,7 +11326,7 @@
           "amount": 700.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:38",
           "source": "payment",
           "lines": [
             {
@@ -11342,7 +11342,7 @@
           "amount": 550.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "13:44",
           "source": "payment",
           "lines": [
             {
@@ -11400,7 +11400,7 @@
           "amount": 240.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:33",
           "source": "payment",
           "lines": [
             {
@@ -11469,7 +11469,7 @@
           "amount": 100.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:05",
           "source": "payment",
           "lines": [
             {
@@ -11734,7 +11734,7 @@
     },
     {
       "date": "2026-09-22",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1263.0,
         "count": 8
@@ -11744,8 +11744,8 @@
         "count": 15
       },
       "pendingQuotations": {
-        "total": 2280.0,
-        "count": 2
+        "total": 0.0,
+        "count": 1
       },
       "cash": {
         "total": 10510.0,
@@ -11766,7 +11766,7 @@
           "amount": 18125.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:25",
           "source": "payment",
           "lines": [
             {
@@ -11792,7 +11792,7 @@
           "amount": 13370.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:55",
           "source": "payment",
           "lines": [
             {
@@ -11823,7 +11823,7 @@
           "amount": 7920.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:22",
           "source": "payment",
           "lines": [
             {
@@ -11839,7 +11839,7 @@
           "amount": 5500.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:51",
           "source": "payment",
           "lines": [
             {
@@ -11855,7 +11855,7 @@
           "amount": 4300.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:46",
           "source": "payment",
           "lines": [
             {
@@ -11886,7 +11886,7 @@
           "amount": 2450.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:24",
           "source": "payment",
           "lines": [
             {
@@ -11907,7 +11907,7 @@
           "amount": 2020.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:45",
           "source": "payment",
           "lines": [
             {
@@ -11938,7 +11938,7 @@
           "amount": 1980.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:41",
           "source": "payment",
           "lines": [
             {
@@ -11954,7 +11954,7 @@
           "amount": 1672.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:00",
           "source": "payment",
           "lines": [
             {
@@ -11995,7 +11995,7 @@
           "amount": 1160.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:38",
           "source": "payment",
           "lines": [
             {
@@ -12011,7 +12011,7 @@
           "amount": 1020.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:51",
           "source": "payment",
           "lines": [
             {
@@ -12037,7 +12037,7 @@
           "amount": 600.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "13:35",
           "source": "payment",
           "lines": [
             {
@@ -12053,7 +12053,7 @@
           "amount": 440.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:27",
           "source": "payment",
           "lines": [
             {
@@ -12090,7 +12090,7 @@
           "amount": 300.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:21",
           "source": "payment",
           "lines": [
             {
@@ -12106,7 +12106,7 @@
           "amount": 280.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:50",
           "source": "payment",
           "lines": [
             {
@@ -12339,7 +12339,7 @@
     },
     {
       "date": "2026-09-23",
-      "generatedAt": "2026-09-24T12:17:25Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 501.0,
         "count": 5
@@ -12371,7 +12371,7 @@
           "amount": 14600.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:37",
           "source": "payment",
           "lines": [
             {
@@ -12392,7 +12392,7 @@
           "amount": 4550.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:01",
           "source": "payment",
           "lines": [
             {
@@ -12408,7 +12408,7 @@
           "amount": 1994.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:40",
           "source": "payment",
           "lines": [
             {
@@ -12449,7 +12449,7 @@
           "amount": 890.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "17:41",
           "source": "payment",
           "lines": [
             {
@@ -12475,7 +12475,7 @@
           "amount": 800.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "09:35",
           "source": "payment",
           "lines": [
             {
@@ -12496,7 +12496,7 @@
           "amount": 690.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:19",
           "source": "payment",
           "lines": [
             {
@@ -12518,11 +12518,11 @@
         },
         {
           "ref": "INV/2026/00204",
-          "customer": "Bluebell Solutions PVT LTD",
+          "customer": "Bluebell Solutions Pvt Ltd",
           "amount": 250.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "09:59",
           "source": "payment",
           "lines": [
             {
@@ -12585,7 +12585,7 @@
           "amount": 200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:26",
           "source": "payment",
           "lines": [
             {
@@ -12601,7 +12601,7 @@
           "amount": 200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:48",
           "source": "payment",
           "lines": [
             {
@@ -12617,7 +12617,7 @@
           "amount": 36.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:15",
           "source": "payment",
           "lines": [
             {
@@ -12649,7 +12649,7 @@
           "amount": 29.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:58",
           "source": "payment",
           "lines": [
             {
@@ -12723,7 +12723,7 @@
     },
     {
       "date": "2026-09-24",
-      "generatedAt": "2026-09-24T18:45:35Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 2756.0,
         "count": 10
@@ -12733,8 +12733,8 @@
         "count": 11
       },
       "pendingQuotations": {
-        "total": 7634.0,
-        "count": 5
+        "total": 1609.0,
+        "count": 3
       },
       "cash": {
         "total": 3437.0,
@@ -12755,7 +12755,7 @@
           "amount": 5300.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:54",
           "source": "payment",
           "lines": [
             {
@@ -12771,7 +12771,7 @@
           "amount": 3060.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:39",
           "source": "payment",
           "lines": [
             {
@@ -12797,7 +12797,7 @@
           "amount": 2680.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:58",
           "source": "payment",
           "lines": [
             {
@@ -12823,7 +12823,7 @@
           "amount": 2400.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "09:16",
           "source": "payment",
           "lines": [
             {
@@ -12839,7 +12839,7 @@
           "amount": 1585.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:36",
           "source": "payment",
           "lines": [
             {
@@ -12865,7 +12865,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:45",
           "source": "payment",
           "lines": [
             {
@@ -12881,7 +12881,7 @@
           "amount": 840.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:18",
           "source": "payment",
           "lines": [
             {
@@ -12960,7 +12960,7 @@
           "amount": 330.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "16:27",
           "source": "payment",
           "lines": [
             {
@@ -12981,7 +12981,7 @@
           "amount": 320.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:26",
           "source": "payment",
           "lines": [
             {
@@ -13038,7 +13038,7 @@
           "amount": 200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:24",
           "source": "payment",
           "lines": [
             {
@@ -13054,7 +13054,7 @@
           "amount": 200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:38",
           "source": "payment",
           "lines": [
             {
@@ -13204,7 +13204,7 @@
     },
     {
       "date": "2026-09-25",
-      "generatedAt": "2026-09-25T18:45:38Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 184.0,
         "count": 2
@@ -13214,8 +13214,8 @@
         "count": 0
       },
       "pendingQuotations": {
-        "total": 8585.0,
-        "count": 4
+        "total": 7035.0,
+        "count": 3
       },
       "cash": {
         "total": 184.0,
@@ -13299,7 +13299,7 @@
     },
     {
       "date": "2026-09-26",
-      "generatedAt": "2026-09-26T18:45:35Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 2009.0,
         "count": 10
@@ -13309,8 +13309,8 @@
         "count": 13
       },
       "pendingQuotations": {
-        "total": 5980.0,
-        "count": 2
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 2694.0,
@@ -13331,7 +13331,7 @@
           "amount": 9870.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:36",
           "source": "payment",
           "lines": [
             {
@@ -13357,7 +13357,7 @@
           "amount": 7154.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:11",
           "source": "payment",
           "lines": [
             {
@@ -13413,7 +13413,7 @@
           "amount": 5940.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:35",
           "source": "payment",
           "lines": [
             {
@@ -13429,7 +13429,7 @@
           "amount": 5600.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:37",
           "source": "payment",
           "lines": [
             {
@@ -13445,7 +13445,7 @@
           "amount": 2280.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:15",
           "source": "payment",
           "lines": [
             {
@@ -13461,7 +13461,7 @@
           "amount": 1800.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:11",
           "source": "payment",
           "lines": [
             {
@@ -13477,7 +13477,7 @@
           "amount": 1435.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:06",
           "source": "payment",
           "lines": [
             {
@@ -13508,7 +13508,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:46",
           "source": "payment",
           "lines": [
             {
@@ -13560,7 +13560,7 @@
           "amount": 600.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:53",
           "source": "payment",
           "lines": [
             {
@@ -13576,7 +13576,7 @@
           "amount": 580.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:49",
           "source": "payment",
           "lines": [
             {
@@ -13618,7 +13618,7 @@
           "amount": 560.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "16:21",
           "source": "payment",
           "lines": [
             {
@@ -13634,7 +13634,7 @@
           "amount": 550.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:05",
           "source": "payment",
           "lines": [
             {
@@ -13666,7 +13666,7 @@
           "amount": 192.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:11",
           "source": "payment",
           "lines": [
             {
@@ -13815,7 +13815,7 @@
     },
     {
       "date": "2026-09-27",
-      "generatedAt": "2026-09-27T18:45:36Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 164.0,
         "count": 6
@@ -13825,8 +13825,8 @@
         "count": 6
       },
       "pendingQuotations": {
-        "total": 250935.0,
-        "count": 9
+        "total": 205655.0,
+        "count": 4
       },
       "cash": {
         "total": 1054.0,
@@ -13847,7 +13847,7 @@
           "amount": 1550.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:40",
           "source": "payment",
           "lines": [
             {
@@ -13863,7 +13863,7 @@
           "amount": 1497.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:17",
           "source": "payment",
           "lines": [
             {
@@ -13889,7 +13889,7 @@
           "amount": 800.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:26",
           "source": "payment",
           "lines": [
             {
@@ -13905,7 +13905,7 @@
           "amount": 480.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:26",
           "source": "payment",
           "lines": [
             {
@@ -13921,7 +13921,7 @@
           "amount": 240.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:51",
           "source": "payment",
           "lines": [
             {
@@ -13937,7 +13937,7 @@
           "amount": 90.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:07",
           "source": "payment",
           "lines": [
             {
@@ -14096,7 +14096,7 @@
     },
     {
       "date": "2026-09-28",
-      "generatedAt": "2026-09-28T18:45:36Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 290.0,
         "count": 6
@@ -14106,8 +14106,8 @@
         "count": 11
       },
       "pendingQuotations": {
-        "total": 3270.0,
-        "count": 3
+        "total": 280.0,
+        "count": 1
       },
       "cash": {
         "total": 6213.0,
@@ -14128,7 +14128,7 @@
           "amount": 15900.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:14",
           "source": "payment",
           "lines": [
             {
@@ -14149,7 +14149,7 @@
           "amount": 3900.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "16:59",
           "source": "payment",
           "lines": [
             {
@@ -14165,7 +14165,7 @@
           "amount": 3480.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:32",
           "source": "payment",
           "lines": [
             {
@@ -14186,7 +14186,7 @@
           "amount": 3000.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:30",
           "source": "payment",
           "lines": [
             {
@@ -14202,7 +14202,7 @@
           "amount": 2500.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:11",
           "source": "payment",
           "lines": [
             {
@@ -14223,7 +14223,7 @@
           "amount": 1200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "09:27",
           "source": "payment",
           "lines": [
             {
@@ -14239,7 +14239,7 @@
           "amount": 780.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:40",
           "source": "payment",
           "lines": [
             {
@@ -14255,7 +14255,7 @@
           "amount": 680.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:54",
           "source": "payment",
           "lines": [
             {
@@ -14271,7 +14271,7 @@
           "amount": 600.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:56",
           "source": "payment",
           "lines": [
             {
@@ -14287,7 +14287,7 @@
           "amount": 500.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:43",
           "source": "payment",
           "lines": [
             {
@@ -14303,7 +14303,7 @@
           "amount": 323.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "21:04",
           "source": "payment",
           "lines": [
             {
@@ -14431,7 +14431,7 @@
     },
     {
       "date": "2026-09-29",
-      "generatedAt": "2026-09-29T18:45:40Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 420.0,
         "count": 5
@@ -14441,8 +14441,8 @@
         "count": 9
       },
       "pendingQuotations": {
-        "total": 26807.0,
-        "count": 7
+        "total": 7662.0,
+        "count": 2
       },
       "cash": {
         "total": 3408.0,
@@ -14463,7 +14463,7 @@
           "amount": 5962.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:26",
           "source": "payment",
           "lines": [
             {
@@ -14547,12 +14547,12 @@
               "total": 264.0
             },
             {
-              "name": "Soklin Floor Cleaner Rose (Pink) - Case (12pcs, 400 ml)",
+              "name": "[1069257] Soklin Floor Cleaner Rose (Pink / Merah) - Case (12pcs, 400 ml)",
               "qty": 1.0,
               "total": 165.0
             },
             {
-              "name": "Soklin Floor Cleaner Apple (Green) - Case (12pcs, 400 ml)",
+              "name": "[1069260] Soklin Floor Cleaner Apple (Green / Hijau Muda) - Case (12pcs, 400 ml)",
               "qty": 1.0,
               "total": 164.0
             },
@@ -14574,7 +14574,7 @@
           "amount": 1548.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "17:56",
           "source": "payment",
           "lines": [
             {
@@ -14605,7 +14605,7 @@
           "amount": 1200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "09:43",
           "source": "payment",
           "lines": [
             {
@@ -14621,7 +14621,7 @@
           "amount": 1160.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:41",
           "source": "payment",
           "lines": [
             {
@@ -14637,7 +14637,7 @@
           "amount": 700.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:32",
           "source": "payment",
           "lines": [
             {
@@ -14653,7 +14653,7 @@
           "amount": 700.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:39",
           "source": "payment",
           "lines": [
             {
@@ -14669,7 +14669,7 @@
           "amount": 555.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:14",
           "source": "payment",
           "lines": [
             {
@@ -14720,7 +14720,7 @@
           "amount": 220.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "15:06",
           "source": "payment",
           "lines": [
             {
@@ -14752,7 +14752,7 @@
           "amount": 120.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:24",
           "source": "payment",
           "lines": [
             {
@@ -14851,7 +14851,7 @@
     },
     {
       "date": "2026-09-30",
-      "generatedAt": "2026-09-30T18:45:37Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1762.0,
         "count": 12
@@ -14861,8 +14861,8 @@
         "count": 15
       },
       "pendingQuotations": {
-        "total": 91350.0,
-        "count": 4
+        "total": 11750.0,
+        "count": 3
       },
       "cash": {
         "total": 5486.0,
@@ -14883,7 +14883,7 @@
           "amount": 21200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:58",
           "source": "payment",
           "lines": [
             {
@@ -14904,7 +14904,7 @@
           "amount": 8477.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:56",
           "source": "payment",
           "lines": [
             {
@@ -14985,7 +14985,7 @@
           "amount": 5780.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:49",
           "source": "payment",
           "lines": [
             {
@@ -15011,7 +15011,7 @@
           "amount": 3460.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:43",
           "source": "payment",
           "lines": [
             {
@@ -15027,7 +15027,7 @@
           "amount": 3410.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:25",
           "source": "payment",
           "lines": [
             {
@@ -15058,7 +15058,7 @@
           "amount": 2460.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "21:24",
           "source": "payment",
           "lines": [
             {
@@ -15074,7 +15074,7 @@
           "amount": 1998.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:47",
           "source": "payment",
           "lines": [
             {
@@ -15105,7 +15105,7 @@
           "amount": 1200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "15:57",
           "source": "payment",
           "lines": [
             {
@@ -15116,8 +15116,8 @@
           ]
         },
         {
-          "ref": "Ike - 000260",
-          "customer": "Walk-in",
+          "ref": "INV/2026/00285 (Ike - 000260)",
+          "customer": "Dhivehi Raajjeyge Gulhun Plc",
           "amount": 855.0,
           "method": "transfer",
           "rawMethod": "Bank Transfer",
@@ -15137,7 +15137,7 @@
           "amount": 780.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:34",
           "source": "payment",
           "lines": [
             {
@@ -15153,7 +15153,7 @@
           "amount": 720.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:26",
           "source": "payment",
           "lines": [
             {
@@ -15169,7 +15169,7 @@
           "amount": 420.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "16:01",
           "source": "payment",
           "lines": [
             {
@@ -15211,7 +15211,7 @@
           "amount": 300.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "15:54",
           "source": "payment",
           "lines": [
             {
@@ -15232,7 +15232,7 @@
           "amount": 280.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:20",
           "source": "payment",
           "lines": [
             {
@@ -15248,7 +15248,7 @@
           "amount": 250.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:39",
           "source": "payment",
           "lines": [
             {
@@ -15359,7 +15359,7 @@
           "amount": 54.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "17:06",
           "source": "payment",
           "lines": [
             {
@@ -15496,7 +15496,7 @@
     },
     {
       "date": "2026-10-01",
-      "generatedAt": "2026-10-01T18:45:36Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 636.0,
         "count": 7
@@ -15506,8 +15506,8 @@
         "count": 12
       },
       "pendingQuotations": {
-        "total": 5700.0,
-        "count": 4
+        "total": 0.0,
+        "count": 3
       },
       "cash": {
         "total": 1977.0,
@@ -15528,7 +15528,7 @@
           "amount": 6700.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:39",
           "source": "payment",
           "lines": [
             {
@@ -15554,7 +15554,7 @@
           "amount": 3960.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:56",
           "source": "payment",
           "lines": [
             {
@@ -15570,7 +15570,7 @@
           "amount": 1800.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:03",
           "source": "payment",
           "lines": [
             {
@@ -15586,7 +15586,7 @@
           "amount": 1660.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:55",
           "source": "payment",
           "lines": [
             {
@@ -15617,7 +15617,7 @@
           "amount": 1585.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:12",
           "source": "payment",
           "lines": [
             {
@@ -15643,7 +15643,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:06",
           "source": "payment",
           "lines": [
             {
@@ -15659,7 +15659,7 @@
           "amount": 1200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:08",
           "source": "payment",
           "lines": [
             {
@@ -15675,7 +15675,7 @@
           "amount": 1100.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:12",
           "source": "payment",
           "lines": [
             {
@@ -15691,7 +15691,7 @@
           "amount": 464.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:15",
           "source": "payment",
           "lines": [
             {
@@ -15707,7 +15707,7 @@
           "amount": 430.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:17",
           "source": "payment",
           "lines": [
             {
@@ -15749,7 +15749,7 @@
           "amount": 218.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:09",
           "source": "payment",
           "lines": [
             {
@@ -15807,7 +15807,7 @@
           "amount": 63.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "09:40",
           "source": "payment",
           "lines": [
             {
@@ -15932,7 +15932,7 @@
     },
     {
       "date": "2026-10-02",
-      "generatedAt": "2026-10-02T18:45:38Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 119.0,
         "count": 2
@@ -15964,7 +15964,7 @@
           "amount": 15090.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:21",
           "source": "payment",
           "lines": [
             {
@@ -15995,7 +15995,7 @@
           "amount": 1160.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:00",
           "source": "payment",
           "lines": [
             {
@@ -16016,7 +16016,7 @@
           "amount": 840.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:14",
           "source": "payment",
           "lines": [
             {
@@ -16032,7 +16032,7 @@
           "amount": 750.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:52",
           "source": "payment",
           "lines": [
             {
@@ -16048,7 +16048,7 @@
           "amount": 280.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:35",
           "source": "payment",
           "lines": [
             {
@@ -16140,7 +16140,7 @@
     },
     {
       "date": "2026-10-03",
-      "generatedAt": "2026-10-03T18:45:40Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 888.0,
         "count": 12
@@ -16150,8 +16150,8 @@
         "count": 12
       },
       "pendingQuotations": {
-        "total": 16310.0,
-        "count": 2
+        "total": 15600.0,
+        "count": 1
       },
       "cash": {
         "total": 1792.0,
@@ -16172,7 +16172,7 @@
           "amount": 18750.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:29",
           "source": "payment",
           "lines": [
             {
@@ -16193,7 +16193,7 @@
           "amount": 3960.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:41",
           "source": "payment",
           "lines": [
             {
@@ -16209,7 +16209,7 @@
           "amount": 3170.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:43",
           "source": "payment",
           "lines": [
             {
@@ -16230,7 +16230,7 @@
           "amount": 1200.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:08",
           "source": "payment",
           "lines": [
             {
@@ -16246,7 +16246,7 @@
           "amount": 1189.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:46",
           "source": "payment",
           "lines": [
             {
@@ -16282,7 +16282,7 @@
           "amount": 720.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:23",
           "source": "payment",
           "lines": [
             {
@@ -16308,7 +16308,7 @@
           "amount": 650.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:40",
           "source": "payment",
           "lines": [
             {
@@ -16329,7 +16329,7 @@
           "amount": 624.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:57",
           "source": "payment",
           "lines": [
             {
@@ -16360,7 +16360,7 @@
           "amount": 580.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:35",
           "source": "payment",
           "lines": [
             {
@@ -16412,7 +16412,7 @@
           "amount": 375.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:32",
           "source": "payment",
           "lines": [
             {
@@ -16428,7 +16428,7 @@
           "amount": 210.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:42",
           "source": "payment",
           "lines": [
             {
@@ -16544,7 +16544,7 @@
           "amount": 20.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "22:48",
           "source": "payment",
           "lines": [
             {
@@ -16675,7 +16675,7 @@
     },
     {
       "date": "2026-10-04",
-      "generatedAt": "2026-10-04T18:45:37Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1851.0,
         "count": 12
@@ -16685,8 +16685,8 @@
         "count": 12
       },
       "pendingQuotations": {
-        "total": 13004.0,
-        "count": 3
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 2941.0,
@@ -16707,7 +16707,7 @@
           "amount": 81800.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:09",
           "source": "payment",
           "lines": [
             {
@@ -16733,7 +16733,7 @@
           "amount": 10700.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:13",
           "source": "payment",
           "lines": [
             {
@@ -16754,7 +16754,7 @@
           "amount": 2860.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:14",
           "source": "payment",
           "lines": [
             {
@@ -16775,7 +16775,7 @@
           "amount": 2370.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "09:59",
           "source": "payment",
           "lines": [
             {
@@ -16791,7 +16791,7 @@
           "amount": 1400.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:16",
           "source": "payment",
           "lines": [
             {
@@ -16807,7 +16807,7 @@
           "amount": 1240.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:20",
           "source": "payment",
           "lines": [
             {
@@ -16823,7 +16823,7 @@
           "amount": 1170.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:10",
           "source": "payment",
           "lines": [
             {
@@ -16839,7 +16839,7 @@
           "amount": 1020.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:28",
           "source": "payment",
           "lines": [
             {
@@ -16865,7 +16865,7 @@
           "amount": 1000.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:32",
           "source": "payment",
           "lines": [
             {
@@ -16907,7 +16907,7 @@
           "amount": 800.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:42",
           "source": "payment",
           "lines": [
             {
@@ -16939,7 +16939,7 @@
           "amount": 240.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "16:39",
           "source": "payment",
           "lines": [
             {
@@ -16955,7 +16955,7 @@
           "amount": 200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:45",
           "source": "payment",
           "lines": [
             {
@@ -17182,7 +17182,7 @@
     },
     {
       "date": "2026-10-05",
-      "generatedAt": "2026-10-05T18:45:45Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1770.0,
         "count": 13
@@ -17214,7 +17214,7 @@
           "amount": 9834.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:51",
           "source": "payment",
           "lines": [
             {
@@ -17270,7 +17270,7 @@
           "amount": 2550.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:51",
           "source": "payment",
           "lines": [
             {
@@ -17291,7 +17291,7 @@
           "amount": 2400.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:32",
           "source": "payment",
           "lines": [
             {
@@ -17307,7 +17307,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:14",
           "source": "payment",
           "lines": [
             {
@@ -17323,7 +17323,7 @@
           "amount": 979.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:49",
           "source": "payment",
           "lines": [
             {
@@ -17400,7 +17400,7 @@
           "amount": 885.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "16:07",
           "source": "payment",
           "lines": [
             {
@@ -17416,7 +17416,7 @@
           "amount": 580.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:10",
           "source": "payment",
           "lines": [
             {
@@ -17432,7 +17432,7 @@
           "amount": 312.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "11:44",
           "source": "payment",
           "lines": [
             {
@@ -17453,7 +17453,7 @@
           "amount": 280.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "10:35",
           "source": "payment",
           "lines": [
             {
@@ -17690,7 +17690,7 @@
     },
     {
       "date": "2026-10-06",
-      "generatedAt": "2026-10-06T18:45:44Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 983.0,
         "count": 12
@@ -17722,7 +17722,7 @@
           "amount": 47000.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "15:05",
           "source": "payment",
           "lines": [
             {
@@ -17738,7 +17738,7 @@
           "amount": 10300.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:40",
           "source": "payment",
           "lines": [
             {
@@ -17764,7 +17764,7 @@
           "amount": 5700.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:44",
           "source": "payment",
           "lines": [
             {
@@ -17780,7 +17780,7 @@
           "amount": 5540.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:26",
           "source": "payment",
           "lines": [
             {
@@ -17826,7 +17826,7 @@
           "amount": 2550.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "17:37",
           "source": "payment",
           "lines": [
             {
@@ -17842,7 +17842,7 @@
           "amount": 1900.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:30",
           "source": "payment",
           "lines": [
             {
@@ -17863,7 +17863,7 @@
           "amount": 1400.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:03",
           "source": "payment",
           "lines": [
             {
@@ -17879,7 +17879,7 @@
           "amount": 885.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:58",
           "source": "payment",
           "lines": [
             {
@@ -17895,7 +17895,7 @@
           "amount": 560.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:05",
           "source": "payment",
           "lines": [
             {
@@ -18149,7 +18149,7 @@
     },
     {
       "date": "2026-10-07",
-      "generatedAt": "2026-10-07T18:45:42Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1924.0,
         "count": 13
@@ -18159,8 +18159,8 @@
         "count": 9
       },
       "pendingQuotations": {
-        "total": 141490.0,
-        "count": 5
+        "total": 50210.0,
+        "count": 3
       },
       "cash": {
         "total": 3301.0,
@@ -18181,7 +18181,7 @@
           "amount": 2920.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:05",
           "source": "payment",
           "lines": [
             {
@@ -18207,7 +18207,7 @@
           "amount": 2490.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:43",
           "source": "payment",
           "lines": [
             {
@@ -18228,7 +18228,7 @@
           "amount": 1810.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "22:43",
           "source": "payment",
           "lines": [
             {
@@ -18249,7 +18249,7 @@
           "amount": 1540.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:17",
           "source": "payment",
           "lines": [
             {
@@ -18265,7 +18265,7 @@
           "amount": 1400.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:27",
           "source": "payment",
           "lines": [
             {
@@ -18281,7 +18281,7 @@
           "amount": 1200.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "11:13",
           "source": "payment",
           "lines": [
             {
@@ -18297,7 +18297,7 @@
           "amount": 1160.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:25",
           "source": "payment",
           "lines": [
             {
@@ -18344,7 +18344,7 @@
           "amount": 560.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "14:24",
           "source": "payment",
           "lines": [
             {
@@ -18386,7 +18386,7 @@
           "amount": 280.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:51",
           "source": "payment",
           "lines": [
             {
@@ -18662,7 +18662,7 @@
     },
     {
       "date": "2026-10-08",
-      "generatedAt": "2026-10-08T18:45:41Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 1863.0,
         "count": 8
@@ -18694,7 +18694,7 @@
           "amount": 3960.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "20:42",
           "source": "payment",
           "lines": [
             {
@@ -18710,7 +18710,7 @@
           "amount": 1732.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "10:47",
           "source": "payment",
           "lines": [
             {
@@ -18741,7 +18741,7 @@
           "amount": 1350.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "21:35",
           "source": "payment",
           "lines": [
             {
@@ -18773,7 +18773,7 @@
           "amount": 600.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:11",
           "source": "payment",
           "lines": [
             {
@@ -18809,7 +18809,7 @@
           "amount": 450.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "13:53",
           "source": "payment",
           "lines": [
             {
@@ -18825,7 +18825,7 @@
           "amount": 440.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:36",
           "source": "payment",
           "lines": [
             {
@@ -18846,7 +18846,7 @@
           "amount": 440.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "14:55",
           "source": "payment",
           "lines": [
             {
@@ -19023,7 +19023,7 @@
     },
     {
       "date": "2026-10-09",
-      "generatedAt": "2026-10-09T18:45:43Z",
+      "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
         "total": 535.0,
         "count": 15
@@ -19055,7 +19055,7 @@
           "amount": 8700.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "20:44",
           "source": "payment",
           "lines": [
             {
@@ -19081,7 +19081,7 @@
           "amount": 660.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": null,
+          "time": "21:54",
           "source": "payment",
           "lines": [
             {
@@ -19097,7 +19097,7 @@
           "amount": 450.0,
           "method": "transfer",
           "rawMethod": "Bank",
-          "time": null,
+          "time": "21:43",
           "source": "payment",
           "lines": [
             {
