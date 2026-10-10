@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T15:31:13Z",
-  "openCount": 147,
-  "openTotal": 2010448.78,
-  "quotationCount": 70,
-  "quotationTotal": 1031408.33,
+  "generatedAt": "2026-10-10T15:45:51Z",
+  "openCount": 148,
+  "openTotal": 2013298.78,
+  "quotationCount": 71,
+  "quotationTotal": 1034258.33,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -275,9 +275,9 @@
     },
     {
       "date": "2026-10-10",
-      "count": 5,
-      "outstanding": 34115.58,
-      "total": 34115.58
+      "count": 6,
+      "outstanding": 36965.58,
+      "total": 36965.58
     }
   ],
   "quotations": [
@@ -444,6 +444,25 @@
           "name": "Breva 9L Multi-Functional Pearl Cooker",
           "qty": 1.0,
           "total": 4500.0
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "ref": "S00520",
+      "kind": "quotation",
+      "customer": "Havaa Treyd. I.2",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 2850.0,
+      "settled": 0.0,
+      "outstanding": 2850.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
         }
       ]
     },
