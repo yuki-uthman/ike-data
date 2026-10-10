@@ -19382,22 +19382,22 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T16:01:17Z",
+      "generatedAt": "2026-10-10T16:15:43Z",
       "pos": {
         "total": 1459.0,
         "count": 8
       },
       "regularSales": {
-        "total": 24625.0,
-        "count": 12
+        "total": 26640.0,
+        "count": 13
       },
       "pendingQuotations": {
         "total": 36965.58,
         "count": 6
       },
       "cash": {
-        "total": 1359.0,
-        "count": 7
+        "total": 3374.0,
+        "count": 8
       },
       "transfer": {
         "total": 24725.0,
@@ -19506,6 +19506,32 @@
               "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
               "qty": 3.0,
               "total": 2655.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00374",
+          "customer": "Sales",
+          "amount": 2015.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:06",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+              "qty": 6.0,
+              "total": 1740.0
+            },
+            {
+              "name": "2C White Steel Barrier 900mm",
+              "qty": 5.0,
+              "total": 275.0
+            },
+            {
+              "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+              "qty": 5.0,
+              "total": 0.0
             }
           ]
         },
@@ -19771,7 +19797,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3979.0,
-        "expectedClosing": 5338.0,
+        "expectedClosing": 7353.0,
         "counted": null,
         "difference": null,
         "closed": false,
