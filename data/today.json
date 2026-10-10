@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T16:45:45Z",
+  "generatedAt": "2026-10-10T17:01:16Z",
   "cash": {
     "total": 3694.0,
     "count": 9
   },
   "transfer": {
-    "total": 26675.0,
-    "count": 14
+    "total": 33725.0,
+    "count": 16
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00378",
+      "customer": "Hudhuveli Mart I-7",
+      "amount": 5700.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "22:00",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 2.0,
+          "total": 5700.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00366",
       "customer": "Greenzone District",
@@ -172,6 +188,27 @@
           "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
           "qty": 1.0,
           "total": 1540.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00377",
+      "customer": "The Ristoro P-2",
+      "amount": 1350.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:48",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 5.0,
+          "total": 1100.0
+        },
+        {
+          "name": "[90045] Milkshake Powder Thai Milk Tea",
+          "qty": 1.0,
+          "total": 250.0
         }
       ]
     },
@@ -449,8 +486,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 10,
-      "total": 25635.0
+      "count": 12,
+      "total": 32685.0
     },
     {
       "name": "Cash",
