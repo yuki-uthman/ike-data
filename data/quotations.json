@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T06:01:21Z",
-  "openCount": 146,
-  "openTotal": 1996848.2,
-  "quotationCount": 69,
-  "quotationTotal": 1017807.75,
+  "generatedAt": "2026-10-10T06:15:47Z",
+  "openCount": 148,
+  "openTotal": 2004948.2,
+  "quotationCount": 71,
+  "quotationTotal": 1025907.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -275,9 +275,9 @@
     },
     {
       "date": "2026-10-10",
-      "count": 4,
-      "outstanding": 20515.0,
-      "total": 20515.0
+      "count": 6,
+      "outstanding": 28615.0,
+      "total": 28615.0
     }
   ],
   "quotations": [
@@ -307,6 +307,44 @@
           "name": "2C White Steel Barrier 900mm",
           "qty": 42.0,
           "total": 2520.0
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "ref": "S00508",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 4500.0,
+      "settled": 0.0,
+      "outstanding": 4500.0,
+      "lines": [
+        {
+          "name": "Breva 9L Multi-Functional Pearl Cooker",
+          "qty": 1.0,
+          "total": 4500.0
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "ref": "S00509",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 3600.0,
+      "settled": 0.0,
+      "outstanding": 3600.0,
+      "lines": [
+        {
+          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+          "qty": 3.0,
+          "total": 3600.0
         }
       ]
     },
