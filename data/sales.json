@@ -19382,26 +19382,26 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T09:45:45Z",
+      "generatedAt": "2026-10-10T10:01:16Z",
       "pos": {
         "total": 830.0,
         "count": 2
       },
       "regularSales": {
-        "total": 13175.0,
-        "count": 8
+        "total": 16975.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 34285.58,
-        "count": 7
+        "total": 26195.58,
+        "count": 4
       },
       "cash": {
         "total": 940.0,
         "count": 3
       },
       "transfer": {
-        "total": 13065.0,
-        "count": 7
+        "total": 16865.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -19441,6 +19441,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00370",
+          "customer": "Coral Life Pvt Ltd.",
+          "amount": 2800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:49",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 10.0,
+              "total": 2800.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00364",
           "customer": "Yazuuru N-5",
           "amount": 2655.0,
@@ -19469,6 +19485,22 @@
               "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
               "qty": 1.0,
               "total": 1540.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00371",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:53",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[10007] Plastic Container T2 [case]",
+              "qty": 1.0,
+              "total": 1000.0
             }
           ]
         },
