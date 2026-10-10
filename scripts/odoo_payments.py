@@ -340,7 +340,7 @@ def collect_payments(execute, day):
     # ---- 2. Accounting customer payments ------------------------------------
     payment_fields = existing_fields(
         execute, "account.payment",
-        ["amount", "date", "partner_id", "journal_id", "ref", "name", "reconciled_invoice_ids"],
+        ["amount", "date", "create_date", "partner_id", "journal_id", "ref", "name", "reconciled_invoice_ids"],
     )
     account_payments = execute(
         "account.payment", "search_read",
@@ -418,7 +418,9 @@ def collect_payments(execute, day):
             "amount": round(amount, 2),
             "method": classify(journal_name),
             "rawMethod": journal_name or "unknown",
-            "time": None,  # account.payment carries a date, not a time of day
+            # When the payment was RECORDED in Odoo: create_date, which the
+            # server stamps. account.payment's own `date` is a day, not a time.
+            "time": local_time(payment.get("create_date")),
             "source": "payment",
             # One payment can settle several invoices; show every line it paid for.
             "lines": sorted(

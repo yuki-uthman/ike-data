@@ -39,7 +39,7 @@ FIELDS = {  # what fields_get would report
         {"id": 2, "name": "Bank Transfer", "journal_id": [6, "Bank"]},
         {"id": 3, "name": "Customer Account", "journal_id": False},
     ],
-    "account.payment": ["amount", "date", "partner_id", "journal_id", "ref", "name", "reconciled_invoice_ids"],
+    "account.payment": ["amount", "date", "create_date", "partner_id", "journal_id", "ref", "name", "reconciled_invoice_ids"],
     "account.move.line": ["move_id", "product_id", "quantity", "price_total"],
     "account.bank.statement.line": ["payment_ref", "amount", "journal_id", "pos_session_id", "create_date"],
     "pos.session": ["name", "state", "start_at", "stop_at", "cash_register_balance_start",
@@ -70,7 +70,7 @@ DATA = {
         # (a) reconciled ONLY against the POS order's own invoice -> must be skipped
         {"amount": 59.0, "partner_id": False, "journal_id": [3, "Cash"], "reconciled_invoice_ids": [900], "ref": "x", "name": "P1"},
         # (b) a real bank receipt against a separate invoice
-        {"amount": 4950.0, "partner_id": [8, "GREENZONE DISTRICT"], "journal_id": [4, "Bank"], "reconciled_invoice_ids": [901], "ref": "", "name": "P2"},
+        {"amount": 4950.0, "partner_id": [8, "GREENZONE DISTRICT"], "journal_id": [4, "Bank"], "reconciled_invoice_ids": [901], "ref": "", "name": "P2", "create_date": "2026-09-16 04:30:00"},
         # (c) an advance, reconciled against nothing -> falls back to its own ref
         {"amount": 1000.0, "partner_id": [9, "Villa Hotels"], "journal_id": [5, "Cheque"], "reconciled_invoice_ids": [], "ref": "CUST.IN/2026/0012", "name": "P3"},
         # (d) THE BUG: a POS session settlement - POS journal, no partner, no invoice.
@@ -202,6 +202,12 @@ if any(cond[0] != "create_date" for cond in POS_PAYMENT_DOMAINS[0]):
     fail.append(f"POS day filter uses something other than create_date: {POS_PAYMENT_DOMAINS[0]}")
 cash_tx = [t for t in txns if t["source"] == "pos" and t["method"] == "cash"][0]
 if cash_tx["time"] != "10:10": fail.append(f"POS time not taken from create_date: {cash_tx['time']} (expected 10:10)")
+# A customer payment shows the time it was recorded (create_date, UTC -> Maldives +5),
+# so a page can list the day in the order the money was taken.
+bank_tx = [t for t in txns if t["source"] == "payment" and t["amount"] == 4950.0][0]
+if bank_tx["time"] != "09:30": fail.append(f"account.payment time not taken from create_date: {bank_tx['time']} (expected 09:30)")
+no_stamp = [t for t in txns if t["source"] == "payment" and t["amount"] == 1000.0][0]
+if no_stamp["time"] is not None: fail.append(f"a payment with no create_date must have time None: {no_stamp['time']}")
 # THE BUG (2026-09-21, INV/2026/00187): a real-time-valuation product's own
 # COGS/inventory-valuation pair, same product_id, amounts that cancel to
 # zero - must not surface as extra "Foil box" line items alongside the one
