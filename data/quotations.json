@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-10T09:31:11Z",
+  "generatedAt": "2026-10-10T09:45:55Z",
   "openCount": 149,
-  "openTotal": 2009037.2,
+  "openTotal": 2010618.78,
   "quotationCount": 72,
-  "quotationTotal": 1029996.75,
+  "quotationTotal": 1031578.33,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -276,8 +276,8 @@
     {
       "date": "2026-10-10",
       "count": 7,
-      "outstanding": 32704.0,
-      "total": 32704.0
+      "outstanding": 34285.58,
+      "total": 34285.58
     }
   ],
   "quotations": [
@@ -311,25 +311,6 @@
       ]
     },
     {
-      "id": 507,
-      "ref": "S00508",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-10",
-      "expires": "2026-11-09",
-      "total": 4500.0,
-      "settled": 0.0,
-      "outstanding": 4500.0,
-      "lines": [
-        {
-          "name": "Breva 9L Multi-Functional Pearl Cooker",
-          "qty": 1.0,
-          "total": 4500.0
-        }
-      ]
-    },
-    {
       "id": 515,
       "ref": "S00516",
       "kind": "quotation",
@@ -337,9 +318,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-10",
       "expires": "2026-11-09",
-      "total": 3794.0,
+      "total": 5375.58,
       "settled": 0.0,
-      "outstanding": 3794.0,
+      "outstanding": 5375.58,
       "lines": [
         {
           "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
@@ -385,6 +366,55 @@
           "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
           "qty": 1.0,
           "total": 320.0
+        },
+        {
+          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
+          "qty": 1.0,
+          "total": 329.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+          "qty": 1.0,
+          "total": 264.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) (700 gr)",
+          "qty": 1.0,
+          "total": 29.58
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "ref": "S00508",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 4500.0,
+      "settled": 0.0,
+      "outstanding": 4500.0,
+      "lines": [
+        {
+          "name": "Breva 9L Multi-Functional Pearl Cooker",
+          "qty": 1.0,
+          "total": 4500.0
         }
       ]
     },
