@@ -19382,10 +19382,10 @@
     },
     {
       "date": "2026-10-10",
-      "generatedAt": "2026-10-10T11:45:41Z",
+      "generatedAt": "2026-10-10T12:01:16Z",
       "pos": {
-        "total": 1055.0,
-        "count": 5
+        "total": 1120.0,
+        "count": 6
       },
       "regularSales": {
         "total": 24625.0,
@@ -19396,8 +19396,8 @@
         "count": 4
       },
       "cash": {
-        "total": 955.0,
-        "count": 4
+        "total": 1020.0,
+        "count": 5
       },
       "transfer": {
         "total": 24725.0,
@@ -19643,6 +19643,37 @@
           ]
         },
         {
+          "ref": "Ike - 000360",
+          "customer": "Walk-in",
+          "amount": 65.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:48",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[731015129508] Sponge 5pcs WJ631",
+              "qty": 1.0,
+              "total": 20.0
+            },
+            {
+              "name": "[70033] Pot Cleaner Brush Steel Wool Plastic 6 in # 1222",
+              "qty": 1.0,
+              "total": 15.0
+            },
+            {
+              "name": "[70074] Towel 042-02 30*40cm",
+              "qty": 1.0,
+              "total": 15.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) (400 ml)",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000355",
           "customer": "Walk-in",
           "amount": 30.0,
@@ -19698,7 +19729,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3979.0,
-        "expectedClosing": 4934.0,
+        "expectedClosing": 4999.0,
         "counted": null,
         "difference": null,
         "closed": false,
