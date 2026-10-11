@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-11T18:45:56Z",
+  "generatedAt": "2026-10-11T19:01:28Z",
   "openCount": 148,
   "openTotal": 2068443.2,
   "quotationCount": 71,
@@ -284,6 +284,12 @@
       "count": 1,
       "outstanding": 60900.0,
       "total": 60900.0
+    },
+    {
+      "date": "2026-10-12",
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [

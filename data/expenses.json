@@ -534,6 +534,19 @@
           "total": 486.0
         }
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "generatedAt": "2026-10-11T19:01:26Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
     }
   ]
 }
