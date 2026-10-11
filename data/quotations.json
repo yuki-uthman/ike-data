@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-11T04:15:49Z",
-  "openCount": 148,
-  "openTotal": 2013298.78,
-  "quotationCount": 71,
-  "quotationTotal": 1034258.33,
+  "generatedAt": "2026-10-11T04:31:09Z",
+  "openCount": 149,
+  "openTotal": 2014948.78,
+  "quotationCount": 72,
+  "quotationTotal": 1035908.33,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -281,12 +281,31 @@
     },
     {
       "date": "2026-10-11",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 1650.0,
+      "total": 1650.0
     }
   ],
   "quotations": [
+    {
+      "id": 526,
+      "ref": "S00527",
+      "kind": "quotation",
+      "customer": "Smart Holding Private Limited",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-11",
+      "expires": "2026-11-10",
+      "total": 1650.0,
+      "settled": 0.0,
+      "outstanding": 1650.0,
+      "lines": [
+        {
+          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
+          "qty": 1.0,
+          "total": 1650.0
+        }
+      ]
+    },
     {
       "id": 501,
       "ref": "S00502",
