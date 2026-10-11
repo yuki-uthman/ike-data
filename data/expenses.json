@@ -513,16 +513,22 @@
     },
     {
       "date": "2026-10-11",
-      "generatedAt": "2026-10-11T11:01:24Z",
+      "generatedAt": "2026-10-11T11:15:50Z",
       "confirmed": {
-        "total": 0,
-        "count": 0
-      },
-      "pending": {
         "total": 540.0,
         "count": 1
       },
-      "categories": []
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": [
+        {
+          "name": "Internet",
+          "count": 1,
+          "total": 540.0
+        }
+      ]
     }
   ]
 }

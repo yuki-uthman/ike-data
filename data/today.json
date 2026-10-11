@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T11:01:16Z",
+  "generatedAt": "2026-10-11T11:15:40Z",
   "cash": {
     "total": 1376.0,
     "count": 4
   },
   "transfer": {
-    "total": 25971.0,
-    "count": 5
+    "total": 30661.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -115,6 +115,27 @@
           "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
           "qty": 1.0,
           "total": 264.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00387",
+      "customer": "Smart Holding Private Limited",
+      "amount": 4690.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:03",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 4.0,
+          "total": 3040.0
+        },
+        {
+          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
+          "qty": 1.0,
+          "total": 1650.0
         }
       ]
     },
@@ -255,8 +276,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 25971.0
+      "count": 6,
+      "total": 30661.0
     },
     {
       "name": "Cash",
