@@ -513,20 +513,25 @@
     },
     {
       "date": "2026-10-11",
-      "generatedAt": "2026-10-11T16:15:56Z",
+      "generatedAt": "2026-10-11T16:31:13Z",
       "confirmed": {
-        "total": 540.0,
-        "count": 1
+        "total": 1026.0,
+        "count": 2
       },
       "pending": {
-        "total": 486.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "categories": [
         {
           "name": "Internet",
           "count": 1,
           "total": 540.0
+        },
+        {
+          "name": "Communication",
+          "count": 1,
+          "total": 486.0
         }
       ]
     }

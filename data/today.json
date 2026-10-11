@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T16:15:43Z",
+  "generatedAt": "2026-10-11T16:30:59Z",
   "cash": {
     "total": 2980.0,
     "count": 8
   },
   "transfer": {
-    "total": 35291.0,
-    "count": 8
+    "total": 35581.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -303,6 +303,22 @@
       ]
     },
     {
+      "ref": "Ike - 000370",
+      "customer": "Walk-in",
+      "amount": 290.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "21:22",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 1.0,
+          "total": 290.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000367",
       "customer": "Walk-in",
       "amount": 240.0,
@@ -404,18 +420,26 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 240.0
+      "count": 2,
+      "total": 530.0
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 4000.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Owner's drawing--Uthman",
+      "amount": 4000.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:19"
+    }
+  ],
   "till": {
     "opening": 3787.0,
-    "expectedClosing": 6767.0,
+    "expectedClosing": 2767.0,
     "counted": null,
     "difference": null,
     "closed": false,
