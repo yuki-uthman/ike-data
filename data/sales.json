@@ -19892,22 +19892,22 @@
     },
     {
       "date": "2026-10-11",
-      "generatedAt": "2026-10-11T15:01:16Z",
+      "generatedAt": "2026-10-11T15:15:44Z",
       "pos": {
-        "total": 331.0,
-        "count": 4
+        "total": 1005.0,
+        "count": 5
       },
       "regularSales": {
-        "total": 36401.0,
-        "count": 9
+        "total": 37251.0,
+        "count": 10
       },
       "pendingQuotations": {
         "total": 60900.0,
         "count": 1
       },
       "cash": {
-        "total": 1441.0,
-        "count": 5
+        "total": 2965.0,
+        "count": 7
       },
       "transfer": {
         "total": 35291.0,
@@ -20126,6 +20126,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00389",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 850.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:08",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[10001] Wrapping Paper 12\" (Thoum) 1000pcs",
+              "qty": 1.0,
+              "total": 600.0
+            },
+            {
+              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+              "qty": 50.0,
+              "total": 250.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00380",
           "customer": "Snap Buy",
           "amount": 850.0,
@@ -20143,6 +20164,27 @@
               "name": "[90043] Milkshake Powder Butterscotch",
               "qty": 2.0,
               "total": 400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00390 (Ike - 000368)",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 674.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:11",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[6933890382274] Glass jug with lid 600ml #15",
+              "qty": 5.0,
+              "total": 375.0
+            },
+            {
+              "name": "[02025] Scale",
+              "qty": 1.0,
+              "total": 299.0
             }
           ]
         },
@@ -20239,7 +20281,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3787.0,
-        "expectedClosing": 5228.0,
+        "expectedClosing": 6752.0,
         "counted": null,
         "difference": null,
         "closed": false,
