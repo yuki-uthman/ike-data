@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-11T06:01:29Z",
-  "openCount": 149,
-  "openTotal": 2017934.2,
-  "quotationCount": 72,
-  "quotationTotal": 1038893.75,
+  "generatedAt": "2026-10-11T06:15:50Z",
+  "openCount": 150,
+  "openTotal": 2020804.2,
+  "quotationCount": 73,
+  "quotationTotal": 1041763.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -281,9 +281,9 @@
     },
     {
       "date": "2026-10-11",
-      "count": 1,
-      "outstanding": 4690.0,
-      "total": 4690.0
+      "count": 2,
+      "outstanding": 7560.0,
+      "total": 7560.0
     }
   ],
   "quotations": [
@@ -308,6 +308,35 @@
           "name": "[8325C] Aluminium Foil Box 8325 [case]",
           "qty": 4.0,
           "total": 3040.0
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "ref": "S00529",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-11",
+      "expires": "2026-11-10",
+      "total": 2870.0,
+      "settled": 0.0,
+      "outstanding": 2870.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 8.0,
+          "total": 2320.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 20.0,
+          "total": 0.0
+        },
+        {
+          "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
+          "qty": 2.0,
+          "total": 550.0
         }
       ]
     },
