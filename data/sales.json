@@ -19892,7 +19892,7 @@
     },
     {
       "date": "2026-10-11",
-      "generatedAt": "2026-10-11T17:01:16Z",
+      "generatedAt": "2026-10-11T17:15:44Z",
       "pos": {
         "total": 1329.0,
         "count": 8
@@ -20339,8 +20339,8 @@
         }
       ],
       "cashOut": {
-        "total": 4000.0,
-        "count": 1
+        "total": 4541.0,
+        "count": 3
       },
       "cashOutTransactions": [
         {
@@ -20349,11 +20349,25 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "21:19"
+        },
+        {
+          "reason": "Diesel--Nagarajan",
+          "amount": 521.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:12"
+        },
+        {
+          "reason": "Gate  pass     -- Nagarajan",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:11"
         }
       ],
       "till": {
         "opening": 3787.0,
-        "expectedClosing": 3266.0,
+        "expectedClosing": 2970.0,
         "counted": null,
         "difference": null,
         "closed": false,
