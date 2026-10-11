@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-11T10:45:52Z",
+  "generatedAt": "2026-10-11T11:01:26Z",
   "openCount": 149,
   "openTotal": 2073133.2,
-  "quotationCount": 72,
-  "quotationTotal": 1094092.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 71,
+  "quotationTotal": 1089402.75,
+  "orderCount": 78,
+  "orderTotal": 983730.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -314,7 +314,7 @@
     {
       "id": 526,
       "ref": "S00527",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Smart Holding Private Limited",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-11",
