@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T17:15:44Z",
+  "generatedAt": "2026-10-11T17:31:00Z",
   "cash": {
-    "total": 3479.0,
-    "count": 10
+    "total": 3724.0,
+    "count": 11
   },
   "transfer": {
-    "total": 35581.0,
-    "count": 9
+    "total": 35637.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -335,6 +335,22 @@
       ]
     },
     {
+      "ref": "Ike - 000372",
+      "customer": "Walk-in",
+      "amount": 245.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:15",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01645] Electric Kettle 1.8L Hoffmas#HM-2512",
+          "qty": 1.0,
+          "total": 245.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000367",
       "customer": "Walk-in",
       "amount": 240.0,
@@ -368,6 +384,38 @@
           "name": "Soklin Floor Cleaner Rose (Pink) (800 ml)",
           "qty": 1.0,
           "total": 30.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000373",
+      "customer": "Walk-in",
+      "amount": 29.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:18",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70127] Hanger Plastic 27cm #C-519",
+          "qty": 1.0,
+          "total": 29.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000374",
+      "customer": "Walk-in",
+      "amount": 27.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:24",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic (45 gr)",
+          "qty": 1.0,
+          "total": 27.0
         }
       ]
     },
@@ -446,14 +494,14 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 10,
-      "total": 3479.0
+      "count": 11,
+      "total": 3724.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 530.0
+      "count": 4,
+      "total": 586.0
     }
   ],
   "cashOut": {
