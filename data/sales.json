@@ -19892,10 +19892,10 @@
     },
     {
       "date": "2026-10-11",
-      "generatedAt": "2026-10-11T04:45:41Z",
+      "generatedAt": "2026-10-11T05:01:12Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 20.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
@@ -19906,8 +19906,8 @@
         "count": 1
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 20.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -19917,7 +19917,24 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "Ike - 000364",
+          "customer": "Walk-in",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:58",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -19925,7 +19942,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3787.0,
-        "expectedClosing": 3787.0,
+        "expectedClosing": 3807.0,
         "counted": null,
         "difference": null,
         "closed": false,

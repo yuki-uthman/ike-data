@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-11T04:45:52Z",
+  "generatedAt": "2026-10-11T05:01:23Z",
   "openCount": 149,
-  "openTotal": 2014568.78,
+  "openTotal": 2014894.2,
   "quotationCount": 72,
-  "quotationTotal": 1035528.33,
+  "quotationTotal": 1035853.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -276,8 +276,8 @@
     {
       "date": "2026-10-10",
       "count": 6,
-      "outstanding": 36585.58,
-      "total": 36585.58
+      "outstanding": 36911.0,
+      "total": 36911.0
     },
     {
       "date": "2026-10-11",
@@ -372,9 +372,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-10",
       "expires": "2026-11-09",
-      "total": 5375.58,
+      "total": 5701.0,
       "settled": 0.0,
-      "outstanding": 5375.58,
+      "outstanding": 5701.0,
       "lines": [
         {
           "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
@@ -442,14 +442,14 @@
           "total": 264.0
         },
         {
-          "name": "Soklin Softergent Fleurs De Lis (Blue) (700 gr)",
-          "qty": 1.0,
-          "total": 29.58
-        },
-        {
           "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
           "qty": 1.0,
           "total": 320.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
         }
       ]
     },
