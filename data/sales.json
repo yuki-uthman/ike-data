@@ -19892,10 +19892,10 @@
     },
     {
       "date": "2026-10-11",
-      "generatedAt": "2026-10-11T16:45:44Z",
+      "generatedAt": "2026-10-11T17:01:16Z",
       "pos": {
-        "total": 1310.0,
-        "count": 7
+        "total": 1329.0,
+        "count": 8
       },
       "regularSales": {
         "total": 37731.0,
@@ -19906,8 +19906,8 @@
         "count": 1
       },
       "cash": {
-        "total": 3460.0,
-        "count": 9
+        "total": 3479.0,
+        "count": 10
       },
       "transfer": {
         "total": 35581.0,
@@ -20290,6 +20290,22 @@
           ]
         },
         {
+          "ref": "Ike - 000371",
+          "customer": "Walk-in",
+          "amount": 19.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:53",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01864] Toilet Brush Plastic Code:208 #35",
+              "qty": 1.0,
+              "total": 19.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000369",
           "customer": "Walk-in",
           "amount": 15.0,
@@ -20337,7 +20353,7 @@
       ],
       "till": {
         "opening": 3787.0,
-        "expectedClosing": 3247.0,
+        "expectedClosing": 3266.0,
         "counted": null,
         "difference": null,
         "closed": false,
