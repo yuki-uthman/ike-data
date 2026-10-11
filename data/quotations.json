@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-11T06:45:48Z",
-  "openCount": 149,
-  "openTotal": 2017934.2,
+  "generatedAt": "2026-10-11T07:01:23Z",
+  "openCount": 148,
+  "openTotal": 2012233.2,
   "quotationCount": 71,
   "quotationTotal": 1033192.75,
-  "orderCount": 78,
-  "orderTotal": 984741.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -281,101 +281,12 @@
     },
     {
       "date": "2026-10-11",
-      "count": 2,
-      "outstanding": 10391.0,
-      "total": 10391.0
+      "count": 1,
+      "outstanding": 4690.0,
+      "total": 4690.0
     }
   ],
   "quotations": [
-    {
-      "id": 515,
-      "ref": "S00516",
-      "kind": "order",
-      "customer": "In Hand B-7",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-11",
-      "expires": "2026-11-09",
-      "total": 5701.0,
-      "settled": 0.0,
-      "outstanding": 5701.0,
-      "lines": [
-        {
-          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
-          "qty": 3.0,
-          "total": 1050.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Better Fun Bites - Case (6 bundles, 100 gr)",
-          "qty": 1.0,
-          "total": 329.0
-        },
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
-          "qty": 1.0,
-          "total": 264.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        }
-      ]
-    },
     {
       "id": 526,
       "ref": "S00527",
