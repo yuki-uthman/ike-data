@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T10:31:00Z",
+  "generatedAt": "2026-10-11T10:45:41Z",
   "cash": {
     "total": 876.0,
     "count": 3
   },
   "transfer": {
-    "total": 13171.0,
-    "count": 4
+    "total": 25971.0,
+    "count": 5
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00385",
+      "customer": "Vili Tuckshop P2",
+      "amount": 12800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "15:44",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X04] #2C White Single Side 2000mm x4",
+          "qty": 2.0,
+          "total": 12800.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00384",
       "customer": "In Hand B-7",
@@ -223,8 +239,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 13171.0
+      "count": 5,
+      "total": 25971.0
     },
     {
       "name": "Cash",
