@@ -2,11 +2,11 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-11T06:31:12Z",
-  "totalCases": 130.0,
+  "generatedAt": "2026-10-11T06:45:52Z",
+  "totalCases": 147.0,
   "quoted": {
-    "cases": 50.0,
-    "orders": 6
+    "cases": 33.0,
+    "orders": 5
   },
   "products": [
     {
@@ -15,7 +15,7 @@
       "size": "100 gr",
       "pack": "6 bundles",
       "active": true,
-      "cases": 8.0,
+      "cases": 9.0,
       "profitPct": 10.2,
       "profitBasis": "sold"
     },
@@ -25,7 +25,7 @@
       "size": "23 gr",
       "pack": "12 bundles",
       "active": true,
-      "cases": 4.0,
+      "cases": 7.0,
       "profitPct": 0.0,
       "profitBasis": "sold"
     },
@@ -35,7 +35,7 @@
       "size": "60 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 3.0,
+      "cases": 4.0,
       "profitPct": 6.0,
       "profitBasis": "sold"
     },
@@ -45,7 +45,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 4.0,
+      "cases": 5.0,
       "profitPct": 1.5,
       "profitBasis": "sold"
     },
@@ -55,7 +55,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 14.0,
+      "cases": 15.0,
       "profitPct": 1.5,
       "profitBasis": "sold"
     },
@@ -65,7 +65,7 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 5.0,
+      "cases": 6.0,
       "profitPct": 0.9,
       "profitBasis": "sold"
     },
@@ -75,7 +75,7 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 7.0,
+      "cases": 8.0,
       "profitPct": 0.9,
       "profitBasis": "sold"
     },
@@ -95,7 +95,7 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 4.0,
+      "cases": 5.0,
       "profitPct": 18.2,
       "profitBasis": "sold"
     },
@@ -105,7 +105,7 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 6.0,
+      "cases": 7.0,
       "profitPct": 18.2,
       "profitBasis": "sold"
     },
@@ -125,7 +125,7 @@
       "size": "1 liter",
       "pack": "6 pcs",
       "active": true,
-      "cases": 3.0,
+      "cases": 4.0,
       "profitPct": 0.0,
       "profitBasis": "sold"
     },
@@ -135,7 +135,7 @@
       "size": "1 liter",
       "pack": "6 pcs",
       "active": true,
-      "cases": 7.0,
+      "cases": 9.0,
       "profitPct": 0.0,
       "profitBasis": "sold"
     },
@@ -215,7 +215,7 @@
       "size": "820 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 3.0,
+      "cases": 4.0,
       "profitPct": 9.3,
       "profitBasis": "sold"
     },
@@ -235,7 +235,7 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 3.0,
+      "cases": 4.0,
       "profitPct": 4.6,
       "profitBasis": "sold"
     },
@@ -285,7 +285,7 @@
       "size": "40 gr",
       "pack": "6 bundles",
       "active": true,
-      "cases": 2.0,
+      "cases": 3.0,
       "profitPct": 18.4,
       "profitBasis": "sold"
     },
@@ -431,6 +431,27 @@
       "orders": 1,
       "byProduct": {
         "2040": 2.0
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "cases": 17.0,
+      "orders": 1,
+      "byProduct": {
+        "2016": 1.0,
+        "2018": 1.0,
+        "2020": 1.0,
+        "2022": 1.0,
+        "2024": 1.0,
+        "2026": 1.0,
+        "2030": 1.0,
+        "2032": 1.0,
+        "2048": 1.0,
+        "2052": 1.0,
+        "2070": 1.0,
+        "2072": 2.0,
+        "2075": 3.0,
+        "2081": 1.0
       }
     }
   ]

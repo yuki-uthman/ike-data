@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-11T06:31:08Z",
+  "generatedAt": "2026-10-11T06:45:48Z",
   "openCount": 149,
   "openTotal": 2017934.2,
-  "quotationCount": 72,
-  "quotationTotal": 1038893.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 71,
+  "quotationTotal": 1033192.75,
+  "orderCount": 78,
+  "orderTotal": 984741.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -275,107 +275,25 @@
     },
     {
       "date": "2026-10-10",
-      "count": 6,
-      "outstanding": 36911.0,
-      "total": 36911.0
+      "count": 5,
+      "outstanding": 31210.0,
+      "total": 31210.0
     },
     {
       "date": "2026-10-11",
-      "count": 1,
-      "outstanding": 4690.0,
-      "total": 4690.0
+      "count": 2,
+      "outstanding": 10391.0,
+      "total": 10391.0
     }
   ],
   "quotations": [
     {
-      "id": 526,
-      "ref": "S00527",
-      "kind": "quotation",
-      "customer": "Smart Holding Private Limited",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-11",
-      "expires": "2026-11-10",
-      "total": 4690.0,
-      "settled": 0.0,
-      "outstanding": 4690.0,
-      "lines": [
-        {
-          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
-          "qty": 1.0,
-          "total": 1650.0
-        },
-        {
-          "name": "[8325C] Aluminium Foil Box 8325 [case]",
-          "qty": 4.0,
-          "total": 3040.0
-        }
-      ]
-    },
-    {
-      "id": 501,
-      "ref": "S00502",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-10",
-      "expires": "2026-11-09",
-      "total": 15820.0,
-      "settled": 0.0,
-      "outstanding": 15820.0,
-      "lines": [
-        {
-          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
-          "qty": 7.0,
-          "total": 12250.0
-        },
-        {
-          "name": "[25499] 2C Price Border Strip Green",
-          "qty": 42.0,
-          "total": 1050.0
-        },
-        {
-          "name": "2C White Steel Barrier 900mm",
-          "qty": 42.0,
-          "total": 2520.0
-        }
-      ]
-    },
-    {
-      "id": 518,
-      "ref": "S00519",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-10",
-      "expires": "2026-11-09",
-      "total": 7540.0,
-      "settled": 0.0,
-      "outstanding": 7540.0,
-      "lines": [
-        {
-          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
-          "qty": 8.0,
-          "total": 2240.0
-        },
-        {
-          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
-          "qty": 16.0,
-          "total": 0.0
-        },
-        {
-          "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
-          "qty": 1.0,
-          "total": 5300.0
-        }
-      ]
-    },
-    {
       "id": 515,
       "ref": "S00516",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "In Hand B-7",
       "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "expires": "2026-11-09",
       "total": 5701.0,
       "settled": 0.0,
@@ -455,6 +373,88 @@
           "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
           "qty": 1.0,
           "total": 355.0
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "ref": "S00527",
+      "kind": "quotation",
+      "customer": "Smart Holding Private Limited",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-11",
+      "expires": "2026-11-10",
+      "total": 4690.0,
+      "settled": 0.0,
+      "outstanding": 4690.0,
+      "lines": [
+        {
+          "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
+          "qty": 1.0,
+          "total": 1650.0
+        },
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 4.0,
+          "total": 3040.0
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "ref": "S00502",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 15820.0,
+      "settled": 0.0,
+      "outstanding": 15820.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 7.0,
+          "total": 12250.0
+        },
+        {
+          "name": "[25499] 2C Price Border Strip Green",
+          "qty": 42.0,
+          "total": 1050.0
+        },
+        {
+          "name": "2C White Steel Barrier 900mm",
+          "qty": 42.0,
+          "total": 2520.0
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "ref": "S00519",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-10",
+      "expires": "2026-11-09",
+      "total": 7540.0,
+      "settled": 0.0,
+      "outstanding": 7540.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+          "qty": 8.0,
+          "total": 2240.0
+        },
+        {
+          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+          "qty": 16.0,
+          "total": 0.0
+        },
+        {
+          "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
+          "qty": 1.0,
+          "total": 5300.0
         }
       ]
     },

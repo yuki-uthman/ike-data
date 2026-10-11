@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T06:31:00Z",
+  "generatedAt": "2026-10-11T06:45:40Z",
   "cash": {
     "total": 870.0,
     "count": 2
   },
   "transfer": {
-    "total": 2870.0,
-    "count": 1
+    "total": 7470.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00382",
+      "customer": "raashih",
+      "amount": 3600.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:37",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 2.0,
+          "total": 3600.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00381",
       "customer": "Feather Investment",
@@ -39,6 +55,27 @@
           "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
           "qty": 20.0,
           "total": 0.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00383",
+      "customer": "Blooms Supplies",
+      "amount": 1000.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:41",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 3.0,
+          "total": 600.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 2.0,
+          "total": 400.0
         }
       ]
     },
@@ -84,8 +121,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 2870.0
+      "count": 3,
+      "total": 7470.0
     },
     {
       "name": "Cash",
