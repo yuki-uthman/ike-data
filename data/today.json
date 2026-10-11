@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T16:30:59Z",
+  "generatedAt": "2026-10-11T16:45:44Z",
   "cash": {
-    "total": 2980.0,
-    "count": 8
+    "total": 3460.0,
+    "count": 9
   },
   "transfer": {
     "total": 35581.0,
@@ -303,6 +303,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00391",
+      "customer": "Hotel Flora",
+      "amount": 480.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:37",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[09884] Wooden Hanger 5pcs",
+          "qty": 24.0,
+          "total": 480.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000370",
       "customer": "Walk-in",
       "amount": 290.0,
@@ -414,8 +430,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 8,
-      "total": 2980.0
+      "count": 9,
+      "total": 3460.0
     },
     {
       "name": "Bank Transfer",
@@ -439,7 +455,7 @@
   ],
   "till": {
     "opening": 3787.0,
-    "expectedClosing": 2767.0,
+    "expectedClosing": 3247.0,
     "counted": null,
     "difference": null,
     "closed": false,
