@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T12:01:15Z",
+  "generatedAt": "2026-10-11T12:15:43Z",
   "cash": {
     "total": 1441.0,
     "count": 5
   },
   "transfer": {
-    "total": 35051.0,
-    "count": 7
+    "total": 35291.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -261,6 +261,22 @@
       ]
     },
     {
+      "ref": "Ike - 000367",
+      "customer": "Walk-in",
+      "amount": 240.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:09",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01792] Falcon Ice Cream Cup With Lid 4oz",
+          "qty": 2.0,
+          "total": 240.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000366",
       "customer": "Walk-in",
       "amount": 65.0,
@@ -326,6 +342,12 @@
       "method": "cash",
       "count": 5,
       "total": 1441.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 240.0
     }
   ],
   "cashOut": {

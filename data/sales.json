@@ -19892,10 +19892,10 @@
     },
     {
       "date": "2026-10-11",
-      "generatedAt": "2026-10-11T12:01:15Z",
+      "generatedAt": "2026-10-11T12:15:43Z",
       "pos": {
-        "total": 91.0,
-        "count": 3
+        "total": 331.0,
+        "count": 4
       },
       "regularSales": {
         "total": 36401.0,
@@ -19910,8 +19910,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 35051.0,
-        "count": 7
+        "total": 35291.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -20159,6 +20159,22 @@
               "name": "[70142] Hook Net 6\"",
               "qty": 50.0,
               "total": 500.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000367",
+          "customer": "Walk-in",
+          "amount": 240.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01792] Falcon Ice Cream Cup With Lid 4oz",
+              "qty": 2.0,
+              "total": 240.0
             }
           ]
         },
