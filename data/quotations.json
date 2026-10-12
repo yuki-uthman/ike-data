@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-12T06:31:14Z",
+  "generatedAt": "2026-10-12T06:45:57Z",
   "openCount": 150,
   "openTotal": 2035408.2,
   "quotationCount": 73,
@@ -335,7 +335,7 @@
       "id": 539,
       "ref": "S00540",
       "kind": "quotation",
-      "customer": "Atoluvehi Cafe E-7",
+      "customer": "Atholhuvehi Cafe E-7",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-12",
       "expires": "2026-11-11",
