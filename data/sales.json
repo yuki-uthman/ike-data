@@ -20389,14 +20389,14 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T05:31:00Z",
+      "generatedAt": "2026-10-12T05:45:43Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 47000.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 11460.0,
@@ -20407,14 +20407,31 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 47000.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00392",
+          "customer": "The Hawks PVT LTD",
+          "amount": 47000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:44",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
+              "qty": 9.0,
+              "total": 47000.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
