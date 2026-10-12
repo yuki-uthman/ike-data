@@ -20389,14 +20389,14 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T11:15:43Z",
+      "generatedAt": "2026-10-12T11:31:02Z",
       "pos": {
         "total": 1105.0,
         "count": 5
       },
       "regularSales": {
-        "total": 52961.0,
-        "count": 6
+        "total": 66561.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 35865.0,
@@ -20407,8 +20407,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 53246.0,
-        "count": 8
+        "total": 66846.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -20428,6 +20428,22 @@
               "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
               "qty": 9.0,
               "total": 47000.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00399",
+          "customer": "Seleena Mart L-3",
+          "amount": 13600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:25",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
+              "qty": 2.0,
+              "total": 13600.0
             }
           ]
         },
