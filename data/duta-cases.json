@@ -2,11 +2,11 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-12T15:31:15Z",
-  "totalCases": 149.0,
+  "generatedAt": "2026-10-12T15:45:57Z",
+  "totalCases": 150.0,
   "quoted": {
-    "cases": 62.0,
-    "orders": 7
+    "cases": 61.0,
+    "orders": 6
   },
   "products": [
     {
@@ -225,7 +225,7 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 4.0,
+      "cases": 5.0,
       "profitPct": 4.6,
       "profitBasis": "sold"
     },
@@ -456,10 +456,10 @@
     },
     {
       "date": "2026-10-12",
-      "cases": 2.0,
-      "orders": 1,
+      "cases": 3.0,
+      "orders": 2,
       "byProduct": {
-        "2050": 1.0,
+        "2050": 2.0,
         "2052": 1.0
       }
     }

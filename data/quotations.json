@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-12T15:31:10Z",
+  "generatedAt": "2026-10-12T15:45:53Z",
   "openCount": 150,
   "openTotal": 2057056.2,
-  "quotationCount": 73,
-  "quotationTotal": 1078015.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 72,
+  "quotationTotal": 1075510.75,
+  "orderCount": 78,
+  "orderTotal": 981545.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -413,7 +413,7 @@
     {
       "id": 539,
       "ref": "S00540",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Atholhuvehi Cafe E-7",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-12",
