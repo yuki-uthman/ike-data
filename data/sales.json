@@ -20389,10 +20389,10 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T05:45:43Z",
+      "generatedAt": "2026-10-12T06:01:16Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 815.0,
+        "count": 2
       },
       "regularSales": {
         "total": 47000.0,
@@ -20403,12 +20403,12 @@
         "count": 2
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 750.0,
+        "count": 1
       },
       "transfer": {
-        "total": 47000.0,
-        "count": 1
+        "total": 47065.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -20430,6 +20430,38 @@
               "total": 47000.0
             }
           ]
+        },
+        {
+          "ref": "INV/2026/00393 (Ike - 000376)",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 750.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:59",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 3.0,
+              "total": 750.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000375",
+          "customer": "Walk-in",
+          "amount": 65.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "10:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02171] container round loose pc medium 01762",
+              "qty": 1.0,
+              "total": 65.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -20439,7 +20471,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2985.0,
-        "expectedClosing": 2985.0,
+        "expectedClosing": 3735.0,
         "counted": null,
         "difference": null,
         "closed": false,
