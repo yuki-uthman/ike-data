@@ -20389,14 +20389,14 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T16:01:20Z",
+      "generatedAt": "2026-10-12T16:15:43Z",
       "pos": {
         "total": 1134.0,
         "count": 6
       },
       "regularSales": {
-        "total": 74436.0,
-        "count": 9
+        "total": 76941.0,
+        "count": 10
       },
       "pendingQuotations": {
         "total": 33818.0,
@@ -20407,8 +20407,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 74346.0,
-        "count": 10
+        "total": 76851.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -20486,6 +20486,32 @@
               "name": "[90042] Milkshake Powder Avocado",
               "qty": 4.0,
               "total": 800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00402",
+          "customer": "Atholhuvehi Cafe E-7",
+          "amount": 2505.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:09",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1400.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 40.0,
+              "total": 750.0
+            },
+            {
+              "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
+              "qty": 1.0,
+              "total": 355.0
             }
           ]
         },
