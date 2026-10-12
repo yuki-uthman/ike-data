@@ -20389,7 +20389,7 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T16:45:43Z",
+      "generatedAt": "2026-10-12T17:01:20Z",
       "pos": {
         "total": 1239.0,
         "count": 8
@@ -20760,13 +20760,49 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 665.0,
+        "count": 5
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Diesel--Nagarajan",
+          "amount": 500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:52"
+        },
+        {
+          "reason": "Tea money 5 days--Jafar",
+          "amount": 100.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:52"
+        },
+        {
+          "reason": "C016 C-B105 Key --Murshd",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:49"
+        },
+        {
+          "reason": "Gate pass--Nagarajan",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:51"
+        },
+        {
+          "reason": "Air fitting --Nagarajan",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:50"
+        }
+      ],
       "till": {
         "opening": 2985.0,
-        "expectedClosing": 4314.0,
+        "expectedClosing": 3649.0,
         "counted": null,
         "difference": null,
         "closed": false,
