@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:45:41Z",
+  "generatedAt": "2026-10-12T12:01:18Z",
   "cash": {
-    "total": 849.0,
-    "count": 4
+    "total": 1224.0,
+    "count": 5
   },
   "transfer": {
-    "total": 66846.0,
-    "count": 9
+    "total": 74346.0,
+    "count": 10
   },
   "other": {
     "total": 0,
@@ -45,6 +45,22 @@
           "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
           "qty": 2.0,
           "total": 13600.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00401",
+      "customer": "Mifco",
+      "amount": 7500.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:53",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+          "qty": 3.0,
+          "total": 7500.0
         }
       ]
     },
@@ -159,6 +175,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00400",
+      "customer": "Tides Cafe",
+      "amount": 375.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:48",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[3377] Aluminium Foil Box 3 compartment 3377 Loose",
+          "qty": 125.0,
+          "total": 375.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000379",
       "customer": "Walk-in",
       "amount": 220.0,
@@ -264,14 +296,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 66561.0
+      "count": 8,
+      "total": 74061.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 849.0
+      "count": 5,
+      "total": 1224.0
     },
     {
       "name": "Bank Transfer",
@@ -287,7 +319,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2985.0,
-    "expectedClosing": 3834.0,
+    "expectedClosing": 4209.0,
     "counted": null,
     "difference": null,
     "closed": false,
