@@ -20389,22 +20389,22 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T11:31:02Z",
+      "generatedAt": "2026-10-12T11:45:41Z",
       "pos": {
-        "total": 1105.0,
-        "count": 5
+        "total": 1134.0,
+        "count": 6
       },
       "regularSales": {
         "total": 66561.0,
         "count": 7
       },
       "pendingQuotations": {
-        "total": 35865.0,
-        "count": 4
+        "total": 28365.0,
+        "count": 3
       },
       "cash": {
-        "total": 820.0,
-        "count": 3
+        "total": 849.0,
+        "count": 4
       },
       "transfer": {
         "total": 66846.0,
@@ -20627,6 +20627,22 @@
           ]
         },
         {
+          "ref": "Ike - 000380",
+          "customer": "Walk-in",
+          "amount": 29.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:31",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01698] Strainer Steel 12cm Ym-055#16",
+              "qty": 1.0,
+              "total": 29.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000378",
           "customer": "Walk-in",
           "amount": 15.0,
@@ -20650,7 +20666,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2985.0,
-        "expectedClosing": 3805.0,
+        "expectedClosing": 3834.0,
         "counted": null,
         "difference": null,
         "closed": false,
