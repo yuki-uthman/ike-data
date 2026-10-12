@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T16:15:43Z",
+  "generatedAt": "2026-10-12T16:31:06Z",
   "cash": {
-    "total": 1224.0,
-    "count": 5
+    "total": 1329.0,
+    "count": 7
   },
   "transfer": {
-    "total": 76851.0,
-    "count": 11
+    "total": 77301.0,
+    "count": 12
   },
   "other": {
     "total": 0,
@@ -201,6 +201,16 @@
       ]
     },
     {
+      "ref": "INV/2026/00403",
+      "customer": "Atollios Private Limited",
+      "amount": 450.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:16",
+      "source": "payment",
+      "lines": []
+    },
+    {
       "ref": "INV/2026/00400",
       "customer": "Tides Cafe",
       "amount": 375.0,
@@ -229,6 +239,22 @@
           "name": "[09876] Table Lamp Rechargeable",
           "qty": 1.0,
           "total": 220.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000381",
+      "customer": "Walk-in",
+      "amount": 90.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:24",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 30.0,
+          "total": 90.0
         }
       ]
     },
@@ -302,6 +328,22 @@
       ]
     },
     {
+      "ref": "Ike - 000382",
+      "customer": "Walk-in",
+      "amount": 15.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:27",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000378",
       "customer": "Walk-in",
       "amount": 15.0,
@@ -322,14 +364,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 76566.0
+      "count": 10,
+      "total": 77016.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 1224.0
+      "count": 7,
+      "total": 1329.0
     },
     {
       "name": "Bank Transfer",
@@ -345,7 +387,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2985.0,
-    "expectedClosing": 4209.0,
+    "expectedClosing": 4314.0,
     "counted": null,
     "difference": null,
     "closed": false,
