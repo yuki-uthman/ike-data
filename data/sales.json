@@ -20389,26 +20389,26 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T09:45:42Z",
+      "generatedAt": "2026-10-12T10:01:17Z",
       "pos": {
-        "total": 815.0,
-        "count": 2
+        "total": 870.0,
+        "count": 3
       },
       "regularSales": {
-        "total": 51510.0,
-        "count": 3
+        "total": 51582.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 35865.0,
         "count": 4
       },
       "cash": {
-        "total": 750.0,
-        "count": 1
+        "total": 805.0,
+        "count": 2
       },
       "transfer": {
-        "total": 51575.0,
-        "count": 4
+        "total": 51647.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -20495,6 +20495,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00396",
+          "customer": "Atollios Private Limited",
+          "amount": 72.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:54",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[35940] Hook Mesh 8\"",
+              "qty": 6.0,
+              "total": 72.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000375",
           "customer": "Walk-in",
           "amount": 65.0,
@@ -20509,6 +20525,27 @@
               "total": 65.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000377",
+          "customer": "Walk-in",
+          "amount": 55.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:58",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70076] Towel 042-0980 30*30cm",
+              "qty": 4.0,
+              "total": 36.0
+            },
+            {
+              "name": "[70075] Towel 042-0983 35*75cm",
+              "qty": 1.0,
+              "total": 19.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -20518,7 +20555,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2985.0,
-        "expectedClosing": 3735.0,
+        "expectedClosing": 3790.0,
         "counted": null,
         "difference": null,
         "closed": false,
