@@ -20389,14 +20389,14 @@
     },
     {
       "date": "2026-10-12",
-      "generatedAt": "2026-10-12T10:01:17Z",
+      "generatedAt": "2026-10-12T10:15:45Z",
       "pos": {
         "total": 870.0,
         "count": 3
       },
       "regularSales": {
-        "total": 51582.0,
-        "count": 4
+        "total": 52182.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 35865.0,
@@ -20407,8 +20407,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 51647.0,
-        "count": 5
+        "total": 52247.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -20491,6 +20491,22 @@
               "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
               "qty": 1.0,
               "total": 355.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00397",
+          "customer": "Droparc",
+          "amount": 600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:03",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70110] paper plates 9 inch 100pcs",
+              "qty": 12.0,
+              "total": 600.0
             }
           ]
         },
