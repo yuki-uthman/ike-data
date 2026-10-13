@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T09:15:46Z",
+  "generatedAt": "2026-10-13T09:31:03Z",
   "cash": {
     "total": 2421.0,
     "count": 5
   },
   "transfer": {
-    "total": 24469.0,
-    "count": 2
+    "total": 28269.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -39,6 +39,22 @@
           "name": "2C Price Border Strip Red",
           "qty": 84.0,
           "total": 2100.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00409",
+      "customer": "Ameeneestore I-8",
+      "amount": 3800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:27",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 2.0,
+          "total": 3800.0
         }
       ]
     },
@@ -173,8 +189,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 24400.0
+      "count": 2,
+      "total": 28200.0
     },
     {
       "name": "Cash",

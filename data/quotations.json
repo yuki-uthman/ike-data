@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-13T09:15:57Z",
-  "openCount": 150,
-  "openTotal": 2058351.2,
-  "quotationCount": 73,
-  "quotationTotal": 1079310.75,
+  "generatedAt": "2026-10-13T09:31:14Z",
+  "openCount": 149,
+  "openTotal": 2054551.2,
+  "quotationCount": 72,
+  "quotationTotal": 1075510.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -293,31 +293,12 @@
     },
     {
       "date": "2026-10-13",
-      "count": 1,
-      "outstanding": 3800.0,
-      "total": 3800.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 552,
-      "ref": "S00553",
-      "kind": "quotation",
-      "customer": "Ameeneestore I-8",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-13",
-      "expires": "2026-11-12",
-      "total": 3800.0,
-      "settled": 0.0,
-      "outstanding": 3800.0,
-      "lines": [
-        {
-          "name": "[70186] Trolley Stand 5 Layer Black",
-          "qty": 2.0,
-          "total": 3800.0
-        }
-      ]
-    },
     {
       "id": 541,
       "ref": "S00542",
