@@ -2,8 +2,8 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-13T17:15:59Z",
-  "totalCases": 150.0,
+  "generatedAt": "2026-10-13T17:31:14Z",
+  "totalCases": 158.0,
   "quoted": {
     "cases": 151.0,
     "orders": 7
@@ -15,7 +15,7 @@
       "size": "100 gr",
       "pack": "6 bundles",
       "active": true,
-      "cases": 9.0,
+      "cases": 10.0,
       "profitPct": 10.2,
       "profitBasis": "sold"
     },
@@ -25,7 +25,7 @@
       "size": "23 gr",
       "pack": "12 bundles",
       "active": true,
-      "cases": 7.0,
+      "cases": 8.0,
       "profitPct": 0.0,
       "profitBasis": "sold"
     },
@@ -35,7 +35,7 @@
       "size": "60 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 4.0,
+      "cases": 5.0,
       "profitPct": 6.0,
       "profitBasis": "sold"
     },
@@ -45,7 +45,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 5.0,
+      "cases": 6.0,
       "profitPct": 1.5,
       "profitBasis": "sold"
     },
@@ -55,7 +55,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 15.0,
+      "cases": 16.0,
       "profitPct": 1.5,
       "profitBasis": "sold"
     },
@@ -95,7 +95,7 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 5.0,
+      "cases": 6.0,
       "profitPct": 18.2,
       "profitBasis": "sold"
     },
@@ -105,7 +105,7 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 7.0,
+      "cases": 8.0,
       "profitPct": 18.2,
       "profitBasis": "sold"
     },
@@ -285,7 +285,7 @@
       "size": "40 gr",
       "pack": "6 bundles",
       "active": true,
-      "cases": 3.0,
+      "cases": 4.0,
       "profitPct": 18.4,
       "profitBasis": "sold"
     },
@@ -461,6 +461,21 @@
       "byProduct": {
         "2050": 2.0,
         "2052": 1.0
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "cases": 8.0,
+      "orders": 1,
+      "byProduct": {
+        "2016": 1.0,
+        "2018": 1.0,
+        "2020": 1.0,
+        "2022": 1.0,
+        "2030": 1.0,
+        "2032": 1.0,
+        "2075": 1.0,
+        "2081": 1.0
       }
     }
   ]
