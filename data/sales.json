@@ -20792,7 +20792,7 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T17:31:02Z",
+      "generatedAt": "2026-10-13T17:45:43Z",
       "pos": {
         "total": 1468.0,
         "count": 8
@@ -21308,13 +21308,28 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 12045.0,
+        "count": 2
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Owners drawing  \u00b7 Rashad Boss",
+          "amount": 12000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:42"
+        },
+        {
+          "reason": "Petrol--Hassan",
+          "amount": 45.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:44"
+        }
+      ],
       "till": {
         "opening": 3784.0,
-        "expectedClosing": 14824.0,
+        "expectedClosing": 2779.0,
         "counted": null,
         "difference": null,
         "closed": false,
