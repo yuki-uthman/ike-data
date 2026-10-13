@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T06:15:42Z",
+  "generatedAt": "2026-10-13T06:31:04Z",
   "cash": {
-    "total": 143.0,
-    "count": 2
+    "total": 1013.0,
+    "count": 3
   },
   "transfer": {
     "total": 0,
@@ -16,6 +16,22 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00405",
+      "customer": "Nursery Bookshop",
+      "amount": 870.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "11:31",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
+          "qty": 3.0,
+          "total": 870.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000384",
       "customer": "Walk-in",
@@ -53,8 +69,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 143.0
+      "count": 3,
+      "total": 1013.0
     }
   ],
   "cashOut": {
@@ -64,7 +80,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3784.0,
-    "expectedClosing": 3927.0,
+    "expectedClosing": 4797.0,
     "counted": null,
     "difference": null,
     "closed": false,
