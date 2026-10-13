@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-13T12:01:26Z",
-  "openCount": 151,
-  "openTotal": 2064391.2,
-  "quotationCount": 74,
-  "quotationTotal": 1085350.75,
+  "generatedAt": "2026-10-13T12:15:50Z",
+  "openCount": 149,
+  "openTotal": 2046601.2,
+  "quotationCount": 72,
+  "quotationTotal": 1067560.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -287,15 +287,15 @@
     },
     {
       "date": "2026-10-12",
-      "count": 3,
-      "outstanding": 27968.0,
-      "total": 27968.0
+      "count": 2,
+      "outstanding": 11918.0,
+      "total": 11918.0
     },
     {
       "date": "2026-10-13",
-      "count": 2,
-      "outstanding": 15690.0,
-      "total": 15690.0
+      "count": 1,
+      "outstanding": 13950.0,
+      "total": 13950.0
     }
   ],
   "quotations": [
@@ -315,54 +315,6 @@
           "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
           "qty": 90.0,
           "total": 13950.0
-        }
-      ]
-    },
-    {
-      "id": 558,
-      "ref": "S00559",
-      "kind": "quotation",
-      "customer": "Nursery Bookshop",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-13",
-      "expires": "2026-11-12",
-      "total": 1740.0,
-      "settled": 0.0,
-      "outstanding": 1740.0,
-      "lines": [
-        {
-          "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
-          "qty": 6.0,
-          "total": 1740.0
-        }
-      ]
-    },
-    {
-      "id": 541,
-      "ref": "S00542",
-      "kind": "quotation",
-      "customer": "Glanz Ptv.Ltd.",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-12",
-      "expires": "2026-11-11",
-      "total": 16050.0,
-      "settled": 0.0,
-      "outstanding": 16050.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-SSP-1950-X02] #RD8 White Single Perforated 1950mm x2",
-          "qty": 1.0,
-          "total": 4800.0
-        },
-        {
-          "name": "[RD8-WHT-DSP-1950-X03] #RD8 White Double Side Perforated 1950mm x3",
-          "qty": 1.0,
-          "total": 10200.0
-        },
-        {
-          "name": "[70218] RD8 Price Border Strip  Green 900mm (875)",
-          "qty": 42.0,
-          "total": 1050.0
         }
       ]
     },

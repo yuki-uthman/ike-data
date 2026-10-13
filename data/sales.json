@@ -20792,26 +20792,26 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T12:01:16Z",
+      "generatedAt": "2026-10-13T12:15:42Z",
       "pos": {
         "total": 1440.0,
         "count": 6
       },
       "regularSales": {
-        "total": 30829.0,
-        "count": 8
+        "total": 48619.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 15690.0,
-        "count": 2
+        "total": 13950.0,
+        "count": 1
       },
       "cash": {
         "total": 3060.0,
         "count": 8
       },
       "transfer": {
-        "total": 29209.0,
-        "count": 6
+        "total": 46999.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -20845,6 +20845,32 @@
           ]
         },
         {
+          "ref": "INV/2026/00414",
+          "customer": "Glanz Ptv.Ltd.",
+          "amount": 16050.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:14",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-DSP-1950-X03] #RD8 White Double Side Perforated 1950mm x3",
+              "qty": 1.0,
+              "total": 10200.0
+            },
+            {
+              "name": "[RD8-WHT-SSP-1950-X02] #RD8 White Single Perforated 1950mm x2",
+              "qty": 1.0,
+              "total": 4800.0
+            },
+            {
+              "name": "[70218] RD8 Price Border Strip  Green 900mm (875)",
+              "qty": 42.0,
+              "total": 1050.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00409",
           "customer": "Ameeneestore I-8",
           "amount": 3800.0,
@@ -20857,6 +20883,27 @@
               "name": "[70186] Trolley Stand 5 Layer Black",
               "qty": 2.0,
               "total": 3800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00413",
+          "customer": "Nursery Bookshop",
+          "amount": 1740.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:05",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
+              "qty": 6.0,
+              "total": 1740.0
+            },
+            {
+              "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
+              "qty": 12.0,
+              "total": 0.0
             }
           ]
         },
