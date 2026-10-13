@@ -20792,22 +20792,22 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T09:01:16Z",
+      "generatedAt": "2026-10-13T09:15:46Z",
       "pos": {
-        "total": 158.0,
-        "count": 2
+        "total": 1016.0,
+        "count": 3
       },
       "regularSales": {
-        "total": 25324.0,
-        "count": 3
+        "total": 25874.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 3800.0,
         "count": 1
       },
       "cash": {
-        "total": 1013.0,
-        "count": 3
+        "total": 2421.0,
+        "count": 5
       },
       "transfer": {
         "total": 24469.0,
@@ -20857,6 +20857,68 @@
               "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
               "qty": 3.0,
               "total": 870.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00407 (Ike - 000386)",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 858.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:07",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01841] Mop Bucket with Mop",
+              "qty": 2.0,
+              "total": 518.0
+            },
+            {
+              "name": "[70059] Dust Pan Dm-044",
+              "qty": 3.0,
+              "total": 150.0
+            },
+            {
+              "name": "[01797] Toilet Brush Plastic #328-10048-1",
+              "qty": 2.0,
+              "total": 78.0
+            },
+            {
+              "name": "[70063] Brush Toilet 3212 A62",
+              "qty": 2.0,
+              "total": 64.0
+            },
+            {
+              "name": "[70074] Towel 042-02 30*40cm",
+              "qty": 2.0,
+              "total": 30.0
+            },
+            {
+              "name": "[70070] Glass Wiper A63",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00408",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 550.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:11",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[10008] Top Kokoa Creamy Cheese 1kg",
+              "qty": 1.0,
+              "total": 300.0
+            },
+            {
+              "name": "Top Kokoa Hokkaido White Chocolate 1kg",
+              "qty": 1.0,
+              "total": 250.0
             }
           ]
         },
@@ -20916,7 +20978,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3784.0,
-        "expectedClosing": 4797.0,
+        "expectedClosing": 6205.0,
         "counted": null,
         "difference": null,
         "closed": false,
