@@ -20792,10 +20792,10 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T06:31:04Z",
+      "generatedAt": "2026-10-13T06:45:42Z",
       "pos": {
-        "total": 89.0,
-        "count": 1
+        "total": 158.0,
+        "count": 2
       },
       "regularSales": {
         "total": 924.0,
@@ -20810,8 +20810,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 69.0,
+        "count": 1
       },
       "other": {
         "total": 0,
@@ -20847,6 +20847,22 @@
               "name": "[09883] Placement Seagrass#38",
               "qty": 1.0,
               "total": 89.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000385",
+          "customer": "Walk-in",
+          "amount": 69.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:32",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[8389] Aluminium Foil Box 8389 Loose",
+              "qty": 23.0,
+              "total": 69.0
             }
           ]
         },
