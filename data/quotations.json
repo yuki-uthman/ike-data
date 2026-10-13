@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-13T08:31:12Z",
+  "generatedAt": "2026-10-13T08:45:50Z",
   "openCount": 149,
   "openTotal": 2054551.2,
   "quotationCount": 72,
@@ -303,7 +303,7 @@
       "id": 541,
       "ref": "S00542",
       "kind": "quotation",
-      "customer": "Stelle B-10",
+      "customer": "Glanz Ptv.Ltd.",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-12",
       "expires": "2026-11-11",
