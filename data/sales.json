@@ -20792,22 +20792,22 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T04:45:44Z",
+      "generatedAt": "2026-10-13T05:01:16Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 54.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 54.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -20817,7 +20817,24 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00404",
+          "customer": "Sales",
+          "amount": 54.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:55",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Chuba Ubee Chips Sweet Corn (45 gr)",
+              "qty": 2.0,
+              "total": 54.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -20825,7 +20842,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3784.0,
-        "expectedClosing": 3784.0,
+        "expectedClosing": 3838.0,
         "counted": null,
         "difference": null,
         "closed": false,
