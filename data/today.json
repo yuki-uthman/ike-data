@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T12:31:02Z",
+  "generatedAt": "2026-10-13T12:45:46Z",
   "cash": {
     "total": 3060.0,
     "count": 8
   },
   "transfer": {
-    "total": 46999.0,
-    "count": 8
+    "total": 48979.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -81,6 +81,22 @@
           "name": "[70186] Trolley Stand 5 Layer Black",
           "qty": 2.0,
           "total": 3800.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00415",
+      "customer": "Dada Company Pvt Ltd",
+      "amount": 1980.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:34",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 1.0,
+          "total": 1980.0
         }
       ]
     },
@@ -332,8 +348,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 46550.0
+      "count": 6,
+      "total": 48530.0
     },
     {
       "name": "Cash",
