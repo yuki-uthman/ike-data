@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T15:45:43Z",
+  "generatedAt": "2026-10-13T16:01:20Z",
   "cash": {
     "total": 3088.0,
     "count": 10
   },
   "transfer": {
-    "total": 64619.0,
-    "count": 11
+    "total": 68419.0,
+    "count": 12
   },
   "other": {
     "total": 0,
@@ -103,6 +103,22 @@
       "time": "20:24",
       "source": "payment",
       "lines": []
+    },
+    {
+      "ref": "INV/2026/00418",
+      "customer": "Sales",
+      "amount": 3800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "20:52",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Gas Burner Table",
+          "qty": 8.0,
+          "total": 3800.0
+        }
+      ]
     },
     {
       "ref": "INV/2026/00409",
@@ -416,8 +432,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 64170.0
+      "count": 9,
+      "total": 67970.0
     },
     {
       "name": "Cash",
