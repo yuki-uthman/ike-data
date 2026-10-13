@@ -20792,26 +20792,26 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T15:31:04Z",
+      "generatedAt": "2026-10-13T15:45:43Z",
       "pos": {
-        "total": 1448.0,
-        "count": 7
+        "total": 1468.0,
+        "count": 8
       },
       "regularSales": {
-        "total": 55099.0,
-        "count": 12
+        "total": 66239.0,
+        "count": 13
       },
       "pendingQuotations": {
         "total": 13950.0,
         "count": 1
       },
       "cash": {
-        "total": 3068.0,
-        "count": 9
+        "total": 3088.0,
+        "count": 10
       },
       "transfer": {
-        "total": 53479.0,
-        "count": 10
+        "total": 64619.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -20867,6 +20867,32 @@
               "name": "[70218] RD8 Price Border Strip  Green 900mm (875)",
               "qty": 42.0,
               "total": 1050.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00417",
+          "customer": "Husnuheenaage G-2",
+          "amount": 11140.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:38",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X03] #2C White Double Side 2000mm x3",
+              "qty": 1.0,
+              "total": 8000.0
+            },
+            {
+              "name": "[70091] Shopping Basket Red Large 605 S2",
+              "qty": 10.0,
+              "total": 1600.0
+            },
+            {
+              "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+              "qty": 1.0,
+              "total": 1540.0
             }
           ]
         },
@@ -21156,6 +21182,22 @@
           ]
         },
         {
+          "ref": "Ike - 000390",
+          "customer": "Walk-in",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:45",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[6955105504080] Brush Silicone Scrubber#91264",
+              "qty": 1.0,
+              "total": 20.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000389",
           "customer": "Walk-in",
           "amount": 8.0,
@@ -21179,7 +21221,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3784.0,
-        "expectedClosing": 6852.0,
+        "expectedClosing": 6872.0,
         "counted": null,
         "difference": null,
         "closed": false,
