@@ -20792,14 +20792,14 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T15:15:43Z",
+      "generatedAt": "2026-10-13T15:31:04Z",
       "pos": {
         "total": 1448.0,
         "count": 7
       },
       "regularSales": {
-        "total": 50599.0,
-        "count": 11
+        "total": 55099.0,
+        "count": 12
       },
       "pendingQuotations": {
         "total": 13950.0,
@@ -20810,8 +20810,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 48979.0,
-        "count": 9
+        "total": 53479.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -20869,6 +20869,16 @@
               "total": 1050.0
             }
           ]
+        },
+        {
+          "ref": "INV/2026/00416",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 4500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:24",
+          "source": "payment",
+          "lines": []
         },
         {
           "ref": "INV/2026/00409",

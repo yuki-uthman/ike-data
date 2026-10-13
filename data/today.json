@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T15:15:43Z",
+  "generatedAt": "2026-10-13T15:31:04Z",
   "cash": {
     "total": 3068.0,
     "count": 9
   },
   "transfer": {
-    "total": 48979.0,
-    "count": 9
+    "total": 53479.0,
+    "count": 10
   },
   "other": {
     "total": 0,
@@ -67,6 +67,16 @@
           "total": 1050.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00416",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 4500.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "20:24",
+      "source": "payment",
+      "lines": []
     },
     {
       "ref": "INV/2026/00409",
@@ -364,8 +374,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 6,
-      "total": 48530.0
+      "count": 7,
+      "total": 53030.0
     },
     {
       "name": "Cash",
