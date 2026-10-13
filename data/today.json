@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T16:31:03Z",
+  "generatedAt": "2026-10-13T16:45:43Z",
   "cash": {
     "total": 3088.0,
     "count": 10
   },
   "transfer": {
-    "total": 68419.0,
-    "count": 12
+    "total": 68659.0,
+    "count": 13
   },
   "other": {
     "total": 0,
@@ -284,6 +284,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00419",
+      "customer": "Atollios Private Limited",
+      "amount": 240.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:45",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00412",
       "customer": "Snap Buy",
       "amount": 220.0,
@@ -432,8 +448,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 67970.0
+      "count": 10,
+      "total": 68210.0
     },
     {
       "name": "Cash",

@@ -20792,14 +20792,14 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T16:31:03Z",
+      "generatedAt": "2026-10-13T16:45:43Z",
       "pos": {
         "total": 1468.0,
         "count": 8
       },
       "regularSales": {
-        "total": 70039.0,
-        "count": 14
+        "total": 70279.0,
+        "count": 15
       },
       "pendingQuotations": {
         "total": 13950.0,
@@ -20810,8 +20810,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 68419.0,
-        "count": 12
+        "total": 68659.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -21082,6 +21082,22 @@
               "name": "[3377] Aluminium Foil Box 3 compartment 3377 Loose",
               "qty": 125.0,
               "total": 375.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00419",
+          "customer": "Atollios Private Limited",
+          "amount": 240.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:45",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[35940] Hook Mesh 8\"",
+              "qty": 20.0,
+              "total": 240.0
             }
           ]
         },
