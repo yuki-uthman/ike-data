@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-13T12:15:50Z",
-  "openCount": 149,
-  "openTotal": 2046601.2,
+  "generatedAt": "2026-10-13T12:31:11Z",
+  "openCount": 150,
+  "openTotal": 2048581.2,
   "quotationCount": 72,
   "quotationTotal": 1067560.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "orderCount": 78,
+  "orderTotal": 981020.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -293,9 +293,9 @@
     },
     {
       "date": "2026-10-13",
-      "count": 1,
-      "outstanding": 13950.0,
-      "total": 13950.0
+      "count": 2,
+      "outstanding": 15930.0,
+      "total": 15930.0
     }
   ],
   "quotations": [
@@ -315,6 +315,25 @@
           "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
           "qty": 90.0,
           "total": 13950.0
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "ref": "S00560",
+      "kind": "order",
+      "customer": "Dada Company Pvt Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-13",
+      "expires": "2026-11-12",
+      "total": 1980.0,
+      "settled": 0.0,
+      "outstanding": 1980.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 1.0,
+          "total": 1980.0
         }
       ]
     },
