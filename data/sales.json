@@ -20792,10 +20792,10 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T10:45:42Z",
+      "generatedAt": "2026-10-13T11:01:16Z",
       "pos": {
-        "total": 1186.0,
-        "count": 4
+        "total": 1440.0,
+        "count": 6
       },
       "regularSales": {
         "total": 29674.0,
@@ -20806,12 +20806,12 @@
         "count": 0
       },
       "cash": {
-        "total": 2421.0,
-        "count": 5
+        "total": 2465.0,
+        "count": 6
       },
       "transfer": {
-        "total": 28439.0,
-        "count": 4
+        "total": 28649.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -20939,6 +20939,22 @@
           ]
         },
         {
+          "ref": "Ike - 000387",
+          "customer": "Walk-in",
+          "amount": 210.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "15:47",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[19958] PLASTIC CHAIR 21",
+              "qty": 2.0,
+              "total": 210.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000145",
           "customer": "Walk-in",
           "amount": 170.0,
@@ -21001,6 +21017,22 @@
               "total": 54.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000388",
+          "customer": "Walk-in",
+          "amount": 44.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:00",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01778] Plastic Contanier 700ml#3082",
+              "qty": 1.0,
+              "total": 44.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -21010,7 +21042,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3784.0,
-        "expectedClosing": 6205.0,
+        "expectedClosing": 6249.0,
         "counted": null,
         "difference": null,
         "closed": false,
