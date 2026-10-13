@@ -20792,26 +20792,26 @@
     },
     {
       "date": "2026-10-13",
-      "generatedAt": "2026-10-13T11:01:16Z",
+      "generatedAt": "2026-10-13T11:15:41Z",
       "pos": {
         "total": 1440.0,
         "count": 6
       },
       "regularSales": {
-        "total": 29674.0,
-        "count": 5
+        "total": 30234.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 13950.0,
+        "count": 1
       },
       "cash": {
         "total": 2465.0,
         "count": 6
       },
       "transfer": {
-        "total": 28649.0,
-        "count": 5
+        "total": 29209.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -20914,6 +20914,22 @@
               "name": "[70070] Glass Wiper A63",
               "qty": 1.0,
               "total": 18.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00410",
+          "customer": "Victorious Avenue",
+          "amount": 560.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:10",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 2.0,
+              "total": 560.0
             }
           ]
         },
