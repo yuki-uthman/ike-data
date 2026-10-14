@@ -21303,7 +21303,7 @@
     },
     {
       "date": "2026-10-14",
-      "generatedAt": "2026-10-14T05:45:40Z",
+      "generatedAt": "2026-10-14T06:01:16Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -21313,8 +21313,8 @@
         "count": 3
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 7750.0,
+        "count": 1
       },
       "cash": {
         "total": 140.0,
