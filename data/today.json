@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T04:15:41Z",
+  "generatedAt": "2026-10-14T04:31:00Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 140.0,
+    "count": 1
   },
   "transfer": {
     "total": 0,
@@ -15,8 +15,32 @@
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "INV/2026/00421",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 140.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "09:18",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[01011] Paper straw 12 mm 50 pcs",
+          "qty": 4.0,
+          "total": 140.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 140.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
@@ -24,7 +48,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2779.0,
-    "expectedClosing": 2779.0,
+    "expectedClosing": 2919.0,
     "counted": null,
     "difference": null,
     "closed": false,
