@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T15:15:56Z",
-  "openCount": 149,
-  "openTotal": 2036608.2,
-  "quotationCount": 72,
-  "quotationTotal": 1057567.75,
+  "generatedAt": "2026-10-14T15:31:21Z",
+  "openCount": 148,
+  "openTotal": 2035013.2,
+  "quotationCount": 71,
+  "quotationTotal": 1055972.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -299,36 +299,12 @@
     },
     {
       "date": "2026-10-14",
-      "count": 2,
-      "outstanding": 2465.0,
-      "total": 2465.0
+      "count": 1,
+      "outstanding": 870.0,
+      "total": 870.0
     }
   ],
   "quotations": [
-    {
-      "id": 570,
-      "ref": "S00571",
-      "kind": "quotation",
-      "customer": "Guestbox Malsives Pvt. Ltd",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-14",
-      "expires": "2026-11-13",
-      "total": 1595.0,
-      "settled": 0.0,
-      "outstanding": 1595.0,
-      "lines": [
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
-          "qty": 5.0,
-          "total": 800.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
-          "qty": 5.0,
-          "total": 795.0
-        }
-      ]
-    },
     {
       "id": 572,
       "ref": "S00573",
