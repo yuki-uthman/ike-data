@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T06:45:53Z",
-  "openCount": 148,
-  "openTotal": 2040143.2,
-  "quotationCount": 71,
-  "quotationTotal": 1061102.75,
+  "generatedAt": "2026-10-14T07:01:25Z",
+  "openCount": 147,
+  "openTotal": 2034143.2,
+  "quotationCount": 70,
+  "quotationTotal": 1055102.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -299,36 +299,12 @@
     },
     {
       "date": "2026-10-14",
-      "count": 1,
-      "outstanding": 6000.0,
-      "total": 6000.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 567,
-      "ref": "S00568",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-14",
-      "expires": "2026-11-13",
-      "total": 6000.0,
-      "settled": 0.0,
-      "outstanding": 6000.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-DSP-1950-X01] #RD8 White Double Side Perforated 1950mm x1",
-          "qty": 1.0,
-          "total": 3500.0
-        },
-        {
-          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
-          "qty": 1.0,
-          "total": 2500.0
-        }
-      ]
-    },
     {
       "id": 555,
       "ref": "S00556",

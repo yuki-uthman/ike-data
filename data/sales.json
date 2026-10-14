@@ -21303,26 +21303,26 @@
     },
     {
       "date": "2026-10-14",
-      "generatedAt": "2026-10-14T06:45:45Z",
+      "generatedAt": "2026-10-14T07:01:18Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 16148.0,
-        "count": 4
+        "total": 22148.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 6000.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 140.0,
         "count": 1
       },
       "transfer": {
-        "total": 16008.0,
-        "count": 3
+        "total": 22008.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -21413,6 +21413,27 @@
               "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
               "qty": 50.0,
               "total": 7750.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00425",
+          "customer": "Maivaara S-2",
+          "amount": 6000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:58",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-DSP-1950-X01] #RD8 White Double Side Perforated 1950mm x1",
+              "qty": 1.0,
+              "total": 3500.0
+            },
+            {
+              "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+              "qty": 1.0,
+              "total": 2500.0
             }
           ]
         },
