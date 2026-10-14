@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T09:15:51Z",
-  "openCount": 147,
-  "openTotal": 2034143.2,
-  "quotationCount": 70,
-  "quotationTotal": 1055102.75,
+  "generatedAt": "2026-10-14T09:31:18Z",
+  "openCount": 148,
+  "openTotal": 2035212.2,
+  "quotationCount": 71,
+  "quotationTotal": 1056171.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -299,12 +299,51 @@
     },
     {
       "date": "2026-10-14",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 1069.0,
+      "total": 1069.0
     }
   ],
   "quotations": [
+    {
+      "id": 569,
+      "ref": "S00570",
+      "kind": "quotation",
+      "customer": "Gems View / C-15",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-14",
+      "expires": "2026-11-13",
+      "total": 1069.0,
+      "settled": 0.0,
+      "outstanding": 1069.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 159.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 1.0,
+          "total": 155.0
+        }
+      ]
+    },
     {
       "id": 555,
       "ref": "S00556",
