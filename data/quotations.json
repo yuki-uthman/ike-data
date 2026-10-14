@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T08:45:50Z",
+  "generatedAt": "2026-10-14T09:01:23Z",
   "openCount": 148,
   "openTotal": 2036463.2,
-  "quotationCount": 71,
-  "quotationTotal": 1057422.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 70,
+  "quotationTotal": 1055102.75,
+  "orderCount": 78,
+  "orderTotal": 981360.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -308,8 +308,8 @@
     {
       "id": 568,
       "ref": "S00569",
-      "kind": "quotation",
-      "customer": "Cafe Baavanna Q-6",
+      "kind": "order",
+      "customer": "La Cuisine N-5",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-14",
       "expires": "2026-11-13",
