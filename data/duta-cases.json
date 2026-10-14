@@ -2,11 +2,11 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-14T17:01:40Z",
+  "generatedAt": "2026-10-14T17:16:01Z",
   "totalCases": 250.0,
   "quoted": {
-    "cases": 136.0,
-    "orders": 6
+    "cases": 150.0,
+    "orders": 7
   },
   "products": [
     {
