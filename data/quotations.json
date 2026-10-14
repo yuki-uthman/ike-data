@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T06:31:08Z",
-  "openCount": 149,
-  "openTotal": 2047893.2,
-  "quotationCount": 72,
-  "quotationTotal": 1068852.75,
+  "generatedAt": "2026-10-14T06:45:53Z",
+  "openCount": 148,
+  "openTotal": 2040143.2,
+  "quotationCount": 71,
+  "quotationTotal": 1061102.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -299,31 +299,12 @@
     },
     {
       "date": "2026-10-14",
-      "count": 2,
-      "outstanding": 13750.0,
-      "total": 13750.0
+      "count": 1,
+      "outstanding": 6000.0,
+      "total": 6000.0
     }
   ],
   "quotations": [
-    {
-      "id": 566,
-      "ref": "S00567",
-      "kind": "quotation",
-      "customer": "Sp Trade",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-14",
-      "expires": "2026-11-13",
-      "total": 7750.0,
-      "settled": 0.0,
-      "outstanding": 7750.0,
-      "lines": [
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 50.0,
-          "total": 7750.0
-        }
-      ]
-    },
     {
       "id": 567,
       "ref": "S00568",

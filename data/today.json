@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T06:30:59Z",
+  "generatedAt": "2026-10-14T06:45:45Z",
   "cash": {
     "total": 140.0,
     "count": 1
   },
   "transfer": {
-    "total": 8258.0,
-    "count": 2
+    "total": 16008.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -88,6 +88,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00424",
+      "customer": "Sp Trade",
+      "amount": 7750.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:43",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 50.0,
+          "total": 7750.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00423",
       "customer": "Secret Desire",
       "amount": 300.0,
@@ -124,8 +140,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 8258.0
+      "count": 3,
+      "total": 16008.0
     },
     {
       "name": "Cash",
