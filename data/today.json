@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T11:45:47Z",
+  "generatedAt": "2026-10-14T12:01:16Z",
   "cash": {
-    "total": 310.0,
-    "count": 3
+    "total": 4046.0,
+    "count": 4
   },
   "transfer": {
     "total": 24478.0,
@@ -125,6 +125,82 @@
       ]
     },
     {
+      "ref": "INV/2026/00427",
+      "customer": "Yoodh",
+      "amount": 3736.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:57",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+          "qty": 4.0,
+          "total": 1180.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
+          "qty": 1.0,
+          "total": 180.0
+        },
+        {
+          "name": "[1069257] Soklin Floor Cleaner Rose (Pink / Merah) - Case (12pcs, 400 ml)",
+          "qty": 1.0,
+          "total": 165.0
+        },
+        {
+          "name": "[1069260] Soklin Floor Cleaner Apple (Green / Hijau Muda) - Case (12pcs, 400 ml)",
+          "qty": 1.0,
+          "total": 164.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 159.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 1.0,
+          "total": 155.0
+        },
+        {
+          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+          "qty": 8.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00426",
       "customer": "La Cuisine N-5",
       "amount": 2320.0,
@@ -236,8 +312,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 3,
-      "total": 310.0
+      "count": 4,
+      "total": 4046.0
     },
     {
       "name": "Bank Transfer",
@@ -253,7 +329,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2779.0,
-    "expectedClosing": 3089.0,
+    "expectedClosing": 6825.0,
     "counted": null,
     "difference": null,
     "closed": false,

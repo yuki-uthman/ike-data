@@ -2,11 +2,11 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-14T11:46:00Z",
-  "totalCases": 235.0,
+  "generatedAt": "2026-10-14T12:01:29Z",
+  "totalCases": 240.0,
   "quoted": {
-    "cases": 151.0,
-    "orders": 8
+    "cases": 146.0,
+    "orders": 7
   },
   "products": [
     {
@@ -35,7 +35,7 @@
       "size": "60 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 7.0,
+      "cases": 8.0,
       "profitPct": 6.0,
       "profitBasis": "sold"
     },
@@ -55,7 +55,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 23.0,
+      "cases": 24.0,
       "profitPct": 1.5,
       "profitBasis": "sold"
     },
@@ -155,7 +155,7 @@
       "size": "800 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 3.0,
+      "cases": 4.0,
       "profitPct": 10.5,
       "profitBasis": "sold"
     },
@@ -185,7 +185,7 @@
       "size": "800 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 5.0,
+      "cases": 6.0,
       "profitPct": 11.1,
       "profitBasis": "sold"
     },
@@ -305,7 +305,7 @@
       "size": "750 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 63.0,
+      "cases": 64.0,
       "profitPct": 12.9,
       "profitBasis": "sold"
     }
@@ -480,23 +480,23 @@
     },
     {
       "date": "2026-10-14",
-      "cases": 77.0,
-      "orders": 4,
+      "cases": 82.0,
+      "orders": 5,
       "byProduct": {
-        "2018": 2.0,
+        "2018": 3.0,
         "2020": 2.0,
-        "2022": 7.0,
+        "2022": 8.0,
         "2024": 1.0,
         "2026": 1.0,
         "2030": 3.0,
         "2032": 3.0,
-        "2034": 1.0,
+        "2034": 2.0,
         "2036": 1.0,
-        "2040": 1.0,
+        "2040": 2.0,
         "2042": 1.0,
         "2054": 1.0,
         "2062": 1.0,
-        "2064": 51.0,
+        "2064": 52.0,
         "2081": 1.0
       }
     }

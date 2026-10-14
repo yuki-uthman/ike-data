@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T11:45:56Z",
-  "openCount": 150,
-  "openTotal": 2040543.2,
-  "quotationCount": 72,
-  "quotationTotal": 1057766.75,
+  "generatedAt": "2026-10-14T12:01:25Z",
+  "openCount": 149,
+  "openTotal": 2036807.2,
+  "quotationCount": 71,
+  "quotationTotal": 1056697.75,
   "orderCount": 78,
-  "orderTotal": 982776.45,
+  "orderTotal": 980109.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -299,91 +299,12 @@
     },
     {
       "date": "2026-10-14",
-      "count": 3,
-      "outstanding": 6400.0,
-      "total": 6400.0
+      "count": 2,
+      "outstanding": 2664.0,
+      "total": 2664.0
     }
   ],
   "quotations": [
-    {
-      "id": 571,
-      "ref": "S00572",
-      "kind": "order",
-      "customer": "Yoodh",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-14",
-      "expires": "2026-11-13",
-      "total": 3736.0,
-      "settled": 0.0,
-      "outstanding": 3736.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 1.0,
-          "total": 155.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
-          "qty": 1.0,
-          "total": 180.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 159.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 160.0
-        },
-        {
-          "name": "[1069260] Soklin Floor Cleaner Apple (Green / Hijau Muda) - Case (12pcs, 400 ml)",
-          "qty": 1.0,
-          "total": 164.0
-        },
-        {
-          "name": "[1069257] Soklin Floor Cleaner Rose (Pink / Merah) - Case (12pcs, 400 ml)",
-          "qty": 1.0,
-          "total": 165.0
-        },
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
-          "qty": 4.0,
-          "total": 1180.0
-        },
-        {
-          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
-          "qty": 8.0,
-          "total": 0.0
-        }
-      ]
-    },
     {
       "id": 570,
       "ref": "S00571",
@@ -411,7 +332,7 @@
     {
       "id": 569,
       "ref": "S00570",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Gems View / C-15",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-14",
