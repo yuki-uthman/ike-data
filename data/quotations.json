@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T12:31:21Z",
+  "generatedAt": "2026-10-14T12:45:54Z",
   "openCount": 149,
-  "openTotal": 2036807.2,
-  "quotationCount": 71,
-  "quotationTotal": 1056697.75,
-  "orderCount": 78,
-  "orderTotal": 980109.45,
+  "openTotal": 2036608.2,
+  "quotationCount": 72,
+  "quotationTotal": 1057567.75,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -300,8 +300,8 @@
     {
       "date": "2026-10-14",
       "count": 2,
-      "outstanding": 2664.0,
-      "total": 2664.0
+      "outstanding": 2465.0,
+      "total": 2465.0
     }
   ],
   "quotations": [
@@ -330,41 +330,26 @@
       ]
     },
     {
-      "id": 569,
-      "ref": "S00570",
-      "kind": "order",
-      "customer": "Gems View / C-15",
+      "id": 572,
+      "ref": "S00573",
+      "kind": "quotation",
+      "customer": "Nursery Bookshop",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-14",
       "expires": "2026-11-13",
-      "total": 1069.0,
+      "total": 870.0,
       "settled": 0.0,
-      "outstanding": 1069.0,
+      "outstanding": 870.0,
       "lines": [
         {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
+          "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
+          "qty": 3.0,
+          "total": 870.0
         },
         {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 159.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 160.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 1.0,
-          "total": 155.0
+          "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
+          "qty": 6.0,
+          "total": 0.0
         }
       ]
     },
