@@ -21303,10 +21303,10 @@
     },
     {
       "date": "2026-10-14",
-      "generatedAt": "2026-10-14T17:31:05Z",
+      "generatedAt": "2026-10-14T17:45:42Z",
       "pos": {
-        "total": 456.0,
-        "count": 6
+        "total": 1246.0,
+        "count": 8
       },
       "regularSales": {
         "total": 38218.0,
@@ -21321,8 +21321,8 @@
         "count": 7
       },
       "transfer": {
-        "total": 34492.0,
-        "count": 10
+        "total": 35282.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -21619,6 +21619,22 @@
           ]
         },
         {
+          "ref": "Ike - 000398",
+          "customer": "Walk-in",
+          "amount": 699.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:33",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01817] Rain Coat Polyester#4",
+              "qty": 1.0,
+              "total": 699.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00423",
           "customer": "Secret Desire",
           "amount": 300.0,
@@ -21705,6 +21721,27 @@
               "name": "[02142] Glass Bowl with lid#9 01606 small",
               "qty": 1.0,
               "total": 45.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000397",
+          "customer": "Walk-in",
+          "amount": 91.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:33",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[06788] Water Bottle Plastic Small",
+              "qty": 2.0,
+              "total": 56.0
+            },
+            {
+              "name": "[01777] Plastic Container 250ml#2083",
+              "qty": 1.0,
+              "total": 35.0
             }
           ]
         },
