@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-14T09:01:23Z",
-  "openCount": 148,
-  "openTotal": 2036463.2,
+  "generatedAt": "2026-10-14T09:15:51Z",
+  "openCount": 147,
+  "openTotal": 2034143.2,
   "quotationCount": 70,
   "quotationTotal": 1055102.75,
-  "orderCount": 78,
-  "orderTotal": 981360.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -299,31 +299,12 @@
     },
     {
       "date": "2026-10-14",
-      "count": 1,
-      "outstanding": 2320.0,
-      "total": 2320.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 568,
-      "ref": "S00569",
-      "kind": "order",
-      "customer": "La Cuisine N-5",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-14",
-      "expires": "2026-11-13",
-      "total": 2320.0,
-      "settled": 0.0,
-      "outstanding": 2320.0,
-      "lines": [
-        {
-          "name": "[2140WHITE] Chair DIAMOND STYLE - White #2140",
-          "qty": 8.0,
-          "total": 2320.0
-        }
-      ]
-    },
     {
       "id": 555,
       "ref": "S00556",
