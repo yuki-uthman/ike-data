@@ -21780,14 +21780,14 @@
     },
     {
       "date": "2026-10-15",
-      "generatedAt": "2026-10-15T04:45:41Z",
+      "generatedAt": "2026-10-15T05:01:13Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 2095.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 2190.0,
@@ -21798,14 +21798,57 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 2095.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00433",
+          "customer": "Sales",
+          "amount": 1225.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:55",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70182] Gas Burner ( High Pressure )",
+              "qty": 1.0,
+              "total": 800.0
+            },
+            {
+              "name": "Gas Burner Table",
+              "qty": 1.0,
+              "total": 425.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00432",
+          "customer": "Nursery Bookshop",
+          "amount": 870.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:54",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
+              "qty": 3.0,
+              "total": 870.0
+            },
+            {
+              "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
+              "qty": 6.0,
+              "total": 0.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
