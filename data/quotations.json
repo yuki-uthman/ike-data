@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-15T12:15:50Z",
-  "openCount": 151,
-  "openTotal": 2042745.2,
-  "quotationCount": 73,
-  "quotationTotal": 1063115.75,
+  "generatedAt": "2026-10-15T12:31:15Z",
+  "openCount": 152,
+  "openTotal": 2043805.2,
+  "quotationCount": 74,
+  "quotationTotal": 1064175.75,
   "orderCount": 78,
   "orderTotal": 979629.45,
   "days": [
@@ -305,9 +305,9 @@
     },
     {
       "date": "2026-10-15",
-      "count": 3,
-      "outstanding": 4159.0,
-      "total": 4159.0
+      "count": 4,
+      "outstanding": 5219.0,
+      "total": 5219.0
     }
   ],
   "quotations": [
@@ -366,6 +366,30 @@
           "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
           "qty": 1.0,
           "total": 110.0
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "ref": "S00586",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-15",
+      "expires": "2026-11-14",
+      "total": 1060.0,
+      "settled": 0.0,
+      "outstanding": 1060.0,
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 2.0,
+          "total": 560.0
+        },
+        {
+          "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
+          "qty": 2.0,
+          "total": 500.0
         }
       ]
     },
