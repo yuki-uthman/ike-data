@@ -21780,7 +21780,7 @@
     },
     {
       "date": "2026-10-15",
-      "generatedAt": "2026-10-15T17:45:44Z",
+      "generatedAt": "2026-10-15T18:01:20Z",
       "pos": {
         "total": 3981.0,
         "count": 10
@@ -22167,8 +22167,8 @@
         }
       ],
       "cashOut": {
-        "total": 6100.0,
-        "count": 3
+        "total": 7100.0,
+        "count": 4
       },
       "cashOutTransactions": [
         {
@@ -22177,6 +22177,13 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "22:36"
+        },
+        {
+          "reason": "Owners drawing -- Uthman",
+          "amount": 1000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:46"
         },
         {
           "reason": "Tea money 3 days--jafar",
@@ -22195,10 +22202,10 @@
       ],
       "till": {
         "opening": 6858.0,
-        "expectedClosing": 3864.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "expectedClosing": 2864.0,
+        "counted": 2864.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
