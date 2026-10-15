@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-15T04:15:49Z",
-  "openCount": 149,
-  "openTotal": 2039456.2,
-  "quotationCount": 71,
-  "quotationTotal": 1059545.75,
+  "generatedAt": "2026-10-15T04:31:12Z",
+  "openCount": 150,
+  "openTotal": 2041646.2,
+  "quotationCount": 72,
+  "quotationTotal": 1061735.75,
   "orderCount": 78,
   "orderTotal": 979910.45,
   "days": [
@@ -305,12 +305,41 @@
     },
     {
       "date": "2026-10-15",
-      "count": 1,
-      "outstanding": 870.0,
-      "total": 870.0
+      "count": 2,
+      "outstanding": 3060.0,
+      "total": 3060.0
     }
   ],
   "quotations": [
+    {
+      "id": 576,
+      "ref": "S00577",
+      "kind": "quotation",
+      "customer": "Glanz Ptv.Ltd.",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-15",
+      "expires": "2026-11-14",
+      "total": 2190.0,
+      "settled": 0.0,
+      "outstanding": 2190.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 6.0,
+          "total": 1740.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 12.0,
+          "total": 0.0
+        },
+        {
+          "name": "[70218] RD8 Price Border Strip  Green 900mm (875)",
+          "qty": 18.0,
+          "total": 450.0
+        }
+      ]
+    },
     {
       "id": 572,
       "ref": "S00573",
