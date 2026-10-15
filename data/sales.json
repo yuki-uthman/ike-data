@@ -21780,10 +21780,10 @@
     },
     {
       "date": "2026-10-15",
-      "generatedAt": "2026-10-15T16:45:46Z",
+      "generatedAt": "2026-10-15T17:01:22Z",
       "pos": {
-        "total": 2701.0,
-        "count": 9
+        "total": 3981.0,
+        "count": 10
       },
       "regularSales": {
         "total": 7256.0,
@@ -21798,8 +21798,8 @@
         "count": 7
       },
       "transfer": {
-        "total": 6851.0,
-        "count": 10
+        "total": 8131.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -21845,6 +21845,32 @@
               "name": "[1069257] Soklin Floor Cleaner Rose (Pink / Merah) - Case (12pcs, 400 ml)",
               "qty": 2.0,
               "total": 330.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000407",
+          "customer": "Walk-in",
+          "amount": 1280.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:47",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[90042] Milkshake Powder Avocado",
+              "qty": 2.0,
+              "total": 440.0
+            },
+            {
+              "name": "[02440] Milkshake Powder Pistachio",
+              "qty": 2.0,
+              "total": 440.0
+            },
+            {
+              "name": "[54646] Milkshake Powder Blue Ice",
+              "qty": 2.0,
+              "total": 400.0
             }
           ]
         },
