@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T11:01:18Z",
+  "generatedAt": "2026-10-15T11:15:47Z",
   "cash": {
     "total": 653.0,
     "count": 3
   },
   "transfer": {
-    "total": 6690.0,
-    "count": 8
+    "total": 6756.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -165,6 +165,27 @@
       ]
     },
     {
+      "ref": "Ike - 000404",
+      "customer": "Walk-in",
+      "amount": 66.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "16:06",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[MPPCX006] Cake Box paper 25x25x12Cm Plain",
+          "qty": 4.0,
+          "total": 56.0
+        },
+        {
+          "name": "[83241] Aluminium Foil Box 83241 Loose",
+          "qty": 2.0,
+          "total": 10.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000400",
       "customer": "Walk-in",
       "amount": 33.0,
@@ -223,8 +244,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 1010.0
+      "count": 3,
+      "total": 1076.0
     },
     {
       "name": "Cash",
