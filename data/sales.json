@@ -21780,26 +21780,26 @@
     },
     {
       "date": "2026-10-15",
-      "generatedAt": "2026-10-15T08:45:44Z",
+      "generatedAt": "2026-10-15T09:01:31Z",
       "pos": {
         "total": 63.0,
         "count": 3
       },
       "regularSales": {
-        "total": 2095.0,
-        "count": 2
+        "total": 2375.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 4295.0,
-        "count": 3
+        "total": 2830.0,
+        "count": 2
       },
       "cash": {
         "total": 53.0,
         "count": 2
       },
       "transfer": {
-        "total": 2105.0,
-        "count": 3
+        "total": 2385.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -21845,6 +21845,22 @@
               "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
               "qty": 6.0,
               "total": 0.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00434",
+          "customer": "Asrafee Bookshop",
+          "amount": 280.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:46",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70140] Hook Net 10\"",
+              "qty": 20.0,
+              "total": 280.0
             }
           ]
         },
