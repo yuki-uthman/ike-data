@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-15T12:31:15Z",
+  "generatedAt": "2026-10-15T12:45:55Z",
   "openCount": 152,
   "openTotal": 2043805.2,
   "quotationCount": 74,
@@ -373,7 +373,7 @@
       "id": 585,
       "ref": "S00586",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "Victorious Avenue",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-15",
       "expires": "2026-11-14",
