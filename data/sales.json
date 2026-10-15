@@ -21780,26 +21780,26 @@
     },
     {
       "date": "2026-10-15",
-      "generatedAt": "2026-10-15T10:45:44Z",
+      "generatedAt": "2026-10-15T11:01:18Z",
       "pos": {
-        "total": 663.0,
-        "count": 4
-      },
-      "regularSales": {
-        "total": 5040.0,
+        "total": 1663.0,
         "count": 5
       },
+      "regularSales": {
+        "total": 5680.0,
+        "count": 6
+      },
       "pendingQuotations": {
-        "total": 2830.0,
-        "count": 2
+        "total": 2190.0,
+        "count": 1
       },
       "cash": {
         "total": 653.0,
         "count": 3
       },
       "transfer": {
-        "total": 5050.0,
-        "count": 6
+        "total": 6690.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -21860,6 +21860,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00437 (Ike - 000403)",
+          "customer": "Dough Depot",
+          "amount": 1000.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "15:46",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 2.0,
+              "total": 560.0
+            },
+            {
+              "name": "[90039] Milkshake Powder Vanilla Blue",
+              "qty": 2.0,
+              "total": 440.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00432",
           "customer": "Nursery Bookshop",
           "amount": 870.0,
@@ -21877,6 +21898,27 @@
               "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
               "qty": 6.0,
               "total": 0.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00438",
+          "customer": "Seaview C-15)",
+          "amount": 640.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:49",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+              "qty": 1.0,
+              "total": 320.0
+            },
+            {
+              "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+              "qty": 1.0,
+              "total": 320.0
             }
           ]
         },
