@@ -21780,14 +21780,14 @@
     },
     {
       "date": "2026-10-15",
-      "generatedAt": "2026-10-15T09:01:31Z",
+      "generatedAt": "2026-10-15T09:15:49Z",
       "pos": {
         "total": 63.0,
         "count": 3
       },
       "regularSales": {
-        "total": 2375.0,
-        "count": 3
+        "total": 3840.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 2830.0,
@@ -21798,14 +21798,30 @@
         "count": 2
       },
       "transfer": {
-        "total": 2385.0,
-        "count": 4
+        "total": 3850.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00435",
+          "customer": "Food Quest Q.10",
+          "amount": 1465.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:12",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+              "qty": 1.0,
+              "total": 1465.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00433",
           "customer": "Sales",
