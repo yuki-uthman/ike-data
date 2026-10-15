@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-15T15:01:37Z",
-  "openCount": 152,
-  "openTotal": 2043805.2,
-  "quotationCount": 74,
-  "quotationTotal": 1064175.75,
+  "generatedAt": "2026-10-15T15:15:54Z",
+  "openCount": 153,
+  "openTotal": 2081990.2,
+  "quotationCount": 75,
+  "quotationTotal": 1102360.75,
   "orderCount": 78,
   "orderTotal": 979629.45,
   "days": [
@@ -305,12 +305,51 @@
     },
     {
       "date": "2026-10-15",
-      "count": 4,
-      "outstanding": 5219.0,
-      "total": 5219.0
+      "count": 5,
+      "outstanding": 43404.0,
+      "total": 43404.0
     }
   ],
   "quotations": [
+    {
+      "id": 587,
+      "ref": "S00588",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-15",
+      "expires": "2026-11-14",
+      "total": 38185.0,
+      "settled": 0.0,
+      "outstanding": 38185.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-SS-2000-X05] #2C Black Single Side 2000mm x5",
+          "qty": 1.0,
+          "total": 7950.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 2.0,
+          "total": 5700.0
+        },
+        {
+          "name": "[2C-BLK-DS-2000-X03] #2C Black Double Side 2000mm x3",
+          "qty": 2.0,
+          "total": 15600.0
+        },
+        {
+          "name": "[70196] Cash Counter 6ftx2ft",
+          "qty": 1.0,
+          "total": 7035.0
+        }
+      ]
+    },
     {
       "id": 576,
       "ref": "S00577",
