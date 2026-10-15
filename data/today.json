@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T09:31:03Z",
+  "generatedAt": "2026-10-15T09:45:44Z",
   "cash": {
     "total": 53.0,
     "count": 2
   },
   "transfer": {
-    "total": 3850.0,
-    "count": 5
+    "total": 5050.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -50,6 +50,22 @@
           "name": "Gas Burner Table",
           "qty": 1.0,
           "total": 425.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00436",
+      "customer": "3R Cafe & Bistro R-1",
+      "amount": 1200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:40",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[BC8P] Bagasse Clamshell 8\"",
+          "qty": 400.0,
+          "total": 1200.0
         }
       ]
     },
@@ -143,8 +159,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 3840.0
+      "count": 5,
+      "total": 5040.0
     },
     {
       "name": "Cash",
