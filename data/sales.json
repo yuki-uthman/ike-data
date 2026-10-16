@@ -22176,32 +22176,53 @@
     },
     {
       "date": "2026-10-16",
-      "generatedAt": "2026-10-16T11:45:43Z",
+      "generatedAt": "2026-10-16T12:01:20Z",
       "pos": {
         "total": 60.0,
         "count": 1
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 500.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 0.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 60.0,
         "count": 1
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 500.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00442",
+          "customer": "Sales",
+          "amount": 500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:47",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 1.0,
+              "total": 280.0
+            },
+            {
+              "name": "[90041] Milkshake Powder Red Velvet",
+              "qty": 1.0,
+              "total": 220.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000147",
           "customer": "Walk-in",
