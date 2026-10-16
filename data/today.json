@@ -1,216 +1,26 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "date": "2026-10-16",
-  "generatedAt": "2026-10-16T18:45:42Z",
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-16T19:01:12Z",
   "cash": {
-    "total": 3720.0,
-    "count": 5
+    "total": 0,
+    "count": 0
   },
   "transfer": {
-    "total": 582.0,
-    "count": 3
+    "total": 0,
+    "count": 0
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [
-    {
-      "ref": "INV/2026/00443",
-      "customer": "Yoodh",
-      "amount": 2460.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "21:57",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
-          "qty": 1.0,
-          "total": 1750.0
-        },
-        {
-          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
-          "qty": 2.0,
-          "total": 590.0
-        },
-        {
-          "name": "2C White Steel Barrier 900mm",
-          "qty": 2.0,
-          "total": 120.0
-        },
-        {
-          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
-          "qty": 4.0,
-          "total": 0.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00444",
-      "customer": "Yoodh",
-      "amount": 910.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:02",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
-          "qty": 1.0,
-          "total": 460.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00442",
-      "customer": "Sales",
-      "amount": 500.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "16:47",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 1.0,
-          "total": 280.0
-        },
-        {
-          "name": "[90041] Milkshake Powder Red Velvet",
-          "qty": 1.0,
-          "total": 220.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00445",
-      "customer": "Sales",
-      "amount": 270.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:49",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "Soft Napkin ARMAAN",
-          "qty": 30.0,
-          "total": 270.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000147",
-      "customer": "Walk-in",
-      "amount": 60.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "16:24",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[70088] Hand Towel",
-          "qty": 2.0,
-          "total": 60.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000408",
-      "customer": "Walk-in",
-      "amount": 57.0,
-      "method": "transfer",
-      "rawMethod": "Bank Transfer",
-      "time": "20:15",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[01618] Ceramic Bowl 9\" #6",
-          "qty": 1.0,
-          "total": 32.0
-        },
-        {
-          "name": "[01613] Creamic Bowl 7\"#1",
-          "qty": 1.0,
-          "total": 25.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000410",
-      "customer": "Walk-in",
-      "amount": 25.0,
-      "method": "transfer",
-      "rawMethod": "Bank Transfer",
-      "time": "21:22",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "Soft Napkin ARMAAN",
-          "qty": 1.0,
-          "total": 15.0
-        },
-        {
-          "name": "[8368] Aluminium Foil Box 8368 Loose",
-          "qty": 5.0,
-          "total": 10.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000409",
-      "customer": "Walk-in",
-      "amount": 20.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "20:59",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[01791] Brush Sponge 4 inch #35",
-          "qty": 1.0,
-          "total": 20.0
-        }
-      ]
-    }
-  ],
-  "methodsSeen": [
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 5,
-      "total": 3720.0
-    },
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 1,
-      "total": 500.0
-    },
-    {
-      "name": "Bank Transfer",
-      "method": "transfer",
-      "count": 2,
-      "total": 82.0
-    }
-  ],
+  "transactions": [],
+  "methodsSeen": [],
   "cashOut": {
     "total": 0,
     "count": 0
   },
   "cashOutTransactions": [],
-  "till": {
-    "opening": 2863.5,
-    "expectedClosing": 6583.5,
-    "counted": 6383.5,
-    "difference": -200.0,
-    "closed": true,
-    "sessionCount": 1
-  }
+  "till": null
 }
