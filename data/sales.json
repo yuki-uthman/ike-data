@@ -22176,22 +22176,22 @@
     },
     {
       "date": "2026-10-16",
-      "generatedAt": "2026-10-16T16:45:44Z",
+      "generatedAt": "2026-10-16T16:58:43Z",
       "pos": {
         "total": 162.0,
         "count": 4
       },
       "regularSales": {
-        "total": 500.0,
-        "count": 1
+        "total": 2960.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 80.0,
-        "count": 2
+        "total": 2540.0,
+        "count": 3
       },
       "transfer": {
         "total": 582.0,
@@ -22202,6 +22202,37 @@
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00443",
+          "customer": "Yoodh",
+          "amount": 2460.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:57",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+              "qty": 1.0,
+              "total": 1750.0
+            },
+            {
+              "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+              "qty": 2.0,
+              "total": 590.0
+            },
+            {
+              "name": "2C White Steel Barrier 900mm",
+              "qty": 2.0,
+              "total": 120.0
+            },
+            {
+              "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+              "qty": 4.0,
+              "total": 0.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00442",
           "customer": "Sales",
@@ -22305,7 +22336,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2863.5,
-        "expectedClosing": 2943.5,
+        "expectedClosing": 5403.5,
         "counted": null,
         "difference": null,
         "closed": false,
