@@ -22176,10 +22176,10 @@
     },
     {
       "date": "2026-10-16",
-      "generatedAt": "2026-10-16T15:01:20Z",
+      "generatedAt": "2026-10-16T15:15:44Z",
       "pos": {
-        "total": 60.0,
-        "count": 1
+        "total": 117.0,
+        "count": 2
       },
       "regularSales": {
         "total": 500.0,
@@ -22194,8 +22194,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 500.0,
-        "count": 1
+        "total": 557.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -22236,6 +22236,27 @@
               "name": "[70088] Hand Towel",
               "qty": 2.0,
               "total": 60.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000408",
+          "customer": "Walk-in",
+          "amount": 57.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:15",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01618] Ceramic Bowl 9\" #6",
+              "qty": 1.0,
+              "total": 32.0
+            },
+            {
+              "name": "[01613] Creamic Bowl 7\"#1",
+              "qty": 1.0,
+              "total": 25.0
             }
           ]
         }
