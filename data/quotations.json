@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-16T16:58:52Z",
-  "openCount": 154,
-  "openTotal": 2082410.2,
+  "generatedAt": "2026-10-16T17:01:25Z",
+  "openCount": 155,
+  "openTotal": 2083320.2,
   "quotationCount": 76,
   "quotationTotal": 1102780.75,
-  "orderCount": 78,
-  "orderTotal": 979629.45,
+  "orderCount": 79,
+  "orderTotal": 980539.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -311,12 +311,36 @@
     },
     {
       "date": "2026-10-16",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 910.0,
+      "total": 910.0
     }
   ],
   "quotations": [
+    {
+      "id": 592,
+      "ref": "S00593",
+      "kind": "order",
+      "customer": "Yoodh",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-16",
+      "expires": "2026-11-15",
+      "total": 910.0,
+      "settled": 0.0,
+      "outstanding": 910.0,
+      "lines": [
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 1.0,
+          "total": 460.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        }
+      ]
+    },
     {
       "id": 587,
       "ref": "S00588",
