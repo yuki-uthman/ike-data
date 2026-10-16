@@ -22176,10 +22176,10 @@
     },
     {
       "date": "2026-10-16",
-      "generatedAt": "2026-10-16T16:15:44Z",
+      "generatedAt": "2026-10-16T16:31:02Z",
       "pos": {
-        "total": 137.0,
-        "count": 3
+        "total": 162.0,
+        "count": 4
       },
       "regularSales": {
         "total": 500.0,
@@ -22194,8 +22194,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 557.0,
-        "count": 2
+        "total": 582.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -22257,6 +22257,27 @@
               "name": "[01613] Creamic Bowl 7\"#1",
               "qty": 1.0,
               "total": 25.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000410",
+          "customer": "Walk-in",
+          "amount": 25.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:22",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soft Napkin ARMAAN",
+              "qty": 1.0,
+              "total": 15.0
+            },
+            {
+              "name": "[8368] Aluminium Foil Box 8368 Loose",
+              "qty": 5.0,
+              "total": 10.0
             }
           ]
         },
