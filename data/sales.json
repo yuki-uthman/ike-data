@@ -22176,22 +22176,22 @@
     },
     {
       "date": "2026-10-16",
-      "generatedAt": "2026-10-16T17:01:16Z",
+      "generatedAt": "2026-10-16T17:15:44Z",
       "pos": {
         "total": 162.0,
         "count": 4
       },
       "regularSales": {
-        "total": 2960.0,
-        "count": 2
+        "total": 3870.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 910.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
-        "total": 2540.0,
-        "count": 3
+        "total": 3450.0,
+        "count": 4
       },
       "transfer": {
         "total": 582.0,
@@ -22230,6 +22230,27 @@
               "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
               "qty": 4.0,
               "total": 0.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00444",
+          "customer": "Yoodh",
+          "amount": 910.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:02",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+              "qty": 1.0,
+              "total": 460.0
+            },
+            {
+              "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+              "qty": 1.0,
+              "total": 450.0
             }
           ]
         },
@@ -22336,7 +22357,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2863.5,
-        "expectedClosing": 5403.5,
+        "expectedClosing": 6313.5,
         "counted": null,
         "difference": null,
         "closed": false,
