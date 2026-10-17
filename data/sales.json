@@ -22347,32 +22347,58 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T11:15:40Z",
+      "generatedAt": "2026-10-17T11:31:01Z",
       "pos": {
-        "total": 353.0,
-        "count": 5
+        "total": 382.0,
+        "count": 6
       },
       "regularSales": {
-        "total": 6341.0,
-        "count": 6
+        "total": 8531.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 25380.0,
         "count": 3
       },
       "cash": {
-        "total": 353.0,
-        "count": 5
+        "total": 382.0,
+        "count": 6
       },
       "transfer": {
-        "total": 6341.0,
-        "count": 6
+        "total": 8531.0,
+        "count": 7
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00452",
+          "customer": "Glanz Ptv.Ltd.",
+          "amount": 2190.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:24",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+              "qty": 6.0,
+              "total": 1740.0
+            },
+            {
+              "name": "[70218] RD8 Price Border Strip  Green 900mm (875)",
+              "qty": 18.0,
+              "total": 450.0
+            },
+            {
+              "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+              "qty": 12.0,
+              "total": 0.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00451",
           "customer": "Quick Space E-7",
@@ -22573,6 +22599,22 @@
           ]
         },
         {
+          "ref": "Ike - 000416",
+          "customer": "Walk-in",
+          "amount": 29.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:17",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01698] Strainer Steel 12cm Ym-055#16",
+              "qty": 1.0,
+              "total": 29.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000412",
           "customer": "Walk-in",
           "amount": 20.0,
@@ -22620,7 +22662,7 @@
       ],
       "till": {
         "opening": 2883.0,
-        "expectedClosing": 3226.0,
+        "expectedClosing": 3255.0,
         "counted": null,
         "difference": null,
         "closed": false,
