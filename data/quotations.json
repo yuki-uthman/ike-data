@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-17T08:31:12Z",
+  "generatedAt": "2026-10-17T08:45:45Z",
   "openCount": 158,
   "openTotal": 2108610.2,
-  "quotationCount": 79,
-  "quotationTotal": 1128978.75,
-  "orderCount": 79,
-  "orderTotal": 979631.45,
+  "quotationCount": 78,
+  "quotationTotal": 1127740.75,
+  "orderCount": 80,
+  "orderTotal": 980869.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -379,7 +379,7 @@
     {
       "id": 600,
       "ref": "S00601",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Yazuuru N-5",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-17",
