@@ -2,20 +2,41 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T12:30:58Z",
+  "generatedAt": "2026-10-17T12:45:40Z",
   "cash": {
     "total": 382.0,
     "count": 6
   },
   "transfer": {
-    "total": 11241.0,
-    "count": 9
+    "total": 18491.0,
+    "count": 10
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00454",
+      "customer": "Family One Mart M-8",
+      "amount": 7250.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:33",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 10.0,
+          "total": 5500.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Case (120pcs)",
+          "qty": 5.0,
+          "total": 1750.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00453",
       "customer": "Koobe E-08",
@@ -341,8 +362,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 11171.0
+      "count": 9,
+      "total": 18421.0
     },
     {
       "name": "Cash",
