@@ -22347,10 +22347,10 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T05:15:41Z",
+      "generatedAt": "2026-10-17T05:30:56Z",
       "pos": {
-        "total": 23.0,
-        "count": 2
+        "total": 113.0,
+        "count": 3
       },
       "regularSales": {
         "total": 420.0,
@@ -22361,8 +22361,8 @@
         "count": 1
       },
       "cash": {
-        "total": 23.0,
-        "count": 2
+        "total": 113.0,
+        "count": 3
       },
       "transfer": {
         "total": 420.0,
@@ -22386,6 +22386,27 @@
               "name": "Cocktail Umbrella",
               "qty": 3.0,
               "total": 420.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000413",
+          "customer": "Walk-in",
+          "amount": 90.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:17",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[PP9] PAPER PLATE 9\"",
+              "qty": 1.0,
+              "total": 50.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 2.0,
+              "total": 40.0
             }
           ]
         },
@@ -22437,7 +22458,7 @@
       ],
       "till": {
         "opening": 2883.0,
-        "expectedClosing": 2896.0,
+        "expectedClosing": 2986.0,
         "counted": null,
         "difference": null,
         "closed": false,
