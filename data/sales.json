@@ -22347,10 +22347,10 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T11:45:39Z",
+      "generatedAt": "2026-10-17T12:01:14Z",
       "pos": {
-        "total": 382.0,
-        "count": 6
+        "total": 452.0,
+        "count": 7
       },
       "regularSales": {
         "total": 8531.0,
@@ -22365,8 +22365,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 8531.0,
-        "count": 7
+        "total": 8601.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -22579,6 +22579,27 @@
               "name": "[02228] Paper Cup 6oz (Bundle)",
               "qty": 2.0,
               "total": 40.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000417",
+          "customer": "Walk-in",
+          "amount": 70.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "16:46",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70110] paper plates 9 inch 100pcs",
+              "qty": 1.0,
+              "total": 50.0
+            },
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
             }
           ]
         },
