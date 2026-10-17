@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-17T05:45:48Z",
-  "openCount": 155,
-  "openTotal": 2082992.2,
-  "quotationCount": 76,
-  "quotationTotal": 1103360.75,
+  "generatedAt": "2026-10-17T06:01:19Z",
+  "openCount": 156,
+  "openTotal": 2101792.2,
+  "quotationCount": 77,
+  "quotationTotal": 1122160.75,
   "orderCount": 79,
   "orderTotal": 979631.45,
   "days": [
@@ -317,12 +317,41 @@
     },
     {
       "date": "2026-10-17",
-      "count": 2,
-      "outstanding": 1002.0,
-      "total": 1002.0
+      "count": 3,
+      "outstanding": 19802.0,
+      "total": 19802.0
     }
   ],
   "quotations": [
+    {
+      "id": 598,
+      "ref": "S00599",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-17",
+      "expires": "2026-11-16",
+      "total": 18800.0,
+      "settled": 0.0,
+      "outstanding": 18800.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
+          "qty": 1.0,
+          "total": 2800.0
+        },
+        {
+          "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
+          "qty": 1.0,
+          "total": 5400.0
+        },
+        {
+          "name": "[2C-WHT-DS-2000-X04] #2C White Double Side 2000mm x4",
+          "qty": 1.0,
+          "total": 10600.0
+        }
+      ]
+    },
     {
       "id": 596,
       "ref": "S00597",

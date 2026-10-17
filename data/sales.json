@@ -22347,32 +22347,58 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T05:45:38Z",
+      "generatedAt": "2026-10-17T06:01:11Z",
       "pos": {
         "total": 113.0,
         "count": 3
       },
       "regularSales": {
-        "total": 420.0,
-        "count": 1
+        "total": 1050.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 1000.0,
-        "count": 1
+        "total": 19800.0,
+        "count": 2
       },
       "cash": {
         "total": 113.0,
         "count": 3
       },
       "transfer": {
-        "total": 420.0,
-        "count": 1
+        "total": 1050.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00447",
+          "customer": "3 R Mart 0-2",
+          "amount": 630.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:54",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+              "qty": 2.0,
+              "total": 310.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+              "qty": 1.0,
+              "total": 160.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+              "qty": 1.0,
+              "total": 160.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00446",
           "customer": "Trade Maldives Pvt Ltd",
