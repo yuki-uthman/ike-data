@@ -22347,7 +22347,7 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T17:15:42Z",
+      "generatedAt": "2026-10-17T17:30:57Z",
       "pos": {
         "total": 1114.0,
         "count": 9
@@ -22821,10 +22821,17 @@
         }
       ],
       "cashOut": {
-        "total": 10.0,
-        "count": 1
+        "total": 50.0,
+        "count": 2
       },
       "cashOutTransactions": [
+        {
+          "reason": "Tea money --Jafar 2 days",
+          "amount": 40.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:26"
+        },
         {
           "reason": "gate pass --Nagaraj",
           "amount": 10.0,
@@ -22835,7 +22842,7 @@
       ],
       "till": {
         "opening": 2883.0,
-        "expectedClosing": 3740.0,
+        "expectedClosing": 3700.0,
         "counted": null,
         "difference": null,
         "closed": false,
