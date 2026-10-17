@@ -2,20 +2,46 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T08:45:37Z",
+  "generatedAt": "2026-10-17T09:01:09Z",
   "cash": {
     "total": 158.0,
     "count": 4
   },
   "transfer": {
-    "total": 1330.0,
-    "count": 3
+    "total": 2568.0,
+    "count": 4
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00449",
+      "customer": "Yazuuru N-5",
+      "amount": 1238.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:46",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 2.0,
+          "total": 600.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 2.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 2.0,
+          "total": 318.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00447",
       "customer": "3 R Mart 0-2",
@@ -148,8 +174,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 1330.0
+      "count": 4,
+      "total": 2568.0
     },
     {
       "name": "Cash",
