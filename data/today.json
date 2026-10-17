@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T04:45:39Z",
+  "generatedAt": "2026-10-17T04:58:55Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 3.0,
+    "count": 1
   },
   "transfer": {
     "total": 0,
@@ -15,8 +15,32 @@
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "Ike - 000411",
+      "customer": "Walk-in",
+      "amount": 3.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "09:52",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[0012] Sponge WJ631 Loose PC",
+          "qty": 1.0,
+          "total": 3.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 3.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
@@ -24,7 +48,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2883.0,
-    "expectedClosing": 2883.0,
+    "expectedClosing": 2886.0,
     "counted": null,
     "difference": null,
     "closed": false,
