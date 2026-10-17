@@ -22347,14 +22347,14 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T12:15:43Z",
+      "generatedAt": "2026-10-17T12:30:58Z",
       "pos": {
         "total": 452.0,
         "count": 7
       },
       "regularSales": {
-        "total": 8531.0,
-        "count": 7
+        "total": 11171.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 27230.0,
@@ -22365,14 +22365,40 @@
         "count": 6
       },
       "transfer": {
-        "total": 8601.0,
-        "count": 8
+        "total": 11241.0,
+        "count": 9
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00453",
+          "customer": "Koobe E-08",
+          "amount": 2640.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:18",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
+              "qty": 6.0,
+              "total": 1584.0
+            },
+            {
+              "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+              "qty": 2.0,
+              "total": 528.0
+            },
+            {
+              "name": "Soklin Softener Paris In Love (Pink) - Case (12pcs, 820 ml)",
+              "qty": 2.0,
+              "total": 528.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00452",
           "customer": "Glanz Ptv.Ltd.",

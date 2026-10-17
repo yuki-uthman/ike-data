@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-17T12:15:53Z",
+  "generatedAt": "2026-10-17T12:31:06Z",
   "openCount": 156,
-  "openTotal": 2102589.2,
+  "openTotal": 2107199.2,
   "quotationCount": 76,
   "quotationTotal": 1120317.75,
   "orderCount": 80,
-  "orderTotal": 982271.45,
+  "orderTotal": 986881.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -318,8 +318,8 @@
     {
       "date": "2026-10-17",
       "count": 6,
-      "outstanding": 29872.0,
-      "total": 29872.0
+      "outstanding": 34482.0,
+      "total": 34482.0
     }
   ],
   "quotations": [
@@ -353,6 +353,30 @@
       ]
     },
     {
+      "id": 604,
+      "ref": "S00605",
+      "kind": "order",
+      "customer": "Family One Mart M-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-17",
+      "expires": "2026-11-16",
+      "total": 7250.0,
+      "settled": 0.0,
+      "outstanding": 7250.0,
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 10.0,
+          "total": 5500.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Case (120pcs)",
+          "qty": 5.0,
+          "total": 1750.0
+        }
+      ]
+    },
+    {
       "id": 599,
       "ref": "S00600",
       "kind": "quotation",
@@ -373,35 +397,6 @@
           "name": "[70176] 51 Warehouse Rack White Large",
           "qty": 1.0,
           "total": 1980.0
-        }
-      ]
-    },
-    {
-      "id": 457,
-      "ref": "S00458",
-      "kind": "order",
-      "customer": "Koobe E-08",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-17",
-      "expires": "2026-11-04",
-      "total": 2640.0,
-      "settled": 0.0,
-      "outstanding": 2640.0,
-      "lines": [
-        {
-          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
-          "qty": 2.0,
-          "total": 528.0
-        },
-        {
-          "name": "Soklin Softener Paris In Love (Pink) - Case (12pcs, 820 ml)",
-          "qty": 2.0,
-          "total": 528.0
-        },
-        {
-          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
-          "qty": 6.0,
-          "total": 1584.0
         }
       ]
     },
