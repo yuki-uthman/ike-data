@@ -22347,32 +22347,64 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T05:01:09Z",
+      "generatedAt": "2026-10-17T05:15:41Z",
       "pos": {
-        "total": 3.0,
-        "count": 1
+        "total": 23.0,
+        "count": 2
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 3.0,
+        "total": 420.0,
         "count": 1
       },
+      "pendingQuotations": {
+        "total": 1000.0,
+        "count": 1
+      },
+      "cash": {
+        "total": 23.0,
+        "count": 2
+      },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 420.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00446",
+          "customer": "Trade Maldives Pvt Ltd",
+          "amount": 420.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:09",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Cocktail Umbrella",
+              "qty": 3.0,
+              "total": 420.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000412",
+          "customer": "Walk-in",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:10",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 1.0,
+              "total": 20.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000411",
           "customer": "Walk-in",
@@ -22391,13 +22423,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 10.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "gate pass --Nagaraj",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:15"
+        }
+      ],
       "till": {
         "opening": 2883.0,
-        "expectedClosing": 2886.0,
+        "expectedClosing": 2896.0,
         "counted": null,
         "difference": null,
         "closed": false,
