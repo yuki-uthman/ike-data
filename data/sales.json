@@ -22347,14 +22347,14 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T09:15:38Z",
+      "generatedAt": "2026-10-17T09:30:56Z",
       "pos": {
         "total": 158.0,
         "count": 4
       },
       "regularSales": {
-        "total": 2568.0,
-        "count": 4
+        "total": 6341.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 25380.0,
@@ -22365,14 +22365,76 @@
         "count": 4
       },
       "transfer": {
-        "total": 2568.0,
-        "count": 4
+        "total": 6341.0,
+        "count": 6
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00451",
+          "customer": "Quick Space E-7",
+          "amount": 2098.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:23",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
+              "qty": 2.0,
+              "total": 710.0
+            },
+            {
+              "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+              "qty": 2.0,
+              "total": 710.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00450",
+          "customer": "Venus D-12",
+          "amount": 1675.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:22",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70182] Gas Burner ( High Pressure )",
+              "qty": 1.0,
+              "total": 800.0
+            },
+            {
+              "name": "Gas Burner Table",
+              "qty": 1.0,
+              "total": 425.0
+            },
+            {
+              "name": "[70037] Gas Regular (High Pressure)",
+              "qty": 1.0,
+              "total": 360.0
+            },
+            {
+              "name": "[70215] Gas Pipe ( Yellow )",
+              "qty": 6.0,
+              "total": 90.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00449",
           "customer": "Yazuuru N-5",

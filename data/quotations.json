@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-17T09:15:45Z",
-  "openCount": 157,
-  "openTotal": 2105027.2,
+  "generatedAt": "2026-10-17T09:31:04Z",
+  "openCount": 156,
+  "openTotal": 2102929.2,
   "quotationCount": 77,
   "quotationTotal": 1123297.75,
-  "orderCount": 80,
-  "orderTotal": 981729.45,
+  "orderCount": 79,
+  "orderTotal": 979631.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -317,9 +317,9 @@
     },
     {
       "date": "2026-10-17",
-      "count": 5,
-      "outstanding": 27480.0,
-      "total": 27480.0
+      "count": 4,
+      "outstanding": 25382.0,
+      "total": 25382.0
     }
   ],
   "quotations": [
@@ -373,40 +373,6 @@
           "name": "[70176] 51 Warehouse Rack White Large",
           "qty": 1.0,
           "total": 1980.0
-        }
-      ]
-    },
-    {
-      "id": 575,
-      "ref": "S00576",
-      "kind": "order",
-      "customer": "Quick Space E-7",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-17",
-      "expires": "2026-11-13",
-      "total": 2098.0,
-      "settled": 0.0,
-      "outstanding": 2098.0,
-      "lines": [
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
-          "qty": 2.0,
-          "total": 710.0
-        },
-        {
-          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
-          "qty": 2.0,
-          "total": 710.0
         }
       ]
     },
