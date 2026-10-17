@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-17T04:31:04Z",
-  "openCount": 154,
-  "openTotal": 2082410.2,
+  "generatedAt": "2026-10-17T04:45:45Z",
+  "openCount": 155,
+  "openTotal": 2082412.2,
   "quotationCount": 76,
   "quotationTotal": 1102780.75,
-  "orderCount": 78,
-  "orderTotal": 979629.45,
+  "orderCount": 79,
+  "orderTotal": 979631.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -317,12 +317,31 @@
     },
     {
       "date": "2026-10-17",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2.0,
+      "total": 2.0
     }
   ],
   "quotations": [
+    {
+      "id": 595,
+      "ref": "S00596",
+      "kind": "order",
+      "customer": "Testing",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-17",
+      "expires": "2026-11-16",
+      "total": 2.0,
+      "settled": 0.0,
+      "outstanding": 2.0,
+      "lines": [
+        {
+          "name": "[8389] Aluminium Foil Box 8389 Loose",
+          "qty": 1.0,
+          "total": 2.0
+        }
+      ]
+    },
     {
       "id": 587,
       "ref": "S00588",
