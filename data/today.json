@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T16:15:41Z",
+  "generatedAt": "2026-10-17T16:30:57Z",
   "cash": {
     "total": 672.0,
     "count": 7
   },
   "transfer": {
-    "total": 20759.0,
-    "count": 12
+    "total": 21226.0,
+    "count": 13
   },
   "other": {
     "total": 0,
@@ -230,6 +230,32 @@
       ]
     },
     {
+      "ref": "Ike - 000418",
+      "customer": "Walk-in",
+      "amount": 467.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "21:19",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02137] Plastic container round big 02061",
+          "qty": 3.0,
+          "total": 177.0
+        },
+        {
+          "name": "[A16] Plastic Container A16",
+          "qty": 50.0,
+          "total": 150.0
+        },
+        {
+          "name": "[A12B] Plastic Container A12 (Bundle)",
+          "qty": 1.0,
+          "total": 140.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00455",
       "customer": "Sales",
       "amount": 440.0,
@@ -437,8 +463,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 70.0
+      "count": 2,
+      "total": 537.0
     }
   ],
   "cashOut": {
