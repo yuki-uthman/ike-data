@@ -22347,14 +22347,14 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T16:01:11Z",
+      "generatedAt": "2026-10-17T16:08:13Z",
       "pos": {
         "total": 452.0,
         "count": 7
       },
       "regularSales": {
-        "total": 19151.0,
-        "count": 11
+        "total": 20979.0,
+        "count": 12
       },
       "pendingQuotations": {
         "total": 27230.0,
@@ -22365,8 +22365,8 @@
         "count": 7
       },
       "transfer": {
-        "total": 18931.0,
-        "count": 11
+        "total": 20759.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -22474,6 +22474,32 @@
               "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
               "qty": 1.0,
               "total": 339.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00457",
+          "customer": "Nimet Plus C-4",
+          "amount": 1828.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:05",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 2.0,
+              "total": 678.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 2.0,
+              "total": 600.0
+            },
+            {
+              "name": "Hanger Plastic A17 - Case (144pcs)",
+              "qty": 1.0,
+              "total": 550.0
             }
           ]
         },
