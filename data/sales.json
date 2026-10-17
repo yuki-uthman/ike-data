@@ -22347,10 +22347,10 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T16:45:41Z",
+      "generatedAt": "2026-10-17T17:01:11Z",
       "pos": {
-        "total": 919.0,
-        "count": 8
+        "total": 1114.0,
+        "count": 9
       },
       "regularSales": {
         "total": 20979.0,
@@ -22358,11 +22358,11 @@
       },
       "pendingQuotations": {
         "total": 27230.0,
-        "count": 4
+        "count": 5
       },
       "cash": {
-        "total": 672.0,
-        "count": 7
+        "total": 867.0,
+        "count": 8
       },
       "transfer": {
         "total": 21226.0,
@@ -22682,6 +22682,22 @@
           ]
         },
         {
+          "ref": "Ike - 000419",
+          "customer": "Walk-in",
+          "amount": 195.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:46",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01955] ironing board large",
+              "qty": 1.0,
+              "total": 195.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000415",
           "customer": "Walk-in",
           "amount": 195.0,
@@ -22819,7 +22835,7 @@
       ],
       "till": {
         "opening": 2883.0,
-        "expectedClosing": 3545.0,
+        "expectedClosing": 3740.0,
         "counted": null,
         "difference": null,
         "closed": false,
