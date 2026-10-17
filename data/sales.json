@@ -22347,10 +22347,10 @@
     },
     {
       "date": "2026-10-17",
-      "generatedAt": "2026-10-17T09:45:38Z",
+      "generatedAt": "2026-10-17T10:01:12Z",
       "pos": {
-        "total": 158.0,
-        "count": 4
+        "total": 353.0,
+        "count": 5
       },
       "regularSales": {
         "total": 6341.0,
@@ -22361,8 +22361,8 @@
         "count": 3
       },
       "cash": {
-        "total": 158.0,
-        "count": 4
+        "total": 353.0,
+        "count": 5
       },
       "transfer": {
         "total": 6341.0,
@@ -22406,7 +22406,7 @@
         },
         {
           "ref": "INV/2026/00450",
-          "customer": "Venus D-12",
+          "customer": "Venus D-15",
           "amount": 1675.0,
           "method": "transfer",
           "rawMethod": "Bank",
@@ -22520,6 +22520,22 @@
           ]
         },
         {
+          "ref": "Ike - 000415",
+          "customer": "Walk-in",
+          "amount": 195.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:59",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01965] Mop Flat Plastic #15",
+              "qty": 1.0,
+              "total": 195.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000413",
           "customer": "Walk-in",
           "amount": 90.0,
@@ -22604,7 +22620,7 @@
       ],
       "till": {
         "opening": 2883.0,
-        "expectedClosing": 3031.0,
+        "expectedClosing": 3226.0,
         "counted": null,
         "difference": null,
         "closed": false,
