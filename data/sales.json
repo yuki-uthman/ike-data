@@ -22816,14 +22816,14 @@
     },
     {
       "date": "2026-10-18",
-      "generatedAt": "2026-10-18T08:30:59Z",
+      "generatedAt": "2026-10-18T08:45:42Z",
       "pos": {
         "total": 146.0,
         "count": 4
       },
       "regularSales": {
-        "total": 3960.0,
-        "count": 1
+        "total": 9840.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 15525.0,
@@ -22834,14 +22834,35 @@
         "count": 4
       },
       "transfer": {
-        "total": 3960.0,
-        "count": 1
+        "total": 9840.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00459",
+          "customer": "Lagoon Mart U-1",
+          "amount": 4500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:35",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Hanger Plastic A17 - Case (144pcs)",
+              "qty": 5.0,
+              "total": 2750.0
+            },
+            {
+              "name": "Hanger Plastic C1-10 - Case (120pcs)",
+              "qty": 5.0,
+              "total": 1750.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00458",
           "customer": "Fasmugoo F-10",
@@ -22855,6 +22876,32 @@
               "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
               "qty": 15.0,
               "total": 3960.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00460",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1380.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:40",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[01647] Electric Kettle 1.8L Hoffmas#HM-2537",
+              "qty": 5.0,
+              "total": 1195.0
+            },
+            {
+              "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
+              "qty": 1.0,
+              "total": 110.0
+            },
+            {
+              "name": "[02068] Flower Pot 23x20cm E300x260",
+              "qty": 5.0,
+              "total": 75.0
             }
           ]
         },
