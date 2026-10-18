@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T06:15:37Z",
+  "generatedAt": "2026-10-18T06:30:57Z",
   "cash": {
     "total": 146.0,
     "count": 4
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 3960.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00458",
+      "customer": "Fasmugoo F-10",
+      "amount": 3960.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:24",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+          "qty": 15.0,
+          "total": 3960.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000421",
       "customer": "Walk-in",
@@ -92,6 +108,12 @@
     }
   ],
   "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 3960.0
+    },
     {
       "name": "Cash",
       "method": "cash",

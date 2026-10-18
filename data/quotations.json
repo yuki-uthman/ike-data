@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-18T06:15:47Z",
-  "openCount": 156,
-  "openTotal": 2115423.2,
+  "generatedAt": "2026-10-18T06:31:09Z",
+  "openCount": 155,
+  "openTotal": 2111463.2,
   "quotationCount": 78,
   "quotationTotal": 1132422.75,
-  "orderCount": 78,
-  "orderTotal": 983000.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -323,9 +323,9 @@
     },
     {
       "date": "2026-10-18",
-      "count": 4,
-      "outstanding": 20025.0,
-      "total": 20025.0
+      "count": 3,
+      "outstanding": 16065.0,
+      "total": 16065.0
     }
   ],
   "quotations": [
@@ -355,25 +355,6 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 40.0,
           "total": 1000.0
-        }
-      ]
-    },
-    {
-      "id": 538,
-      "ref": "S00539",
-      "kind": "order",
-      "customer": "Fasmugoo F-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-18",
-      "expires": "2026-11-11",
-      "total": 3960.0,
-      "settled": 0.0,
-      "outstanding": 3960.0,
-      "lines": [
-        {
-          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
-          "qty": 15.0,
-          "total": 3960.0
         }
       ]
     },
