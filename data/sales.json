@@ -22816,7 +22816,7 @@
     },
     {
       "date": "2026-10-18",
-      "generatedAt": "2026-10-18T17:01:13Z",
+      "generatedAt": "2026-10-18T17:15:41Z",
       "pos": {
         "total": 559.0,
         "count": 11
@@ -23182,13 +23182,35 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 3710.0,
+        "count": 3
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Owners drawing-- Uthman",
+          "amount": 3500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:03"
+        },
+        {
+          "reason": "Extension cord 3 way 3mtr multi (TP-031 Tersen) --Hassan",
+          "amount": 200.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:05"
+        },
+        {
+          "reason": "Gate pass-- Nagarajn",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:04"
+        }
+      ],
       "till": {
         "opening": 3700.0,
-        "expectedClosing": 5886.0,
+        "expectedClosing": 2176.0,
         "counted": null,
         "difference": null,
         "closed": false,
