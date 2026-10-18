@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-18T17:15:59Z",
+  "generatedAt": "2026-10-18T17:31:14Z",
   "totalCases": 302.0,
   "quoted": {
     "cases": 117.0,
@@ -195,9 +195,9 @@
       "size": "820 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 3.0,
+      "cases": 0.0,
       "profitPct": 9.3,
-      "profitBasis": "sold"
+      "profitBasis": "list"
     },
     {
       "id": 2046,
@@ -205,7 +205,7 @@
       "size": "820 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 22.0,
+      "cases": 18.0,
       "profitPct": 9.3,
       "profitBasis": "sold"
     },
@@ -215,7 +215,7 @@
       "size": "820 ml",
       "pack": "12 pcs",
       "active": true,
-      "cases": 21.0,
+      "cases": 25.0,
       "profitPct": 9.3,
       "profitBasis": "sold"
     },
@@ -235,8 +235,8 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 8.0,
-      "profitPct": 4.6,
+      "cases": 9.0,
+      "profitPct": 1.8,
       "profitBasis": "sold"
     },
     {
@@ -265,9 +265,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 0,
-      "profitPct": 4.6,
-      "profitBasis": "list"
+      "cases": 1.0,
+      "profitPct": 0.0,
+      "profitBasis": "sold"
     },
     {
       "id": 2060,
@@ -275,9 +275,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 0,
-      "profitPct": 4.6,
-      "profitBasis": "list"
+      "cases": 1.0,
+      "profitPct": 0.0,
+      "profitBasis": "sold"
     },
     {
       "id": 2081,
@@ -328,9 +328,9 @@
         "2036": 1.0,
         "2040": 1.0,
         "2042": 1.0,
-        "2044": 1.0,
-        "2046": 1.0,
-        "2048": 1.0,
+        "2052": 1.0,
+        "2058": 1.0,
+        "2060": 1.0,
         "2070": 1.0,
         "2072": 1.0,
         "2075": 1.0,
@@ -529,9 +529,8 @@
         "2032": 3.0,
         "2034": 3.0,
         "2040": 3.0,
-        "2044": 2.0,
-        "2046": 6.0,
-        "2048": 2.0,
+        "2046": 3.0,
+        "2048": 7.0,
         "2050": 2.0,
         "2052": 2.0,
         "2064": 2.0
