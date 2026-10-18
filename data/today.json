@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T04:30:57Z",
+  "generatedAt": "2026-10-18T04:45:39Z",
   "cash": {
-    "total": 50.0,
-    "count": 1
+    "total": 127.0,
+    "count": 3
   },
   "transfer": {
     "total": 0,
@@ -16,6 +16,32 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "Ike - 000421",
+      "customer": "Walk-in",
+      "amount": 65.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "09:33",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70063] Brush Toilet 3212 A62",
+          "qty": 1.0,
+          "total": 32.0
+        },
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 1.0,
+          "total": 18.0
+        },
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
     {
       "ref": "Ike - 000420",
       "customer": "Walk-in",
@@ -31,14 +57,30 @@
           "total": 50.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000422",
+      "customer": "Walk-in",
+      "amount": 12.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "09:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8368] Aluminium Foil Box 8368 Loose",
+          "qty": 6.0,
+          "total": 12.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 50.0
+      "count": 3,
+      "total": 127.0
     }
   ],
   "cashOut": {
@@ -48,7 +90,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3700.0,
-    "expectedClosing": 3750.0,
+    "expectedClosing": 3827.0,
     "counted": null,
     "difference": null,
     "closed": false,
