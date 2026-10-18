@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-18T06:31:09Z",
+  "generatedAt": "2026-10-18T06:45:47Z",
   "openCount": 155,
-  "openTotal": 2111463.2,
+  "openTotal": 2115423.2,
   "quotationCount": 78,
-  "quotationTotal": 1132422.75,
+  "quotationTotal": 1136382.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -324,8 +324,8 @@
     {
       "date": "2026-10-18",
       "count": 3,
-      "outstanding": 16065.0,
-      "total": 16065.0
+      "outstanding": 20025.0,
+      "total": 20025.0
     }
   ],
   "quotations": [
@@ -359,6 +359,30 @@
       ]
     },
     {
+      "id": 609,
+      "ref": "S00610",
+      "kind": "quotation",
+      "customer": "Lagoon Mart U-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-18",
+      "expires": "2026-11-17",
+      "total": 4500.0,
+      "settled": 0.0,
+      "outstanding": 4500.0,
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 5.0,
+          "total": 2750.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Case (120pcs)",
+          "qty": 5.0,
+          "total": 1750.0
+        }
+      ]
+    },
+    {
       "id": 610,
       "ref": "S00611",
       "kind": "quotation",
@@ -384,30 +408,6 @@
           "name": "[01010] paper straw 8mm 50 pcs",
           "qty": 20.0,
           "total": 500.0
-        }
-      ]
-    },
-    {
-      "id": 609,
-      "ref": "S00610",
-      "kind": "quotation",
-      "customer": "Lagoon Mart U-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-18",
-      "expires": "2026-11-17",
-      "total": 540.0,
-      "settled": 0.0,
-      "outstanding": 540.0,
-      "lines": [
-        {
-          "name": "Hanger Plastic A17 - Bundle (6pcs)",
-          "qty": 12.0,
-          "total": 300.0
-        },
-        {
-          "name": "Hanger Plastic C1-10 - Bundle (6pcs)",
-          "qty": 12.0,
-          "total": 240.0
         }
       ]
     },
