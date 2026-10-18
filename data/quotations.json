@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-18T15:15:54Z",
+  "generatedAt": "2026-10-18T15:31:11Z",
   "openCount": 155,
   "openTotal": 2120848.2,
   "quotationCount": 78,
@@ -416,7 +416,7 @@
       "id": 618,
       "ref": "S00619",
       "kind": "quotation",
-      "customer": "EkuTravels And Tourist Pvt ltd",
+      "customer": "EkuTravels And Touris Pvt ltd",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-18",
       "expires": "2026-11-17",
