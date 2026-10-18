@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-18T05:15:46Z",
-  "openCount": 155,
-  "openTotal": 2102123.2,
-  "quotationCount": 78,
-  "quotationTotal": 1123082.75,
+  "generatedAt": "2026-10-18T05:31:10Z",
+  "openCount": 156,
+  "openTotal": 2115423.2,
+  "quotationCount": 79,
+  "quotationTotal": 1136382.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -323,12 +323,41 @@
     },
     {
       "date": "2026-10-18",
-      "count": 2,
-      "outstanding": 2765.0,
-      "total": 2765.0
+      "count": 3,
+      "outstanding": 16065.0,
+      "total": 16065.0
     }
   ],
   "quotations": [
+    {
+      "id": 611,
+      "ref": "S00612",
+      "kind": "quotation",
+      "customer": "Unique Grocery Mart",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-18",
+      "expires": "2026-11-17",
+      "total": 12800.0,
+      "settled": 0.0,
+      "outstanding": 12800.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 40.0,
+          "total": 11800.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 80.0,
+          "total": 0.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 40.0,
+          "total": 1000.0
+        }
+      ]
+    },
     {
       "id": 610,
       "ref": "S00611",
@@ -337,9 +366,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-18",
       "expires": "2026-11-17",
-      "total": 2225.0,
+      "total": 2725.0,
       "settled": 0.0,
-      "outstanding": 2225.0,
+      "outstanding": 2725.0,
       "lines": [
         {
           "name": "[10007] Plastic Container T2 [case]",
@@ -350,6 +379,11 @@
           "name": "[70074] Towel 042-02 30*40cm",
           "qty": 15.0,
           "total": 225.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 20.0,
+          "total": 500.0
         }
       ]
     },
