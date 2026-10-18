@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-18T06:45:47Z",
+  "generatedAt": "2026-10-18T07:01:27Z",
   "openCount": 155,
   "openTotal": 2115423.2,
-  "quotationCount": 78,
-  "quotationTotal": 1136382.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 77,
+  "quotationTotal": 1131882.75,
+  "orderCount": 78,
+  "orderTotal": 983540.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -361,7 +361,7 @@
     {
       "id": 609,
       "ref": "S00610",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Lagoon Mart U-1",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-18",
