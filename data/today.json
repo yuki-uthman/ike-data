@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T12:15:39Z",
+  "generatedAt": "2026-10-18T12:31:00Z",
   "cash": {
     "total": 2184.0,
     "count": 11
   },
   "transfer": {
-    "total": 11029.0,
-    "count": 5
+    "total": 11277.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -150,6 +150,32 @@
           "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
           "qty": 1.0,
           "total": 355.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000429",
+      "customer": "Walk-in",
+      "amount": 248.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:23",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[JBY705] Shoes Rack 4 Tier Steel 86x23x60cm",
+          "qty": 1.0,
+          "total": 179.0
+        },
+        {
+          "name": "Door Mat Code02#38*58",
+          "qty": 1.0,
+          "total": 39.0
+        },
+        {
+          "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+          "qty": 1.0,
+          "total": 30.0
         }
       ]
     },
@@ -325,6 +351,12 @@
       "method": "cash",
       "count": 11,
       "total": 2184.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 248.0
     }
   ],
   "cashOut": {
