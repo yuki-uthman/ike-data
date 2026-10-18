@@ -22816,10 +22816,10 @@
     },
     {
       "date": "2026-10-18",
-      "generatedAt": "2026-10-18T06:01:10Z",
+      "generatedAt": "2026-10-18T06:15:37Z",
       "pos": {
-        "total": 127.0,
-        "count": 3
+        "total": 146.0,
+        "count": 4
       },
       "regularSales": {
         "total": 0,
@@ -22830,8 +22830,8 @@
         "count": 3
       },
       "cash": {
-        "total": 127.0,
-        "count": 3
+        "total": 146.0,
+        "count": 4
       },
       "transfer": {
         "total": 0,
@@ -22885,6 +22885,22 @@
           ]
         },
         {
+          "ref": "Ike - 000423",
+          "customer": "Walk-in",
+          "amount": 19.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:15",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70016] Storage Fridge Box Plastic White 22x7x13.5cm #313",
+              "qty": 1.0,
+              "total": 19.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000422",
           "customer": "Walk-in",
           "amount": 12.0,
@@ -22908,7 +22924,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3700.0,
-        "expectedClosing": 3827.0,
+        "expectedClosing": 3846.0,
         "counted": null,
         "difference": null,
         "closed": false,
