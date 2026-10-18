@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-18T05:08:00Z",
-  "openCount": 154,
-  "openTotal": 2099898.2,
-  "quotationCount": 77,
-  "quotationTotal": 1120857.75,
+  "generatedAt": "2026-10-18T05:15:46Z",
+  "openCount": 155,
+  "openTotal": 2102123.2,
+  "quotationCount": 78,
+  "quotationTotal": 1123082.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -323,12 +323,36 @@
     },
     {
       "date": "2026-10-18",
-      "count": 1,
-      "outstanding": 540.0,
-      "total": 540.0
+      "count": 2,
+      "outstanding": 2765.0,
+      "total": 2765.0
     }
   ],
   "quotations": [
+    {
+      "id": 610,
+      "ref": "S00611",
+      "kind": "quotation",
+      "customer": "Zilaal Mart R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-18",
+      "expires": "2026-11-17",
+      "total": 2225.0,
+      "settled": 0.0,
+      "outstanding": 2225.0,
+      "lines": [
+        {
+          "name": "[10007] Plastic Container T2 [case]",
+          "qty": 2.0,
+          "total": 2000.0
+        },
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 15.0,
+          "total": 225.0
+        }
+      ]
+    },
     {
       "id": 609,
       "ref": "S00610",
