@@ -23184,10 +23184,10 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T17:15:44Z",
+      "generatedAt": "2026-10-19T17:31:03Z",
       "pos": {
-        "total": 1600.0,
-        "count": 11
+        "total": 1740.0,
+        "count": 12
       },
       "regularSales": {
         "total": 25913.0,
@@ -23202,8 +23202,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 26832.0,
-        "count": 8
+        "total": 26972.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -23380,6 +23380,22 @@
               "name": "Door Mat Code02#38*58",
               "qty": 2.0,
               "total": 78.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000441",
+          "customer": "Walk-in",
+          "amount": 140.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:18",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70147] Hook Mesh 10\"",
+              "qty": 10.0,
+              "total": 140.0
             }
           ]
         },
