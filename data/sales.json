@@ -23184,10 +23184,10 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T05:45:40Z",
+      "generatedAt": "2026-10-19T06:01:18Z",
       "pos": {
-        "total": 100.0,
-        "count": 2
+        "total": 320.0,
+        "count": 3
       },
       "regularSales": {
         "total": 3907.0,
@@ -23198,8 +23198,8 @@
         "count": 0
       },
       "cash": {
-        "total": 30.0,
-        "count": 1
+        "total": 250.0,
+        "count": 2
       },
       "transfer": {
         "total": 3977.0,
@@ -23268,6 +23268,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00467 (Ike - 000432)",
+          "customer": "Chic By Maldives Fellas",
+          "amount": 220.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:51",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02440] Milkshake Powder Pistachio",
+              "qty": 1.0,
+              "total": 220.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000148",
           "customer": "Walk-in",
           "amount": 70.0,
@@ -23317,7 +23333,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2176.0,
-        "expectedClosing": 2206.0,
+        "expectedClosing": 2426.0,
         "counted": null,
         "difference": null,
         "closed": false,
