@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-19T12:15:52Z",
-  "openCount": 158,
-  "openTotal": 2152870.2,
+  "generatedAt": "2026-10-19T12:31:13Z",
+  "openCount": 157,
+  "openTotal": 2132890.2,
   "quotationCount": 80,
   "quotationTotal": 1153849.75,
-  "orderCount": 78,
-  "orderTotal": 999020.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -329,41 +329,12 @@
     },
     {
       "date": "2026-10-19",
-      "count": 3,
-      "outstanding": 31072.0,
-      "total": 31072.0
+      "count": 2,
+      "outstanding": 11092.0,
+      "total": 11092.0
     }
   ],
   "quotations": [
-    {
-      "id": 626,
-      "ref": "S00627",
-      "kind": "order",
-      "customer": "Alivila Mart G-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-19",
-      "expires": "2026-11-18",
-      "total": 19980.0,
-      "settled": 0.0,
-      "outstanding": 19980.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
-          "qty": 2.0,
-          "total": 13800.0
-        },
-        {
-          "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 2.0,
-          "total": 5700.0
-        },
-        {
-          "name": "[35940] Hook Mesh 8\"",
-          "qty": 40.0,
-          "total": 480.0
-        }
-      ]
-    },
     {
       "id": 625,
       "ref": "S00626",
