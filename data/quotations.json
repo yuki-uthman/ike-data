@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-19T08:45:55Z",
-  "openCount": 156,
-  "openTotal": 2122838.2,
-  "quotationCount": 79,
-  "quotationTotal": 1143797.75,
+  "generatedAt": "2026-10-19T09:01:24Z",
+  "openCount": 157,
+  "openTotal": 2123788.2,
+  "quotationCount": 80,
+  "quotationTotal": 1144747.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -329,9 +329,9 @@
     },
     {
       "date": "2026-10-19",
-      "count": 1,
-      "outstanding": 1040.0,
-      "total": 1040.0
+      "count": 2,
+      "outstanding": 1990.0,
+      "total": 1990.0
     }
   ],
   "quotations": [
@@ -356,6 +356,25 @@
           "name": "[70141] Hook Net 8\"",
           "qty": 20.0,
           "total": 240.0
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "ref": "S00623",
+      "kind": "quotation",
+      "customer": "Retro Mart D-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-19",
+      "expires": "2026-11-18",
+      "total": 950.0,
+      "settled": 0.0,
+      "outstanding": 950.0,
+      "lines": [
+        {
+          "name": "[80302] Tube Stand",
+          "qty": 1.0,
+          "total": 950.0
         }
       ]
     },
