@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-19T16:01:30Z",
+  "generatedAt": "2026-10-19T16:15:50Z",
   "openCount": 159,
-  "openTotal": 2139429.2,
-  "quotationCount": 82,
-  "quotationTotal": 1160388.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "openTotal": 2139603.2,
+  "quotationCount": 81,
+  "quotationTotal": 1159612.75,
+  "orderCount": 78,
+  "orderTotal": 979990.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -330,8 +330,8 @@
     {
       "date": "2026-10-19",
       "count": 4,
-      "outstanding": 17631.0,
-      "total": 17631.0
+      "outstanding": 17805.0,
+      "total": 17805.0
     }
   ],
   "quotations": [
@@ -392,13 +392,13 @@
       "id": 627,
       "ref": "S00628",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "Finifen Rose  I-2",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-19",
       "expires": "2026-11-18",
-      "total": 1639.0,
+      "total": 1903.0,
       "settled": 0.0,
-      "outstanding": 1639.0,
+      "outstanding": 1903.0,
       "lines": [
         {
           "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
@@ -419,30 +419,30 @@
           "name": "Hanger Plastic C1-10 - Case (120pcs)",
           "qty": 2.0,
           "total": 700.0
+        },
+        {
+          "name": "[70104] Paper Straw 6 mm White Bundle",
+          "qty": 12.0,
+          "total": 264.0
         }
       ]
     },
     {
-      "id": 620,
-      "ref": "S00621",
-      "kind": "quotation",
-      "customer": "The Prize F-3",
+      "id": 629,
+      "ref": "S00630",
+      "kind": "order",
+      "customer": "Retro Mart D-12",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-19",
       "expires": "2026-11-18",
-      "total": 1040.0,
+      "total": 950.0,
       "settled": 0.0,
-      "outstanding": 1040.0,
+      "outstanding": 950.0,
       "lines": [
         {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 50.0,
-          "total": 800.0
-        },
-        {
-          "name": "[70141] Hook Net 8\"",
-          "qty": 20.0,
-          "total": 240.0
+          "name": "[80302] Tube Stand",
+          "qty": 1.0,
+          "total": 950.0
         }
       ]
     },

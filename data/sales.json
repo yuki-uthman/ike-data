@@ -23184,26 +23184,26 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T16:01:17Z",
+      "generatedAt": "2026-10-19T16:15:42Z",
       "pos": {
-        "total": 800.0,
-        "count": 10
+        "total": 1600.0,
+        "count": 11
       },
       "regularSales": {
-        "total": 23923.0,
-        "count": 4
+        "total": 24963.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 17631.0,
-        "count": 4
+        "total": 16855.0,
+        "count": 3
       },
       "cash": {
-        "total": 681.0,
-        "count": 9
+        "total": 1481.0,
+        "count": 10
       },
       "transfer": {
-        "total": 24042.0,
-        "count": 5
+        "total": 25082.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -23274,6 +23274,43 @@
               "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
               "qty": 1.0,
               "total": 295.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00471",
+          "customer": "The Prize F-3",
+          "amount": 1040.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:10",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 50.0,
+              "total": 800.0
+            },
+            {
+              "name": "[70141] Hook Net 8\"",
+              "qty": 20.0,
+              "total": 240.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000440",
+          "customer": "Walk-in",
+          "amount": 800.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:08",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01818] Rain Coat Polyester#5",
+              "qty": 1.0,
+              "total": 800.0
             }
           ]
         },
@@ -23512,7 +23549,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2176.0,
-        "expectedClosing": 2857.0,
+        "expectedClosing": 3657.0,
         "counted": null,
         "difference": null,
         "closed": false,
