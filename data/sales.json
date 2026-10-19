@@ -23184,10 +23184,10 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T09:45:43Z",
+      "generatedAt": "2026-10-19T10:01:18Z",
       "pos": {
-        "total": 320.0,
-        "count": 3
+        "total": 503.0,
+        "count": 4
       },
       "regularSales": {
         "total": 3943.0,
@@ -23198,8 +23198,8 @@
         "count": 2
       },
       "cash": {
-        "total": 286.0,
-        "count": 3
+        "total": 469.0,
+        "count": 4
       },
       "transfer": {
         "total": 3977.0,
@@ -23284,6 +23284,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00469 (Ike - 000433)",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 183.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:49",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Sponge Green D6 4pcs",
+              "qty": 5.0,
+              "total": 105.0
+            },
+            {
+              "name": "Door Mat Code02#38*58",
+              "qty": 2.0,
+              "total": 78.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000148",
           "customer": "Walk-in",
           "amount": 70.0,
@@ -23349,7 +23370,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2176.0,
-        "expectedClosing": 2462.0,
+        "expectedClosing": 2645.0,
         "counted": null,
         "difference": null,
         "closed": false,
