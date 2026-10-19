@@ -23184,10 +23184,10 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T15:45:47Z",
+      "generatedAt": "2026-10-19T16:01:17Z",
       "pos": {
-        "total": 785.0,
-        "count": 9
+        "total": 800.0,
+        "count": 10
       },
       "regularSales": {
         "total": 23923.0,
@@ -23198,8 +23198,8 @@
         "count": 4
       },
       "cash": {
-        "total": 666.0,
-        "count": 8
+        "total": 681.0,
+        "count": 9
       },
       "transfer": {
         "total": 24042.0,
@@ -23487,6 +23487,22 @@
               "total": 15.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000439",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01928] Ceramic Mug#48-1",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -23496,7 +23512,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2176.0,
-        "expectedClosing": 2842.0,
+        "expectedClosing": 2857.0,
         "counted": null,
         "difference": null,
         "closed": false,
