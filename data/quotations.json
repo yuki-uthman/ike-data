@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-19T17:31:18Z",
+  "generatedAt": "2026-10-19T17:45:51Z",
   "openCount": 158,
-  "openTotal": 2138653.2,
+  "openTotal": 2140053.2,
   "quotationCount": 81,
-  "quotationTotal": 1159612.75,
+  "quotationTotal": 1161012.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -330,8 +330,8 @@
     {
       "date": "2026-10-19",
       "count": 3,
-      "outstanding": 16855.0,
-      "total": 16855.0
+      "outstanding": 18255.0,
+      "total": 18255.0
     }
   ],
   "quotations": [
@@ -396,9 +396,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-19",
       "expires": "2026-11-18",
-      "total": 1903.0,
+      "total": 3303.0,
       "settled": 0.0,
-      "outstanding": 1903.0,
+      "outstanding": 3303.0,
       "lines": [
         {
           "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
@@ -424,6 +424,11 @@
           "name": "[70104] Paper Straw 6 mm White Bundle",
           "qty": 12.0,
           "total": 264.0
+        },
+        {
+          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1400.0
         }
       ]
     },
