@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-19T08:31:19Z",
+  "generatedAt": "2026-10-19T08:45:55Z",
   "openCount": 156,
-  "openTotal": 2121888.2,
+  "openTotal": 2122838.2,
   "quotationCount": 79,
-  "quotationTotal": 1142847.75,
+  "quotationTotal": 1143797.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -198,8 +198,8 @@
     {
       "date": "2026-09-27",
       "count": 4,
-      "outstanding": 205655.0,
-      "total": 205655.0
+      "outstanding": 206605.0,
+      "total": 206605.0
     },
     {
       "date": "2026-09-28",
@@ -1356,9 +1356,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-27",
       "expires": "2026-10-27",
-      "total": 4755.0,
+      "total": 5705.0,
       "settled": 0.0,
-      "outstanding": 4755.0,
+      "outstanding": 5705.0,
       "lines": [
         {
           "name": "[70182] Gas Burner ( High Pressure )",
@@ -1374,6 +1374,11 @@
           "name": "[70037] Gas Regular (High Pressure)",
           "qty": 3.0,
           "total": 1080.0
+        },
+        {
+          "name": "[80302] Tube Stand",
+          "qty": 1.0,
+          "total": 950.0
         }
       ]
     },

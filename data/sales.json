@@ -23184,22 +23184,22 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T08:31:02Z",
+      "generatedAt": "2026-10-19T08:45:45Z",
       "pos": {
         "total": 320.0,
         "count": 3
       },
       "regularSales": {
-        "total": 3907.0,
-        "count": 2
+        "total": 3943.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 1040.0,
         "count": 1
       },
       "cash": {
-        "total": 250.0,
-        "count": 2
+        "total": 286.0,
+        "count": 3
       },
       "transfer": {
         "total": 3977.0,
@@ -23305,6 +23305,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00468",
+          "customer": "Sales",
+          "amount": 36.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:37",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70144] Hook Slat 8\"",
+              "qty": 3.0,
+              "total": 36.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000431",
           "customer": "Walk-in",
           "amount": 30.0,
@@ -23333,7 +23349,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2176.0,
-        "expectedClosing": 2426.0,
+        "expectedClosing": 2462.0,
         "counted": null,
         "difference": null,
         "closed": false,
