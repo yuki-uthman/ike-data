@@ -23184,14 +23184,14 @@
     },
     {
       "date": "2026-10-19",
-      "generatedAt": "2026-10-19T04:30:59Z",
+      "generatedAt": "2026-10-19T04:45:39Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 70.0,
+        "count": 1
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 680.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
@@ -23202,14 +23202,52 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 750.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00465",
+          "customer": "Paper Plus G-2",
+          "amount": 680.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:31",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70201] Thermal Printer Roll 80mm",
+              "qty": 50.0,
+              "total": 680.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000148",
+          "customer": "Walk-in",
+          "amount": 70.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "09:41",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01615] Ceramic Plate 9\" #3",
+              "qty": 1.0,
+              "total": 35.0
+            },
+            {
+              "name": "[01615] Ceramic Plate 9\" #3",
+              "qty": 1.0,
+              "total": 35.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
