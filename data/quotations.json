@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-20T10:01:37Z",
-  "openCount": 157,
-  "openTotal": 2141090.2,
-  "quotationCount": 80,
-  "quotationTotal": 1162049.75,
+  "generatedAt": "2026-10-20T10:15:55Z",
+  "openCount": 158,
+  "openTotal": 2148090.2,
+  "quotationCount": 81,
+  "quotationTotal": 1169049.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -335,12 +335,31 @@
     },
     {
       "date": "2026-10-20",
-      "count": 1,
-      "outstanding": 6125.0,
-      "total": 6125.0
+      "count": 2,
+      "outstanding": 13125.0,
+      "total": 13125.0
     }
   ],
   "quotations": [
+    {
+      "id": 634,
+      "ref": "S00635",
+      "kind": "quotation",
+      "customer": "Beluga Rm Tuck Shop",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-20",
+      "expires": "2026-11-19",
+      "total": 7000.0,
+      "settled": 0.0,
+      "outstanding": 7000.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
+          "qty": 2.0,
+          "total": 7000.0
+        }
+      ]
+    },
     {
       "id": 633,
       "ref": "S00634",
