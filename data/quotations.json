@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-20T06:15:49Z",
-  "openCount": 157,
-  "openTotal": 2136285.2,
-  "quotationCount": 80,
-  "quotationTotal": 1157244.75,
+  "generatedAt": "2026-10-20T06:31:06Z",
+  "openCount": 156,
+  "openTotal": 2134965.2,
+  "quotationCount": 79,
+  "quotationTotal": 1155924.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -335,36 +335,12 @@
     },
     {
       "date": "2026-10-20",
-      "count": 1,
-      "outstanding": 1320.0,
-      "total": 1320.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 631,
-      "ref": "S00632",
-      "kind": "quotation",
-      "customer": "Avatu Fihaara Q2",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-20",
-      "expires": "2026-11-19",
-      "total": 1320.0,
-      "settled": 0.0,
-      "outstanding": 1320.0,
-      "lines": [
-        {
-          "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
-          "qty": 1.0,
-          "total": 264.0
-        },
-        {
-          "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
-          "qty": 4.0,
-          "total": 1056.0
-        }
-      ]
-    },
     {
       "id": 625,
       "ref": "S00626",

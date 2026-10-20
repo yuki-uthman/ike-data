@@ -23609,26 +23609,26 @@
     },
     {
       "date": "2026-10-20",
-      "generatedAt": "2026-10-20T06:15:38Z",
+      "generatedAt": "2026-10-20T06:30:56Z",
       "pos": {
         "total": 19.0,
         "count": 1
       },
       "regularSales": {
-        "total": 6107.0,
-        "count": 3
+        "total": 7427.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 1320.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 1038.0,
         "count": 2
       },
       "transfer": {
-        "total": 5088.0,
-        "count": 2
+        "total": 6408.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -23703,6 +23703,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00476",
+          "customer": "Avatu Fihaara Q2",
+          "amount": 1320.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:27",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Softener Tokyo Spring (Purple) - Case (12pcs, 820 ml)",
+              "qty": 4.0,
+              "total": 1056.0
+            },
+            {
+              "name": "Soklin Softener Starry New York (Blue) - Case (12pcs, 820 ml)",
+              "qty": 1.0,
+              "total": 264.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00473",
           "customer": "United Huvadhoo Holding PVT LTD",
           "amount": 1019.0,
@@ -23752,7 +23773,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2302.0,
-        "expectedClosing": 3340.0,
+        "expectedClosing": 3399.0,
         "counted": null,
         "difference": null,
         "closed": false,
