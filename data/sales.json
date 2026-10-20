@@ -23609,14 +23609,14 @@
     },
     {
       "date": "2026-10-20",
-      "generatedAt": "2026-10-20T08:30:58Z",
+      "generatedAt": "2026-10-20T08:45:41Z",
       "pos": {
         "total": 93.0,
         "count": 3
       },
       "regularSales": {
-        "total": 7427.0,
-        "count": 4
+        "total": 7707.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 0,
@@ -23627,8 +23627,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 6408.0,
-        "count": 3
+        "total": 6688.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -23746,6 +23746,22 @@
               "name": "[70012] Milk Frother Handheld 20.2x3.8x2.5cm #13",
               "qty": 1.0,
               "total": 29.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00477",
+          "customer": "Sales",
+          "amount": 280.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:42",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 1.0,
+              "total": 280.0
             }
           ]
         },
