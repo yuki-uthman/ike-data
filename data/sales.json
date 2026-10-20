@@ -23609,32 +23609,48 @@
     },
     {
       "date": "2026-10-20",
-      "generatedAt": "2026-10-20T12:15:40Z",
+      "generatedAt": "2026-10-20T12:30:58Z",
       "pos": {
         "total": 108.0,
         "count": 4
       },
       "regularSales": {
-        "total": 7707.0,
-        "count": 5
+        "total": 13832.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 17538.0,
-        "count": 4
+        "total": 11413.0,
+        "count": 3
       },
       "cash": {
         "total": 1127.0,
         "count": 5
       },
       "transfer": {
-        "total": 6688.0,
-        "count": 4
+        "total": 12813.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00478",
+          "customer": "Royal Pearl Shop S-2",
+          "amount": 6125.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:24",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+              "qty": 5.0,
+              "total": 6125.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00475",
           "customer": "Finifen Rose  I-2",
