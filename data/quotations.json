@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-20T10:45:54Z",
-  "openCount": 158,
-  "openTotal": 2148090.2,
-  "quotationCount": 81,
-  "quotationTotal": 1169049.75,
+  "generatedAt": "2026-10-20T11:01:27Z",
+  "openCount": 160,
+  "openTotal": 2152503.2,
+  "quotationCount": 83,
+  "quotationTotal": 1173462.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -335,9 +335,9 @@
     },
     {
       "date": "2026-10-20",
-      "count": 2,
-      "outstanding": 13125.0,
-      "total": 13125.0
+      "count": 4,
+      "outstanding": 17538.0,
+      "total": 17538.0
     }
   ],
   "quotations": [
@@ -376,6 +376,54 @@
           "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
           "qty": 5.0,
           "total": 6125.0
+        }
+      ]
+    },
+    {
+      "id": 636,
+      "ref": "S00637",
+      "kind": "quotation",
+      "customer": "Fast Food Gourmet Restaurant",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-20",
+      "expires": "2026-11-19",
+      "total": 2850.0,
+      "settled": 0.0,
+      "outstanding": 2850.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        }
+      ]
+    },
+    {
+      "id": 635,
+      "ref": "S00636",
+      "kind": "quotation",
+      "customer": "Koobe E-08",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-20",
+      "expires": "2026-11-19",
+      "total": 1563.0,
+      "settled": 0.0,
+      "outstanding": 1563.0,
+      "lines": [
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
         }
       ]
     },
