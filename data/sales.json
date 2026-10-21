@@ -23882,22 +23882,22 @@
     },
     {
       "date": "2026-10-21",
-      "generatedAt": "2026-10-21T12:45:48Z",
+      "generatedAt": "2026-10-21T13:01:23Z",
       "pos": {
         "total": 803.0,
         "count": 2
       },
       "regularSales": {
-        "total": 19975.0,
-        "count": 4
+        "total": 20195.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 3925.0,
         "count": 3
       },
       "cash": {
-        "total": 803.0,
-        "count": 2
+        "total": 1023.0,
+        "count": 3
       },
       "transfer": {
         "total": 19975.0,
@@ -23988,6 +23988,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00483",
+          "customer": "Sales",
+          "amount": 220.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:47",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "2C White Steel Barrier 900mm",
+              "qty": 4.0,
+              "total": 220.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00481",
           "customer": "Sales",
           "amount": 40.0,
@@ -24027,7 +24043,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3394.0,
-        "expectedClosing": 4197.0,
+        "expectedClosing": 4417.0,
         "counted": null,
         "difference": null,
         "closed": false,
