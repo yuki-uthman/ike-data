@@ -1,236 +1,26 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T18:45:44Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-21T19:01:20Z",
   "cash": {
-    "total": 1023.0,
-    "count": 3
+    "total": 0,
+    "count": 0
   },
   "transfer": {
-    "total": 20445.0,
-    "count": 7
+    "total": 0,
+    "count": 0
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [
-    {
-      "ref": "INV/2026/00479",
-      "customer": "Beluga Rm Tuck Shop",
-      "amount": 15415.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "11:40",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
-          "qty": 2.0,
-          "total": 7000.0
-        },
-        {
-          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
-          "qty": 2.0,
-          "total": 5000.0
-        },
-        {
-          "name": "[RD8-GRY-ERP-1950] #RD8 Gray End Rack Perforated 1950mm",
-          "qty": 1.0,
-          "total": 1950.0
-        },
-        {
-          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
-          "qty": 1.0,
-          "total": 1465.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00480",
-      "customer": "Eyecare Pvt Ltd",
-      "amount": 3960.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "13:59",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70176] 51 Warehouse Rack White Large",
-          "qty": 2.0,
-          "total": 3960.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000450",
-      "customer": "Walk-in",
-      "amount": 800.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "16:05",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[01818] Rain Coat Polyester#5",
-          "qty": 1.0,
-          "total": 800.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00482",
-      "customer": "Coral Life Pvt Ltd.",
-      "amount": 560.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "16:03",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 2.0,
-          "total": 560.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00484",
-      "customer": "Sales",
-      "amount": 390.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "21:52",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[01635] Electric Heat Sealer Chenhe Pfs-200 200mm #FS-200",
-          "qty": 1.0,
-          "total": 390.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00483",
-      "customer": "Sales",
-      "amount": 220.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "17:47",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "2C White Steel Barrier 900mm",
-          "qty": 4.0,
-          "total": 220.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000453",
-      "customer": "Walk-in",
-      "amount": 65.0,
-      "method": "transfer",
-      "rawMethod": "Bank Transfer",
-      "time": "22:27",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[02171] container round loose pc medium 01762",
-          "qty": 1.0,
-          "total": 65.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00481",
-      "customer": "Sales",
-      "amount": 40.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "15:52",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "Hanger Plastic C1-10 - Bundle (6pcs)",
-          "qty": 2.0,
-          "total": 40.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000452",
-      "customer": "Walk-in",
-      "amount": 15.0,
-      "method": "transfer",
-      "rawMethod": "Bank Transfer",
-      "time": "22:22",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "Falcon Aluminum Container 8342 10pcs",
-          "qty": 1.0,
-          "total": 15.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000451",
-      "customer": "Walk-in",
-      "amount": 3.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "16:39",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[BC96B] Bagasse Clamshell 9\"X6\" Loose",
-          "qty": 1.0,
-          "total": 3.0
-        }
-      ]
-    }
-  ],
-  "methodsSeen": [
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 5,
-      "total": 20365.0
-    },
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 3,
-      "total": 1023.0
-    },
-    {
-      "name": "Bank Transfer",
-      "method": "transfer",
-      "count": 2,
-      "total": 80.0
-    }
-  ],
+  "transactions": [],
+  "methodsSeen": [],
   "cashOut": {
-    "total": 35.0,
-    "count": 1
+    "total": 0,
+    "count": 0
   },
-  "cashOutTransactions": [
-    {
-      "reason": "Gate pass -- Nagarajan",
-      "amount": 35.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:20"
-    }
-  ],
-  "till": {
-    "opening": 3394.0,
-    "expectedClosing": 4382.0,
-    "counted": 4382.0,
-    "difference": 0.0,
-    "closed": true,
-    "sessionCount": 1
-  }
+  "cashOutTransactions": [],
+  "till": null
 }
