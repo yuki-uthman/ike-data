@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-21T08:45:50Z",
-  "openCount": 160,
-  "openTotal": 2146263.2,
+  "generatedAt": "2026-10-21T09:01:26Z",
+  "openCount": 159,
+  "openTotal": 2142303.2,
   "quotationCount": 82,
   "quotationTotal": 1163262.75,
-  "orderCount": 78,
-  "orderTotal": 983000.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -341,31 +341,12 @@
     },
     {
       "date": "2026-10-21",
-      "count": 2,
-      "outstanding": 6885.0,
-      "total": 6885.0
+      "count": 1,
+      "outstanding": 2925.0,
+      "total": 2925.0
     }
   ],
   "quotations": [
-    {
-      "id": 637,
-      "ref": "S00638",
-      "kind": "order",
-      "customer": "Eyecare Pvt Ltd",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-21",
-      "expires": "2026-11-19",
-      "total": 3960.0,
-      "settled": 0.0,
-      "outstanding": 3960.0,
-      "lines": [
-        {
-          "name": "[70176] 51 Warehouse Rack White Large",
-          "qty": 2.0,
-          "total": 3960.0
-        }
-      ]
-    },
     {
       "id": 639,
       "ref": "S00640",
