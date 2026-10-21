@@ -23882,14 +23882,14 @@
     },
     {
       "date": "2026-10-21",
-      "generatedAt": "2026-10-21T06:31:00Z",
+      "generatedAt": "2026-10-21T06:45:43Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 15415.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 2925.0,
@@ -23900,14 +23900,46 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 15415.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00479",
+          "customer": "Beluga Rm Tuck Shop",
+          "amount": 15415.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:40",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
+              "qty": 2.0,
+              "total": 7000.0
+            },
+            {
+              "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+              "qty": 2.0,
+              "total": 5000.0
+            },
+            {
+              "name": "[RD8-GRY-ERP-1950] #RD8 Gray End Rack Perforated 1950mm",
+              "qty": 1.0,
+              "total": 1950.0
+            },
+            {
+              "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+              "qty": 1.0,
+              "total": 1465.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0

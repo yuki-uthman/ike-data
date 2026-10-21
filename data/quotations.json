@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-21T06:31:13Z",
-  "openCount": 161,
-  "openTotal": 2161678.2,
+  "generatedAt": "2026-10-21T06:45:56Z",
+  "openCount": 160,
+  "openTotal": 2146263.2,
   "quotationCount": 83,
   "quotationTotal": 1167222.75,
-  "orderCount": 78,
-  "orderTotal": 994455.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -341,46 +341,12 @@
     },
     {
       "date": "2026-10-21",
-      "count": 2,
-      "outstanding": 18340.0,
-      "total": 18340.0
+      "count": 1,
+      "outstanding": 2925.0,
+      "total": 2925.0
     }
   ],
   "quotations": [
-    {
-      "id": 634,
-      "ref": "S00635",
-      "kind": "order",
-      "customer": "Beluga Rm Tuck Shop",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-21",
-      "expires": "2026-11-19",
-      "total": 15415.0,
-      "settled": 0.0,
-      "outstanding": 15415.0,
-      "lines": [
-        {
-          "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
-          "qty": 2.0,
-          "total": 7000.0
-        },
-        {
-          "name": "[RD8-GRY-ERP-1950] #RD8 Gray End Rack Perforated 1950mm",
-          "qty": 1.0,
-          "total": 1950.0
-        },
-        {
-          "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
-          "qty": 2.0,
-          "total": 5000.0
-        },
-        {
-          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
-          "qty": 1.0,
-          "total": 1465.0
-        }
-      ]
-    },
     {
       "id": 639,
       "ref": "S00640",
