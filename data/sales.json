@@ -23882,14 +23882,14 @@
     },
     {
       "date": "2026-10-21",
-      "generatedAt": "2026-10-21T10:45:42Z",
+      "generatedAt": "2026-10-21T11:01:20Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 19375.0,
-        "count": 2
+        "total": 19415.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 2925.0,
@@ -23900,8 +23900,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 19375.0,
-        "count": 2
+        "total": 19415.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -23952,6 +23952,22 @@
               "name": "[70176] 51 Warehouse Rack White Large",
               "qty": 2.0,
               "total": 3960.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00481",
+          "customer": "Sales",
+          "amount": 40.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:52",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Hanger Plastic C1-10 - Bundle (6pcs)",
+              "qty": 2.0,
+              "total": 40.0
             }
           ]
         }
