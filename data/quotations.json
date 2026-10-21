@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-21T08:31:17Z",
+  "generatedAt": "2026-10-21T08:45:50Z",
   "openCount": 160,
   "openTotal": 2146263.2,
-  "quotationCount": 83,
-  "quotationTotal": 1167222.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 82,
+  "quotationTotal": 1163262.75,
+  "orderCount": 78,
+  "orderTotal": 983000.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -335,18 +335,37 @@
     },
     {
       "date": "2026-10-20",
-      "count": 3,
-      "outstanding": 8373.0,
-      "total": 8373.0
+      "count": 2,
+      "outstanding": 4413.0,
+      "total": 4413.0
     },
     {
       "date": "2026-10-21",
-      "count": 1,
-      "outstanding": 2925.0,
-      "total": 2925.0
+      "count": 2,
+      "outstanding": 6885.0,
+      "total": 6885.0
     }
   ],
   "quotations": [
+    {
+      "id": 637,
+      "ref": "S00638",
+      "kind": "order",
+      "customer": "Eyecare Pvt Ltd",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-21",
+      "expires": "2026-11-19",
+      "total": 3960.0,
+      "settled": 0.0,
+      "outstanding": 3960.0,
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 2.0,
+          "total": 3960.0
+        }
+      ]
+    },
     {
       "id": 639,
       "ref": "S00640",
@@ -363,25 +382,6 @@
           "name": "[60001] Tool Box x5",
           "qty": 15.0,
           "total": 2925.0
-        }
-      ]
-    },
-    {
-      "id": 637,
-      "ref": "S00638",
-      "kind": "quotation",
-      "customer": "Eyecare Pvt Ltd",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-20",
-      "expires": "2026-11-19",
-      "total": 3960.0,
-      "settled": 0.0,
-      "outstanding": 3960.0,
-      "lines": [
-        {
-          "name": "[70176] 51 Warehouse Rack White Large",
-          "qty": 2.0,
-          "total": 3960.0
         }
       ]
     },
