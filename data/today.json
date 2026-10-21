@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T17:15:46Z",
+  "generatedAt": "2026-10-21T17:31:05Z",
   "cash": {
     "total": 1023.0,
     "count": 3
   },
   "transfer": {
-    "total": 20365.0,
-    "count": 5
+    "total": 20445.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -128,6 +128,22 @@
       ]
     },
     {
+      "ref": "Ike - 000453",
+      "customer": "Walk-in",
+      "amount": 65.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:27",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02171] container round loose pc medium 01762",
+          "qty": 1.0,
+          "total": 65.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00481",
       "customer": "Sales",
       "amount": 40.0,
@@ -140,6 +156,22 @@
           "name": "Hanger Plastic C1-10 - Bundle (6pcs)",
           "qty": 2.0,
           "total": 40.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000452",
+      "customer": "Walk-in",
+      "amount": 15.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:22",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 1.0,
+          "total": 15.0
         }
       ]
     },
@@ -172,16 +204,30 @@
       "method": "cash",
       "count": 3,
       "total": 1023.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 2,
+      "total": 80.0
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 35.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Gate pass -- Nagarajan",
+      "amount": 35.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:20"
+    }
+  ],
   "till": {
     "opening": 3394.0,
-    "expectedClosing": 4417.0,
+    "expectedClosing": 4382.0,
     "counted": null,
     "difference": null,
     "closed": false,
