@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T11:31:04Z",
+  "generatedAt": "2026-10-21T11:45:45Z",
   "cash": {
-    "total": 800.0,
-    "count": 1
+    "total": 803.0,
+    "count": 2
   },
   "transfer": {
     "total": 19975.0,
@@ -110,6 +110,22 @@
           "total": 40.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000451",
+      "customer": "Walk-in",
+      "amount": 3.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:39",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[BC96B] Bagasse Clamshell 9\"X6\" Loose",
+          "qty": 1.0,
+          "total": 3.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -122,8 +138,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 800.0
+      "count": 2,
+      "total": 803.0
     }
   ],
   "cashOut": {
@@ -133,7 +149,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3394.0,
-    "expectedClosing": 4194.0,
+    "expectedClosing": 4197.0,
     "counted": null,
     "difference": null,
     "closed": false,
