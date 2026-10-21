@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-21T12:01:28Z",
-  "openCount": 159,
-  "openTotal": 2142303.2,
-  "quotationCount": 82,
-  "quotationTotal": 1163262.75,
+  "generatedAt": "2026-10-21T12:15:55Z",
+  "openCount": 160,
+  "openTotal": 2143303.2,
+  "quotationCount": 83,
+  "quotationTotal": 1164262.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -341,9 +341,9 @@
     },
     {
       "date": "2026-10-21",
-      "count": 1,
-      "outstanding": 2925.0,
-      "total": 2925.0
+      "count": 2,
+      "outstanding": 3925.0,
+      "total": 3925.0
     }
   ],
   "quotations": [
@@ -363,6 +363,30 @@
           "name": "[60001] Tool Box x5",
           "qty": 15.0,
           "total": 2925.0
+        }
+      ]
+    },
+    {
+      "id": 642,
+      "ref": "S00643",
+      "kind": "quotation",
+      "customer": "Victorious Cafe",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-21",
+      "expires": "2026-11-20",
+      "total": 1000.0,
+      "settled": 0.0,
+      "outstanding": 1000.0,
+      "lines": [
+        {
+          "name": "[3038] Mix-Lah Iced Tea Premix Lemon Tea",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
+          "qty": 2.0,
+          "total": 500.0
         }
       ]
     },
