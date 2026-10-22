@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T17:15:45Z",
+  "generatedAt": "2026-10-22T17:31:03Z",
   "cash": {
     "total": 799.0,
     "count": 4
   },
   "transfer": {
-    "total": 80100.0,
-    "count": 9
+    "total": 80110.0,
+    "count": 10
   },
   "other": {
     "total": 0,
@@ -283,6 +283,22 @@
           "total": 6.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000460",
+      "customer": "Walk-in",
+      "amount": 10.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:15",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[73365] Aluminium Foil Box 73365 Loose",
+          "qty": 1.0,
+          "total": 10.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -295,8 +311,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 3,
-      "total": 1440.0
+      "count": 4,
+      "total": 1450.0
     },
     {
       "name": "Cash",
@@ -306,8 +322,8 @@
     }
   ],
   "cashOut": {
-    "total": 3500.0,
-    "count": 1
+    "total": 3765.0,
+    "count": 3
   },
   "cashOutTransactions": [
     {
@@ -316,11 +332,25 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "11:10"
+    },
+    {
+      "reason": "Break su---Hassan",
+      "amount": 250.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:25"
+    },
+    {
+      "reason": "Gate pass--Nagarajan",
+      "amount": 15.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:26"
     }
   ],
   "till": {
     "opening": 4382.0,
-    "expectedClosing": 1681.0,
+    "expectedClosing": 1416.0,
     "counted": null,
     "difference": null,
     "closed": false,
