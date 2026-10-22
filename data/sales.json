@@ -24073,32 +24073,63 @@
     },
     {
       "date": "2026-10-22",
-      "generatedAt": "2026-10-22T06:31:04Z",
+      "generatedAt": "2026-10-22T06:45:46Z",
       "pos": {
         "total": 99.0,
         "count": 1
       },
       "regularSales": {
-        "total": 11035.0,
-        "count": 4
+        "total": 77035.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 950.0,
-        "count": 1
+        "count": 2
       },
       "cash": {
         "total": 549.0,
         "count": 2
       },
       "transfer": {
-        "total": 10585.0,
-        "count": 3
+        "total": 76585.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00489",
+          "customer": "Tree Top Health Pvt Ltd",
+          "amount": 66000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:33",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+              "qty": 10.0,
+              "total": 39000.0
+            },
+            {
+              "name": "[88734] Tool Box X3",
+              "qty": 100.0,
+              "total": 10000.0
+            },
+            {
+              "name": "[60001] Tool Box x5",
+              "qty": 50.0,
+              "total": 9750.0
+            },
+            {
+              "name": "[99133] Tool Box X4",
+              "qty": 50.0,
+              "total": 7250.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00487",
           "customer": "Life Zone O-11",
