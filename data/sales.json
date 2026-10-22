@@ -24073,10 +24073,10 @@
     },
     {
       "date": "2026-10-22",
-      "generatedAt": "2026-10-22T12:45:48Z",
+      "generatedAt": "2026-10-22T13:01:27Z",
       "pos": {
-        "total": 1429.0,
-        "count": 5
+        "total": 1789.0,
+        "count": 6
       },
       "regularSales": {
         "total": 79110.0,
@@ -24091,8 +24091,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 79740.0,
-        "count": 8
+        "total": 80100.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -24243,6 +24243,22 @@
               "name": "[70143] Hook Slat 6\"",
               "qty": 20.0,
               "total": 200.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000459",
+          "customer": "Walk-in",
+          "amount": 360.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02228] Paper Cup 6oz (Bundle)",
+              "qty": 18.0,
+              "total": 360.0
             }
           ]
         },
