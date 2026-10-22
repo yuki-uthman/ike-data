@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-22T10:01:34Z",
+  "generatedAt": "2026-10-22T10:16:00Z",
   "openCount": 161,
   "openTotal": 2089828.2,
-  "quotationCount": 84,
-  "quotationTotal": 1110787.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationCount": 83,
+  "quotationTotal": 1109112.75,
+  "orderCount": 78,
+  "orderTotal": 980715.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -341,15 +341,15 @@
     },
     {
       "date": "2026-10-21",
-      "count": 3,
-      "outstanding": 5600.0,
-      "total": 5600.0
+      "count": 2,
+      "outstanding": 3925.0,
+      "total": 3925.0
     },
     {
       "date": "2026-10-22",
-      "count": 3,
-      "outstanding": 21240.0,
-      "total": 21240.0
+      "count": 4,
+      "outstanding": 22915.0,
+      "total": 22915.0
     }
   ],
   "quotations": [
@@ -427,6 +427,30 @@
       ]
     },
     {
+      "id": 644,
+      "ref": "S00645",
+      "kind": "order",
+      "customer": "Guestbox Maldives Pvt Ltd",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-22",
+      "expires": "2026-11-20",
+      "total": 1675.0,
+      "settled": 0.0,
+      "outstanding": 1675.0,
+      "lines": [
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
+          "qty": 5.0,
+          "total": 900.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 5.0,
+          "total": 775.0
+        }
+      ]
+    },
+    {
       "id": 648,
       "ref": "S00649",
       "kind": "quotation",
@@ -461,30 +485,6 @@
           "name": "[60001] Tool Box x5",
           "qty": 15.0,
           "total": 2925.0
-        }
-      ]
-    },
-    {
-      "id": 644,
-      "ref": "S00645",
-      "kind": "quotation",
-      "customer": "Guestbox Maldives Pvt Ltd",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-21",
-      "expires": "2026-11-20",
-      "total": 1675.0,
-      "settled": 0.0,
-      "outstanding": 1675.0,
-      "lines": [
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
-          "qty": 5.0,
-          "total": 900.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 5.0,
-          "total": 775.0
         }
       ]
     },
