@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-22T09:15:54Z",
-  "openCount": 159,
-  "openTotal": 2069538.2,
-  "quotationCount": 82,
-  "quotationTotal": 1090497.75,
+  "generatedAt": "2026-10-22T09:31:14Z",
+  "openCount": 160,
+  "openTotal": 2073828.2,
+  "quotationCount": 83,
+  "quotationTotal": 1094787.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -347,12 +347,56 @@
     },
     {
       "date": "2026-10-22",
-      "count": 1,
-      "outstanding": 950.0,
-      "total": 950.0
+      "count": 2,
+      "outstanding": 5240.0,
+      "total": 5240.0
     }
   ],
   "quotations": [
+    {
+      "id": 650,
+      "ref": "S00651",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-22",
+      "expires": "2026-11-21",
+      "total": 4290.0,
+      "settled": 0.0,
+      "outstanding": 4290.0,
+      "lines": [
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        },
+        {
+          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+          "qty": 1.0,
+          "total": 1200.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 2.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "[10005] Pizza Box 12\" [bundle] (with print)",
+          "qty": 1.0,
+          "total": 400.0
+        },
+        {
+          "name": "[ZILK-TR-C144] Zilk Toilet Roll (Case 144pcs)",
+          "qty": 1.0,
+          "total": 790.0
+        }
+      ]
+    },
     {
       "id": 648,
       "ref": "S00649",

@@ -24073,22 +24073,22 @@
     },
     {
       "date": "2026-10-22",
-      "generatedAt": "2026-10-22T09:15:46Z",
+      "generatedAt": "2026-10-22T09:31:04Z",
       "pos": {
-        "total": 99.0,
-        "count": 1
+        "total": 349.0,
+        "count": 3
       },
       "regularSales": {
         "total": 77035.0,
         "count": 5
       },
       "pendingQuotations": {
-        "total": 950.0,
-        "count": 2
+        "total": 5240.0,
+        "count": 3
       },
       "cash": {
-        "total": 549.0,
-        "count": 2
+        "total": 799.0,
+        "count": 4
       },
       "transfer": {
         "total": 76585.0,
@@ -24205,6 +24205,22 @@
           ]
         },
         {
+          "ref": "Ike - 000456",
+          "customer": "Walk-in",
+          "amount": 175.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:24",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01632] Digital Body Scale#2017",
+              "qty": 1.0,
+              "total": 175.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000454",
           "customer": "Walk-in",
           "amount": 99.0,
@@ -24224,6 +24240,42 @@
               "total": 36.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000455",
+          "customer": "Walk-in",
+          "amount": 75.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:19",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01871] Duster#43",
+              "qty": 1.0,
+              "total": 29.0
+            },
+            {
+              "name": "[70083] Towel",
+              "qty": 2.0,
+              "total": 16.0
+            },
+            {
+              "name": "[70074] Towel 042-02 30*40cm",
+              "qty": 1.0,
+              "total": 15.0
+            },
+            {
+              "name": "[70076] Towel 042-0980 30*30cm",
+              "qty": 1.0,
+              "total": 9.0
+            },
+            {
+              "name": "[0012] Sponge WJ631 Loose PC",
+              "qty": 2.0,
+              "total": 6.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24241,7 +24293,7 @@
       ],
       "till": {
         "opening": 4382.0,
-        "expectedClosing": 1431.0,
+        "expectedClosing": 1681.0,
         "counted": null,
         "difference": null,
         "closed": false,
