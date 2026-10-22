@@ -29,6 +29,9 @@ jobs:
       - name: Check the CV Duta case-counting rules against canned data
         run: python scripts/test_duta_cases.py
 
+      - name: Check the rack-counting rules against canned data
+        run: python scripts/test_racks.py
+
       - name: Fetch today's sales + cash/transfer payments from Odoo (writes sales.json and today.json)
         env:
           ODOO_URL: https://mrh-investment.odoo.com
@@ -65,11 +68,23 @@ jobs:
           ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
         run: python scripts/fetch_duta_cases.py
 
+      # Same rule as the Duta step: allowed to fail, last good racks.json stays.
+      - name: Fetch racks sold from Odoo
+        continue-on-error: true
+        env:
+          ODOO_URL: https://mrh-investment.odoo.com
+          ODOO_DB: mrh-investment
+          ODOO_USERNAME: mrhpvt@gmail.com
+          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
+        run: python scripts/fetch_racks.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/sales.json data/expenses.json data/today.json data/quotations.json data/duta-cases.json
+          # racks.json may not exist yet if its very first fetch failed; never let that block the rest
+          [ -f data/racks.json ] && git add data/racks.json
           git diff --cached --quiet && { echo "No changes"; exit 0; }
           git commit -m "chore: refresh sales + expenses + today + quotations data"
           for i in 1 2 3 4 5; do

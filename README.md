@@ -69,6 +69,15 @@ separate, static-only repo that fetches its JSON straight from here via
   ike-pos itself no longer reads `today.json` (it reads `sales.json` for the
   60-day history the date pills need); this file is kept for any consumer
   that only wants the current day.
+- `scripts/fetch_racks.py` — racks sold per month for ike-racks, written to
+  `data/racks.json`. Zoho history (to 26 Aug 2026) is a static file,
+  `scripts/racks_history.json`; Odoo (from 27 Aug) is live: confirmed sales
+  orders plus till sales, one rack per bay, with a till line that repeats a
+  sale order (same customer, product, quantity, price, within an hour) counted
+  once. Invoices and credit notes are deliberately not a source (they trace
+  back to the same orders). Runs in the 15-minute job as an allowed-to-fail
+  step; offline test: `scripts/test_racks.py`. Held-out orders are logged on
+  every run.
 - `scripts/fetch_quotations.py` — the follow-up pull for ike-quotations:
   every quotation and sales order with money still owing, plus the day
   totals behind its chart. This is the one script that asks what has *not*
