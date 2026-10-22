@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T17:45:47Z",
+  "generatedAt": "2026-10-22T18:01:18Z",
   "cash": {
-    "total": 799.0,
-    "count": 4
+    "total": 1074.0,
+    "count": 5
   },
   "transfer": {
     "total": 80110.0,
@@ -196,6 +196,22 @@
       ]
     },
     {
+      "ref": "Ike - 000461",
+      "customer": "Walk-in",
+      "amount": 275.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:47",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Geo Peck - Bundle (125pcs)",
+          "qty": 1.0,
+          "total": 275.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00485",
       "customer": "Sales",
       "amount": 195.0,
@@ -317,13 +333,13 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 799.0
+      "count": 5,
+      "total": 1074.0
     }
   ],
   "cashOut": {
-    "total": 3765.0,
-    "count": 3
+    "total": 3825.0,
+    "count": 4
   },
   "cashOutTransactions": [
     {
@@ -341,6 +357,13 @@
       "time": "22:25"
     },
     {
+      "reason": "Tea money 3 days -- Jafar",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:51"
+    },
+    {
       "reason": "Gate pass--Nagarajan",
       "amount": 15.0,
       "method": "cash",
@@ -350,10 +373,10 @@
   ],
   "till": {
     "opening": 4382.0,
-    "expectedClosing": 1416.0,
-    "counted": null,
-    "difference": null,
-    "closed": false,
+    "expectedClosing": 1631.0,
+    "counted": 1531.0,
+    "difference": -100.0,
+    "closed": true,
     "sessionCount": 1
   }
 }
