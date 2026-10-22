@@ -24073,32 +24073,58 @@
     },
     {
       "date": "2026-10-22",
-      "generatedAt": "2026-10-22T05:30:59Z",
+      "generatedAt": "2026-10-22T05:45:41Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 99.0,
+        "count": 1
       },
       "regularSales": {
-        "total": 645.0,
-        "count": 2
+        "total": 8185.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 950.0,
+        "count": 1
       },
       "cash": {
-        "total": 450.0,
-        "count": 1
+        "total": 549.0,
+        "count": 2
       },
       "transfer": {
-        "total": 195.0,
-        "count": 1
+        "total": 7735.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00487",
+          "customer": "Life Zone O-11",
+          "amount": 7540.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:37",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
+              "qty": 1.0,
+              "total": 5300.0
+            },
+            {
+              "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+              "qty": 8.0,
+              "total": 2240.0
+            },
+            {
+              "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+              "qty": 16.0,
+              "total": 0.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00486",
           "customer": "Snap Buy",
@@ -24130,6 +24156,27 @@
               "total": 195.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000454",
+          "customer": "Walk-in",
+          "amount": 99.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:44",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02068] Flower Pot 23x20cm E300x260",
+              "qty": 7.0,
+              "total": 63.0
+            },
+            {
+              "name": "[02067] Flower Pot 18x14cm E230x180",
+              "qty": 6.0,
+              "total": 36.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24139,7 +24186,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 4382.0,
-        "expectedClosing": 4832.0,
+        "expectedClosing": 4931.0,
         "counted": null,
         "difference": null,
         "closed": false,
