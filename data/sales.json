@@ -24073,10 +24073,10 @@
     },
     {
       "date": "2026-10-22",
-      "generatedAt": "2026-10-22T10:15:45Z",
+      "generatedAt": "2026-10-22T10:31:03Z",
       "pos": {
-        "total": 349.0,
-        "count": 3
+        "total": 629.0,
+        "count": 4
       },
       "regularSales": {
         "total": 77035.0,
@@ -24091,8 +24091,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 76585.0,
-        "count": 4
+        "total": 76865.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -24185,6 +24185,22 @@
               "name": "[3043] Mix-Lah Barista Vanilla",
               "qty": 1.0,
               "total": 450.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000457",
+          "customer": "Walk-in",
+          "amount": 280.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "15:23",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 1.0,
+              "total": 280.0
             }
           ]
         },
