@@ -24073,22 +24073,22 @@
     },
     {
       "date": "2026-10-22",
-      "generatedAt": "2026-10-22T05:01:14Z",
+      "generatedAt": "2026-10-22T05:14:35Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 195.0,
-        "count": 1
+        "total": 645.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 450.0,
+        "count": 1
       },
       "transfer": {
         "total": 195.0,
@@ -24099,6 +24099,22 @@
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00486",
+          "customer": "Snap Buy",
+          "amount": 450.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:08",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[3043] Mix-Lah Barista Vanilla",
+              "qty": 1.0,
+              "total": 450.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00485",
           "customer": "Sales",
@@ -24123,7 +24139,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 4382.0,
-        "expectedClosing": 4382.0,
+        "expectedClosing": 4832.0,
         "counted": null,
         "difference": null,
         "closed": false,
