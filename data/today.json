@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T17:31:01Z",
+  "generatedAt": "2026-10-23T17:45:43Z",
   "cash": {
     "total": 2693.0,
     "count": 8
@@ -213,7 +213,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 1531.0,
-    "expectedClosing": 4224.0,
+    "expectedClosing": 2239.0,
     "counted": null,
     "difference": null,
     "closed": false,
