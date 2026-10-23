@@ -24410,22 +24410,22 @@
     },
     {
       "date": "2026-10-23",
-      "generatedAt": "2026-10-23T17:15:46Z",
+      "generatedAt": "2026-10-23T17:31:01Z",
       "pos": {
         "total": 543.0,
         "count": 7
       },
       "regularSales": {
-        "total": 330.0,
-        "count": 2
+        "total": 2315.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 18350.0,
-        "count": 2
+        "total": 19030.0,
+        "count": 3
       },
       "cash": {
-        "total": 708.0,
-        "count": 7
+        "total": 2693.0,
+        "count": 8
       },
       "transfer": {
         "total": 165.0,
@@ -24436,6 +24436,27 @@
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00494",
+          "customer": "Maamui Fihaara",
+          "amount": 1985.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:30",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Hanger Plastic A17 - Case (144pcs)",
+              "qty": 2.0,
+              "total": 1100.0
+            },
+            {
+              "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 885.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00492",
           "customer": "Snap Buy",
@@ -24598,7 +24619,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1531.0,
-        "expectedClosing": 2239.0,
+        "expectedClosing": 4224.0,
         "counted": null,
         "difference": null,
         "closed": false,
