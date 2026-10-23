@@ -24410,10 +24410,10 @@
     },
     {
       "date": "2026-10-23",
-      "generatedAt": "2026-10-23T15:45:43Z",
+      "generatedAt": "2026-10-23T16:01:20Z",
       "pos": {
-        "total": 80.0,
-        "count": 2
+        "total": 95.0,
+        "count": 3
       },
       "regularSales": {
         "total": 330.0,
@@ -24428,8 +24428,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 15.0,
+        "count": 1
       },
       "other": {
         "total": 0,
@@ -24502,6 +24502,22 @@
               "name": "Hanger Plastic A17 - Bundle (6pcs)",
               "qty": 1.0,
               "total": 30.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000465",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:48",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Falcon Aluminum Container 8342 10pcs",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         }

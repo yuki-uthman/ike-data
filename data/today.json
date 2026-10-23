@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T15:45:43Z",
+  "generatedAt": "2026-10-23T16:01:20Z",
   "cash": {
     "total": 410.0,
     "count": 4
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 15.0,
+    "count": 1
   },
   "other": {
     "total": 0,
@@ -84,6 +84,22 @@
           "total": 30.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000465",
+      "customer": "Walk-in",
+      "amount": 15.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "20:48",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Falcon Aluminum Container 8342 10pcs",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -92,6 +108,12 @@
       "method": "cash",
       "count": 4,
       "total": 410.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 15.0
     }
   ],
   "cashOut": {
