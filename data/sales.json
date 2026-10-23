@@ -24410,10 +24410,10 @@
     },
     {
       "date": "2026-10-23",
-      "generatedAt": "2026-10-23T16:01:20Z",
+      "generatedAt": "2026-10-23T16:15:47Z",
       "pos": {
-        "total": 95.0,
-        "count": 3
+        "total": 363.0,
+        "count": 5
       },
       "regularSales": {
         "total": 330.0,
@@ -24424,8 +24424,8 @@
         "count": 0
       },
       "cash": {
-        "total": 410.0,
-        "count": 4
+        "total": 678.0,
+        "count": 6
       },
       "transfer": {
         "total": 15.0,
@@ -24453,6 +24453,22 @@
           ]
         },
         {
+          "ref": "Ike - 000466",
+          "customer": "Walk-in",
+          "amount": 195.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:05",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01955] ironing board large",
+              "qty": 1.0,
+              "total": 195.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00493",
           "customer": "Sales",
           "amount": 110.0,
@@ -24470,6 +24486,27 @@
               "name": "[70142] Hook Net 6\"",
               "qty": 5.0,
               "total": 50.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000467",
+          "customer": "Walk-in",
+          "amount": 73.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:08",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70016] Storage Fridge Box Plastic White 22x7x13.5cm #313",
+              "qty": 2.0,
+              "total": 38.0
+            },
+            {
+              "name": "[02459] silicone loose pc tin",
+              "qty": 1.0,
+              "total": 35.0
             }
           ]
         },
@@ -24529,7 +24566,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1531.0,
-        "expectedClosing": 1941.0,
+        "expectedClosing": 2209.0,
         "counted": null,
         "difference": null,
         "closed": false,
