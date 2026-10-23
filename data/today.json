@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T17:45:43Z",
+  "generatedAt": "2026-10-23T17:50:29Z",
   "cash": {
-    "total": 2693.0,
-    "count": 8
+    "total": 708.0,
+    "count": 7
   },
   "transfer": {
-    "total": 165.0,
-    "count": 2
+    "total": 2168.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -20,9 +20,9 @@
       "ref": "INV/2026/00494",
       "customer": "Maamui Fihaara",
       "amount": 1985.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:30",
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "22:47",
       "source": "payment",
       "lines": [
         {
@@ -176,6 +176,22 @@
       ]
     },
     {
+      "ref": "Ike - 000463",
+      "customer": "Walk-in",
+      "amount": 18.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:49",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70065] Sponges 5pcs YQE07",
+          "qty": 1.0,
+          "total": 18.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000465",
       "customer": "Walk-in",
       "amount": 15.0,
@@ -194,16 +210,22 @@
   ],
   "methodsSeen": [
     {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 1985.0
+    },
+    {
       "name": "Cash",
       "method": "cash",
-      "count": 8,
-      "total": 2693.0
+      "count": 7,
+      "total": 708.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 165.0
+      "count": 3,
+      "total": 183.0
     }
   ],
   "cashOut": {
