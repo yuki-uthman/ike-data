@@ -24410,7 +24410,7 @@
     },
     {
       "date": "2026-10-23",
-      "generatedAt": "2026-10-23T18:01:18Z",
+      "generatedAt": "2026-10-23T18:15:43Z",
       "pos": {
         "total": 596.0,
         "count": 9
@@ -24652,9 +24652,9 @@
       "till": {
         "opening": 1531.0,
         "expectedClosing": 2274.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "counted": 2181.0,
+        "difference": -93.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
