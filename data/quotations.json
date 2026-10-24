@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T05:45:48Z",
-  "openCount": 166,
-  "openTotal": 2112493.2,
-  "quotationCount": 89,
-  "quotationTotal": 1133452.75,
+  "generatedAt": "2026-10-24T06:15:51Z",
+  "openCount": 167,
+  "openTotal": 2115613.2,
+  "quotationCount": 90,
+  "quotationTotal": 1136572.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-10-24",
-      "count": 2,
-      "outstanding": 4400.0,
-      "total": 4400.0
+      "count": 3,
+      "outstanding": 7520.0,
+      "total": 7520.0
     }
   ],
   "quotations": [
@@ -386,6 +386,35 @@
           "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
           "qty": 10.0,
           "total": 1600.0
+        }
+      ]
+    },
+    {
+      "id": 664,
+      "ref": "S00665",
+      "kind": "quotation",
+      "customer": "Vision Bookshop",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-24",
+      "expires": "2026-11-23",
+      "total": 3120.0,
+      "settled": 0.0,
+      "outstanding": 3120.0,
+      "lines": [
+        {
+          "name": "37# Shelf Top 900x300mm",
+          "qty": 8.0,
+          "total": 3120.0
+        },
+        {
+          "name": "37# White Shelf Clip",
+          "qty": 16.0,
+          "total": 0.0
+        },
+        {
+          "name": "37# White Shelf Reinforce Bar 920mm",
+          "qty": 8.0,
+          "total": 0.0
         }
       ]
     },

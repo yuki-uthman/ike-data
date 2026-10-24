@@ -24625,32 +24625,48 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T05:45:39Z",
+      "generatedAt": "2026-10-24T06:15:41Z",
       "pos": {
         "total": 36.0,
         "count": 3
       },
       "regularSales": {
-        "total": 731.0,
-        "count": 2
+        "total": 2131.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 4400.0,
-        "count": 2
+        "total": 7520.0,
+        "count": 3
       },
       "cash": {
         "total": 87.0,
         "count": 4
       },
       "transfer": {
-        "total": 680.0,
-        "count": 1
+        "total": 2080.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00497",
+          "customer": "Maamui Fihaara",
+          "amount": 1400.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:11",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 1400.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00495",
           "customer": "Thandiya Fihaara Adh.Dhangethi 791-6047",
