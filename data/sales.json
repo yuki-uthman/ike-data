@@ -24625,14 +24625,14 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T09:40:58Z",
+      "generatedAt": "2026-10-24T09:45:39Z",
       "pos": {
         "total": 36.0,
         "count": 3
       },
       "regularSales": {
-        "total": 10856.0,
-        "count": 7
+        "total": 12896.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 7520.0,
@@ -24643,8 +24643,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 10805.0,
-        "count": 6
+        "total": 12845.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -24669,6 +24669,27 @@
               "name": "[75053] Hook Mesh 12\"",
               "qty": 100.0,
               "total": 1600.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00502",
+          "customer": "Red Zone , C-15",
+          "amount": 2040.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:42",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[MILO900-C12] Milo 900g (Case 12pcs)",
+              "qty": 1.0,
+              "total": 1800.0
+            },
+            {
+              "name": "[70144] Hook Slat 8\"",
+              "qty": 20.0,
+              "total": 240.0
             }
           ]
         },
