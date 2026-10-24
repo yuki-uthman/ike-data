@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T09:15:54Z",
-  "openCount": 168,
-  "openTotal": 2117653.2,
+  "generatedAt": "2026-10-24T09:31:11Z",
+  "openCount": 169,
+  "openTotal": 2124253.2,
   "quotationCount": 91,
-  "quotationTotal": 1138612.75,
-  "orderCount": 77,
-  "orderTotal": 979040.45,
+  "quotationTotal": 1143172.75,
+  "orderCount": 78,
+  "orderTotal": 981080.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -359,12 +359,36 @@
     },
     {
       "date": "2026-10-24",
-      "count": 4,
-      "outstanding": 9560.0,
-      "total": 9560.0
+      "count": 5,
+      "outstanding": 16160.0,
+      "total": 16160.0
     }
   ],
   "quotations": [
+    {
+      "id": 670,
+      "ref": "S00671",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-24",
+      "expires": "2026-11-23",
+      "total": 6600.0,
+      "settled": 0.0,
+      "outstanding": 6600.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+          "qty": 2.0,
+          "total": 5000.0
+        },
+        {
+          "name": "[75053] Hook Mesh 12\"",
+          "qty": 100.0,
+          "total": 1600.0
+        }
+      ]
+    },
     {
       "id": 662,
       "ref": "S00663",
@@ -421,7 +445,7 @@
     {
       "id": 666,
       "ref": "S00667",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Red Zone , C-15",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-24",
