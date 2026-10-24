@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T11:15:42Z",
+  "generatedAt": "2026-10-24T11:31:00Z",
   "cash": {
     "total": 337.0,
     "count": 5
   },
   "transfer": {
-    "total": 12845.0,
-    "count": 7
+    "total": 13755.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -87,6 +87,27 @@
           "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
           "qty": 1.0,
           "total": 1225.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00504",
+      "customer": "S.m.a Store R-1",
+      "amount": 910.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:28",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 1.0,
+          "total": 460.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
         }
       ]
     },
@@ -228,8 +249,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 12845.0
+      "count": 8,
+      "total": 13755.0
     },
     {
       "name": "Cash",
