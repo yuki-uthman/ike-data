@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T17:45:39Z",
+  "generatedAt": "2026-10-24T18:01:13Z",
   "cash": {
-    "total": 915.0,
-    "count": 9
+    "total": 975.0,
+    "count": 10
   },
   "transfer": {
     "total": 19763.0,
@@ -334,6 +334,22 @@
       ]
     },
     {
+      "ref": "Ike - 000479",
+      "customer": "Walk-in",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:52",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+          "qty": 2.0,
+          "total": 60.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00496",
       "customer": "Ocean Aventis Pvt.Ltd",
       "amount": 51.0,
@@ -440,8 +456,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 9,
-      "total": 915.0
+      "count": 10,
+      "total": 975.0
     },
     {
       "name": "Bank Transfer",
@@ -457,10 +473,10 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2181.0,
-    "expectedClosing": 3096.0,
-    "counted": null,
-    "difference": null,
-    "closed": false,
-    "sessionCount": 1
+    "expectedClosing": 3156.0,
+    "counted": 2956.0,
+    "difference": -200.0,
+    "closed": true,
+    "sessionCount": 2
   }
 }
