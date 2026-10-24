@@ -24625,26 +24625,26 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T12:15:45Z",
+      "generatedAt": "2026-10-24T12:31:01Z",
       "pos": {
         "total": 36.0,
         "count": 3
       },
       "regularSales": {
-        "total": 14616.0,
-        "count": 11
+        "total": 17816.0,
+        "count": 12
       },
       "pendingQuotations": {
-        "total": 7520.0,
-        "count": 3
+        "total": 4320.0,
+        "count": 2
       },
       "cash": {
         "total": 337.0,
         "count": 5
       },
       "transfer": {
-        "total": 14315.0,
-        "count": 9
+        "total": 17515.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -24668,6 +24668,27 @@
             {
               "name": "[75053] Hook Mesh 12\"",
               "qty": 100.0,
+              "total": 1600.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00506",
+          "customer": "Guestbox Maldives Pvt Ltd",
+          "amount": 3200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:27",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+              "qty": 10.0,
+              "total": 1600.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+              "qty": 10.0,
               "total": 1600.0
             }
           ]
