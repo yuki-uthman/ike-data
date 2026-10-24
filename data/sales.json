@@ -24625,10 +24625,10 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T15:45:40Z",
+      "generatedAt": "2026-10-24T16:01:14Z",
       "pos": {
-        "total": 36.0,
-        "count": 3
+        "total": 51.0,
+        "count": 4
       },
       "regularSales": {
         "total": 18808.0,
@@ -24643,8 +24643,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 18075.0,
-        "count": 11
+        "total": 18090.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -24913,6 +24913,22 @@
               "name": "[70076] Towel 042-0980 30*30cm",
               "qty": 4.0,
               "total": 36.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000474",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:58",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+              "qty": 3.0,
+              "total": 15.0
             }
           ]
         },
