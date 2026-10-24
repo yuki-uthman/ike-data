@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T04:15:49Z",
-  "openCount": 164,
-  "openTotal": 2108093.2,
-  "quotationCount": 87,
-  "quotationTotal": 1129052.75,
+  "generatedAt": "2026-10-24T04:31:06Z",
+  "openCount": 165,
+  "openTotal": 2108773.2,
+  "quotationCount": 88,
+  "quotationTotal": 1129732.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -359,12 +359,31 @@
     },
     {
       "date": "2026-10-24",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 680.0,
+      "total": 680.0
     }
   ],
   "quotations": [
+    {
+      "id": 660,
+      "ref": "S00661",
+      "kind": "quotation",
+      "customer": "Thandiya Fihaara Adh.Dhangethi 791-6047",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-24",
+      "expires": "2026-11-23",
+      "total": 680.0,
+      "settled": 0.0,
+      "outstanding": 680.0,
+      "lines": [
+        {
+          "name": "[70201] Thermal Printer Roll 80mm",
+          "qty": 50.0,
+          "total": 680.0
+        }
+      ]
+    },
     {
       "id": 657,
       "ref": "S00658",
