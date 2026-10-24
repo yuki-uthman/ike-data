@@ -3,41 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-08-26",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 0,
-        "count": 0
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 0,
-        "count": 0
-      },
-      "transfer": {
-        "total": 0,
-        "count": 0
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": null
-    },
-    {
       "date": "2026-08-27",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25094,6 +25059,41 @@
         "closed": true,
         "sessionCount": 2
       }
+    },
+    {
+      "date": "2026-10-25",
+      "generatedAt": "2026-10-24T19:01:15Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
