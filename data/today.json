@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T11:45:41Z",
+  "generatedAt": "2026-10-24T12:01:17Z",
   "cash": {
     "total": 337.0,
     "count": 5
   },
   "transfer": {
-    "total": 13755.0,
-    "count": 8
+    "total": 14315.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -124,6 +124,22 @@
           "name": "[70201] Thermal Printer Roll 80mm",
           "qty": 50.0,
           "total": 680.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00505",
+      "customer": "Victorious Cafe",
+      "amount": 560.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:49",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 2.0,
+          "total": 560.0
         }
       ]
     },
@@ -249,8 +265,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 13755.0
+      "count": 9,
+      "total": 14315.0
     },
     {
       "name": "Cash",

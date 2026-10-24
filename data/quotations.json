@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T11:45:51Z",
-  "openCount": 167,
-  "openTotal": 2115263.2,
-  "quotationCount": 90,
-  "quotationTotal": 1136222.75,
+  "generatedAt": "2026-10-24T12:01:32Z",
+  "openCount": 166,
+  "openTotal": 2114703.2,
+  "quotationCount": 89,
+  "quotationTotal": 1135662.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-10-24",
-      "count": 4,
-      "outstanding": 8080.0,
-      "total": 8080.0
+      "count": 3,
+      "outstanding": 7520.0,
+      "total": 7520.0
     }
   ],
   "quotations": [
@@ -434,25 +434,6 @@
           "name": "Paper Plate 9'' 100pcs Bundle",
           "qty": 24.0,
           "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 672,
-      "ref": "S00673",
-      "kind": "quotation",
-      "customer": "Victorious Cafe",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-24",
-      "expires": "2026-11-23",
-      "total": 560.0,
-      "settled": 0.0,
-      "outstanding": 560.0,
-      "lines": [
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 2.0,
-          "total": 560.0
         }
       ]
     },
