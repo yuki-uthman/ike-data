@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T17:31:09Z",
-  "openCount": 167,
-  "openTotal": 2110976.2,
-  "quotationCount": 90,
-  "quotationTotal": 1131935.75,
+  "generatedAt": "2026-10-24T17:45:48Z",
+  "openCount": 166,
+  "openTotal": 2108763.2,
+  "quotationCount": 89,
+  "quotationTotal": 1129722.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-10-24",
-      "count": 4,
-      "outstanding": 7623.0,
-      "total": 7623.0
+      "count": 3,
+      "outstanding": 5410.0,
+      "total": 5410.0
     }
   ],
   "quotations": [
@@ -395,74 +395,6 @@
       ]
     },
     {
-      "id": 676,
-      "ref": "S00677",
-      "kind": "quotation",
-      "customer": "Ekuveri Store I-8",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-24",
-      "expires": "2026-11-23",
-      "total": 1730.0,
-      "settled": 0.0,
-      "outstanding": 1730.0,
-      "lines": [
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 2.0,
-          "total": 640.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 2.0,
-          "total": 640.0
-        }
-      ]
-    },
-    {
-      "id": 675,
-      "ref": "S00676",
-      "kind": "quotation",
-      "customer": "Beach Raha Mart K. Himmafushi",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-24",
-      "expires": "2026-11-23",
-      "total": 1573.0,
-      "settled": 0.0,
-      "outstanding": 1573.0,
-      "lines": [
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        }
-      ]
-    },
-    {
       "id": 661,
       "ref": "S00662",
       "kind": "quotation",
@@ -478,6 +410,30 @@
           "name": "Paper Plate 9'' 100pcs Bundle",
           "qty": 24.0,
           "total": 1200.0
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "ref": "S00677",
+      "kind": "quotation",
+      "customer": "Ekuveri Store I-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-24",
+      "expires": "2026-11-23",
+      "total": 1090.0,
+      "settled": 0.0,
+      "outstanding": 1090.0,
+      "lines": [
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 2.0,
+          "total": 640.0
         }
       ]
     },

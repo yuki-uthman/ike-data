@@ -24625,26 +24625,26 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T17:30:58Z",
+      "generatedAt": "2026-10-24T17:45:39Z",
       "pos": {
-        "total": 151.0,
-        "count": 5
+        "total": 297.0,
+        "count": 8
       },
       "regularSales": {
-        "total": 18808.0,
-        "count": 14
+        "total": 20381.0,
+        "count": 15
       },
       "pendingQuotations": {
-        "total": 7623.0,
-        "count": 4
+        "total": 5410.0,
+        "count": 3
       },
       "cash": {
-        "total": 769.0,
-        "count": 6
+        "total": 915.0,
+        "count": 9
       },
       "transfer": {
-        "total": 18190.0,
-        "count": 13
+        "total": 19763.0,
+        "count": 14
       },
       "other": {
         "total": 0,
@@ -24711,6 +24711,42 @@
               "name": "[70144] Hook Slat 8\"",
               "qty": 20.0,
               "total": 240.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00509",
+          "customer": "Beach Raha Mart K. Himmafushi",
+          "amount": 1573.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:38",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+              "qty": 1.0,
+              "total": 300.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 1.0,
+              "total": 300.0
+            },
+            {
+              "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+              "qty": 1.0,
+              "total": 295.0
             }
           ]
         },
@@ -24901,6 +24937,38 @@
           ]
         },
         {
+          "ref": "Ike - 000478",
+          "customer": "Walk-in",
+          "amount": 79.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:44",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70049] Slipper 57(1)",
+              "qty": 1.0,
+              "total": 79.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000477",
+          "customer": "Walk-in",
+          "amount": 65.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:42",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02177] Rectangle Plastic Box Medium",
+              "qty": 1.0,
+              "total": 65.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00496",
           "customer": "Ocean Aventis Pvt.Ltd",
           "amount": 51.0,
@@ -24965,6 +25033,22 @@
           ]
         },
         {
+          "ref": "Ike - 000476",
+          "customer": "Walk-in",
+          "amount": 2.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:43",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02222] Paper Salad Bowl 500ml",
+              "qty": 2.0,
+              "total": 2.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000472 REFUND",
           "customer": "Walk-in",
           "amount": -5.0,
@@ -24988,7 +25072,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2181.0,
-        "expectedClosing": 2950.0,
+        "expectedClosing": 3096.0,
         "counted": null,
         "difference": null,
         "closed": false,
