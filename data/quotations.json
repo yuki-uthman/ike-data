@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T17:15:50Z",
-  "openCount": 166,
-  "openTotal": 2111096.2,
-  "quotationCount": 89,
-  "quotationTotal": 1132055.75,
+  "generatedAt": "2026-10-24T17:31:09Z",
+  "openCount": 167,
+  "openTotal": 2110976.2,
+  "quotationCount": 90,
+  "quotationTotal": 1131935.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -324,8 +324,8 @@
     {
       "date": "2026-10-18",
       "count": 3,
-      "outstanding": 25045.0,
-      "total": 25045.0
+      "outstanding": 23195.0,
+      "total": 23195.0
     },
     {
       "date": "2026-10-19",
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-10-24",
-      "count": 3,
-      "outstanding": 5893.0,
-      "total": 5893.0
+      "count": 4,
+      "outstanding": 7623.0,
+      "total": 7623.0
     }
   ],
   "quotations": [
@@ -391,6 +391,35 @@
           "name": "37# White Shelf Reinforce Bar 920mm",
           "qty": 8.0,
           "total": 0.0
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "ref": "S00677",
+      "kind": "quotation",
+      "customer": "Ekuveri Store I-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-24",
+      "expires": "2026-11-23",
+      "total": 1730.0,
+      "settled": 0.0,
+      "outstanding": 1730.0,
+      "lines": [
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 2.0,
+          "total": 640.0
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 2.0,
+          "total": 640.0
         }
       ]
     },
@@ -749,24 +778,24 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-18",
       "expires": "2026-11-17",
-      "total": 12800.0,
+      "total": 10950.0,
       "settled": 0.0,
-      "outstanding": 12800.0,
+      "outstanding": 10950.0,
       "lines": [
         {
           "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
-          "qty": 40.0,
-          "total": 11800.0
+          "qty": 35.0,
+          "total": 10325.0
         },
         {
           "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
-          "qty": 80.0,
+          "qty": 70.0,
           "total": 0.0
         },
         {
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-          "qty": 40.0,
-          "total": 1000.0
+          "qty": 25.0,
+          "total": 625.0
         }
       ]
     },
