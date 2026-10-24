@@ -24625,14 +24625,14 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T06:45:39Z",
+      "generatedAt": "2026-10-24T07:01:11Z",
       "pos": {
         "total": 36.0,
         "count": 3
       },
       "regularSales": {
-        "total": 2131.0,
-        "count": 3
+        "total": 3031.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 9560.0,
@@ -24643,8 +24643,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 2080.0,
-        "count": 2
+        "total": 2980.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -24680,6 +24680,43 @@
               "name": "[70201] Thermal Printer Roll 80mm",
               "qty": 50.0,
               "total": 680.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00499",
+          "customer": "Cafe One Family",
+          "amount": 460.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:59",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[A12B] Plastic Container A12 (Bundle)",
+              "qty": 2.0,
+              "total": 280.0
+            },
+            {
+              "name": "Falcon Aluminum Container 8342 10pcs",
+              "qty": 12.0,
+              "total": 180.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00498",
+          "customer": "Greenzone District",
+          "amount": 440.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:46",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90047] Milkshake Powder Tiramisu",
+              "qty": 2.0,
+              "total": 440.0
             }
           ]
         },
