@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T09:31:11Z",
-  "openCount": 169,
-  "openTotal": 2124253.2,
-  "quotationCount": 91,
-  "quotationTotal": 1143172.75,
+  "generatedAt": "2026-10-24T09:41:06Z",
+  "openCount": 168,
+  "openTotal": 2117653.2,
+  "quotationCount": 90,
+  "quotationTotal": 1136572.75,
   "orderCount": 78,
   "orderTotal": 981080.45,
   "days": [
@@ -359,36 +359,12 @@
     },
     {
       "date": "2026-10-24",
-      "count": 5,
-      "outstanding": 16160.0,
-      "total": 16160.0
+      "count": 4,
+      "outstanding": 9560.0,
+      "total": 9560.0
     }
   ],
   "quotations": [
-    {
-      "id": 670,
-      "ref": "S00671",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-24",
-      "expires": "2026-11-23",
-      "total": 6600.0,
-      "settled": 0.0,
-      "outstanding": 6600.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
-          "qty": 2.0,
-          "total": 5000.0
-        },
-        {
-          "name": "[75053] Hook Mesh 12\"",
-          "qty": 100.0,
-          "total": 1600.0
-        }
-      ]
-    },
     {
       "id": 662,
       "ref": "S00663",
@@ -489,7 +465,7 @@
       "id": 657,
       "ref": "S00658",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "sales",
       "salesperson": "Ike.Retail.Sales@Gmail.Com",
       "date": "2026-10-23",
       "expires": "2026-11-22",
@@ -513,7 +489,7 @@
       "id": 656,
       "ref": "S00657",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "sales",
       "salesperson": "Ike.Retail.Sales@Gmail.Com",
       "date": "2026-10-23",
       "expires": "2026-11-22",
@@ -749,7 +725,7 @@
       "id": 625,
       "ref": "S00626",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "sales",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-19",
       "expires": "2026-11-18",
@@ -904,7 +880,7 @@
       "id": 598,
       "ref": "S00599",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "sales",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-17",
       "expires": "2026-11-16",
@@ -995,7 +971,7 @@
       "id": 587,
       "ref": "S00588",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "sales",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-15",
       "expires": "2026-11-14",

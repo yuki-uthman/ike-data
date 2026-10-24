@@ -24625,32 +24625,53 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T09:31:01Z",
+      "generatedAt": "2026-10-24T09:40:58Z",
       "pos": {
         "total": 36.0,
         "count": 3
       },
       "regularSales": {
-        "total": 4256.0,
-        "count": 6
+        "total": 10856.0,
+        "count": 7
       },
       "pendingQuotations": {
-        "total": 14120.0,
-        "count": 4
+        "total": 7520.0,
+        "count": 3
       },
       "cash": {
         "total": 87.0,
         "count": 4
       },
       "transfer": {
-        "total": 4205.0,
-        "count": 5
+        "total": 10805.0,
+        "count": 6
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00501",
+          "customer": "sales",
+          "amount": 6600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:40",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+              "qty": 2.0,
+              "total": 5000.0
+            },
+            {
+              "name": "[75053] Hook Mesh 12\"",
+              "qty": 100.0,
+              "total": 1600.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00497",
           "customer": "Maamui Fihaara",
