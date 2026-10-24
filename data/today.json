@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T10:01:17Z",
+  "generatedAt": "2026-10-24T10:15:41Z",
   "cash": {
-    "total": 87.0,
-    "count": 4
+    "total": 337.0,
+    "count": 5
   },
   "transfer": {
     "total": 12845.0,
@@ -144,6 +144,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00503",
+      "customer": "Victory  light Pvt Ltd",
+      "amount": 250.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "15:08",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
+          "qty": 1.0,
+          "total": 250.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00496",
       "customer": "Ocean Aventis Pvt.Ltd",
       "amount": 51.0,
@@ -218,8 +234,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 87.0
+      "count": 5,
+      "total": 337.0
     }
   ],
   "cashOut": {
@@ -229,7 +245,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2181.0,
-    "expectedClosing": 2268.0,
+    "expectedClosing": 2518.0,
     "counted": null,
     "difference": null,
     "closed": false,
