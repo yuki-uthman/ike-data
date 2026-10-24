@@ -24625,22 +24625,22 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T05:30:59Z",
+      "generatedAt": "2026-10-24T05:45:39Z",
       "pos": {
         "total": 36.0,
         "count": 3
       },
       "regularSales": {
-        "total": 680.0,
-        "count": 1
+        "total": 731.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 4400.0,
         "count": 2
       },
       "cash": {
-        "total": 36.0,
-        "count": 3
+        "total": 87.0,
+        "count": 4
       },
       "transfer": {
         "total": 680.0,
@@ -24664,6 +24664,22 @@
               "name": "[70201] Thermal Printer Roll 80mm",
               "qty": 50.0,
               "total": 680.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00496",
+          "customer": "Ocean Aventis Pvt.Ltd",
+          "amount": 51.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:38",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[75053] Hook Mesh 12\"",
+              "qty": 3.0,
+              "total": 51.0
             }
           ]
         },
@@ -24723,7 +24739,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2181.0,
-        "expectedClosing": 2217.0,
+        "expectedClosing": 2268.0,
         "counted": null,
         "difference": null,
         "closed": false,
