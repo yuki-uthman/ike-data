@@ -24625,10 +24625,10 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T16:01:14Z",
+      "generatedAt": "2026-10-24T16:15:42Z",
       "pos": {
-        "total": 51.0,
-        "count": 4
+        "total": 151.0,
+        "count": 5
       },
       "regularSales": {
         "total": 18808.0,
@@ -24643,8 +24643,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 18090.0,
-        "count": 12
+        "total": 18190.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -24881,6 +24881,22 @@
               "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
               "qty": 1.0,
               "total": 250.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000475",
+          "customer": "Walk-in",
+          "amount": 100.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:04",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
+              "qty": 2.0,
+              "total": 100.0
             }
           ]
         },

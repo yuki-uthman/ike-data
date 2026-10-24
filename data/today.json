@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T16:01:14Z",
+  "generatedAt": "2026-10-24T16:15:42Z",
   "cash": {
     "total": 769.0,
     "count": 6
   },
   "transfer": {
-    "total": 18090.0,
-    "count": 12
+    "total": 18190.0,
+    "count": 13
   },
   "other": {
     "total": 0,
@@ -250,6 +250,22 @@
       ]
     },
     {
+      "ref": "Ike - 000475",
+      "customer": "Walk-in",
+      "amount": 100.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "21:04",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
+          "qty": 2.0,
+          "total": 100.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00496",
       "customer": "Ocean Aventis Pvt.Ltd",
       "amount": 51.0,
@@ -346,8 +362,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 15.0
+      "count": 2,
+      "total": 115.0
     }
   ],
   "cashOut": {
