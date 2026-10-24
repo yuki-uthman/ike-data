@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-24T16:15:58Z",
-  "openCount": 165,
-  "openTotal": 2111503.2,
-  "quotationCount": 88,
-  "quotationTotal": 1132462.75,
+  "generatedAt": "2026-10-24T16:31:11Z",
+  "openCount": 166,
+  "openTotal": 2113076.2,
+  "quotationCount": 89,
+  "quotationTotal": 1134035.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-10-24",
-      "count": 2,
-      "outstanding": 4320.0,
-      "total": 4320.0
+      "count": 3,
+      "outstanding": 5893.0,
+      "total": 5893.0
     }
   ],
   "quotations": [
@@ -391,6 +391,45 @@
           "name": "37# White Shelf Reinforce Bar 920mm",
           "qty": 8.0,
           "total": 0.0
+        }
+      ]
+    },
+    {
+      "id": 675,
+      "ref": "S00676",
+      "kind": "quotation",
+      "customer": "Beach Raha Mart K. Himmafushi",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-24",
+      "expires": "2026-11-23",
+      "total": 1573.0,
+      "settled": 0.0,
+      "outstanding": 1573.0,
+      "lines": [
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
         }
       ]
     },
