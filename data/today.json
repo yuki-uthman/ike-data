@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T17:45:42Z",
+  "generatedAt": "2026-10-25T18:01:14Z",
   "cash": {
-    "total": 1298.0,
-    "count": 8
+    "total": 1375.0,
+    "count": 10
   },
   "transfer": {
     "total": 13160.0,
@@ -273,6 +273,43 @@
       ]
     },
     {
+      "ref": "Ike - 000488",
+      "customer": "Walk-in",
+      "amount": 47.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:50",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01915] Kiwi Knife 475",
+          "qty": 1.0,
+          "total": 32.0
+        },
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000487",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:48",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70074] Towel 042-02 30*40cm",
+          "qty": 2.0,
+          "total": 30.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000480",
       "customer": "Walk-in",
       "amount": 25.0,
@@ -331,8 +368,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 8,
-      "total": 1298.0
+      "count": 10,
+      "total": 1375.0
     },
     {
       "name": "Bank Transfer",
@@ -370,7 +407,7 @@
   ],
   "till": {
     "opening": 2956.0,
-    "expectedClosing": 2524.0,
+    "expectedClosing": 2601.0,
     "counted": null,
     "difference": null,
     "closed": false,
