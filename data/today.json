@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T16:45:39Z",
+  "generatedAt": "2026-10-25T17:01:14Z",
   "cash": {
-    "total": 1025.0,
-    "count": 5
+    "total": 1220.0,
+    "count": 6
   },
   "transfer": {
     "total": 11690.0,
@@ -153,6 +153,22 @@
       ]
     },
     {
+      "ref": "Ike - 000483",
+      "customer": "Walk-in",
+      "amount": 195.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:52",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01954] Ironing Board Small",
+          "qty": 1.0,
+          "total": 195.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000481",
       "customer": "Walk-in",
       "amount": 171.0,
@@ -241,8 +257,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 1025.0
+      "count": 6,
+      "total": 1220.0
     }
   ],
   "cashOut": {
@@ -260,7 +276,7 @@
   ],
   "till": {
     "opening": 2956.0,
-    "expectedClosing": 2481.0,
+    "expectedClosing": 2676.0,
     "counted": null,
     "difference": null,
     "closed": false,
