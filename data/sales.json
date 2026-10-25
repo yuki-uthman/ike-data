@@ -25062,10 +25062,10 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T17:31:00Z",
+      "generatedAt": "2026-10-25T17:45:42Z",
       "pos": {
-        "total": 478.0,
-        "count": 6
+        "total": 748.0,
+        "count": 7
       },
       "regularSales": {
         "total": 13710.0,
@@ -25080,8 +25080,8 @@
         "count": 8
       },
       "transfer": {
-        "total": 12890.0,
-        "count": 5
+        "total": 13160.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25221,6 +25221,32 @@
               "name": "Paper Plate 9'' 100pcs Bundle",
               "qty": 12.0,
               "total": 600.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000486",
+          "customer": "Walk-in",
+          "amount": 270.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Bagasse Plate 7\"",
+              "qty": 1.0,
+              "total": 127.0
+            },
+            {
+              "name": "Bagasse Plate 9\" Geo Peck",
+              "qty": 1.0,
+              "total": 110.0
+            },
+            {
+              "name": "[01623] Ceramic Plate 8\"#12",
+              "qty": 1.0,
+              "total": 33.0
             }
           ]
         },
