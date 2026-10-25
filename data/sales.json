@@ -25062,7 +25062,7 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T08:45:42Z",
+      "generatedAt": "2026-10-25T09:01:17Z",
       "pos": {
         "total": 25.0,
         "count": 1
@@ -25201,13 +25201,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 1500.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Owners Drawing -- Rashad boss",
+          "amount": 1500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:55"
+        }
+      ],
       "till": {
         "opening": 2956.0,
-        "expectedClosing": 3801.0,
+        "expectedClosing": 2301.0,
         "counted": null,
         "difference": null,
         "closed": false,
