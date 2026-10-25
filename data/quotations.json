@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-25T04:15:45Z",
-  "openCount": 166,
-  "openTotal": 2108763.2,
+  "generatedAt": "2026-10-25T04:31:06Z",
+  "openCount": 165,
+  "openTotal": 2105643.2,
   "quotationCount": 88,
   "quotationTotal": 1126602.75,
-  "orderCount": 78,
-  "orderTotal": 982160.45,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -365,41 +365,12 @@
     },
     {
       "date": "2026-10-25",
-      "count": 1,
-      "outstanding": 3120.0,
-      "total": 3120.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 664,
-      "ref": "S00665",
-      "kind": "order",
-      "customer": "Vision Bookshop",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-25",
-      "expires": "2026-11-23",
-      "total": 3120.0,
-      "settled": 0.0,
-      "outstanding": 3120.0,
-      "lines": [
-        {
-          "name": "37# Shelf Top 900x300mm",
-          "qty": 8.0,
-          "total": 3120.0
-        },
-        {
-          "name": "37# White Shelf Clip",
-          "qty": 16.0,
-          "total": 0.0
-        },
-        {
-          "name": "37# White Shelf Reinforce Bar 920mm",
-          "qty": 8.0,
-          "total": 0.0
-        }
-      ]
-    },
     {
       "id": 661,
       "ref": "S00662",

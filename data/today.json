@@ -2,21 +2,55 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T04:15:39Z",
+  "generatedAt": "2026-10-25T04:30:58Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 3120.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "INV/2026/00510",
+      "customer": "Vision Bookshop",
+      "amount": 3120.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "09:17",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "37# Shelf Top 900x300mm",
+          "qty": 8.0,
+          "total": 3120.0
+        },
+        {
+          "name": "37# White Shelf Clip",
+          "qty": 16.0,
+          "total": 0.0
+        },
+        {
+          "name": "37# White Shelf Reinforce Bar 920mm",
+          "qty": 8.0,
+          "total": 0.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 3120.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
