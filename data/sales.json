@@ -25062,10 +25062,10 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T05:15:40Z",
+      "generatedAt": "2026-10-25T05:31:03Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 25.0,
+        "count": 1
       },
       "regularSales": {
         "total": 4020.0,
@@ -25076,8 +25076,8 @@
         "count": 0
       },
       "cash": {
-        "total": 220.0,
-        "count": 1
+        "total": 245.0,
+        "count": 2
       },
       "transfer": {
         "total": 3800.0,
@@ -25150,6 +25150,22 @@
               "total": 220.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000480",
+          "customer": "Walk-in",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:27",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70052] Bamboo Skewer 6\"/15cm MTL",
+              "qty": 1.0,
+              "total": 25.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -25159,7 +25175,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2956.0,
-        "expectedClosing": 3176.0,
+        "expectedClosing": 3201.0,
         "counted": null,
         "difference": null,
         "closed": false,
