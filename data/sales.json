@@ -25062,26 +25062,26 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T17:15:41Z",
+      "generatedAt": "2026-10-25T17:31:00Z",
       "pos": {
-        "total": 400.0,
-        "count": 4
+        "total": 478.0,
+        "count": 6
       },
       "regularSales": {
-        "total": 12510.0,
-        "count": 6
+        "total": 13710.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 7825.0,
         "count": 3
       },
       "cash": {
-        "total": 1220.0,
-        "count": 6
+        "total": 1298.0,
+        "count": 8
       },
       "transfer": {
-        "total": 11690.0,
-        "count": 4
+        "total": 12890.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25168,6 +25168,22 @@
               "name": "37# White Shelf Reinforce Bar 920mm",
               "qty": 8.0,
               "total": 0.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00516",
+          "customer": "Yoodh",
+          "amount": 1200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:30",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+              "qty": 1.0,
+              "total": 1200.0
             }
           ]
         },
@@ -25287,6 +25303,22 @@
           ]
         },
         {
+          "ref": "Ike - 000484",
+          "customer": "Walk-in",
+          "amount": 68.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:16",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70201] Thermal Printer Roll 80mm",
+              "qty": 5.0,
+              "total": 68.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000480",
           "customer": "Walk-in",
           "amount": 25.0,
@@ -25299,6 +25331,22 @@
               "name": "[70052] Bamboo Skewer 6\"/15cm MTL",
               "qty": 1.0,
               "total": 25.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000485",
+          "customer": "Walk-in",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:16",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70067] Sponges 2pcs YQE19",
+              "qty": 1.0,
+              "total": 10.0
             }
           ]
         },
@@ -25348,7 +25396,7 @@
       ],
       "till": {
         "opening": 2956.0,
-        "expectedClosing": 2446.0,
+        "expectedClosing": 2524.0,
         "counted": null,
         "difference": null,
         "closed": false,
