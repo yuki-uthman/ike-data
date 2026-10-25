@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T06:15:41Z",
+  "generatedAt": "2026-10-25T06:30:59Z",
   "cash": {
     "total": 245.0,
     "count": 2
   },
   "transfer": {
-    "total": 3800.0,
-    "count": 2
+    "total": 7400.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00513",
+      "customer": "MM TRADERS S-2",
+      "amount": 3600.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:26",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 2.0,
+          "total": 3600.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00510",
       "customer": "Vision Bookshop",
@@ -100,8 +116,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 3800.0
+      "count": 3,
+      "total": 7400.0
     },
     {
       "name": "Cash",
