@@ -25062,10 +25062,10 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T12:31:01Z",
+      "generatedAt": "2026-10-25T12:45:41Z",
       "pos": {
-        "total": 25.0,
-        "count": 1
+        "total": 196.0,
+        "count": 2
       },
       "regularSales": {
         "total": 12510.0,
@@ -25076,8 +25076,8 @@
         "count": 3
       },
       "cash": {
-        "total": 845.0,
-        "count": 3
+        "total": 1016.0,
+        "count": 4
       },
       "transfer": {
         "total": 11690.0,
@@ -25225,6 +25225,52 @@
           ]
         },
         {
+          "ref": "Ike - 000481",
+          "customer": "Walk-in",
+          "amount": 171.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:43",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01873] Duster cloth Microfiber",
+              "qty": 1.0,
+              "total": 39.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) (800 ml)",
+              "qty": 1.0,
+              "total": 30.0
+            },
+            {
+              "name": "[70074] Towel 042-02 30*40cm",
+              "qty": 2.0,
+              "total": 30.0
+            },
+            {
+              "name": "[01871] Duster#43",
+              "qty": 1.0,
+              "total": 29.0
+            },
+            {
+              "name": "[70061] Toilet with Handle Plastic#39",
+              "qty": 1.0,
+              "total": 22.0
+            },
+            {
+              "name": "[70076] Towel 042-0980 30*30cm",
+              "qty": 2.0,
+              "total": 18.0
+            },
+            {
+              "name": "[0012] Sponge WJ631 Loose PC",
+              "qty": 1.0,
+              "total": 3.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000480",
           "customer": "Walk-in",
           "amount": 25.0,
@@ -25256,7 +25302,7 @@
       ],
       "till": {
         "opening": 2956.0,
-        "expectedClosing": 2301.0,
+        "expectedClosing": 2472.0,
         "counted": null,
         "difference": null,
         "closed": false,
