@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T08:31:01Z",
+  "generatedAt": "2026-10-25T08:45:42Z",
   "cash": {
-    "total": 245.0,
-    "count": 2
+    "total": 845.0,
+    "count": 3
   },
   "transfer": {
     "total": 7400.0,
@@ -80,6 +80,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00514",
+      "customer": "Snap Buy",
+      "amount": 600.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "13:39",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 12.0,
+          "total": 600.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00511",
       "customer": "Snap Buy",
       "amount": 220.0,
@@ -122,8 +138,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 245.0
+      "count": 3,
+      "total": 845.0
     }
   ],
   "cashOut": {
@@ -133,7 +149,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2956.0,
-    "expectedClosing": 3201.0,
+    "expectedClosing": 3801.0,
     "counted": null,
     "difference": null,
     "closed": false,
