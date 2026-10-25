@@ -25062,10 +25062,10 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T15:45:43Z",
+      "generatedAt": "2026-10-25T16:01:18Z",
       "pos": {
-        "total": 196.0,
-        "count": 2
+        "total": 205.0,
+        "count": 3
       },
       "regularSales": {
         "total": 12510.0,
@@ -25076,8 +25076,8 @@
         "count": 3
       },
       "cash": {
-        "total": 1016.0,
-        "count": 4
+        "total": 1025.0,
+        "count": 5
       },
       "transfer": {
         "total": 11690.0,
@@ -25285,6 +25285,22 @@
               "total": 25.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000482",
+          "customer": "Walk-in",
+          "amount": 9.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:57",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[5069] Aluminium Foil Container Round 5069 Loose",
+              "qty": 3.0,
+              "total": 9.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -25302,7 +25318,7 @@
       ],
       "till": {
         "opening": 2956.0,
-        "expectedClosing": 2472.0,
+        "expectedClosing": 2481.0,
         "counted": null,
         "difference": null,
         "closed": false,
