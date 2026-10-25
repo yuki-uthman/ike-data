@@ -3,441 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-08-27",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 11663.0,
-        "count": 22
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 1000.0,
-        "count": 3
-      },
-      "cash": {
-        "total": 1213.0,
-        "count": 7
-      },
-      "transfer": {
-        "total": 10450.0,
-        "count": 15
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00002 (Ike - 000001)",
-          "customer": "Zento",
-          "amount": 3330.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "10:53",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 3.0,
-              "total": 2370.0
-            },
-            {
-              "name": "[70146] Hook Slat 12\"",
-              "qty": 30.0,
-              "total": 480.0
-            },
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 40.0,
-              "total": 480.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00001 (Ike - 000001)",
-          "customer": "Zento",
-          "amount": 3330.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:38",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 3.0,
-              "total": 2370.0
-            },
-            {
-              "name": "[70146] Hook Slat 12\"",
-              "qty": 30.0,
-              "total": 480.0
-            },
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 40.0,
-              "total": 480.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00005 (Ike - 000006)",
-          "customer": "Gro Plus Mv Pvt Ltd",
-          "amount": 2850.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "(2C-SS-White)",
-              "qty": 1.0,
-              "total": 1650.0
-            },
-            {
-              "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
-              "qty": 1.0,
-              "total": 1200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000010",
-          "customer": "Walk-in",
-          "amount": 1640.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1640.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00006 (Ike - 000007)",
-          "customer": "Breeze View C-8",
-          "amount": 800.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:23",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 3.0,
-              "total": 600.0
-            },
-            {
-              "name": "[90056] Milkshake Powder Honeydew",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00003 (Ike - 000002)",
-          "customer": "Niba Pvt Ltd",
-          "amount": 790.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "10:58",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 1.0,
-              "total": 790.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00004 (Ike - 000001)",
-          "customer": "Snap Buy",
-          "amount": 500.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:06",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90048] Milkshake Powder Belgian Chocolate",
-              "qty": 2.0,
-              "total": 500.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000003",
-          "customer": "Walk-in",
-          "amount": 425.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:15",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Gas Burner Table",
-              "qty": 1.0,
-              "total": 425.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00009 (Ike - 000009)",
-          "customer": "Snap Buy",
-          "amount": 400.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:17",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02154] Milkshake Powder Mango",
-              "qty": 1.0,
-              "total": 200.0
-            },
-            {
-              "name": "[90045] Milkshake Powder Thai Milk Tea",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000004",
-          "customer": "Walk-in",
-          "amount": 240.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:30",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 20.0,
-              "total": 240.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00008 (Ike - 000011)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:59",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
-              "qty": 25.0,
-              "total": 125.0
-            },
-            {
-              "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
-              "qty": 1.0,
-              "total": 75.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000005",
-          "customer": "Chic By Maldives Fellas",
-          "amount": 200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:37",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90035] Milkshake Powder Strawberry",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000002",
-          "customer": "Walk-in",
-          "amount": 195.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:56",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01954] Ironing Board Small",
-              "qty": 1.0,
-              "total": 195.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000007",
-          "customer": "Walk-in",
-          "amount": 35.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:52",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70220] RD8 Price Border Strip Blue 900mm (875)",
-              "qty": 1.0,
-              "total": 35.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00007 (Ike - 000008)",
-          "customer": "Mohamed Ahmed  Manfu O-11",
-          "amount": 20.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:07",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02532] Printer roll",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000005",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:58",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01911] Spray Bottle A34",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000004",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "15:03",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01911] Spray Bottle A34",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000003",
-          "customer": "Walk-in",
-          "amount": 8.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[MPPCX003] Cake Box paper 20x20x10Cm Plain",
-              "qty": 1.0,
-              "total": 8.0
-            }
-          ]
-        },
-        {
-          "ref": "RINV/2026/00004 (Reversal of: INV/2026/00001)",
-          "customer": "Zento",
-          "amount": -480.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "10:50",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": -40.0,
-              "total": 480.0
-            }
-          ]
-        },
-        {
-          "ref": "RINV/2026/00003 (Reversal of: INV/2026/00001)",
-          "customer": "Zento",
-          "amount": -480.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "10:49",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70146] Hook Slat 12\"",
-              "qty": -30.0,
-              "total": 480.0
-            }
-          ]
-        },
-        {
-          "ref": "RINV/2026/00001 (Reversal of: INV/2026/00001)",
-          "customer": "Zento",
-          "amount": -790.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "10:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": -1.0,
-              "total": 790.0
-            }
-          ]
-        },
-        {
-          "ref": "RINV/2026/00002 (Reversal of: INV/2026/00001)",
-          "customer": "Zento",
-          "amount": -1580.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "10:49",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": -2.0,
-              "total": 1580.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 0.0,
-        "expectedClosing": 1213.0,
-        "counted": 1213.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 3
-      }
-    },
-    {
       "date": "2026-08-28",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25465,6 +25030,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-10-26",
+      "generatedAt": "2026-10-25T19:01:14Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
