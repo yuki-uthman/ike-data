@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-25T10:01:23Z",
+  "generatedAt": "2026-10-25T10:15:49Z",
   "openCount": 164,
-  "openTotal": 2105563.2,
+  "openTotal": 2105598.2,
   "quotationCount": 87,
-  "quotationTotal": 1126522.75,
+  "quotationTotal": 1126557.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -366,8 +366,8 @@
     {
       "date": "2026-10-25",
       "count": 1,
-      "outstanding": 4200.0,
-      "total": 4200.0
+      "outstanding": 4235.0,
+      "total": 4235.0
     }
   ],
   "quotations": [
@@ -379,9 +379,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-25",
       "expires": "2026-11-24",
-      "total": 4200.0,
+      "total": 4235.0,
       "settled": 0.0,
-      "outstanding": 4200.0,
+      "outstanding": 4235.0,
       "lines": [
         {
           "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
@@ -392,6 +392,11 @@
           "name": "2C White End Round Shelves",
           "qty": 1.0,
           "total": 1400.0
+        },
+        {
+          "name": "[ZILK-TR-B6] Zilk Toilet Roll (Bundle 6pcs)",
+          "qty": 1.0,
+          "total": 35.0
         }
       ]
     },
