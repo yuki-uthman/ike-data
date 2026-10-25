@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T05:01:16Z",
+  "generatedAt": "2026-10-25T05:15:40Z",
   "cash": {
     "total": 220.0,
     "count": 1
   },
   "transfer": {
-    "total": 3120.0,
-    "count": 1
+    "total": 3800.0,
+    "count": 2
   },
   "other": {
     "total": 0,
@@ -43,6 +43,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00512",
+      "customer": "Teal Choice D08",
+      "amount": 680.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:10",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[06023] Hanger Slipper",
+          "qty": 60.0,
+          "total": 480.0
+        },
+        {
+          "name": "[70142] Hook Net 6\"",
+          "qty": 20.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00511",
       "customer": "Snap Buy",
       "amount": 220.0,
@@ -63,8 +84,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 3120.0
+      "count": 2,
+      "total": 3800.0
     },
     {
       "name": "Cash",

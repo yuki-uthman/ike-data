@@ -25062,14 +25062,14 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T05:01:16Z",
+      "generatedAt": "2026-10-25T05:15:40Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 3340.0,
-        "count": 2
+        "total": 4020.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 0,
@@ -25080,8 +25080,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 3120.0,
-        "count": 1
+        "total": 3800.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -25111,6 +25111,27 @@
               "name": "37# White Shelf Reinforce Bar 920mm",
               "qty": 8.0,
               "total": 0.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00512",
+          "customer": "Teal Choice D08",
+          "amount": 680.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:10",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[06023] Hanger Slipper",
+              "qty": 60.0,
+              "total": 480.0
+            },
+            {
+              "name": "[70142] Hook Net 6\"",
+              "qty": 20.0,
+              "total": 200.0
             }
           ]
         },
