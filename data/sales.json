@@ -25062,7 +25062,7 @@
     },
     {
       "date": "2026-10-25",
-      "generatedAt": "2026-10-25T17:01:14Z",
+      "generatedAt": "2026-10-25T17:15:41Z",
       "pos": {
         "total": 400.0,
         "count": 4
@@ -25320,8 +25320,8 @@
         }
       ],
       "cashOut": {
-        "total": 1500.0,
-        "count": 1
+        "total": 1730.0,
+        "count": 3
       },
       "cashOutTransactions": [
         {
@@ -25330,11 +25330,25 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "13:55"
+        },
+        {
+          "reason": "Vehicle Board -- Nagarajn",
+          "amount": 220.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:13"
+        },
+        {
+          "reason": "Super glue -- Nagarajan",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:13"
         }
       ],
       "till": {
         "opening": 2956.0,
-        "expectedClosing": 2676.0,
+        "expectedClosing": 2446.0,
         "counted": null,
         "difference": null,
         "closed": false,
