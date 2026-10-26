@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T05:45:55Z",
-  "openCount": 165,
-  "openTotal": 2103923.2,
-  "quotationCount": 87,
-  "quotationTotal": 1123682.75,
+  "generatedAt": "2026-10-26T06:01:26Z",
+  "openCount": 166,
+  "openTotal": 2113263.2,
+  "quotationCount": 88,
+  "quotationTotal": 1133022.75,
   "orderCount": 78,
   "orderTotal": 980240.45,
   "days": [
@@ -371,12 +371,41 @@
     },
     {
       "date": "2026-10-26",
-      "count": 2,
-      "outstanding": 2650.0,
-      "total": 2650.0
+      "count": 3,
+      "outstanding": 11990.0,
+      "total": 11990.0
     }
   ],
   "quotations": [
+    {
+      "id": 688,
+      "ref": "S00689",
+      "kind": "quotation",
+      "customer": "Fasmugoo F-10",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-26",
+      "expires": "2026-11-25",
+      "total": 9340.0,
+      "settled": 0.0,
+      "outstanding": 9340.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 10.0,
+          "total": 2950.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 10.0,
+          "total": 3000.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 10.0,
+          "total": 3390.0
+        }
+      ]
+    },
     {
       "id": 686,
       "ref": "S00687",
