@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T05:01:15Z",
+  "generatedAt": "2026-10-26T05:15:40Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 10100.0,
-    "count": 3
+    "total": 10178.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -73,6 +73,22 @@
           "total": 425.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000489",
+      "customer": "Walk-in",
+      "amount": 78.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "10:08",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01873] Duster cloth Microfiber",
+          "qty": 2.0,
+          "total": 78.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -81,6 +97,12 @@
       "method": "transfer",
       "count": 3,
       "total": 10100.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 78.0
     }
   ],
   "cashOut": {
