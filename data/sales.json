@@ -25033,7 +25033,7 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T17:01:17Z",
+      "generatedAt": "2026-10-26T17:15:42Z",
       "pos": {
         "total": 599.0,
         "count": 5
@@ -25360,21 +25360,42 @@
         }
       ],
       "cashOut": {
-        "total": 15.0,
-        "count": 1
+        "total": 110.0,
+        "count": 4
       },
       "cashOutTransactions": [
+        {
+          "reason": "Tea money 3 days -- Jafar",
+          "amount": 60.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:03"
+        },
+        {
+          "reason": "Glass cleaner 500ml -- Murshd",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:02"
+        },
         {
           "reason": "Gate pass -- Nagarajan",
           "amount": 15.0,
           "method": "cash",
           "rawMethod": "Cash",
           "time": "22:00"
+        },
+        {
+          "reason": "Nylon cloth rope -- Nagarajan",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:01"
         }
       ],
       "till": {
         "opening": 2601.0,
-        "expectedClosing": 2767.0,
+        "expectedClosing": 2672.0,
         "counted": null,
         "difference": null,
         "closed": false,
