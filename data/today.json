@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T15:45:42Z",
+  "generatedAt": "2026-10-26T16:15:18Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 181.0,
+    "count": 2
   },
   "transfer": {
     "total": 15928.0,
@@ -221,6 +221,32 @@
       ]
     },
     {
+      "ref": "Ike - 000491",
+      "customer": "Walk-in",
+      "amount": 118.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:52",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70124] Dustbin Plastic 22cm #603",
+          "qty": 1.0,
+          "total": 55.0
+        },
+        {
+          "name": "[01615] Ceramic Plate 9\" #3",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[01614] Creamic Bowl 8\"#2",
+          "qty": 1.0,
+          "total": 28.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000489",
       "customer": "Walk-in",
       "amount": 78.0,
@@ -233,6 +259,27 @@
           "name": "[01873] Duster cloth Microfiber",
           "qty": 2.0,
           "total": 78.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000492",
+      "customer": "Walk-in",
+      "amount": 63.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:54",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01621] Ceramic Plate 9\"#10",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[01614] Creamic Bowl 8\"#2",
+          "qty": 1.0,
+          "total": 28.0
         }
       ]
     },
@@ -265,6 +312,12 @@
       "method": "transfer",
       "count": 2,
       "total": 223.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 2,
+      "total": 181.0
     }
   ],
   "cashOut": {
@@ -274,7 +327,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2601.0,
-    "expectedClosing": 2601.0,
+    "expectedClosing": 2782.0,
     "counted": null,
     "difference": null,
     "closed": false,

@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T15:45:57Z",
-  "openCount": 165,
-  "openTotal": 2110708.2,
+  "generatedAt": "2026-10-26T16:15:34Z",
+  "openCount": 166,
+  "openTotal": 2111056.2,
   "quotationCount": 87,
   "quotationTotal": 1126862.75,
-  "orderCount": 78,
-  "orderTotal": 983845.45,
+  "orderCount": 79,
+  "orderTotal": 984193.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -371,9 +371,9 @@
     },
     {
       "date": "2026-10-26",
-      "count": 4,
-      "outstanding": 16830.0,
-      "total": 18330.0
+      "count": 5,
+      "outstanding": 17178.0,
+      "total": 18678.0
     }
   ],
   "quotations": [
@@ -510,6 +510,30 @@
           "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 885.0
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "ref": "S00694",
+      "kind": "order",
+      "customer": "One World Traders",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-26",
+      "expires": "2026-11-25",
+      "total": 348.0,
+      "settled": 0.0,
+      "outstanding": 348.0,
+      "lines": [
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 15.0,
+          "total": 180.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 12.0,
+          "total": 168.0
         }
       ]
     },
