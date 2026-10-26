@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T10:45:56Z",
+  "generatedAt": "2026-10-26T11:01:31Z",
   "openCount": 165,
   "openTotal": 2110708.2,
   "quotationCount": 87,
@@ -2108,7 +2108,7 @@
       "customer": "Mtcc",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-12",
-      "expires": "2026-10-12",
+      "expires": "2026-10-26",
       "total": 39500.0,
       "settled": 0.0,
       "outstanding": 39500.0,
