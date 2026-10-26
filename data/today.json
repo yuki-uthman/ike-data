@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T17:45:47Z",
+  "generatedAt": "2026-10-26T18:01:18Z",
   "cash": {
-    "total": 181.0,
-    "count": 2
+    "total": 201.0,
+    "count": 3
   },
   "transfer": {
     "total": 27073.0,
@@ -340,6 +340,22 @@
           "total": 25.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000494",
+      "customer": "Walk-in",
+      "amount": 20.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:59",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic (45 gr)",
+          "qty": 1.0,
+          "total": 20.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -358,8 +374,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 181.0
+      "count": 3,
+      "total": 201.0
     }
   ],
   "cashOut": {
@@ -398,7 +414,7 @@
   ],
   "till": {
     "opening": 2601.0,
-    "expectedClosing": 2672.0,
+    "expectedClosing": 2692.0,
     "counted": null,
     "difference": null,
     "closed": false,

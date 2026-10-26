@@ -25033,10 +25033,10 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T17:45:47Z",
+      "generatedAt": "2026-10-26T18:01:18Z",
       "pos": {
-        "total": 599.0,
-        "count": 5
+        "total": 619.0,
+        "count": 6
       },
       "regularSales": {
         "total": 26655.0,
@@ -25047,8 +25047,8 @@
         "count": 4
       },
       "cash": {
-        "total": 181.0,
-        "count": 2
+        "total": 201.0,
+        "count": 3
       },
       "transfer": {
         "total": 27073.0,
@@ -25383,6 +25383,22 @@
               "total": 25.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000494",
+          "customer": "Walk-in",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:59",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Chuba Ubee Chips Spicy Garlic (45 gr)",
+              "qty": 1.0,
+              "total": 20.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -25421,7 +25437,7 @@
       ],
       "till": {
         "opening": 2601.0,
-        "expectedClosing": 2672.0,
+        "expectedClosing": 2692.0,
         "counted": null,
         "difference": null,
         "closed": false,
