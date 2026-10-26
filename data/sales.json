@@ -25033,17 +25033,17 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T16:45:45Z",
+      "generatedAt": "2026-10-26T17:01:17Z",
       "pos": {
-        "total": 404.0,
-        "count": 4
+        "total": 599.0,
+        "count": 5
       },
       "regularSales": {
         "total": 15705.0,
         "count": 9
       },
       "pendingQuotations": {
-        "total": 22825.0,
+        "total": 17325.0,
         "count": 4
       },
       "cash": {
@@ -25051,8 +25051,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 15928.0,
-        "count": 11
+        "total": 16123.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -25248,6 +25248,22 @@
           ]
         },
         {
+          "ref": "Ike - 000493",
+          "customer": "Walk-in",
+          "amount": 195.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:55",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01954] Ironing Board Small",
+              "qty": 1.0,
+              "total": 195.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000490",
           "customer": "Walk-in",
           "amount": 145.0,
@@ -25344,13 +25360,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 15.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Gate pass -- Nagarajan",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:00"
+        }
+      ],
       "till": {
         "opening": 2601.0,
-        "expectedClosing": 2782.0,
+        "expectedClosing": 2767.0,
         "counted": null,
         "difference": null,
         "closed": false,

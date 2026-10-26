@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T16:45:59Z",
+  "generatedAt": "2026-10-26T17:01:30Z",
   "openCount": 167,
-  "openTotal": 2121856.2,
+  "openTotal": 2116356.2,
   "quotationCount": 88,
-  "quotationTotal": 1137662.75,
+  "quotationTotal": 1132162.75,
   "orderCount": 79,
   "orderTotal": 984193.45,
   "days": [
@@ -372,30 +372,11 @@
     {
       "date": "2026-10-26",
       "count": 6,
-      "outstanding": 27978.0,
-      "total": 29478.0
+      "outstanding": 22478.0,
+      "total": 23978.0
     }
   ],
   "quotations": [
-    {
-      "id": 694,
-      "ref": "S00695",
-      "kind": "quotation",
-      "customer": "Homeline",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-26",
-      "expires": "2026-11-25",
-      "total": 10800.0,
-      "settled": 0.0,
-      "outstanding": 10800.0,
-      "lines": [
-        {
-          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
-          "qty": 2.0,
-          "total": 10800.0
-        }
-      ]
-    },
     {
       "id": 688,
       "ref": "S00689",
@@ -422,6 +403,25 @@
           "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
           "qty": 10.0,
           "total": 3390.0
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "ref": "S00695",
+      "kind": "quotation",
+      "customer": "Homeline",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-26",
+      "expires": "2026-11-25",
+      "total": 5300.0,
+      "settled": 0.0,
+      "outstanding": 5300.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
+          "qty": 1.0,
+          "total": 5300.0
         }
       ]
     },
