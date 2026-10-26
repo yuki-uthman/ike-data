@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T08:31:16Z",
-  "openCount": 166,
-  "openTotal": 2113263.2,
-  "quotationCount": 88,
-  "quotationTotal": 1133022.75,
-  "orderCount": 78,
-  "orderTotal": 980240.45,
+  "generatedAt": "2026-10-26T08:45:50Z",
+  "openCount": 164,
+  "openTotal": 2110973.2,
+  "quotationCount": 87,
+  "quotationTotal": 1131932.75,
+  "orderCount": 77,
+  "orderTotal": 979040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -359,9 +359,9 @@
     },
     {
       "date": "2026-10-24",
-      "count": 2,
-      "outstanding": 2290.0,
-      "total": 2290.0
+      "count": 1,
+      "outstanding": 1200.0,
+      "total": 1200.0
     },
     {
       "date": "2026-10-25",
@@ -371,9 +371,9 @@
     },
     {
       "date": "2026-10-26",
-      "count": 3,
-      "outstanding": 11990.0,
-      "total": 11990.0
+      "count": 2,
+      "outstanding": 10790.0,
+      "total": 10790.0
     }
   ],
   "quotations": [
@@ -431,25 +431,6 @@
       ]
     },
     {
-      "id": 687,
-      "ref": "S00688",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-26",
-      "expires": "2026-11-25",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
-          "qty": 1.0,
-          "total": 1200.0
-        }
-      ]
-    },
-    {
       "id": 681,
       "ref": "S00682",
       "kind": "quotation",
@@ -489,30 +470,6 @@
           "name": "Paper Plate 9'' 100pcs Bundle",
           "qty": 24.0,
           "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 676,
-      "ref": "S00677",
-      "kind": "quotation",
-      "customer": "Ekuveri Store I-8",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-24",
-      "expires": "2026-11-23",
-      "total": 1090.0,
-      "settled": 0.0,
-      "outstanding": 1090.0,
-      "lines": [
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 2.0,
-          "total": 640.0
         }
       ]
     },
