@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T10:01:19Z",
+  "generatedAt": "2026-10-26T10:15:41Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 15418.0,
-    "count": 8
+    "total": 15758.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -184,6 +184,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00524",
+      "customer": "Triple Y Attire Pvt Ltd",
+      "amount": 340.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "15:04",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 20.0,
+          "total": 240.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 10.0,
+          "total": 100.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000489",
       "customer": "Walk-in",
       "amount": 78.0,
@@ -204,8 +225,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 15340.0
+      "count": 8,
+      "total": 15680.0
     },
     {
       "name": "Bank Transfer",
