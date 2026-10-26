@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T11:15:46Z",
+  "generatedAt": "2026-10-26T11:31:03Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 15758.0,
-    "count": 9
+    "total": 15903.0,
+    "count": 10
   },
   "other": {
     "total": 0,
@@ -205,6 +205,22 @@
       ]
     },
     {
+      "ref": "Ike - 000490",
+      "customer": "Walk-in",
+      "amount": 145.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "16:29",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70084] Towel 166-440 bath 70*140cm",
+          "qty": 1.0,
+          "total": 145.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000489",
       "customer": "Walk-in",
       "amount": 78.0,
@@ -231,8 +247,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 78.0
+      "count": 2,
+      "total": 223.0
     }
   ],
   "cashOut": {
