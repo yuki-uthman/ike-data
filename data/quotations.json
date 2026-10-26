@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T04:01:26Z",
-  "openCount": 164,
-  "openTotal": 2104898.2,
-  "quotationCount": 87,
-  "quotationTotal": 1125857.75,
+  "generatedAt": "2026-10-26T04:15:52Z",
+  "openCount": 166,
+  "openTotal": 2111373.2,
+  "quotationCount": 89,
+  "quotationTotal": 1132332.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -371,12 +371,55 @@
     },
     {
       "date": "2026-10-26",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 2,
+      "outstanding": 6475.0,
+      "total": 6475.0
     }
   ],
   "quotations": [
+    {
+      "id": 684,
+      "ref": "S00685",
+      "kind": "quotation",
+      "customer": "BR Shop D-5",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-26",
+      "expires": "2026-11-25",
+      "total": 5250.0,
+      "settled": 0.0,
+      "outstanding": 5250.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 3.0,
+          "total": 5250.0
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "ref": "S00686",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-26",
+      "expires": "2026-11-25",
+      "total": 1225.0,
+      "settled": 0.0,
+      "outstanding": 1225.0,
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        }
+      ]
+    },
     {
       "id": 681,
       "ref": "S00682",

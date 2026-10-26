@@ -25033,7 +25033,7 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T04:01:15Z",
+      "generatedAt": "2026-10-26T04:15:41Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -25043,8 +25043,8 @@
         "count": 0
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 6475.0,
+        "count": 2
       },
       "cash": {
         "total": 0,
@@ -25064,7 +25064,14 @@
         "count": 0
       },
       "cashOutTransactions": [],
-      "till": null
+      "till": {
+        "opening": 2601.0,
+        "expectedClosing": 2601.0,
+        "counted": null,
+        "difference": null,
+        "closed": false,
+        "sessionCount": 1
+      }
     }
   ]
 }
