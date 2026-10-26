@@ -25033,14 +25033,14 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T09:45:45Z",
+      "generatedAt": "2026-10-26T10:01:19Z",
       "pos": {
         "total": 78.0,
         "count": 1
       },
       "regularSales": {
-        "total": 13890.0,
-        "count": 6
+        "total": 15340.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 11140.0,
@@ -25051,8 +25051,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 13968.0,
-        "count": 7
+        "total": 15418.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -25144,6 +25144,27 @@
               "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
               "qty": 1.0,
               "total": 180.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00523",
+          "customer": "Beluga Rm Tuck Shop",
+          "amount": 1450.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:46",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-SHTOP-900] RD8 Gray Shelf Top 900x300mm",
+              "qty": 5.0,
+              "total": 1450.0
+            },
+            {
+              "name": "[RD8-GRY-CLIP-300] RD8 Gray Clip 300mm",
+              "qty": 10.0,
+              "total": 0.0
             }
           ]
         },
