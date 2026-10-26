@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T04:31:05Z",
-  "openCount": 165,
-  "openTotal": 2106348.2,
-  "quotationCount": 88,
-  "quotationTotal": 1127307.75,
+  "generatedAt": "2026-10-26T04:45:50Z",
+  "openCount": 164,
+  "openTotal": 2102723.2,
+  "quotationCount": 87,
+  "quotationTotal": 1123682.75,
   "orderCount": 77,
   "orderTotal": 979040.45,
   "days": [
@@ -365,9 +365,9 @@
     },
     {
       "date": "2026-10-25",
-      "count": 2,
-      "outstanding": 7825.0,
-      "total": 7825.0
+      "count": 1,
+      "outstanding": 4200.0,
+      "total": 4200.0
     },
     {
       "date": "2026-10-26",
@@ -422,30 +422,6 @@
           "name": "2C White End Round Shelves",
           "qty": 1.0,
           "total": 1400.0
-        }
-      ]
-    },
-    {
-      "id": 682,
-      "ref": "S00683",
-      "kind": "quotation",
-      "customer": "Scent Investment Private Limited",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-25",
-      "expires": "2026-11-24",
-      "total": 3625.0,
-      "settled": 0.0,
-      "outstanding": 3625.0,
-      "lines": [
-        {
-          "name": "#37 White Single Side 2000mm",
-          "qty": 1.0,
-          "total": 3500.0
-        },
-        {
-          "name": "37 Price Border Long",
-          "qty": 5.0,
-          "total": 125.0
         }
       ]
     },

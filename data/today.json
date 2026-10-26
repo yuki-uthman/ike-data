@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T04:30:57Z",
+  "generatedAt": "2026-10-26T04:45:39Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 6475.0,
-    "count": 2
+    "total": 10100.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -29,6 +29,27 @@
           "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
           "qty": 3.0,
           "total": 5250.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00519",
+      "customer": "Scent Investment Private Limited",
+      "amount": 3625.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "09:38",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "#37 White Single Side 2000mm",
+          "qty": 1.0,
+          "total": 3500.0
+        },
+        {
+          "name": "37 Price Border Long",
+          "qty": 5.0,
+          "total": 125.0
         }
       ]
     },
@@ -58,8 +79,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 6475.0
+      "count": 3,
+      "total": 10100.0
     }
   ],
   "cashOut": {
