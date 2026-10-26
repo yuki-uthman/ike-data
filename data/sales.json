@@ -25033,26 +25033,26 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T09:31:07Z",
+      "generatedAt": "2026-10-26T09:45:45Z",
       "pos": {
         "total": 78.0,
         "count": 1
       },
       "regularSales": {
-        "total": 12390.0,
-        "count": 5
+        "total": 13890.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 12590.0,
-        "count": 3
+        "total": 11140.0,
+        "count": 2
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 12468.0,
-        "count": 6
+        "total": 13968.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -25093,6 +25093,57 @@
               "name": "37 Price Border Long",
               "qty": 5.0,
               "total": 125.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00522",
+          "customer": "Zilaal Mart R-1",
+          "amount": 1500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[10007] Plastic Container T2 [case]",
+              "qty": 2.0,
+              "total": 2000.0
+            },
+            {
+              "name": "[BC8C] Bagasse Clamshell 8\" [case]",
+              "qty": 2.0,
+              "total": 1200.0
+            },
+            {
+              "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+              "qty": 5.0,
+              "total": 775.0
+            },
+            {
+              "name": "[70074] Towel 042-02 30*40cm",
+              "qty": 50.0,
+              "total": 750.0
+            },
+            {
+              "name": "Hanger Plastic A17 - Case (144pcs)",
+              "qty": 1.0,
+              "total": 550.0
+            },
+            {
+              "name": "[01010] paper straw 8mm 50 pcs",
+              "qty": 20.0,
+              "total": 500.0
+            },
+            {
+              "name": "Hanger Plastic C1-10 - Case (120pcs)",
+              "qty": 1.0,
+              "total": 350.0
+            },
+            {
+              "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
+              "qty": 1.0,
+              "total": 180.0
             }
           ]
         },

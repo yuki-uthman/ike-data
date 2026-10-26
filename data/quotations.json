@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T09:31:15Z",
+  "generatedAt": "2026-10-26T09:45:54Z",
   "openCount": 165,
-  "openTotal": 2112773.2,
-  "quotationCount": 87,
-  "quotationTotal": 1127427.75,
-  "orderCount": 78,
-  "orderTotal": 985345.45,
+  "openTotal": 2111273.2,
+  "quotationCount": 86,
+  "quotationTotal": 1125977.75,
+  "orderCount": 79,
+  "orderTotal": 985295.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -372,7 +372,7 @@
     {
       "date": "2026-10-26",
       "count": 4,
-      "outstanding": 18895.0,
+      "outstanding": 17395.0,
       "total": 18895.0
     }
   ],
@@ -415,8 +415,8 @@
       "date": "2026-10-26",
       "expires": "2026-11-17",
       "total": 6305.0,
-      "settled": 0.0,
-      "outstanding": 6305.0,
+      "settled": 1500.0,
+      "outstanding": 4805.0,
       "lines": [
         {
           "name": "[10007] Plastic Container T2 [case]",
@@ -497,8 +497,8 @@
     {
       "id": 686,
       "ref": "S00687",
-      "kind": "quotation",
-      "customer": "sales",
+      "kind": "order",
+      "customer": "Beluga Rm Tuck Shop",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-26",
       "expires": "2026-11-25",
