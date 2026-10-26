@@ -25033,14 +25033,14 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T15:01:21Z",
+      "generatedAt": "2026-10-26T15:15:46Z",
       "pos": {
         "total": 223.0,
         "count": 2
       },
       "regularSales": {
-        "total": 15680.0,
-        "count": 8
+        "total": 15705.0,
+        "count": 9
       },
       "pendingQuotations": {
         "total": 12025.0,
@@ -25051,8 +25051,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 15903.0,
-        "count": 10
+        "total": 15928.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -25276,6 +25276,22 @@
               "name": "[01873] Duster cloth Microfiber",
               "qty": 2.0,
               "total": 78.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00525",
+          "customer": "sales",
+          "amount": 25.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:11",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "37 Price Border Long",
+              "qty": 1.0,
+              "total": 25.0
             }
           ]
         }
