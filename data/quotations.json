@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T16:16:02Z",
-  "openCount": 166,
-  "openTotal": 2111056.2,
-  "quotationCount": 87,
-  "quotationTotal": 1126862.75,
+  "generatedAt": "2026-10-26T16:31:16Z",
+  "openCount": 167,
+  "openTotal": 2121856.2,
+  "quotationCount": 88,
+  "quotationTotal": 1137662.75,
   "orderCount": 79,
   "orderTotal": 984193.45,
   "days": [
@@ -371,12 +371,31 @@
     },
     {
       "date": "2026-10-26",
-      "count": 5,
-      "outstanding": 17178.0,
-      "total": 18678.0
+      "count": 6,
+      "outstanding": 27978.0,
+      "total": 29478.0
     }
   ],
   "quotations": [
+    {
+      "id": 694,
+      "ref": "S00695",
+      "kind": "quotation",
+      "customer": "Homeline",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-26",
+      "expires": "2026-11-25",
+      "total": 10800.0,
+      "settled": 0.0,
+      "outstanding": 10800.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
+          "qty": 2.0,
+          "total": 10800.0
+        }
+      ]
+    },
     {
       "id": 688,
       "ref": "S00689",
