@@ -25033,14 +25033,14 @@
     },
     {
       "date": "2026-10-26",
-      "generatedAt": "2026-10-26T17:15:42Z",
+      "generatedAt": "2026-10-26T17:31:01Z",
       "pos": {
         "total": 599.0,
         "count": 5
       },
       "regularSales": {
-        "total": 15705.0,
-        "count": 9
+        "total": 26655.0,
+        "count": 10
       },
       "pendingQuotations": {
         "total": 17325.0,
@@ -25051,14 +25051,40 @@
         "count": 2
       },
       "transfer": {
-        "total": 16123.0,
-        "count": 12
+        "total": 27073.0,
+        "count": 13
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00527",
+          "customer": "Unique Grocery Mart",
+          "amount": 10950.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:22",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+              "qty": 35.0,
+              "total": 10325.0
+            },
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 25.0,
+              "total": 625.0
+            },
+            {
+              "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+              "qty": 70.0,
+              "total": 0.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00517",
           "customer": "BR Shop D-5",

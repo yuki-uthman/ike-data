@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-26T17:15:57Z",
-  "openCount": 167,
-  "openTotal": 2116356.2,
-  "quotationCount": 88,
-  "quotationTotal": 1132162.75,
+  "generatedAt": "2026-10-26T17:31:15Z",
+  "openCount": 166,
+  "openTotal": 2105406.2,
+  "quotationCount": 87,
+  "quotationTotal": 1121212.75,
   "orderCount": 79,
   "orderTotal": 984193.45,
   "days": [
@@ -323,9 +323,9 @@
     },
     {
       "date": "2026-10-18",
-      "count": 2,
-      "outstanding": 16890.0,
-      "total": 16890.0
+      "count": 1,
+      "outstanding": 5940.0,
+      "total": 5940.0
     },
     {
       "date": "2026-10-19",
@@ -817,35 +817,6 @@
           "name": "Gas Burner Table",
           "qty": 4.0,
           "total": 1700.0
-        }
-      ]
-    },
-    {
-      "id": 611,
-      "ref": "S00612",
-      "kind": "quotation",
-      "customer": "Unique Grocery Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-18",
-      "expires": "2026-11-17",
-      "total": 10950.0,
-      "settled": 0.0,
-      "outstanding": 10950.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
-          "qty": 35.0,
-          "total": 10325.0
-        },
-        {
-          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
-          "qty": 70.0,
-          "total": 0.0
-        },
-        {
-          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-          "qty": 25.0,
-          "total": 625.0
         }
       ]
     },
