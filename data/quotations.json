@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T04:45:49Z",
-  "openCount": 167,
-  "openTotal": 2108424.2,
-  "quotationCount": 88,
-  "quotationTotal": 1124230.75,
+  "generatedAt": "2026-10-27T05:01:26Z",
+  "openCount": 166,
+  "openTotal": 2107539.2,
+  "quotationCount": 87,
+  "quotationTotal": 1123345.75,
   "orderCount": 79,
   "orderTotal": 984193.45,
   "days": [
@@ -371,9 +371,9 @@
     },
     {
       "date": "2026-10-26",
-      "count": 6,
-      "outstanding": 22478.0,
-      "total": 23978.0
+      "count": 5,
+      "outstanding": 21593.0,
+      "total": 23093.0
     },
     {
       "date": "2026-10-27",
@@ -550,25 +550,6 @@
           "name": "[54646] Milkshake Powder Blue Ice",
           "qty": 1.0,
           "total": 200.0
-        }
-      ]
-    },
-    {
-      "id": 691,
-      "ref": "S00692",
-      "kind": "quotation",
-      "customer": "Angolhitheemu School Pta E-4",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-26",
-      "expires": "2026-11-25",
-      "total": 885.0,
-      "settled": 0.0,
-      "outstanding": 885.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
         }
       ]
     },
@@ -2162,7 +2143,7 @@
       "customer": "Mtcc",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-09-12",
-      "expires": "2026-10-26",
+      "expires": "2026-10-28",
       "total": 39500.0,
       "settled": 0.0,
       "outstanding": 39500.0,

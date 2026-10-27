@@ -25387,14 +25387,14 @@
     },
     {
       "date": "2026-10-27",
-      "generatedAt": "2026-10-27T04:45:39Z",
+      "generatedAt": "2026-10-27T05:01:17Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 885.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 3018.0,
@@ -25405,14 +25405,31 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 885.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00528",
+          "customer": "Angolhitheemu School Pta E-4",
+          "amount": 885.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:00",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 885.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
