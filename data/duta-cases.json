@@ -2,7 +2,8 @@
   "company": "MRH Investment",
   "supplier": "CV Duta",
   "unit": "case",
-  "generatedAt": "2026-10-27T12:31:17Z",
+  "currency": "MVR",
+  "generatedAt": "2026-10-27T12:46:05Z",
   "totalCases": 395.0,
   "quoted": {
     "cases": 113.0,
@@ -16,8 +17,8 @@
       "pack": "6 bundles",
       "active": true,
       "cases": 10.0,
-      "profitPct": 10.2,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 10.2
     },
     {
       "id": 2075,
@@ -26,8 +27,8 @@
       "pack": "12 bundles",
       "active": true,
       "cases": 8.0,
-      "profitPct": 0.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.0
     },
     {
       "id": 2018,
@@ -36,8 +37,8 @@
       "pack": "30 pcs",
       "active": true,
       "cases": 20.0,
-      "profitPct": 6.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 6.0
     },
     {
       "id": 2020,
@@ -46,8 +47,8 @@
       "pack": "16 pcs",
       "active": true,
       "cases": 10.0,
-      "profitPct": 1.5,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 1.5
     },
     {
       "id": 2022,
@@ -56,8 +57,8 @@
       "pack": "16 pcs",
       "active": true,
       "cases": 40.0,
-      "profitPct": 1.5,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 1.5
     },
     {
       "id": 2024,
@@ -66,8 +67,8 @@
       "pack": "30 pcs",
       "active": true,
       "cases": 8.0,
-      "profitPct": 0.9,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.9
     },
     {
       "id": 2026,
@@ -76,8 +77,8 @@
       "pack": "30 pcs",
       "active": true,
       "cases": 9.0,
-      "profitPct": 0.9,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.9
     },
     {
       "id": 2028,
@@ -86,8 +87,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 5.0,
-      "profitPct": 2.4,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 2.4
     },
     {
       "id": 2030,
@@ -96,8 +97,8 @@
       "pack": "16 pcs",
       "active": true,
       "cases": 13.0,
-      "profitPct": 18.2,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 18.2
     },
     {
       "id": 2032,
@@ -106,8 +107,8 @@
       "pack": "16 pcs",
       "active": true,
       "cases": 28.0,
-      "profitPct": 18.2,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 18.2
     },
     {
       "id": 2078,
@@ -116,8 +117,8 @@
       "pack": "20 bundles",
       "active": true,
       "cases": 9.0,
-      "profitPct": 0.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.0
     },
     {
       "id": 2070,
@@ -126,8 +127,8 @@
       "pack": "6 pcs",
       "active": true,
       "cases": 7.0,
-      "profitPct": 0.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.0
     },
     {
       "id": 2072,
@@ -136,8 +137,8 @@
       "pack": "6 pcs",
       "active": true,
       "cases": 10.0,
-      "profitPct": 0.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.0
     },
     {
       "id": 2036,
@@ -146,8 +147,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 2.0,
-      "profitPct": 11.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 11.0
     },
     {
       "id": 2034,
@@ -156,8 +157,8 @@
       "pack": "6 pcs",
       "active": true,
       "cases": 22.0,
-      "profitPct": 10.8,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 10.8
     },
     {
       "id": 2038,
@@ -166,8 +167,8 @@
       "pack": "6 pcs",
       "active": true,
       "cases": 1.0,
-      "profitPct": 11.1,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 11.1
     },
     {
       "id": 2042,
@@ -176,8 +177,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 4.0,
-      "profitPct": 11.6,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 11.6
     },
     {
       "id": 2040,
@@ -186,8 +187,8 @@
       "pack": "6 pcs",
       "active": true,
       "cases": 26.0,
-      "profitPct": 11.1,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 11.1
     },
     {
       "id": 2044,
@@ -196,8 +197,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 0.0,
-      "profitPct": 9.3,
-      "profitBasis": "list"
+      "profitBasis": "list",
+      "profitPct": 9.3
     },
     {
       "id": 2046,
@@ -206,8 +207,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 19.0,
-      "profitPct": 9.3,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 9.3
     },
     {
       "id": 2048,
@@ -216,8 +217,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 29.0,
-      "profitPct": 9.3,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 9.3
     },
     {
       "id": 2050,
@@ -226,8 +227,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 7.0,
-      "profitPct": 4.6,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 4.6
     },
     {
       "id": 2052,
@@ -236,8 +237,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 10.0,
-      "profitPct": 2.1,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 2.1
     },
     {
       "id": 2054,
@@ -246,8 +247,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 1.0,
-      "profitPct": 4.6,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 4.6
     },
     {
       "id": 2056,
@@ -256,8 +257,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 2.0,
-      "profitPct": 4.6,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 4.6
     },
     {
       "id": 2058,
@@ -266,8 +267,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 1.0,
-      "profitPct": 0.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.0
     },
     {
       "id": 2060,
@@ -276,8 +277,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 1.0,
-      "profitPct": 0.0,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 0.0
     },
     {
       "id": 2081,
@@ -286,8 +287,8 @@
       "pack": "6 bundles",
       "active": true,
       "cases": 8.0,
-      "profitPct": 18.4,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 18.4
     },
     {
       "id": 2062,
@@ -296,8 +297,8 @@
       "pack": "12 pcs",
       "active": true,
       "cases": 9.0,
-      "profitPct": 11.9,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 11.9
     },
     {
       "id": 2064,
@@ -306,8 +307,344 @@
       "pack": "6 pcs",
       "active": true,
       "cases": 76.0,
-      "profitPct": 12.9,
-      "profitBasis": "sold"
+      "profitBasis": "sold",
+      "profitPct": 12.9
+    }
+  ],
+  "shipments": [
+    {
+      "ref": "P00012",
+      "date": "2026-10-15",
+      "status": "received",
+      "lines": [
+        {
+          "productId": 2016,
+          "cases": 50.0,
+          "cost": 273.49,
+          "netPrice": 304.63,
+          "profitPerCase": 31.14,
+          "profit": 1557.0
+        },
+        {
+          "productId": 2018,
+          "cases": 30.0,
+          "cost": 256.82,
+          "netPrice": 273.15,
+          "profitPerCase": 16.33,
+          "profit": 489.9
+        },
+        {
+          "productId": 2020,
+          "cases": 70.0,
+          "cost": 273.49,
+          "netPrice": 277.78,
+          "profitPerCase": 4.29,
+          "profit": 300.3
+        },
+        {
+          "productId": 2022,
+          "cases": 70.0,
+          "cost": 273.49,
+          "netPrice": 277.78,
+          "profitPerCase": 4.29,
+          "profit": 300.3
+        },
+        {
+          "productId": 2024,
+          "cases": 25.0,
+          "cost": 330.19,
+          "netPrice": 333.33,
+          "profitPerCase": 3.14,
+          "profit": 78.5
+        },
+        {
+          "productId": 2026,
+          "cases": 25.0,
+          "cost": 330.19,
+          "netPrice": 333.33,
+          "profitPerCase": 3.14,
+          "profit": 78.5
+        },
+        {
+          "productId": 2028,
+          "cases": 30.0,
+          "cost": 375.22,
+          "netPrice": 384.26,
+          "profitPerCase": 9.04,
+          "profit": 271.2
+        },
+        {
+          "productId": 2030,
+          "cases": 30.0,
+          "cost": 256.82,
+          "netPrice": 313.89,
+          "profitPerCase": 57.07,
+          "profit": 1712.1
+        },
+        {
+          "productId": 2032,
+          "cases": 60.0,
+          "cost": 256.82,
+          "netPrice": 313.89,
+          "profitPerCase": 57.07,
+          "profit": 3424.2
+        },
+        {
+          "productId": 2034,
+          "cases": 50.0,
+          "cost": 131.74,
+          "netPrice": 147.68,
+          "profitPerCase": 15.94,
+          "profit": 797.0
+        },
+        {
+          "productId": 2036,
+          "cases": 50.0,
+          "cost": 135.08,
+          "netPrice": 151.85,
+          "profitPerCase": 16.77,
+          "profit": 838.5
+        },
+        {
+          "productId": 2038,
+          "cases": 1.0,
+          "cost": 131.74,
+          "netPrice": 148.15,
+          "profitPerCase": 16.41,
+          "profit": 16.41
+        },
+        {
+          "productId": 2040,
+          "cases": 50.0,
+          "cost": 131.74,
+          "netPrice": 148.15,
+          "profitPerCase": 16.41,
+          "profit": 820.5
+        },
+        {
+          "productId": 2042,
+          "cases": 30.0,
+          "cost": 135.08,
+          "netPrice": 152.78,
+          "profitPerCase": 17.7,
+          "profit": 531.0
+        },
+        {
+          "productId": 2044,
+          "cases": 1.0,
+          "cost": 221.8,
+          "netPrice": 244.44,
+          "profitPerCase": 22.64,
+          "profit": 22.64
+        },
+        {
+          "productId": 2046,
+          "cases": 20.0,
+          "cost": 221.8,
+          "netPrice": 244.44,
+          "profitPerCase": 22.64,
+          "profit": 452.8
+        },
+        {
+          "productId": 2048,
+          "cases": 30.0,
+          "cost": 221.8,
+          "netPrice": 244.44,
+          "profitPerCase": 22.64,
+          "profit": 679.2
+        },
+        {
+          "productId": 2050,
+          "cases": 29.0,
+          "cost": 313.52,
+          "netPrice": 328.7,
+          "profitPerCase": 15.18,
+          "profit": 440.22
+        },
+        {
+          "productId": 2052,
+          "cases": 30.0,
+          "cost": 313.52,
+          "netPrice": 320.28,
+          "profitPerCase": 6.76,
+          "profit": 202.8
+        },
+        {
+          "productId": 2054,
+          "cases": 50.0,
+          "cost": 313.52,
+          "netPrice": 328.7,
+          "profitPerCase": 15.18,
+          "profit": 759.0
+        },
+        {
+          "productId": 2056,
+          "cases": 20.0,
+          "cost": 313.52,
+          "netPrice": 328.7,
+          "profitPerCase": 15.19,
+          "profit": 303.8
+        },
+        {
+          "productId": 2058,
+          "cases": 50.0,
+          "cost": 313.52,
+          "netPrice": 244.44,
+          "profitPerCase": -69.08,
+          "profit": -3454.0
+        },
+        {
+          "productId": 2060,
+          "cases": 40.0,
+          "cost": 313.52,
+          "netPrice": 244.44,
+          "profitPerCase": -69.08,
+          "profit": -2763.2
+        },
+        {
+          "productId": 2062,
+          "cases": 50.0,
+          "cost": 146.75,
+          "netPrice": 166.67,
+          "profitPerCase": 19.92,
+          "profit": 996.0
+        },
+        {
+          "productId": 2064,
+          "cases": 100.0,
+          "cost": 125.07,
+          "netPrice": 143.52,
+          "profitPerCase": 18.45,
+          "profit": 1845.0
+        },
+        {
+          "productId": 2070,
+          "cases": 50.0,
+          "cost": 303.51,
+          "netPrice": 296.3,
+          "profitPerCase": -7.21,
+          "profit": -360.5
+        },
+        {
+          "productId": 2072,
+          "cases": 75.0,
+          "cost": 303.51,
+          "netPrice": 296.3,
+          "profitPerCase": -7.21,
+          "profit": -540.75
+        },
+        {
+          "productId": 2075,
+          "cases": 30.0,
+          "cost": 326.86,
+          "netPrice": 324.07,
+          "profitPerCase": -2.79,
+          "profit": -83.7
+        },
+        {
+          "productId": 2078,
+          "cases": 69.0,
+          "cost": 450.26,
+          "netPrice": 425.93,
+          "profitPerCase": -24.33,
+          "profit": -1678.77
+        },
+        {
+          "productId": 2081,
+          "cases": 30.0,
+          "cost": 340.2,
+          "netPrice": 416.67,
+          "profitPerCase": 76.47,
+          "profit": 2294.1
+        }
+      ]
+    },
+    {
+      "ref": "PI 008/DSA/PI/102026",
+      "date": "2026-10-20",
+      "status": "proforma",
+      "lines": [
+        {
+          "productId": 2030,
+          "cases": 70,
+          "cost": 265.19,
+          "netPrice": 313.89,
+          "profitPerCase": 48.7,
+          "profit": 3409.0
+        },
+        {
+          "productId": 2032,
+          "cases": 100,
+          "cost": 265.19,
+          "netPrice": 313.89,
+          "profitPerCase": 48.7,
+          "profit": 4870.0
+        },
+        {
+          "productId": 2034,
+          "cases": 140,
+          "cost": 131.74,
+          "netPrice": 147.68,
+          "profitPerCase": 15.94,
+          "profit": 2231.6
+        },
+        {
+          "productId": 2038,
+          "cases": 140,
+          "cost": 131.74,
+          "netPrice": 148.15,
+          "profitPerCase": 16.41,
+          "profit": 2297.4
+        },
+        {
+          "productId": 2040,
+          "cases": 140,
+          "cost": 131.74,
+          "netPrice": 148.15,
+          "profitPerCase": 16.41,
+          "profit": 2297.4
+        },
+        {
+          "productId": 2044,
+          "cases": 190,
+          "cost": 221.8,
+          "netPrice": 244.44,
+          "profitPerCase": 22.64,
+          "profit": 4301.6
+        },
+        {
+          "productId": 2046,
+          "cases": 190,
+          "cost": 221.8,
+          "netPrice": 244.44,
+          "profitPerCase": 22.64,
+          "profit": 4301.6
+        },
+        {
+          "productId": 2048,
+          "cases": 180,
+          "cost": 221.8,
+          "netPrice": 244.44,
+          "profitPerCase": 22.64,
+          "profit": 4075.2
+        },
+        {
+          "productId": 2062,
+          "cases": 150,
+          "cost": 146.75,
+          "netPrice": 166.67,
+          "profitPerCase": 19.92,
+          "profit": 2988.0
+        },
+        {
+          "productId": 2064,
+          "cases": 700,
+          "cost": 125.07,
+          "netPrice": 143.52,
+          "profitPerCase": 18.45,
+          "profit": 12915.0
+        }
+      ]
     }
   ],
   "days": [
