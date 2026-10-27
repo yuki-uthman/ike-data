@@ -31,9 +31,10 @@ SHIPMENT PROFIT: `shipments` lists every container, oldest first. For each
 product on it: `cases` ordered, `cost` and `netPrice` per case (ex-GST),
 `profitPerCase` = netPrice - cost and `profit` = that times `cases` - what the
 container earns if every case sells at the same net price the % above uses.
-Unlike the %, the money figures are NOT floored, so a product sold below cost
-shows a negative profit and the total stays honest. Cost and price are published
-by the owner's decision; the repo is public.
+Like the %, the money figures are floored at 0 by the owner's decision: a product
+priced at or below cost earns 0, never a loss, so the total can read higher than
+the true profit. Cost and price are published by the owner's decision; the repo
+is public.
   - A shipment from Odoo is one confirmed purchase order (state purchase/done)
     of the vendor; its cost is the product's landed standard_price.
   - A PROFORMA shipment comes from shipments/next-container.json, kept by hand
@@ -104,10 +105,10 @@ def margin_pct(cost, net_price):
 def unit_profit(cost, net_price):
     """Money profit on one case (net price - cost), 2 dp; None if either is unknown.
 
-    Not floored: see SHIPMENT PROFIT in the module docstring."""
+    Floored at 0, like margin_pct: see SHIPMENT PROFIT in the module docstring."""
     if not cost or cost <= 0 or not net_price or net_price <= 0:
         return None
-    return round(net_price - cost, 2)
+    return max(0.0, round(net_price - cost, 2))
 
 
 def shipment_lines(rows, net_by_id):
