@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T10:01:16Z",
+  "generatedAt": "2026-10-27T10:15:46Z",
   "cash": {
     "total": 3128.0,
     "count": 4
   },
   "transfer": {
-    "total": 14429.0,
-    "count": 5
+    "total": 14994.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -157,6 +157,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00533",
+      "customer": "Ekuveri Store I-8",
+      "amount": 565.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "15:02",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[01636] Electric Heat Sealer Chenhe Pfs-300 300mm #FS-300",
+          "qty": 1.0,
+          "total": 565.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00526",
       "customer": "One World Traders",
       "amount": 348.0,
@@ -235,8 +251,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 14429.0
+      "count": 6,
+      "total": 14994.0
     },
     {
       "name": "Cash",
