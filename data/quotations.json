@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T11:31:11Z",
-  "openCount": 165,
-  "openTotal": 2138783.2,
-  "quotationCount": 86,
-  "quotationTotal": 1154537.75,
+  "generatedAt": "2026-10-27T11:45:55Z",
+  "openCount": 164,
+  "openTotal": 2138383.2,
+  "quotationCount": 85,
+  "quotationTotal": 1149237.75,
   "orderCount": 79,
-  "orderTotal": 984245.45,
+  "orderTotal": 989145.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -371,15 +371,15 @@
     },
     {
       "date": "2026-10-26",
-      "count": 2,
-      "outstanding": 10105.0,
-      "total": 11605.0
+      "count": 1,
+      "outstanding": 4805.0,
+      "total": 6305.0
     },
     {
       "date": "2026-10-27",
       "count": 3,
-      "outstanding": 45750.0,
-      "total": 47350.0
+      "outstanding": 50650.0,
+      "total": 50650.0
     }
   ],
   "quotations": [
@@ -422,51 +422,12 @@
       ]
     },
     {
-      "id": 689,
-      "ref": "S00690",
-      "kind": "order",
-      "customer": "Blooms Supplies",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-27",
-      "expires": "2026-11-25",
-      "total": 2000.0,
-      "settled": 1600.0,
-      "outstanding": 400.0,
-      "lines": [
-        {
-          "name": "[90041] Milkshake Powder Red Velvet",
-          "qty": 2.0,
-          "total": 400.0
-        },
-        {
-          "name": "[90049] Milkshake Powder Caramel Coffee",
-          "qty": 3.0,
-          "total": 600.0
-        },
-        {
-          "name": "[90042] Milkshake Powder Avocado",
-          "qty": 1.0,
-          "total": 200.0
-        },
-        {
-          "name": "[90041] Milkshake Powder Red Velvet",
-          "qty": 2.0,
-          "total": 400.0
-        },
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 2.0,
-          "total": 400.0
-        }
-      ]
-    },
-    {
       "id": 694,
       "ref": "S00695",
-      "kind": "quotation",
-      "customer": "Homeline",
+      "kind": "order",
+      "customer": "Homeline R-1",
       "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "expires": "2026-11-25",
       "total": 5300.0,
       "settled": 0.0,
