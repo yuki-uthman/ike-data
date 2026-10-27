@@ -25387,26 +25387,26 @@
     },
     {
       "date": "2026-10-27",
-      "generatedAt": "2026-10-27T11:01:21Z",
+      "generatedAt": "2026-10-27T11:15:44Z",
       "pos": {
         "total": 88.0,
         "count": 3
       },
       "regularSales": {
-        "total": 18034.0,
-        "count": 7
+        "total": 23734.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 47150.0,
-        "count": 3
+        "total": 45350.0,
+        "count": 2
       },
       "cash": {
         "total": 3128.0,
         "count": 4
       },
       "transfer": {
-        "total": 14994.0,
-        "count": 6
+        "total": 20694.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -25436,6 +25436,22 @@
               "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
               "qty": 10.0,
               "total": 2950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00534",
+          "customer": "Alivila Mart G-3",
+          "amount": 5700.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:14",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70161] Vegetable Rack 4 Square Baskets",
+              "qty": 2.0,
+              "total": 5700.0
             }
           ]
         },
