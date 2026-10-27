@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T05:15:50Z",
+  "generatedAt": "2026-10-27T05:31:08Z",
   "openCount": 166,
-  "openTotal": 2107539.2,
-  "quotationCount": 87,
-  "quotationTotal": 1123345.75,
-  "orderCount": 79,
-  "orderTotal": 984193.45,
+  "openTotal": 2146691.2,
+  "quotationCount": 88,
+  "quotationTotal": 1162845.75,
+  "orderCount": 78,
+  "orderTotal": 983845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -371,18 +371,37 @@
     },
     {
       "date": "2026-10-26",
-      "count": 5,
-      "outstanding": 21593.0,
-      "total": 23093.0
+      "count": 4,
+      "outstanding": 21245.0,
+      "total": 22745.0
     },
     {
       "date": "2026-10-27",
-      "count": 1,
-      "outstanding": 3018.0,
-      "total": 3018.0
+      "count": 2,
+      "outstanding": 42518.0,
+      "total": 42518.0
     }
   ],
   "quotations": [
+    {
+      "id": 696,
+      "ref": "S00697",
+      "kind": "quotation",
+      "customer": "Mtcc",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-27",
+      "expires": "2026-10-27",
+      "total": 39500.0,
+      "settled": 0.0,
+      "outstanding": 39500.0,
+      "lines": [
+        {
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 10.0,
+          "total": 39500.0
+        }
+      ]
+    },
     {
       "id": 695,
       "ref": "S00696",
@@ -550,30 +569,6 @@
           "name": "[54646] Milkshake Powder Blue Ice",
           "qty": 1.0,
           "total": 200.0
-        }
-      ]
-    },
-    {
-      "id": 693,
-      "ref": "S00694",
-      "kind": "order",
-      "customer": "One World Traders",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-26",
-      "expires": "2026-11-25",
-      "total": 348.0,
-      "settled": 0.0,
-      "outstanding": 348.0,
-      "lines": [
-        {
-          "name": "[70144] Hook Slat 8\"",
-          "qty": 15.0,
-          "total": 180.0
-        },
-        {
-          "name": "[70145] Hook Slat 10\"",
-          "qty": 12.0,
-          "total": 168.0
         }
       ]
     },
