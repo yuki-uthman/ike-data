@@ -3,417 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-08-29",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 116886.0,
-        "count": 17
-      },
-      "regularSales": {
-        "total": 15.0,
-        "count": 1
-      },
-      "pendingQuotations": {
-        "total": 10740.75,
-        "count": 8
-      },
-      "cash": {
-        "total": 10176.0,
-        "count": 9
-      },
-      "transfer": {
-        "total": 106725.0,
-        "count": 9
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00015 (Ike - 000017)",
-          "customer": "Auguste Maldives",
-          "amount": 87455.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:31",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "37 Miniso Black Double Side (37-Miniso-DS)*3set",
-              "qty": 3.0,
-              "total": 36855.0
-            },
-            {
-              "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*2set",
-              "qty": 2.0,
-              "total": 12580.0
-            },
-            {
-              "name": "37 Miniso Black Single 6.5ft(37-SS-Miniso(Black)",
-              "qty": 3.0,
-              "total": 9885.0
-            },
-            {
-              "name": "37 Miniso Black Single 6.5ft 37-SS-Miniso*3set",
-              "qty": 1.0,
-              "total": 9285.0
-            },
-            {
-              "name": "[00051] Cashier Desk #04",
-              "qty": 1.0,
-              "total": 8500.0
-            },
-            {
-              "name": "37 Miniso Cupboard",
-              "qty": 6.0,
-              "total": 8400.0
-            },
-            {
-              "name": "(37-ER-Miniso)",
-              "qty": 1.0,
-              "total": 1950.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000023",
-          "customer": "Mohamed Ahmed  Manfu O-11",
-          "amount": 8000.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:40",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "2C DS White #2",
-              "qty": 1.0,
-              "total": 5100.0
-            },
-            {
-              "name": "2C ER Round W",
-              "qty": 2.0,
-              "total": 2900.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00019 (Ike - 000021)",
-          "customer": "Fish Hub",
-          "amount": 7400.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "21:23",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70141] Hook Net 8\"",
-              "qty": 600.0,
-              "total": 6900.0
-            },
-            {
-              "name": "[70140] Hook Net 10\"",
-              "qty": 50.0,
-              "total": 500.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00012 (Ike - 000013)",
-          "customer": "Veyo Plaza N-11",
-          "amount": 3280.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:31",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 2.0,
-              "total": 3280.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00011 (Ike - 000014)",
-          "customer": "I Select E-16",
-          "amount": 2820.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:14",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1640.0
-            },
-            {
-              "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1180.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00014 (Ike - 000016)",
-          "customer": "Blooms Supplies",
-          "amount": 2600.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "13:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 8.0,
-              "total": 1600.0
-            },
-            {
-              "name": "[56296] Milkshake Powder Cookies & Cream",
-              "qty": 3.0,
-              "total": 600.0
-            },
-            {
-              "name": "[90041] Milkshake Powder Red Velvet",
-              "qty": 2.0,
-              "total": 400.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00016 (Ike - 000019)",
-          "customer": "S Point  C-4",
-          "amount": 1755.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Default Product (POS)",
-              "qty": 9.0,
-              "total": 1755.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00018 (Ike - 000018)",
-          "customer": "Haveereevilla / M-7",
-          "amount": 1675.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "15:18",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70182] Gas Burner ( High Pressure )",
-              "qty": 1.0,
-              "total": 800.0
-            },
-            {
-              "name": "Gas Burner Table",
-              "qty": 1.0,
-              "total": 425.0
-            },
-            {
-              "name": "[70037] Gas Regular (High Pressure)",
-              "qty": 1.0,
-              "total": 360.0
-            },
-            {
-              "name": "[70215] Gas Pipe ( Yellow )",
-              "qty": 6.0,
-              "total": 90.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00013 (Ike - 000015)",
-          "customer": "Sculpture A8",
-          "amount": 800.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:37",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70091] Shopping Basket Red Large 605 S2",
-              "qty": 5.0,
-              "total": 800.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00017 (Ike - 000020)",
-          "customer": "Blooms Supplies",
-          "amount": 600.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:35",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[06705] Milkshake Powder Vanilla",
-              "qty": 2.0,
-              "total": 400.0
-            },
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000008",
-          "customer": "Walk-in",
-          "amount": 245.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "09:42",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01645] Electric Kettle 1.8L Hoffmas#HM-2512",
-              "qty": 1.0,
-              "total": 245.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000006",
-          "customer": "Walk-in",
-          "amount": 245.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "09:41",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01645] Electric Kettle 1.8L Hoffmas#HM-2512",
-              "qty": 1.0,
-              "total": 245.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000010",
-          "customer": "Walk-in",
-          "amount": 165.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "13:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
-              "qty": 2.0,
-              "total": 120.0
-            },
-            {
-              "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
-              "qty": 1.0,
-              "total": 45.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000011",
-          "customer": "Walk-in",
-          "amount": 50.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:17",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[80001] Bagasse Plate 9'' 25 pcs",
-              "qty": 1.0,
-              "total": 50.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000012",
-          "customer": "Walk-in",
-          "amount": 35.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:54",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01679] Table Mat Pvc 30x45cm #1",
-              "qty": 1.0,
-              "total": 35.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00020",
-          "customer": "Mohamed Ahmed  Manfu O-11",
-          "amount": 15.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:26",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[65180] Aluminium Platter",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000013",
-          "customer": "Walk-in",
-          "amount": 6.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:50",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389H] Aluminium Container 8389 HSM8389",
-              "qty": 2.0,
-              "total": 6.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000006 REFUND",
-          "customer": "Walk-in",
-          "amount": -245.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "09:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01645] Electric Kettle 1.8L Hoffmas#HM-2512",
-              "qty": -1.0,
-              "total": 245.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 2810.0,
-        "expectedClosing": 12986.0,
-        "counted": 12986.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-08-30",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25778,6 +25367,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-10-28",
+      "generatedAt": "2026-10-27T19:01:22Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
