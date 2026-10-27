@@ -1,0 +1,61 @@
+{
+  "note": "Hand-kept. The next CV Duta container, from proforma invoice 008/DSA/PI/102026 (20 Oct 2026), until it exists as a confirmed purchase order in Odoo. DELETE this file when that order is confirmed, or its cases count twice. Landed cost per case is Odoo's current standard_price, i.e. the same prices, freight and markup as shipment 1 are assumed. The one exception is a line with usdPrice (the two Maitos, whose invoice price rose): its cost is usdPrice x mvrPerUsd x landedFactor. mvrPerUsd 21.61 is what shipment P00012's Odoo prices work out to per USD of invoice price; landedFactor 1.35 is Odoo's landed cost over PO price on every product. Selling prices are not set here; they stay as Odoo has them.",
+  "ref": "PI 008/DSA/PI/102026",
+  "date": "2026-10-20",
+  "mvrPerUsd": 21.61,
+  "landedFactor": 1.35,
+  "lines": [
+    {
+      "productId": 2030,
+      "name": "Maitos Tortilla Chips Corn Bbq",
+      "cases": 70,
+      "usdPrice": 9.09
+    },
+    {
+      "productId": 2032,
+      "name": "Maitos Tortilla Chips Corn Chilli",
+      "cases": 100,
+      "usdPrice": 9.09
+    },
+    {
+      "productId": 2034,
+      "name": "Soklin Floor Cleaner Apple 6x800 ml",
+      "cases": 140
+    },
+    {
+      "productId": 2038,
+      "name": "Soklin Floor Cleaner Lavender 6x800 ml",
+      "cases": 140
+    },
+    {
+      "productId": 2040,
+      "name": "Soklin Floor Cleaner Rose 6x800 ml",
+      "cases": 140
+    },
+    {
+      "productId": 2044,
+      "name": "Soklin Softener Paris In Love",
+      "cases": 190
+    },
+    {
+      "productId": 2046,
+      "name": "Soklin Softener Starry New York",
+      "cases": 190
+    },
+    {
+      "productId": 2048,
+      "name": "Soklin Softener Tokyo Spring",
+      "cases": 180
+    },
+    {
+      "productId": 2062,
+      "name": "Wings Porcelain Cleaner Blue 12x360 ml",
+      "cases": 150
+    },
+    {
+      "productId": 2064,
+      "name": "Wings Porcelain Cleaner Blue 6x750 ml",
+      "cases": 700
+    }
+  ]
+}

@@ -24,9 +24,23 @@ PROFIT %: per product, (net price - landed cost) / net price, where cost is the
 case product's standard_price and net price is ex-GST (Odoo prices include
 GST, cost does not). For a product that has sold, net price is what was
 actually charged (confirmed sale-order lines, subtotal / cases); for one that
-has not, it is the list price less GST, flagged with basis "list". Only the
-percentage is written to the file - never the cost or the price themselves.
+has not, it is the list price less GST, flagged with basis "list".
 A product at or below cost reads 0%, not a negative number.
+
+SHIPMENT PROFIT: `shipments` lists every container, oldest first. For each
+product on it: `cases` ordered, `cost` and `netPrice` per case (ex-GST),
+`profitPerCase` = netPrice - cost and `profit` = that times `cases` - what the
+container earns if every case sells at the same net price the % above uses.
+Unlike the %, the money figures are NOT floored, so a product sold below cost
+shows a negative profit and the total stays honest. Cost and price are published
+by the owner's decision; the repo is public.
+  - A shipment from Odoo is one confirmed purchase order (state purchase/done)
+    of the vendor; its cost is the product's landed standard_price.
+  - A PROFORMA shipment comes from shipments/next-container.json, kept by hand
+    until the order exists in Odoo (delete the file's entry then, or the cases
+    count twice). Same prices, freight and markup as before are assumed, so its
+    cost is the product's Odoo standard_price - except a line carrying a
+    `usdPrice` (a price that changed), costed as usdPrice x mvrPerUsd x landedFactor.
 
 Days are Maldives calendar days (UTC+5), the same clock as the other pipelines.
 Reads ODOO_URL / ODOO_DB / ODOO_USERNAME / ODOO_API_KEY from the environment.
@@ -42,11 +56,14 @@ from pathlib import Path
 VENDOR_NAME = "CV Duta"
 CASE_UOM_NAME = "case"
 MALDIVES_OFFSET = timedelta(hours=5)
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "duta-cases.json"
+ROOT = Path(__file__).resolve().parent.parent
+DATA_PATH = ROOT / "data" / "duta-cases.json"
+PROFORMA_PATH = ROOT / "shipments" / "next-container.json"
 
 SOLD_ORDER_STATES = ("sale", "done")
 QUOTED_ORDER_STATES = ("draft", "sent")
 SOLD_POS_STATES = ("paid", "done", "invoiced")
+SHIPPED_ORDER_STATES = ("purchase", "done")
 
 
 def clean_product(name):
@@ -84,6 +101,42 @@ def margin_pct(cost, net_price):
     return max(0.0, round((net_price - cost) / net_price * 100, 1))
 
 
+def unit_profit(cost, net_price):
+    """Money profit on one case (net price - cost), 2 dp; None if either is unknown.
+
+    Not floored: see SHIPMENT PROFIT in the module docstring."""
+    if not cost or cost <= 0 or not net_price or net_price <= 0:
+        return None
+    return round(net_price - cost, 2)
+
+
+def shipment_lines(rows, net_by_id):
+    """Pure: [(product_id, cases, cost)] -> published lines with the money profit.
+
+    `net_by_id` is the per-case net (ex-GST) price used for each product."""
+    lines = []
+    for pid, cases, cost in rows:
+        net = net_by_id.get(pid)
+        per = unit_profit(cost, net)
+        lines.append({
+            "productId": pid, "cases": round(cases, 2), "cost": round(cost, 2),
+            "netPrice": round(net, 2) if net else None,
+            "profitPerCase": per, "profit": None if per is None else round(per * cases, 2),
+        })
+    return sorted(lines, key=lambda l: l["productId"])
+
+
+def proforma_rows(spec, odoo_cost):
+    """Pure: the input file's dict -> [(product_id, cases, landed cost per case)].
+
+    A line without `usdPrice` costs what Odoo says today (`odoo_cost[product_id]`);
+    one with it is priced from the invoice: USD x mvrPerUsd x landedFactor."""
+    k = spec["mvrPerUsd"] * spec["landedFactor"]
+    return [(l["productId"], l["cases"],
+             round(l["usdPrice"] * k, 2) if "usdPrice" in l else odoo_cost[l["productId"]])
+            for l in spec["lines"]]
+
+
 def aggregate(products, sale_lines, quoted_lines, pos_lines, refund_lines):
     """Pure: turn already-fetched rows into the file's `days` / `quoted` / totals.
 
@@ -118,6 +171,21 @@ def aggregate(products, sale_lines, quoted_lines, pos_lines, refund_lines):
         "orders": len({r["order"] for r in quoted_lines}),
     }
     return days, quoted, {pid: round(v, 2) for pid, v in totals.items()}
+
+
+def load_proforma(path, by_id, net_by_id, warnings):
+    """The hand-kept proforma shipment, as a list of 0 or 1 shipments."""
+    if not path.exists():
+        return []
+    spec = json.loads(path.read_text())
+    unknown = [l["productId"] for l in spec["lines"] if l["productId"] not in by_id]
+    if unknown:
+        warnings.append(f"{path.name}: product ids {unknown} are not CV Duta case products - skipped")
+    spec = {**spec, "lines": [l for l in spec["lines"] if l["productId"] in by_id]}
+    return [{
+        "ref": spec["ref"], "date": spec["date"], "status": "proforma",
+        "lines": shipment_lines(proforma_rows(spec, {pid: p["_cost"] for pid, p in by_id.items()}), net_by_id),
+    }]
 
 
 def collect(execute, now_utc):
@@ -178,6 +246,22 @@ def collect(execute, now_utc):
         else:
             quoted_lines.append(row)
 
+    # --- the shipments -------------------------------------------------
+    # One per confirmed purchase order of the vendor, in the case unit.
+    pol_ship = execute(
+        "purchase.order.line", "search_read",
+        [("product_id", "in", ids), ("order_id.state", "in", list(SHIPPED_ORDER_STATES))],
+        fields=["product_id", "product_qty", "uom_id", "order_id"],
+    )
+    po_ids = sorted({r["order_id"][0] for r in pol_ship})
+    po_info = {o["id"]: o for o in execute("purchase.order", "read", po_ids, fields=["name", "date_order", "receipt_status"])} if po_ids else {}
+    ship_qty = defaultdict(lambda: defaultdict(float))  # purchase order id -> product -> cases
+    for r in pol_ship:
+        if not is_case(r["uom_id"]):
+            warnings.append(f"{r['order_id'][1]}: case product bought in unit {r['uom_id'][1]!r} - not counted")
+            continue
+        ship_qty[r["order_id"][0]][r["product_id"][0]] += r["product_qty"]
+
     # --- the till ------------------------------------------------------
     # A POS line that settles a sale-order line is the same case as that
     # order's line, so it must not count twice: skip any with sale_order_line_id.
@@ -218,14 +302,28 @@ def collect(execute, now_utc):
 
     days, quoted, totals = aggregate(products, sale_lines, quoted_lines, pos_lines, refund_lines)
     by_id = {p["id"]: p for p in cases}
+    net_by_id = {}
     for p in products:
         p["cases"] = totals.get(p["id"], 0)
         src = by_id[p["id"]]
         if net_qty.get(p["id"]):
-            p["profitPct"], p["profitBasis"] = margin_pct(src["_cost"], net_rev[p["id"]] / net_qty[p["id"]]), "sold"
+            net, p["profitBasis"] = net_rev[p["id"]] / net_qty[p["id"]], "sold"
         else:
-            p["profitPct"], p["profitBasis"] = margin_pct(src["_cost"], src["_list_net"]), "list"
-    return products, days, quoted, warnings
+            net, p["profitBasis"] = src["_list_net"], "list"
+        p["profitPct"] = margin_pct(src["_cost"], net)
+        net_by_id[p["id"]] = net
+
+    shipments = []
+    for po_id in sorted(ship_qty, key=lambda i: (po_info[i]["date_order"], i)):
+        o = po_info[po_id]
+        rows = [(pid, q, by_id[pid]["_cost"]) for pid, q in ship_qty[po_id].items() if q]
+        shipments.append({
+            "ref": o["name"], "date": maldives_day(o["date_order"]),
+            "status": "received" if o.get("receipt_status") == "full" else "ordered",
+            "lines": shipment_lines(rows, net_by_id),
+        })
+    shipments.extend(load_proforma(PROFORMA_PATH, by_id, net_by_id, warnings))
+    return products, days, quoted, shipments, warnings
 
 
 def main():
@@ -243,16 +341,18 @@ def main():
         return models.execute_kw(db, uid, api_key, model, method, list(args), kwargs)
 
     now_utc = datetime.now(timezone.utc).replace(tzinfo=None)
-    products, days, quoted, warnings = collect(execute, now_utc)
+    products, days, quoted, shipments, warnings = collect(execute, now_utc)
 
     payload = {
         "company": "MRH Investment",
         "supplier": VENDOR_NAME,
         "unit": "case",
+        "currency": "MVR",
         "generatedAt": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "totalCases": round(sum(p["cases"] for p in products), 2),
         "quoted": quoted,
         "products": products,
+        "shipments": shipments,
         "days": days,
     }
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
