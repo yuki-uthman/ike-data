@@ -25387,10 +25387,10 @@
     },
     {
       "date": "2026-10-27",
-      "generatedAt": "2026-10-27T15:31:14Z",
+      "generatedAt": "2026-10-27T15:45:46Z",
       "pos": {
-        "total": 153.0,
-        "count": 4
+        "total": 175.0,
+        "count": 5
       },
       "regularSales": {
         "total": 29034.0,
@@ -25401,8 +25401,8 @@
         "count": 2
       },
       "cash": {
-        "total": 3128.0,
-        "count": 4
+        "total": 3150.0,
+        "count": 5
       },
       "transfer": {
         "total": 26059.0,
@@ -25681,6 +25681,27 @@
           ]
         },
         {
+          "ref": "Ike - 000499",
+          "customer": "Walk-in",
+          "amount": 22.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:45",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[35940] Hook Mesh 8\"",
+              "qty": 1.0,
+              "total": 12.0
+            },
+            {
+              "name": "[70148] Hook Mesh 6\"",
+              "qty": 1.0,
+              "total": 10.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000497",
           "customer": "Walk-in",
           "amount": 15.0,
@@ -25719,7 +25740,7 @@
       ],
       "till": {
         "opening": 2692.0,
-        "expectedClosing": 5758.0,
+        "expectedClosing": 5780.0,
         "counted": null,
         "difference": null,
         "closed": false,
