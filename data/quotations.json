@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T08:31:16Z",
+  "generatedAt": "2026-10-27T08:45:49Z",
   "openCount": 165,
   "openTotal": 2136589.2,
-  "quotationCount": 87,
-  "quotationTotal": 1152743.75,
-  "orderCount": 78,
-  "orderTotal": 983845.45,
+  "quotationCount": 86,
+  "quotationTotal": 1150487.75,
+  "orderCount": 79,
+  "orderTotal": 986101.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -405,7 +405,7 @@
     {
       "id": 697,
       "ref": "S00698",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Menaa Mart O-11",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-27",
