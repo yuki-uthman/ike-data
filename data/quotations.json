@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T05:45:56Z",
+  "generatedAt": "2026-10-27T06:01:29Z",
   "openCount": 166,
-  "openTotal": 2146691.2,
-  "quotationCount": 88,
-  "quotationTotal": 1162845.75,
-  "orderCount": 78,
-  "orderTotal": 983845.45,
+  "openTotal": 2145929.2,
+  "quotationCount": 87,
+  "quotationTotal": 1152743.75,
+  "orderCount": 79,
+  "orderTotal": 993185.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -371,15 +371,15 @@
     },
     {
       "date": "2026-10-26",
-      "count": 4,
-      "outstanding": 21245.0,
-      "total": 22745.0
+      "count": 3,
+      "outstanding": 11905.0,
+      "total": 13405.0
     },
     {
       "date": "2026-10-27",
-      "count": 2,
-      "outstanding": 42518.0,
-      "total": 42518.0
+      "count": 3,
+      "outstanding": 51096.0,
+      "total": 51096.0
     }
   ],
   "quotations": [
@@ -403,46 +403,12 @@
       ]
     },
     {
-      "id": 695,
-      "ref": "S00696",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-27",
-      "expires": "2026-11-26",
-      "total": 3018.0,
-      "settled": 0.0,
-      "outstanding": 3018.0,
-      "lines": [
-        {
-          "name": "[10007] Plastic Container T2 [case]",
-          "qty": 1.0,
-          "total": 1000.0
-        },
-        {
-          "name": "[R12C] Plastic Container A12 [case]",
-          "qty": 1.0,
-          "total": 1160.0
-        },
-        {
-          "name": "[70076] Towel 042-0980 30*30cm",
-          "qty": 12.0,
-          "total": 108.0
-        },
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 3.0,
-          "total": 750.0
-        }
-      ]
-    },
-    {
       "id": 688,
       "ref": "S00689",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Fasmugoo F-10",
       "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "expires": "2026-11-25",
       "total": 9340.0,
       "settled": 0.0,
@@ -462,6 +428,40 @@
           "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
           "qty": 10.0,
           "total": 3390.0
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "ref": "S00698",
+      "kind": "quotation",
+      "customer": "Menaa Mart O-11",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-27",
+      "expires": "2026-11-26",
+      "total": 2256.0,
+      "settled": 0.0,
+      "outstanding": 2256.0,
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 1.0,
+          "total": 550.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Case (120pcs)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 2.0,
+          "total": 678.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 2.0,
+          "total": 678.0
         }
       ]
     },

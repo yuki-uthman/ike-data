@@ -25387,22 +25387,22 @@
     },
     {
       "date": "2026-10-27",
-      "generatedAt": "2026-10-27T05:45:43Z",
+      "generatedAt": "2026-10-27T06:01:19Z",
       "pos": {
         "total": 43.0,
         "count": 1
       },
       "regularSales": {
-        "total": 1233.0,
-        "count": 2
+        "total": 4273.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 42518.0,
+        "total": 41756.0,
         "count": 2
       },
       "cash": {
-        "total": 43.0,
-        "count": 1
+        "total": 3083.0,
+        "count": 2
       },
       "transfer": {
         "total": 1233.0,
@@ -25413,6 +25413,42 @@
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00529",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 3040.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:55",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[R12C] Plastic Container A12 [case]",
+              "qty": 1.0,
+              "total": 1160.0
+            },
+            {
+              "name": "[10007] Plastic Container T2 [case]",
+              "qty": 1.0,
+              "total": 1000.0
+            },
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 3.0,
+              "total": 750.0
+            },
+            {
+              "name": "[70076] Towel 042-0980 30*30cm",
+              "qty": 12.0,
+              "total": 108.0
+            },
+            {
+              "name": "[70061] Toilet with Handle Plastic#39",
+              "qty": 1.0,
+              "total": 22.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00528",
           "customer": "Angolhitheemu School Pta E-4",
@@ -25479,7 +25515,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2692.0,
-        "expectedClosing": 2735.0,
+        "expectedClosing": 5775.0,
         "counted": null,
         "difference": null,
         "closed": false,
