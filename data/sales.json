@@ -25387,10 +25387,10 @@
     },
     {
       "date": "2026-10-27",
-      "generatedAt": "2026-10-27T17:01:25Z",
+      "generatedAt": "2026-10-27T17:15:46Z",
       "pos": {
-        "total": 175.0,
-        "count": 5
+        "total": 187.0,
+        "count": 6
       },
       "regularSales": {
         "total": 30234.0,
@@ -25401,8 +25401,8 @@
         "count": 3
       },
       "cash": {
-        "total": 3150.0,
-        "count": 5
+        "total": 3162.0,
+        "count": 6
       },
       "transfer": {
         "total": 27259.0,
@@ -25732,6 +25732,22 @@
               "total": 15.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000500",
+          "customer": "Walk-in",
+          "amount": 12.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:05",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02396] Spoon Small Stainless",
+              "qty": 1.0,
+              "total": 12.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -25756,7 +25772,7 @@
       ],
       "till": {
         "opening": 2692.0,
-        "expectedClosing": 5780.0,
+        "expectedClosing": 5792.0,
         "counted": null,
         "difference": null,
         "closed": false,
