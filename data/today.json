@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T08:45:42Z",
+  "generatedAt": "2026-10-27T09:01:18Z",
   "cash": {
     "total": 3128.0,
     "count": 4
   },
   "transfer": {
-    "total": 10573.0,
-    "count": 3
+    "total": 12829.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -75,6 +75,37 @@
           "name": "[70061] Toilet with Handle Plastic#39",
           "qty": 1.0,
           "total": 22.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00531",
+      "customer": "Menaa Mart O-11",
+      "amount": 2256.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:47",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 2.0,
+          "total": 678.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 2.0,
+          "total": 678.0
+        },
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 1.0,
+          "total": 550.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Case (120pcs)",
+          "qty": 1.0,
+          "total": 350.0
         }
       ]
     },
@@ -173,8 +204,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 10573.0
+      "count": 4,
+      "total": 12829.0
     },
     {
       "name": "Cash",
