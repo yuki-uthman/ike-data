@@ -3,7 +3,7 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T13:31:24Z",
+  "generatedAt": "2026-10-27T13:46:06Z",
   "totalCases": 395.0,
   "quoted": {
     "cases": 113.0,
@@ -490,16 +490,16 @@
           "cases": 50.0,
           "cost": 313.52,
           "netPrice": 244.44,
-          "profitPerCase": -69.08,
-          "profit": -3454.0
+          "profitPerCase": 0.0,
+          "profit": 0.0
         },
         {
           "productId": 2060,
           "cases": 40.0,
           "cost": 313.52,
           "netPrice": 244.44,
-          "profitPerCase": -69.08,
-          "profit": -2763.2
+          "profitPerCase": 0.0,
+          "profit": 0.0
         },
         {
           "productId": 2062,
@@ -522,32 +522,32 @@
           "cases": 50.0,
           "cost": 303.51,
           "netPrice": 296.3,
-          "profitPerCase": -7.21,
-          "profit": -360.5
+          "profitPerCase": 0.0,
+          "profit": 0.0
         },
         {
           "productId": 2072,
           "cases": 75.0,
           "cost": 303.51,
           "netPrice": 296.3,
-          "profitPerCase": -7.21,
-          "profit": -540.75
+          "profitPerCase": 0.0,
+          "profit": 0.0
         },
         {
           "productId": 2075,
           "cases": 30.0,
           "cost": 326.86,
           "netPrice": 324.07,
-          "profitPerCase": -2.79,
-          "profit": -83.7
+          "profitPerCase": 0.0,
+          "profit": 0.0
         },
         {
           "productId": 2078,
           "cases": 69.0,
           "cost": 450.26,
           "netPrice": 425.93,
-          "profitPerCase": -24.33,
-          "profit": -1678.77
+          "profitPerCase": 0.0,
+          "profit": 0.0
         },
         {
           "productId": 2081,
