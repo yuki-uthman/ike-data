@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T06:15:41Z",
+  "generatedAt": "2026-10-27T06:31:03Z",
   "cash": {
-    "total": 3083.0,
-    "count": 2
+    "total": 3113.0,
+    "count": 3
   },
   "transfer": {
     "total": 10573.0,
@@ -135,6 +135,22 @@
           "total": 8.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000496",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "11:30",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01912] Spray Bottle A33",
+          "qty": 2.0,
+          "total": 30.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -147,8 +163,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 3083.0
+      "count": 3,
+      "total": 3113.0
     }
   ],
   "cashOut": {
@@ -158,7 +174,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2692.0,
-    "expectedClosing": 5775.0,
+    "expectedClosing": 5805.0,
     "counted": null,
     "difference": null,
     "closed": false,
