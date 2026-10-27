@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T16:31:20Z",
-  "openCount": 163,
-  "openTotal": 2133083.2,
-  "quotationCount": 85,
-  "quotationTotal": 1149237.75,
+  "generatedAt": "2026-10-27T16:45:56Z",
+  "openCount": 164,
+  "openTotal": 2134853.2,
+  "quotationCount": 86,
+  "quotationTotal": 1151007.75,
   "orderCount": 78,
   "orderTotal": 983845.45,
   "days": [
@@ -377,9 +377,9 @@
     },
     {
       "date": "2026-10-27",
-      "count": 2,
-      "outstanding": 45350.0,
-      "total": 45350.0
+      "count": 3,
+      "outstanding": 47120.0,
+      "total": 47120.0
     }
   ],
   "quotations": [
@@ -418,6 +418,25 @@
           "name": "[09881] City Bicycle 18'",
           "qty": 3.0,
           "total": 5850.0
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "ref": "S00703",
+      "kind": "quotation",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-27",
+      "expires": "2026-11-26",
+      "total": 1770.0,
+      "settled": 0.0,
+      "outstanding": 1770.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
         }
       ]
     },

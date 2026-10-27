@@ -25387,26 +25387,26 @@
     },
     {
       "date": "2026-10-27",
-      "generatedAt": "2026-10-27T16:31:09Z",
+      "generatedAt": "2026-10-27T16:45:47Z",
       "pos": {
         "total": 175.0,
         "count": 5
       },
       "regularSales": {
-        "total": 29034.0,
-        "count": 9
+        "total": 30234.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 45350.0,
-        "count": 2
+        "total": 47120.0,
+        "count": 3
       },
       "cash": {
         "total": 3150.0,
         "count": 5
       },
       "transfer": {
-        "total": 26059.0,
-        "count": 9
+        "total": 27259.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -25566,6 +25566,22 @@
               "name": "[90042] Milkshake Powder Avocado",
               "qty": 1.0,
               "total": 200.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00537",
+          "customer": "Peekaboo Pvt Ltd",
+          "amount": 1200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:39",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[35940] Hook Mesh 8\"",
+              "qty": 100.0,
+              "total": 1200.0
             }
           ]
         },

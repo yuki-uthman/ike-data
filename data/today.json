@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T16:31:09Z",
+  "generatedAt": "2026-10-27T16:45:47Z",
   "cash": {
     "total": 3150.0,
     "count": 5
   },
   "transfer": {
-    "total": 26059.0,
-    "count": 9
+    "total": 27259.0,
+    "count": 10
   },
   "other": {
     "total": 0,
@@ -173,6 +173,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00537",
+      "customer": "Peekaboo Pvt Ltd",
+      "amount": 1200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:39",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 100.0,
+          "total": 1200.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00528",
       "customer": "Angolhitheemu School Pta E-4",
       "amount": 885.0,
@@ -325,8 +341,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 25994.0
+      "count": 9,
+      "total": 27194.0
     },
     {
       "name": "Cash",
