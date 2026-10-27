@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T11:45:47Z",
+  "generatedAt": "2026-10-27T12:01:38Z",
   "cash": {
     "total": 3128.0,
     "count": 4
   },
   "transfer": {
-    "total": 20759.0,
-    "count": 8
+    "total": 26059.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -55,6 +55,22 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 2.0,
           "total": 5700.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00536",
+      "customer": "Homeline R-1",
+      "amount": 5300.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:50",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
+          "qty": 1.0,
+          "total": 5300.0
         }
       ]
     },
@@ -288,8 +304,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 20694.0
+      "count": 8,
+      "total": 25994.0
     },
     {
       "name": "Cash",

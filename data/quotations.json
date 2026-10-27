@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-27T11:45:55Z",
-  "openCount": 164,
-  "openTotal": 2138383.2,
+  "generatedAt": "2026-10-27T12:01:50Z",
+  "openCount": 163,
+  "openTotal": 2133083.2,
   "quotationCount": 85,
   "quotationTotal": 1149237.75,
-  "orderCount": 79,
-  "orderTotal": 989145.45,
+  "orderCount": 78,
+  "orderTotal": 983845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -377,9 +377,9 @@
     },
     {
       "date": "2026-10-27",
-      "count": 3,
-      "outstanding": 50650.0,
-      "total": 50650.0
+      "count": 2,
+      "outstanding": 45350.0,
+      "total": 45350.0
     }
   ],
   "quotations": [
@@ -418,25 +418,6 @@
           "name": "[09881] City Bicycle 18'",
           "qty": 3.0,
           "total": 5850.0
-        }
-      ]
-    },
-    {
-      "id": 694,
-      "ref": "S00695",
-      "kind": "order",
-      "customer": "Homeline R-1",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-10-27",
-      "expires": "2026-11-25",
-      "total": 5300.0,
-      "settled": 0.0,
-      "outstanding": 5300.0,
-      "lines": [
-        {
-          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
-          "qty": 1.0,
-          "total": 5300.0
         }
       ]
     },
