@@ -25387,14 +25387,14 @@
     },
     {
       "date": "2026-10-27",
-      "generatedAt": "2026-10-27T06:01:19Z",
+      "generatedAt": "2026-10-27T06:15:41Z",
       "pos": {
         "total": 43.0,
         "count": 1
       },
       "regularSales": {
-        "total": 4273.0,
-        "count": 3
+        "total": 13613.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 41756.0,
@@ -25405,14 +25405,40 @@
         "count": 2
       },
       "transfer": {
-        "total": 1233.0,
-        "count": 2
+        "total": 10573.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00530",
+          "customer": "Fasmugoo F-10",
+          "amount": 9340.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:04",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 10.0,
+              "total": 3390.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 10.0,
+              "total": 3000.0
+            },
+            {
+              "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+              "qty": 10.0,
+              "total": 2950.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00529",
           "customer": "United Huvadhoo Holding PVT LTD",
