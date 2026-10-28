@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-28T17:31:21Z",
-  "openCount": 170,
-  "openTotal": 2233458.2,
-  "quotationCount": 92,
-  "quotationTotal": 1249612.75,
+  "generatedAt": "2026-10-28T17:45:54Z",
+  "openCount": 169,
+  "openTotal": 2230608.2,
+  "quotationCount": 91,
+  "quotationTotal": 1246762.75,
   "orderCount": 78,
   "orderTotal": 983845.45,
   "days": [
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-10-28",
-      "count": 6,
-      "outstanding": 98605.0,
-      "total": 98605.0
+      "count": 5,
+      "outstanding": 95755.0,
+      "total": 95755.0
     }
   ],
   "quotations": [
@@ -482,25 +482,6 @@
           "name": "2C Price Border Strip Red",
           "qty": 20.0,
           "total": 500.0
-        }
-      ]
-    },
-    {
-      "id": 713,
-      "ref": "S00714",
-      "kind": "quotation",
-      "customer": "Sun Shine Arts",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-28",
-      "expires": "2026-11-27",
-      "total": 2850.0,
-      "settled": 0.0,
-      "outstanding": 2850.0,
-      "lines": [
-        {
-          "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 1.0,
-          "total": 2850.0
         }
       ]
     },
