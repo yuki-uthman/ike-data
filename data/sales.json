@@ -25370,14 +25370,14 @@
     },
     {
       "date": "2026-10-28",
-      "generatedAt": "2026-10-28T08:45:41Z",
+      "generatedAt": "2026-10-28T09:01:21Z",
       "pos": {
         "total": 307.0,
         "count": 2
       },
       "regularSales": {
-        "total": 2038.0,
-        "count": 4
+        "total": 3958.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 17650.0,
@@ -25388,14 +25388,30 @@
         "count": 2
       },
       "transfer": {
-        "total": 1505.0,
-        "count": 4
+        "total": 3425.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00543",
+          "customer": "Crystalline Mv Pvt Ltd",
+          "amount": 1920.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:53",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[69059] Tool Box X2",
+              "qty": 24.0,
+              "total": 1920.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00538",
           "customer": "The Prize F-3",
