@@ -25370,7 +25370,7 @@
     },
     {
       "date": "2026-10-28",
-      "generatedAt": "2026-10-28T06:45:43Z",
+      "generatedAt": "2026-10-28T07:01:19Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -25462,13 +25462,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 4000.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Owners drawing -- Uthman",
+          "amount": 4000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:46"
+        }
+      ],
       "till": {
         "opening": 5792.0,
-        "expectedClosing": 6392.0,
+        "expectedClosing": 2392.0,
         "counted": null,
         "difference": null,
         "closed": false,
