@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T17:01:22Z",
+  "generatedAt": "2026-10-28T17:15:46Z",
   "cash": {
     "total": 1389.0,
     "count": 7
@@ -261,8 +261,8 @@
     }
   ],
   "cashOut": {
-    "total": 4000.0,
-    "count": 1
+    "total": 5365.0,
+    "count": 5
   },
   "cashOutTransactions": [
     {
@@ -271,11 +271,39 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "11:46"
+    },
+    {
+      "reason": "Asraf -- WASTE DISPOSAL",
+      "amount": 750.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:07"
+    },
+    {
+      "reason": "Diesel -- Asraf",
+      "amount": 500.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:05"
+    },
+    {
+      "reason": "Paper A5 2 BUNDLES",
+      "amount": 90.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:02"
+    },
+    {
+      "reason": "Gate pass - Asraf and Nagarajn",
+      "amount": 25.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:09"
     }
   ],
   "till": {
     "opening": 5792.0,
-    "expectedClosing": 3181.0,
+    "expectedClosing": 1816.0,
     "counted": null,
     "difference": null,
     "closed": false,
