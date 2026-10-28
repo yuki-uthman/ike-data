@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T09:31:02Z",
+  "generatedAt": "2026-10-28T09:45:44Z",
   "cash": {
-    "total": 840.0,
-    "count": 2
+    "total": 846.0,
+    "count": 3
   },
   "transfer": {
     "total": 3425.0,
@@ -128,6 +128,22 @@
       ]
     },
     {
+      "ref": "Ike - 000503",
+      "customer": "Walk-in",
+      "amount": 6.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:44",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[5069] Aluminium Foil Container Round 5069 Loose",
+          "qty": 2.0,
+          "total": 6.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00540",
       "customer": "Testing",
       "amount": 3.0,
@@ -154,8 +170,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 840.0
+      "count": 3,
+      "total": 846.0
     },
     {
       "name": "Bank Transfer",
@@ -179,7 +195,7 @@
   ],
   "till": {
     "opening": 5792.0,
-    "expectedClosing": 2632.0,
+    "expectedClosing": 2638.0,
     "counted": null,
     "difference": null,
     "closed": false,
