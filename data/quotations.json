@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-28T16:15:54Z",
+  "generatedAt": "2026-10-28T16:31:19Z",
   "openCount": 170,
-  "openTotal": 2219388.2,
+  "openTotal": 2233458.2,
   "quotationCount": 92,
-  "quotationTotal": 1235542.75,
+  "quotationTotal": 1249612.75,
   "orderCount": 78,
   "orderTotal": 983845.45,
   "days": [
@@ -384,8 +384,8 @@
     {
       "date": "2026-10-28",
       "count": 6,
-      "outstanding": 84535.0,
-      "total": 84535.0
+      "outstanding": 98605.0,
+      "total": 98605.0
     }
   ],
   "quotations": [
@@ -397,9 +397,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-10-28",
       "expires": "2026-11-27",
-      "total": 57000.0,
+      "total": 71070.0,
       "settled": 0.0,
-      "outstanding": 57000.0,
+      "outstanding": 71070.0,
       "lines": [
         {
           "name": "[RD8-GRY-DSP-1950-X04] #RD8 Gray Double Side Perforated 1950mm x4",
@@ -415,6 +415,11 @@
           "name": "[RD8-GRY-SSP-1950-X05] #RD8 Gray Single Perforated 1950mm x5",
           "qty": 2.0,
           "total": 23400.0
+        },
+        {
+          "name": "[70196] Cash Counter 6ftx2ft",
+          "qty": 2.0,
+          "total": 14070.0
         }
       ]
     },
