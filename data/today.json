@@ -2,21 +2,45 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T05:45:40Z",
+  "generatedAt": "2026-10-28T06:01:14Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 1400.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "INV/2026/00538",
+      "customer": "The Prize F-3",
+      "amount": 1400.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:55",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[06023] Hanger Slipper",
+          "qty": 100.0,
+          "total": 1400.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 1400.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
