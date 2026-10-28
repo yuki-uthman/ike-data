@@ -25370,26 +25370,26 @@
     },
     {
       "date": "2026-10-28",
-      "generatedAt": "2026-10-28T06:31:01Z",
+      "generatedAt": "2026-10-28T06:45:43Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 2000.0,
-        "count": 2
+        "total": 2038.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 16700.0,
-        "count": 2
+        "total": 17650.0,
+        "count": 3
       },
       "cash": {
         "total": 600.0,
         "count": 1
       },
       "transfer": {
-        "total": 1400.0,
-        "count": 1
+        "total": 1438.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -25425,6 +25425,38 @@
               "name": "[3042] Mix-Lah Barista Matcha",
               "qty": 1.0,
               "total": 600.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00541",
+          "customer": "Testing",
+          "amount": 35.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:40",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[02454] socks",
+              "qty": 1.0,
+              "total": 35.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00540",
+          "customer": "Testing",
+          "amount": 3.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:33",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[018910] Hanger Loose Pcs",
+              "qty": 1.0,
+              "total": 3.0
             }
           ]
         }

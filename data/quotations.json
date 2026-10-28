@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-28T06:31:09Z",
-  "openCount": 166,
-  "openTotal": 2151553.2,
-  "quotationCount": 88,
-  "quotationTotal": 1167707.75,
+  "generatedAt": "2026-10-28T06:45:52Z",
+  "openCount": 167,
+  "openTotal": 2152503.2,
+  "quotationCount": 89,
+  "quotationTotal": 1168657.75,
   "orderCount": 78,
   "orderTotal": 983845.45,
   "days": [
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-10-28",
-      "count": 2,
-      "outstanding": 16700.0,
-      "total": 16700.0
+      "count": 3,
+      "outstanding": 17650.0,
+      "total": 17650.0
     }
   ],
   "quotations": [
@@ -429,6 +429,25 @@
           "name": "2C Price Border Strip Red",
           "qty": 20.0,
           "total": 500.0
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "ref": "S00710",
+      "kind": "quotation",
+      "customer": "Retro Mart D-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-28",
+      "expires": "2026-11-27",
+      "total": 950.0,
+      "settled": 0.0,
+      "outstanding": 950.0,
+      "lines": [
+        {
+          "name": "[80302] Tube Stand",
+          "qty": 1.0,
+          "total": 950.0
         }
       ]
     },
