@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-28T09:15:57Z",
-  "openCount": 167,
-  "openTotal": 2152503.2,
-  "quotationCount": 89,
-  "quotationTotal": 1168657.75,
+  "generatedAt": "2026-10-28T09:31:15Z",
+  "openCount": 168,
+  "openTotal": 2159538.2,
+  "quotationCount": 90,
+  "quotationTotal": 1175692.75,
   "orderCount": 78,
   "orderTotal": 983845.45,
   "days": [
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-10-28",
-      "count": 3,
-      "outstanding": 17650.0,
-      "total": 17650.0
+      "count": 4,
+      "outstanding": 24685.0,
+      "total": 24685.0
     }
   ],
   "quotations": [
@@ -405,6 +405,25 @@
           "name": "[70175] 51 Warehouse Rack White Medium",
           "qty": 6.0,
           "total": 10800.0
+        }
+      ]
+    },
+    {
+      "id": 711,
+      "ref": "S00712",
+      "kind": "quotation",
+      "customer": "Sifco",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-28",
+      "expires": "2026-11-27",
+      "total": 7035.0,
+      "settled": 0.0,
+      "outstanding": 7035.0,
+      "lines": [
+        {
+          "name": "[70196] Cash Counter 6ftx2ft",
+          "qty": 1.0,
+          "total": 7035.0
         }
       ]
     },
