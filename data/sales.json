@@ -3,427 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-08-30",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 34219.0,
-        "count": 18
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 440.0,
-        "count": 3
-      },
-      "cash": {
-        "total": 3886.0,
-        "count": 9
-      },
-      "transfer": {
-        "total": 30333.0,
-        "count": 9
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00024 (Ike - 000028)",
-          "customer": "Fais Mart S-4",
-          "amount": 18630.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "13:54",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 5.0,
-              "total": 8200.0
-            },
-            {
-              "name": "[83241P] Aluminium Foil Box 83241 SQ230 + Plastic Lid [case]",
-              "qty": 2.0,
-              "total": 5300.0
-            },
-            {
-              "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
-              "qty": 2.0,
-              "total": 2360.0
-            },
-            {
-              "name": "[8325C] Aluminium Foil Box 8325 [case]",
-              "qty": 2.0,
-              "total": 1520.0
-            },
-            {
-              "name": "[83185C] Aluminium Foil Box 83185 [case]",
-              "qty": 1.0,
-              "total": 1250.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00029 (Ike - 000033)",
-          "customer": "Skycrest Private Limited",
-          "amount": 3600.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "21:22",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70175] 51 Warehouse Rack White Medium",
-              "qty": 2.0,
-              "total": 3600.0
-            },
-            {
-              "name": "[01641] Aroma Diffuser 12w 200ml 092:17 #4",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00028 (Ike - 000032)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 3600.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "18:00",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[10002] Tahina Jawharat Taiba Premium Sesame Tahina",
-              "qty": 1.0,
-              "total": 3600.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00030 (Ike - 000034)",
-          "customer": "Muniya Seven Star F-12",
-          "amount": 2500.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:44",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[83185C] Aluminium Foil Box 83185 [case]",
-              "qty": 2.0,
-              "total": 2500.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00026 (Ike - 000030)",
-          "customer": "The Ristoro P-2",
-          "amount": 1500.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:12",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[56296] Milkshake Powder Cookies & Cream",
-              "qty": 5.0,
-              "total": 1000.0
-            },
-            {
-              "name": "[02109] Milkshake Powder Brown Sugar Milk Tea",
-              "qty": 2.0,
-              "total": 500.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00023 (Ike - 000027)",
-          "customer": "Blooms Supplies",
-          "amount": 1200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "13:40",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90041] Milkshake Powder Red Velvet",
-              "qty": 2.0,
-              "total": 400.0
-            },
-            {
-              "name": "[56296] Milkshake Powder Cookies & Cream",
-              "qty": 2.0,
-              "total": 400.0
-            },
-            {
-              "name": "[90047] Milkshake Powder Tiramisu",
-              "qty": 2.0,
-              "total": 400.0
-            },
-            {
-              "name": "[56296] Milkshake Powder Cookies & Cream",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00022 (Ike - 000026)",
-          "customer": "Blue Barista E-16",
-          "amount": 1200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:31",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90052] Milkshake Powder Mocha",
-              "qty": 3.0,
-              "total": 600.0
-            },
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 3.0,
-              "total": 600.0
-            },
-            {
-              "name": "[8368] Aluminium Foil Box 8368 Loose",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000020",
-          "customer": "Walk-in",
-          "amount": 425.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70085] Towel 166-940 bath 70*140cm",
-              "qty": 2.0,
-              "total": 290.0
-            },
-            {
-              "name": "[70025] Deck Brush T-5908",
-              "qty": 1.0,
-              "total": 65.0
-            },
-            {
-              "name": "[70059] Dust Pan Dm-044",
-              "qty": 1.0,
-              "total": 50.0
-            },
-            {
-              "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00025 (Ike - 000029)",
-          "customer": "Snap Buy",
-          "amount": 400.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:36",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[06705] Milkshake Powder Vanilla",
-              "qty": 1.0,
-              "total": 200.0
-            },
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00021 (Ike - 000024)",
-          "customer": "Snap Buy",
-          "amount": 400.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:24",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90042] Milkshake Powder Avocado",
-              "qty": 2.0,
-              "total": 400.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00027 (Ike - 000031)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 350.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:53",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01010] paper straw 8mm 50 pcs",
-              "qty": 10.0,
-              "total": 350.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000016",
-          "customer": "Walk-in",
-          "amount": 195.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01954] Ironing Board Small",
-              "qty": 1.0,
-              "total": 195.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000018",
-          "customer": "Walk-in",
-          "amount": 58.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01871] Duster#43",
-              "qty": 2.0,
-              "total": 58.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000017",
-          "customer": "Walk-in",
-          "amount": 50.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:26",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[80001] Bagasse Plate 9'' 25 pcs",
-              "qty": 1.0,
-              "total": 50.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000014",
-          "customer": "Walk-in",
-          "amount": 45.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:15",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70066] Sponges 3pcs*200pcs#24",
-              "qty": 1.0,
-              "total": 25.0
-            },
-            {
-              "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
-              "qty": 1.0,
-              "total": 20.0
-            },
-            {
-              "name": "non items",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000015",
-          "customer": "Walk-in",
-          "amount": 40.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:57",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02393] Dustbin Bag",
-              "qty": 1.0,
-              "total": 40.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000025",
-          "customer": "Ike.Salesperson@Gmail.Com",
-          "amount": 23.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:31",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Falcon Aluminum Container 8342 10pcs",
-              "qty": 1.0,
-              "total": 15.0
-            },
-            {
-              "name": "[8325] Aluminium Container 8325 loose",
-              "qty": 4.0,
-              "total": 8.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000019",
-          "customer": "Walk-in",
-          "amount": 3.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:36",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[0012] Sponge WJ631 Loose PC",
-              "qty": 1.0,
-              "total": 3.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 1936.0,
-        "expectedClosing": 5822.0,
-        "counted": 5822.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-08-31",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25722,6 +25301,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-10-29",
+      "generatedAt": "2026-10-28T19:01:16Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
