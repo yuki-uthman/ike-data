@@ -25370,32 +25370,53 @@
     },
     {
       "date": "2026-10-28",
-      "generatedAt": "2026-10-28T17:45:44Z",
+      "generatedAt": "2026-10-28T18:01:16Z",
       "pos": {
         "total": 1083.0,
         "count": 8
       },
       "regularSales": {
-        "total": 7088.0,
-        "count": 7
+        "total": 18888.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 95755.0,
-        "count": 5
+        "total": 89855.0,
+        "count": 4
       },
       "cash": {
         "total": 1356.0,
         "count": 8
       },
       "transfer": {
-        "total": 6815.0,
-        "count": 7
+        "total": 18615.0,
+        "count": 8
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00546",
+          "customer": "Noohaa L-3",
+          "amount": 11800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:54",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X02] #2C White Double Side 2000mm x2",
+              "qty": 2.0,
+              "total": 10800.0
+            },
+            {
+              "name": "2C Price Border Strip Red",
+              "qty": 40.0,
+              "total": 1000.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00545",
           "customer": "Sun Shine Arts",
@@ -25695,10 +25716,10 @@
       ],
       "till": {
         "opening": 5792.0,
-        "expectedClosing": 1783.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "expectedClosing": 1788.0,
+        "counted": 1788.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
