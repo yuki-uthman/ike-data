@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T15:45:45Z",
+  "generatedAt": "2026-10-28T16:01:18Z",
   "cash": {
-    "total": 1354.0,
-    "count": 6
+    "total": 1389.0,
+    "count": 7
   },
   "transfer": {
     "total": 3425.0,
@@ -144,6 +144,22 @@
       ]
     },
     {
+      "ref": "Ike - 000506",
+      "customer": "Walk-in",
+      "amount": 35.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:00",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01621] Ceramic Plate 9\"#10",
+          "qty": 1.0,
+          "total": 35.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00541",
       "customer": "Testing",
       "amount": 35.0,
@@ -218,8 +234,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 1354.0
+      "count": 7,
+      "total": 1389.0
     },
     {
       "name": "Bank Transfer",
@@ -243,7 +259,7 @@
   ],
   "till": {
     "opening": 5792.0,
-    "expectedClosing": 3146.0,
+    "expectedClosing": 3181.0,
     "counted": null,
     "difference": null,
     "closed": false,
