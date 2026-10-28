@@ -25370,26 +25370,26 @@
     },
     {
       "date": "2026-10-28",
-      "generatedAt": "2026-10-28T16:01:18Z",
+      "generatedAt": "2026-10-28T16:15:43Z",
       "pos": {
-        "total": 576.0,
-        "count": 6
+        "total": 1116.0,
+        "count": 7
       },
       "regularSales": {
         "total": 4238.0,
         "count": 6
       },
       "pendingQuotations": {
-        "total": 27535.0,
-        "count": 5
+        "total": 84535.0,
+        "count": 6
       },
       "cash": {
         "total": 1389.0,
         "count": 7
       },
       "transfer": {
-        "total": 3425.0,
-        "count": 5
+        "total": 3965.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25441,6 +25441,22 @@
               "name": "[3042] Mix-Lah Barista Matcha",
               "qty": 1.0,
               "total": 600.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000507",
+          "customer": "Walk-in",
+          "amount": 540.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:12",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02117] Artificial Plant Panel",
+              "qty": 3.0,
+              "total": 540.0
             }
           ]
         },

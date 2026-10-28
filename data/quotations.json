@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-28T16:01:31Z",
-  "openCount": 169,
-  "openTotal": 2162388.2,
-  "quotationCount": 91,
-  "quotationTotal": 1178542.75,
+  "generatedAt": "2026-10-28T16:15:54Z",
+  "openCount": 170,
+  "openTotal": 2219388.2,
+  "quotationCount": 92,
+  "quotationTotal": 1235542.75,
   "orderCount": 78,
   "orderTotal": 983845.45,
   "days": [
@@ -383,12 +383,41 @@
     },
     {
       "date": "2026-10-28",
-      "count": 5,
-      "outstanding": 27535.0,
-      "total": 27535.0
+      "count": 6,
+      "outstanding": 84535.0,
+      "total": 84535.0
     }
   ],
   "quotations": [
+    {
+      "id": 714,
+      "ref": "S00715",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-28",
+      "expires": "2026-11-27",
+      "total": 57000.0,
+      "settled": 0.0,
+      "outstanding": 57000.0,
+      "lines": [
+        {
+          "name": "[RD8-GRY-DSP-1950-X04] #RD8 Gray Double Side Perforated 1950mm x4",
+          "qty": 2.0,
+          "total": 26800.0
+        },
+        {
+          "name": "[RD8-GRY-DSP-1950-X02] #RD8 Gray Double Side Perforated 1950mm x2",
+          "qty": 1.0,
+          "total": 6800.0
+        },
+        {
+          "name": "[RD8-GRY-SSP-1950-X05] #RD8 Gray Single Perforated 1950mm x5",
+          "qty": 2.0,
+          "total": 23400.0
+        }
+      ]
+    },
     {
       "id": 704,
       "ref": "S00705",
