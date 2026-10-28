@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T08:34:18Z",
+  "generatedAt": "2026-10-28T08:45:41Z",
   "cash": {
-    "total": 600.0,
-    "count": 1
+    "total": 840.0,
+    "count": 2
   },
   "transfer": {
-    "total": 1438.0,
-    "count": 3
+    "total": 1505.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -45,6 +45,53 @@
           "name": "[3042] Mix-Lah Barista Matcha",
           "qty": 1.0,
           "total": 600.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00542 (Ike - 000501)",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 240.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "13:41",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 4.0,
+          "total": 240.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000502",
+      "customer": "Walk-in",
+      "amount": 67.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "13:44",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 1.0,
+          "total": 19.0
+        },
+        {
+          "name": "[70070] Glass Wiper A63",
+          "qty": 1.0,
+          "total": 18.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) (400 ml)",
+          "qty": 1.0,
+          "total": 15.0
+        },
+        {
+          "name": "[70033] Pot Cleaner Brush Steel Wool Plastic 6 in # 1222",
+          "qty": 1.0,
+          "total": 15.0
         }
       ]
     },
@@ -91,8 +138,14 @@
     {
       "name": "Cash",
       "method": "cash",
+      "count": 2,
+      "total": 840.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
       "count": 1,
-      "total": 600.0
+      "total": 67.0
     }
   ],
   "cashOut": {
@@ -110,7 +163,7 @@
   ],
   "till": {
     "opening": 5792.0,
-    "expectedClosing": 2392.0,
+    "expectedClosing": 2632.0,
     "counted": null,
     "difference": null,
     "closed": false,
