@@ -25304,10 +25304,10 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T15:45:44Z",
+      "generatedAt": "2026-10-29T16:01:17Z",
       "pos": {
-        "total": 367.0,
-        "count": 6
+        "total": 499.0,
+        "count": 8
       },
       "regularSales": {
         "total": 8783.0,
@@ -25318,12 +25318,12 @@
         "count": 5
       },
       "cash": {
-        "total": 2547.0,
-        "count": 9
+        "total": 2562.0,
+        "count": 10
       },
       "transfer": {
-        "total": 6603.0,
-        "count": 3
+        "total": 6720.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -25493,6 +25493,22 @@
           ]
         },
         {
+          "ref": "Ike - 000514",
+          "customer": "Walk-in",
+          "amount": 117.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:58",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70088] Hand Towel",
+              "qty": 3.0,
+              "total": 117.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000510",
           "customer": "Walk-in",
           "amount": 109.0,
@@ -25576,6 +25592,22 @@
               "total": 16.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000515",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:59",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[5069] Aluminium Foil Container Round 5069 Loose",
+              "qty": 5.0,
+              "total": 15.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -25585,7 +25617,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1788.0,
-        "expectedClosing": 4336.0,
+        "expectedClosing": 4351.0,
         "counted": null,
         "difference": null,
         "closed": false,
