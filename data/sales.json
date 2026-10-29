@@ -25304,10 +25304,10 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T12:15:42Z",
+      "generatedAt": "2026-10-29T12:31:04Z",
       "pos": {
-        "total": 335.0,
-        "count": 5
+        "total": 367.0,
+        "count": 6
       },
       "regularSales": {
         "total": 6660.0,
@@ -25318,8 +25318,8 @@
         "count": 5
       },
       "cash": {
-        "total": 1955.0,
-        "count": 7
+        "total": 1987.0,
+        "count": 8
       },
       "transfer": {
         "total": 5040.0,
@@ -25504,6 +25504,22 @@
           ]
         },
         {
+          "ref": "Ike - 000513",
+          "customer": "Walk-in",
+          "amount": 32.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:21",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70063] Brush Toilet 3212 A62",
+              "qty": 1.0,
+              "total": 32.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000509",
           "customer": "Walk-in",
           "amount": 16.0,
@@ -25527,7 +25543,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1788.0,
-        "expectedClosing": 3744.0,
+        "expectedClosing": 3776.0,
         "counted": null,
         "difference": null,
         "closed": false,
