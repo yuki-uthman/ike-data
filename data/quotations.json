@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-29T10:45:51Z",
-  "openCount": 172,
-  "openTotal": 2260198.2,
-  "quotationCount": 94,
-  "quotationTotal": 1278352.75,
+  "generatedAt": "2026-10-29T11:01:33Z",
+  "openCount": 174,
+  "openTotal": 2264738.2,
+  "quotationCount": 96,
+  "quotationTotal": 1282892.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -389,9 +389,9 @@
     },
     {
       "date": "2026-10-29",
-      "count": 4,
-      "outstanding": 37490.0,
-      "total": 37490.0
+      "count": 6,
+      "outstanding": 42030.0,
+      "total": 42030.0
     }
   ],
   "quotations": [
@@ -454,6 +454,54 @@
           "name": "[8325C] Aluminium Foil Box 8325 [case]",
           "qty": 4.0,
           "total": 3040.0
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "ref": "S00723",
+      "kind": "quotation",
+      "customer": "HF MART  O-6",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-29",
+      "expires": "2026-11-28",
+      "total": 2270.0,
+      "settled": 0.0,
+      "outstanding": 2270.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
+        },
+        {
+          "name": "[VB3020] Vacuum Bag 30x20cm",
+          "qty": 250.0,
+          "total": 500.0
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "ref": "S00722",
+      "kind": "quotation",
+      "customer": "HF MART  O-6",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-10-29",
+      "expires": "2026-11-28",
+      "total": 2270.0,
+      "settled": 0.0,
+      "outstanding": 2270.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
+        },
+        {
+          "name": "[VB3020] Vacuum Bag 30x20cm",
+          "qty": 250.0,
+          "total": 500.0
         }
       ]
     },
