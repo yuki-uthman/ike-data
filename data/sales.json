@@ -25304,10 +25304,10 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T08:30:59Z",
+      "generatedAt": "2026-10-29T08:45:41Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 45.0,
+        "count": 1
       },
       "regularSales": {
         "total": 3200.0,
@@ -25315,11 +25315,11 @@
       },
       "pendingQuotations": {
         "total": 17440.0,
-        "count": 2
+        "count": 3
       },
       "cash": {
-        "total": 1200.0,
-        "count": 1
+        "total": 1245.0,
+        "count": 2
       },
       "transfer": {
         "total": 2000.0,
@@ -25396,6 +25396,22 @@
               "total": 1200.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000508",
+          "customer": "Walk-in",
+          "amount": 45.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "13:35",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01836] Broom Wooden#7",
+              "qty": 1.0,
+              "total": 45.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -25405,7 +25421,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1788.0,
-        "expectedClosing": 2988.0,
+        "expectedClosing": 3033.0,
         "counted": null,
         "difference": null,
         "closed": false,
