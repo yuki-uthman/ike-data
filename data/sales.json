@@ -25304,14 +25304,14 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T15:15:52Z",
+      "generatedAt": "2026-10-29T15:31:04Z",
       "pos": {
         "total": 367.0,
         "count": 6
       },
       "regularSales": {
-        "total": 7220.0,
-        "count": 5
+        "total": 8783.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 38990.0,
@@ -25322,8 +25322,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 5040.0,
-        "count": 2
+        "total": 6603.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -25394,6 +25394,32 @@
               "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
               "qty": 1.0,
               "total": 180.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00551",
+          "customer": "Koobe E-08",
+          "amount": 1563.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:23",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 885.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
             }
           ]
         },
