@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T08:45:41Z",
+  "generatedAt": "2026-10-29T09:01:19Z",
   "cash": {
-    "total": 1245.0,
-    "count": 2
+    "total": 1665.0,
+    "count": 3
   },
   "transfer": {
     "total": 2000.0,
@@ -84,6 +84,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00548",
+      "customer": "sales",
+      "amount": 420.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "13:53",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70144] Hook Slat 8\"",
+          "qty": 35.0,
+          "total": 420.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000508",
       "customer": "Walk-in",
       "amount": 45.0,
@@ -110,8 +126,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 1245.0
+      "count": 3,
+      "total": 1665.0
     }
   ],
   "cashOut": {
@@ -121,7 +137,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 1788.0,
-    "expectedClosing": 3033.0,
+    "expectedClosing": 3454.0,
     "counted": null,
     "difference": null,
     "closed": false,
