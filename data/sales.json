@@ -25304,10 +25304,10 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T17:15:45Z",
+      "generatedAt": "2026-10-29T17:31:01Z",
       "pos": {
-        "total": 694.0,
-        "count": 9
+        "total": 872.0,
+        "count": 10
       },
       "regularSales": {
         "total": 10248.0,
@@ -25322,8 +25322,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 8380.0,
-        "count": 6
+        "total": 8558.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -25500,6 +25500,32 @@
               "name": "[01955] ironing board large",
               "qty": 1.0,
               "total": 195.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000517",
+          "customer": "Walk-in",
+          "amount": 178.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:16",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[6970766345148] Drinking Glass#1 250ml",
+              "qty": 3.0,
+              "total": 105.0
+            },
+            {
+              "name": "[02396] Spoon Small Stainless",
+              "qty": 4.0,
+              "total": 48.0
+            },
+            {
+              "name": "[01699] Strainer Steel 10cm Ym-055#17",
+              "qty": 1.0,
+              "total": 25.0
             }
           ]
         },
