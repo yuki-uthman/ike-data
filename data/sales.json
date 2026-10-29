@@ -25304,22 +25304,22 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T17:31:01Z",
+      "generatedAt": "2026-10-29T17:45:44Z",
       "pos": {
-        "total": 872.0,
-        "count": 10
+        "total": 902.0,
+        "count": 11
       },
       "regularSales": {
         "total": 10248.0,
         "count": 7
       },
       "pendingQuotations": {
-        "total": 38990.0,
-        "count": 5
+        "total": 46090.0,
+        "count": 6
       },
       "cash": {
-        "total": 2562.0,
-        "count": 10
+        "total": 2592.0,
+        "count": 11
       },
       "transfer": {
         "total": 8558.0,
@@ -25636,6 +25636,22 @@
           ]
         },
         {
+          "ref": "Ike - 000518",
+          "customer": "Walk-in",
+          "amount": 30.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:41",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Wings Porcelain Cleaner Blue (750 ml)",
+              "qty": 1.0,
+              "total": 30.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000509",
           "customer": "Walk-in",
           "amount": 16.0,
@@ -25675,7 +25691,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1788.0,
-        "expectedClosing": 4351.0,
+        "expectedClosing": 4381.0,
         "counted": null,
         "difference": null,
         "closed": false,
