@@ -3,406 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-08-31",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 13638.0,
-        "count": 17
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0.0,
-        "count": 1
-      },
-      "cash": {
-        "total": 559.0,
-        "count": 3
-      },
-      "transfer": {
-        "total": 13079.0,
-        "count": 14
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00039 (Ike - 000043)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 2860.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:11",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
-              "qty": 1.0,
-              "total": 1200.0
-            },
-            {
-              "name": "[R12C] Plastic Container A12 [case]",
-              "qty": 1.0,
-              "total": 1160.0
-            },
-            {
-              "name": "Top kokoa Hokkaido white chocolate 1kg",
-              "qty": 2.0,
-              "total": 500.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00037 (Ike - 000041)",
-          "customer": "Naushad E-16",
-          "amount": 2850.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:22",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70161] Vegetable Rack 4 Square Baskets",
-              "qty": 1.0,
-              "total": 2850.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000036",
-          "customer": "Ankoja\u00f1ath",
-          "amount": 2800.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:34",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[09886] Hanging Chair",
-              "qty": 1.0,
-              "total": 2800.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00032 (Ike - 000021)",
-          "customer": "Paper Plus G-2",
-          "amount": 1176.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:13",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02360] Tea Cup 90ml",
-              "qty": 24.0,
-              "total": 600.0
-            },
-            {
-              "name": "[6957090021382] Ceramic plate white 9",
-              "qty": 6.0,
-              "total": 210.0
-            },
-            {
-              "name": "[25084] Spoon Small Flatware Ss#7 Green",
-              "qty": 6.0,
-              "total": 192.0
-            },
-            {
-              "name": "[01798] Hair comb Plastic#M86",
-              "qty": 6.0,
-              "total": 174.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00035 (Ike - 000039)",
-          "customer": "Snap Buy",
-          "amount": 1100.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[3043] Mix-Lah Barista Vanilla",
-              "qty": 2.0,
-              "total": 900.0
-            },
-            {
-              "name": "[90045] Milkshake Powder Thai Milk Tea",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00033 (Ike - 000037)",
-          "customer": "Snap Buy",
-          "amount": 1100.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:31",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[3043] Mix-Lah Barista Vanilla",
-              "qty": 2.0,
-              "total": 900.0
-            },
-            {
-              "name": "[90045] Milkshake Powder Thai Milk Tea",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00031 (Ike - 000035)",
-          "customer": "Ecoboo Maldives",
-          "amount": 1000.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:25",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
-              "qty": 200.0,
-              "total": 1000.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00036 (Ike - 000040)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 518.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:03",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01697] Handheld Peeler 1129#15",
-              "qty": 4.0,
-              "total": 236.0
-            },
-            {
-              "name": "[02063] Whisk Big",
-              "qty": 1.0,
-              "total": 130.0
-            },
-            {
-              "name": "[01693] Multi-Purpose Vegetable Cutter Ss#10",
-              "qty": 1.0,
-              "total": 95.0
-            },
-            {
-              "name": "[6934255660013] Sponge Nogot 10 pcs#26",
-              "qty": 1.0,
-              "total": 45.0
-            },
-            {
-              "name": "[02254] Steel Wool 2pcs",
-              "qty": 1.0,
-              "total": 12.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000022",
-          "customer": "Walk-in",
-          "amount": 435.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:10",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[04521] 7 Inch Bassage Plate 50 Pcs",
-              "qty": 2.0,
-              "total": 200.0
-            },
-            {
-              "name": "[80001] Bagasse Plate 9'' 25 pcs",
-              "qty": 3.0,
-              "total": 150.0
-            },
-            {
-              "name": "[02230] Wooden Spoon 100pcs",
-              "qty": 1.0,
-              "total": 45.0
-            },
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 2.0,
-              "total": 40.0
-            },
-            {
-              "name": "[28603] Instant Pearl Jelly (Plastic) 1Kg",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00034 (Ike - 000038)",
-          "customer": "Blooms Supplies",
-          "amount": 400.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:45",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90047] Milkshake Powder Tiramisu",
-              "qty": 2.0,
-              "total": 400.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000023",
-          "customer": "Walk-in",
-          "amount": 213.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:44",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70128] Mop Bucket Plastic 505 #1",
-              "qty": 1.0,
-              "total": 109.0
-            },
-            {
-              "name": "[70024] Mop Wooden#19",
-              "qty": 1.0,
-              "total": 79.0
-            },
-            {
-              "name": "[70068] Sponges 5pcs#27",
-              "qty": 1.0,
-              "total": 25.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00038 (Ike - 000042)",
-          "customer": "Paper Plus G-2",
-          "amount": 180.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:50",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70033] Pot Cleaner Brush Steel Wool Plastic 6 in # 1222",
-              "qty": 12.0,
-              "total": 180.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000024",
-          "customer": "Walk-in",
-          "amount": 65.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "21:21",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70025] Deck Brush T-5908",
-              "qty": 1.0,
-              "total": 65.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000025",
-          "customer": "Walk-in",
-          "amount": 35.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:11",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01011] Paper straw 12 mm 50 pcs",
-              "qty": 1.0,
-              "total": 35.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000026",
-          "customer": "Walk-in",
-          "amount": 6.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:32",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 2.0,
-              "total": 6.0
-            }
-          ]
-        },
-        {
-          "ref": "RINV/2026/00006 (Reversal of: INV/2026/00033)",
-          "customer": "Snap Buy",
-          "amount": -200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:58",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90045] Milkshake Powder Thai Milk Tea",
-              "qty": -1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "RINV/2026/00005 (Reversal of: INV/2026/00033)",
-          "customer": "Snap Buy",
-          "amount": -900.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:57",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[3043] Mix-Lah Barista Vanilla",
-              "qty": -2.0,
-              "total": 900.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 5822.0,
-        "expectedClosing": 6381.0,
-        "counted": 6381.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-01",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25697,6 +25297,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-10-30",
+      "generatedAt": "2026-10-29T19:01:20Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
