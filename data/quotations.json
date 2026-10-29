@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-29T06:15:53Z",
-  "openCount": 169,
-  "openTotal": 2237108.2,
-  "quotationCount": 91,
-  "quotationTotal": 1255262.75,
+  "generatedAt": "2026-10-29T06:31:13Z",
+  "openCount": 170,
+  "openTotal": 2240148.2,
+  "quotationCount": 92,
+  "quotationTotal": 1258302.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -389,9 +389,9 @@
     },
     {
       "date": "2026-10-29",
-      "count": 1,
-      "outstanding": 14400.0,
-      "total": 14400.0
+      "count": 2,
+      "outstanding": 17440.0,
+      "total": 17440.0
     }
   ],
   "quotations": [
@@ -411,6 +411,25 @@
           "name": "[RD8-GRY-DSP-1950-X02] #RD8 Gray Double Side Perforated 1950mm x2 ",
           "qty": 3.0,
           "total": 14400.0
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "ref": "S00718",
+      "kind": "quotation",
+      "customer": "Smart Holding Private Limited",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-29",
+      "expires": "2026-11-28",
+      "total": 3040.0,
+      "settled": 0.0,
+      "outstanding": 3040.0,
+      "lines": [
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 4.0,
+          "total": 3040.0
         }
       ]
     },
