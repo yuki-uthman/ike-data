@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-29T04:31:06Z",
+  "generatedAt": "2026-10-29T04:45:52Z",
   "openCount": 168,
-  "openTotal": 2224708.2,
+  "openTotal": 2222708.2,
   "quotationCount": 90,
   "quotationTotal": 1240862.75,
   "orderCount": 78,
-  "orderTotal": 983845.45,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -372,7 +372,7 @@
     {
       "date": "2026-10-26",
       "count": 1,
-      "outstanding": 4805.0,
+      "outstanding": 2805.0,
       "total": 6305.0
     },
     {
@@ -552,8 +552,8 @@
       "date": "2026-10-26",
       "expires": "2026-11-17",
       "total": 6305.0,
-      "settled": 1500.0,
-      "outstanding": 4805.0,
+      "settled": 3500.0,
+      "outstanding": 2805.0,
       "lines": [
         {
           "name": "[10007] Plastic Container T2 [case]",
