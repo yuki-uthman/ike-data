@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-29T09:31:16Z",
-  "openCount": 171,
-  "openTotal": 2240698.2,
-  "quotationCount": 93,
-  "quotationTotal": 1258852.75,
+  "generatedAt": "2026-10-29T09:45:51Z",
+  "openCount": 172,
+  "openTotal": 2260198.2,
+  "quotationCount": 94,
+  "quotationTotal": 1278352.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -389,12 +389,36 @@
     },
     {
       "date": "2026-10-29",
-      "count": 3,
-      "outstanding": 17990.0,
-      "total": 17990.0
+      "count": 4,
+      "outstanding": 37490.0,
+      "total": 37490.0
     }
   ],
   "quotations": [
+    {
+      "id": 720,
+      "ref": "S00721",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-29",
+      "expires": "2026-11-28",
+      "total": 19500.0,
+      "settled": 0.0,
+      "outstanding": 19500.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-SS-2000-X06] #2C White Single Side 2000mm x6",
+          "qty": 2.0,
+          "total": 19000.0
+        },
+        {
+          "name": "2C Price Border Strip White",
+          "qty": 20.0,
+          "total": 500.0
+        }
+      ]
+    },
     {
       "id": 716,
       "ref": "S00717",
