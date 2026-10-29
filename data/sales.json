@@ -25304,10 +25304,10 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T16:15:45Z",
+      "generatedAt": "2026-10-29T16:31:02Z",
       "pos": {
-        "total": 499.0,
-        "count": 8
+        "total": 694.0,
+        "count": 9
       },
       "regularSales": {
         "total": 8783.0,
@@ -25322,8 +25322,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 6720.0,
-        "count": 4
+        "total": 6915.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25468,6 +25468,22 @@
               "name": "[70144] Hook Slat 8\"",
               "qty": 35.0,
               "total": 420.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000516",
+          "customer": "Walk-in",
+          "amount": 195.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:23",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01955] ironing board large",
+              "qty": 1.0,
+              "total": 195.0
             }
           ]
         },
