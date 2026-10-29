@@ -25304,14 +25304,14 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T16:45:43Z",
+      "generatedAt": "2026-10-29T17:01:18Z",
       "pos": {
         "total": 694.0,
         "count": 9
       },
       "regularSales": {
-        "total": 8783.0,
-        "count": 6
+        "total": 10248.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 38990.0,
@@ -25322,8 +25322,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 6915.0,
-        "count": 5
+        "total": 8380.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25420,6 +25420,22 @@
               "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
               "qty": 1.0,
               "total": 339.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00552",
+          "customer": "Kims Plus B-17",
+          "amount": 1465.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:01",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+              "qty": 1.0,
+              "total": 1465.0
             }
           ]
         },
