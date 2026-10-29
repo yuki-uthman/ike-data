@@ -25304,10 +25304,10 @@
     },
     {
       "date": "2026-10-29",
-      "generatedAt": "2026-10-29T11:47:15Z",
+      "generatedAt": "2026-10-29T12:01:19Z",
       "pos": {
-        "total": 170.0,
-        "count": 3
+        "total": 215.0,
+        "count": 4
       },
       "regularSales": {
         "total": 6660.0,
@@ -25318,8 +25318,8 @@
         "count": 5
       },
       "cash": {
-        "total": 1790.0,
-        "count": 5
+        "total": 1835.0,
+        "count": 6
       },
       "transfer": {
         "total": 5040.0,
@@ -25446,6 +25446,27 @@
           ]
         },
         {
+          "ref": "Ike - 000511",
+          "customer": "Walk-in",
+          "amount": 45.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:55",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70100] Baking Paper 10m #4",
+              "qty": 1.0,
+              "total": 30.0
+            },
+            {
+              "name": "[01928] Ceramic Mug#48-1",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000508",
           "customer": "Walk-in",
           "amount": 45.0,
@@ -25485,7 +25506,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1788.0,
-        "expectedClosing": 3579.0,
+        "expectedClosing": 3624.0,
         "counted": null,
         "difference": null,
         "closed": false,
