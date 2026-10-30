@@ -25300,14 +25300,14 @@
     },
     {
       "date": "2026-10-30",
-      "generatedAt": "2026-10-30T18:01:18Z",
+      "generatedAt": "2026-10-30T18:15:44Z",
       "pos": {
         "total": 342.0,
         "count": 5
       },
       "regularSales": {
-        "total": 12330.0,
-        "count": 2
+        "total": 40330.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 0,
@@ -25318,14 +25318,30 @@
         "count": 5
       },
       "transfer": {
-        "total": 9055.0,
-        "count": 2
+        "total": 37055.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00555",
+          "customer": "Inmaa Trade F-13",
+          "amount": 28000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "23:07",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
+              "qty": 10.0,
+              "total": 28000.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00554",
           "customer": "Alivila Mart G-3",
