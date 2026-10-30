@@ -25300,32 +25300,74 @@
     },
     {
       "date": "2026-10-30",
-      "generatedAt": "2026-10-30T12:45:43Z",
+      "generatedAt": "2026-10-30T13:01:14Z",
       "pos": {
         "total": 104.0,
         "count": 1
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 12330.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 104.0,
-        "count": 1
+        "total": 3384.0,
+        "count": 2
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 9050.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00554",
+          "customer": "Alivila Mart G-3",
+          "amount": 9050.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:56",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
+              "qty": 1.0,
+              "total": 7100.0
+            },
+            {
+              "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+              "qty": 1.0,
+              "total": 1950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00553",
+          "customer": "Akhter Hossain",
+          "amount": 3280.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:49",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
+              "qty": 1.0,
+              "total": 2800.0
+            },
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 30.0,
+              "total": 480.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000519",
           "customer": "Walk-in",
@@ -25355,7 +25397,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 4179.0,
-        "expectedClosing": 4283.0,
+        "expectedClosing": 7563.0,
         "counted": null,
         "difference": null,
         "closed": false,

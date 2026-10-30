@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-30T12:45:59Z",
-  "openCount": 174,
-  "openTotal": 2272465.2,
-  "quotationCount": 95,
-  "quotationTotal": 1287339.75,
-  "orderCount": 79,
-  "orderTotal": 985125.45,
+  "generatedAt": "2026-10-30T13:01:23Z",
+  "openCount": 172,
+  "openTotal": 2260135.2,
+  "quotationCount": 94,
+  "quotationTotal": 1278289.75,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -389,42 +389,18 @@
     },
     {
       "date": "2026-10-29",
-      "count": 6,
-      "outstanding": 48040.0,
-      "total": 48040.0
+      "count": 5,
+      "outstanding": 38990.0,
+      "total": 38990.0
     },
     {
       "date": "2026-10-30",
-      "count": 1,
-      "outstanding": 3280.0,
-      "total": 3280.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 726,
-      "ref": "S00730",
-      "kind": "order",
-      "customer": "Akhter Hossain",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-30",
-      "expires": "2026-11-29",
-      "total": 3280.0,
-      "settled": 0.0,
-      "outstanding": 3280.0,
-      "lines": [
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 30.0,
-          "total": 480.0
-        },
-        {
-          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
-          "qty": 1.0,
-          "total": 2800.0
-        }
-      ]
-    },
     {
       "id": 720,
       "ref": "S00721",
@@ -465,30 +441,6 @@
           "name": "[RD8-GRY-DSP-1950-X02] #RD8 Gray Double Side Perforated 1950mm x2 ",
           "qty": 3.0,
           "total": 14400.0
-        }
-      ]
-    },
-    {
-      "id": 725,
-      "ref": "S00729",
-      "kind": "quotation",
-      "customer": "Alivila Mart G-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-29",
-      "expires": "2026-11-28",
-      "total": 9050.0,
-      "settled": 0.0,
-      "outstanding": 9050.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
-          "qty": 1.0,
-          "total": 7100.0
-        },
-        {
-          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
-          "qty": 1.0,
-          "total": 1950.0
         }
       ]
     },
