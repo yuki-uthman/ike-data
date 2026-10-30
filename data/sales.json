@@ -25300,10 +25300,10 @@
     },
     {
       "date": "2026-10-30",
-      "generatedAt": "2026-10-30T12:01:19Z",
+      "generatedAt": "2026-10-30T12:15:42Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 104.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
@@ -25314,8 +25314,8 @@
         "count": 0
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 104.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -25325,7 +25325,29 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "Ike - 000519",
+          "customer": "Walk-in",
+          "amount": 104.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:02",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70025] Deck Brush T-5908",
+              "qty": 1.0,
+              "total": 65.0
+            },
+            {
+              "name": "[01797] Toilet Brush Plastic #328-10048-1",
+              "qty": 1.0,
+              "total": 39.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -25333,7 +25355,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 4179.0,
-        "expectedClosing": 4179.0,
+        "expectedClosing": 4283.0,
         "counted": null,
         "difference": null,
         "closed": false,
