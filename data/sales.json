@@ -25300,10 +25300,10 @@
     },
     {
       "date": "2026-10-30",
-      "generatedAt": "2026-10-30T15:15:41Z",
+      "generatedAt": "2026-10-30T15:19:42Z",
       "pos": {
-        "total": 104.0,
-        "count": 1
+        "total": 109.0,
+        "count": 2
       },
       "regularSales": {
         "total": 12330.0,
@@ -25318,8 +25318,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 9050.0,
-        "count": 1
+        "total": 9055.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -25388,16 +25388,40 @@
               "total": 39.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000149",
+          "customer": "Walk-in",
+          "amount": 5.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:15",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+              "qty": 1.0,
+              "total": 5.0
+            }
+          ]
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 6000.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Uthman",
+          "amount": 6000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:19"
+        }
+      ],
       "till": {
         "opening": 4179.0,
-        "expectedClosing": 7563.0,
+        "expectedClosing": 1563.0,
         "counted": null,
         "difference": null,
         "closed": false,
