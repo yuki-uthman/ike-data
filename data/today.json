@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T16:45:41Z",
+  "generatedAt": "2026-10-30T17:01:16Z",
   "cash": {
-    "total": 3601.0,
-    "count": 4
+    "total": 3617.0,
+    "count": 5
   },
   "transfer": {
     "total": 9055.0,
@@ -117,6 +117,22 @@
       ]
     },
     {
+      "ref": "Ike - 000522",
+      "customer": "Walk-in",
+      "amount": 16.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:57",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8342] Aluminium Foil Box 8342 Loose",
+          "qty": 8.0,
+          "total": 16.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000149",
       "customer": "Walk-in",
       "amount": 5.0,
@@ -143,8 +159,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 3601.0
+      "count": 5,
+      "total": 3617.0
     },
     {
       "name": "Bank Transfer",
@@ -168,7 +184,7 @@
   ],
   "till": {
     "opening": 4179.0,
-    "expectedClosing": 1780.0,
+    "expectedClosing": 1796.0,
     "counted": null,
     "difference": null,
     "closed": false,
