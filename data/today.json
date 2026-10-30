@@ -1,209 +1,26 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T18:45:38Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-30T19:01:15Z",
   "cash": {
-    "total": 3617.0,
-    "count": 5
+    "total": 0,
+    "count": 0
   },
   "transfer": {
-    "total": 37055.0,
-    "count": 3
+    "total": 0,
+    "count": 0
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [
-    {
-      "ref": "INV/2026/00555",
-      "customer": "Inmaa Trade F-13",
-      "amount": 28000.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "23:07",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
-          "qty": 10.0,
-          "total": 28000.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00554",
-      "customer": "Alivila Mart G-3",
-      "amount": 9050.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "17:56",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
-          "qty": 1.0,
-          "total": 7100.0
-        },
-        {
-          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
-          "qty": 1.0,
-          "total": 1950.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00553",
-      "customer": "Akhter Hossain",
-      "amount": 3280.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "17:49",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
-          "qty": 1.0,
-          "total": 2800.0
-        },
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 30.0,
-          "total": 480.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000520",
-      "customer": "Walk-in",
-      "amount": 178.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "20:48",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[01894] Mosquito Racket 47*19cm #JY-666",
-          "qty": 1.0,
-          "total": 159.0
-        },
-        {
-          "name": "[01700] Strainer Steel 7cm YM-055#18",
-          "qty": 1.0,
-          "total": 19.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000519",
-      "customer": "Walk-in",
-      "amount": 104.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "17:02",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[70025] Deck Brush T-5908",
-          "qty": 1.0,
-          "total": 65.0
-        },
-        {
-          "name": "[01797] Toilet Brush Plastic #328-10048-1",
-          "qty": 1.0,
-          "total": 39.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000521",
-      "customer": "Walk-in",
-      "amount": 39.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "20:49",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[01797] Toilet Brush Plastic #328-10048-1",
-          "qty": 1.0,
-          "total": 39.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000522",
-      "customer": "Walk-in",
-      "amount": 16.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "21:57",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[8342] Aluminium Foil Box 8342 Loose",
-          "qty": 8.0,
-          "total": 16.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000149",
-      "customer": "Walk-in",
-      "amount": 5.0,
-      "method": "transfer",
-      "rawMethod": "Bank Transfer",
-      "time": "20:15",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
-          "qty": 1.0,
-          "total": 5.0
-        }
-      ]
-    }
-  ],
-  "methodsSeen": [
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 2,
-      "total": 37050.0
-    },
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 5,
-      "total": 3617.0
-    },
-    {
-      "name": "Bank Transfer",
-      "method": "transfer",
-      "count": 1,
-      "total": 5.0
-    }
-  ],
+  "transactions": [],
+  "methodsSeen": [],
   "cashOut": {
-    "total": 6000.0,
-    "count": 1
+    "total": 0,
+    "count": 0
   },
-  "cashOutTransactions": [
-    {
-      "reason": "Uthman",
-      "amount": 6000.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "20:19"
-    }
-  ],
-  "till": {
-    "opening": 4179.0,
-    "expectedClosing": 1796.0,
-    "counted": 1798.0,
-    "difference": 2.0,
-    "closed": true,
-    "sessionCount": 1
-  }
+  "cashOutTransactions": [],
+  "till": null
 }

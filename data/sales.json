@@ -3,391 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-01",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 35039.0,
-        "count": 17
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0.0,
-        "count": 1
-      },
-      "cash": {
-        "total": 11908.0,
-        "count": 6
-      },
-      "transfer": {
-        "total": 23131.0,
-        "count": 11
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00046 (Ike - 000050)",
-          "customer": "Universal Enteprises",
-          "amount": 11900.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:10",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "RD60 SS W",
-              "qty": 4.0,
-              "total": 11900.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00041 (Ike - 000045)",
-          "customer": "Naushad E-16",
-          "amount": 10540.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "13:45",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "37 Miniso Black Double Side (37-Miniso-DS)",
-              "qty": 2.0,
-              "total": 8590.0
-            },
-            {
-              "name": "(37-ER-Miniso)",
-              "qty": 1.0,
-              "total": 1950.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00044 (Ike - 000048)",
-          "customer": "Red Apple / B -13",
-          "amount": 4370.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:12",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70175] 51 Warehouse Rack White Medium",
-              "qty": 2.0,
-              "total": 3600.0
-            },
-            {
-              "name": "[01697] Handheld Peeler 1129#15",
-              "qty": 10.0,
-              "total": 590.0
-            },
-            {
-              "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
-              "qty": 12.0,
-              "total": 180.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00048 (Ike - 000052)",
-          "customer": "Fazuline  B-17",
-          "amount": 1980.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "18:08",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 2.0,
-              "total": 1580.0
-            },
-            {
-              "name": "[79687] Hook Slat with 7 Pegs",
-              "qty": 10.0,
-              "total": 400.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00040 (Ike - 000044)",
-          "customer": "Dhoola  A-7",
-          "amount": 1900.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:54",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70187] Trolley Stand 5 Layer White",
-              "qty": 1.0,
-              "total": 1900.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00043 (Ike - 000047)",
-          "customer": "Ithaa Beach",
-          "amount": 1640.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:08",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1640.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00050 (Ike - 000053)",
-          "customer": "Ekuveri Store I-8",
-          "amount": 1240.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:51",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70091] Shopping Basket Red Large 605 S2",
-              "qty": 6.0,
-              "total": 960.0
-            },
-            {
-              "name": "[70140] Hook Net 10\"",
-              "qty": 20.0,
-              "total": 280.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00042 (Ike - 000046)",
-          "customer": "Blooms Supplies",
-          "amount": 1078.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:55",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 4.0,
-              "total": 800.0
-            },
-            {
-              "name": "[11435] Milkshake Powder Yam Taro",
-              "qty": 1.0,
-              "total": 200.0
-            },
-            {
-              "name": "[02232] Ice Cream Spoon 100pcs",
-              "qty": 2.0,
-              "total": 78.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00049 (Ike - 000054)",
-          "customer": "Myst Pvt Ltd",
-          "amount": 195.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:52",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01011] Paper straw 12 mm 50 pcs",
-              "qty": 3.0,
-              "total": 195.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000029",
-          "customer": "Walk-in",
-          "amount": 129.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:51",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70086] Bath towel",
-              "qty": 1.0,
-              "total": 129.0
-            },
-            {
-              "name": "[70074] Towel 042-02 30*40cm",
-              "qty": 0.0,
-              "total": 0.0
-            },
-            {
-              "name": "[70085] Towel 166-940 bath 70*140cm",
-              "qty": 0.0,
-              "total": 0.0
-            },
-            {
-              "name": "[70084] Towel 166-440 bath 70*140cm",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00045 (Ike - 000049)",
-          "customer": "Standard & Originpvt Ltd",
-          "amount": 120.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[09884] Wooden Hanger 5pcs",
-              "qty": 6.0,
-              "total": 120.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00047 (Ike - 000051)",
-          "customer": "Blooms Supplies",
-          "amount": 78.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:53",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02232] Ice Cream Spoon 100pcs",
-              "qty": 2.0,
-              "total": 78.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000028",
-          "customer": "Walk-in",
-          "amount": 60.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:30",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
-              "qty": 1.0,
-              "total": 60.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000027",
-          "customer": "Walk-in",
-          "amount": 50.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:25",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
-              "qty": 10.0,
-              "total": 50.0
-            },
-            {
-              "name": "[01679] Table Mat Pvc 30x45cm #1",
-              "qty": 0.0,
-              "total": 0.0
-            },
-            {
-              "name": "[01682] Table Mat Pvc 30x45cm #5",
-              "qty": 0.0,
-              "total": 0.0
-            },
-            {
-              "name": "[01680] Table Mat Pvc 30x45cm #3",
-              "qty": 0.0,
-              "total": 0.0
-            },
-            {
-              "name": "[01683] Table Mat Pvc 30x45cm #6",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000030",
-          "customer": "Walk-in",
-          "amount": 40.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:12",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Kraft burger box 1pcs",
-              "qty": 20.0,
-              "total": 40.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000032",
-          "customer": "Walk-in",
-          "amount": 9.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[BC96B] Bagasse Clamshell 9\"X6\" Loose",
-              "qty": 3.0,
-              "total": 9.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000020 REFUND",
-          "customer": "Walk-in",
-          "amount": -290.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:21",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70085] Towel 166-940 bath 70*140cm",
-              "qty": -2.0,
-              "total": 290.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 6381.0,
-        "expectedClosing": 18289.0,
-        "counted": 18289.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-02",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25496,6 +25111,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-10-31",
+      "generatedAt": "2026-10-30T19:01:15Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
