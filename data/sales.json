@@ -25300,10 +25300,10 @@
     },
     {
       "date": "2026-10-30",
-      "generatedAt": "2026-10-30T15:45:44Z",
+      "generatedAt": "2026-10-30T16:01:17Z",
       "pos": {
-        "total": 109.0,
-        "count": 2
+        "total": 326.0,
+        "count": 4
       },
       "regularSales": {
         "total": 12330.0,
@@ -25314,8 +25314,8 @@
         "count": 0
       },
       "cash": {
-        "total": 3384.0,
-        "count": 2
+        "total": 3601.0,
+        "count": 4
       },
       "transfer": {
         "total": 9055.0,
@@ -25369,6 +25369,27 @@
           ]
         },
         {
+          "ref": "Ike - 000520",
+          "customer": "Walk-in",
+          "amount": 178.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:48",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01894] Mosquito Racket 47*19cm #JY-666",
+              "qty": 1.0,
+              "total": 159.0
+            },
+            {
+              "name": "[01700] Strainer Steel 7cm YM-055#18",
+              "qty": 1.0,
+              "total": 19.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000519",
           "customer": "Walk-in",
           "amount": 104.0,
@@ -25382,6 +25403,22 @@
               "qty": 1.0,
               "total": 65.0
             },
+            {
+              "name": "[01797] Toilet Brush Plastic #328-10048-1",
+              "qty": 1.0,
+              "total": 39.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000521",
+          "customer": "Walk-in",
+          "amount": 39.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:49",
+          "source": "pos",
+          "lines": [
             {
               "name": "[01797] Toilet Brush Plastic #328-10048-1",
               "qty": 1.0,
@@ -25421,7 +25458,7 @@
       ],
       "till": {
         "opening": 4179.0,
-        "expectedClosing": 1563.0,
+        "expectedClosing": 1780.0,
         "counted": null,
         "difference": null,
         "closed": false,
