@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-10-30T12:15:56Z",
-  "openCount": 173,
-  "openTotal": 2267235.2,
-  "quotationCount": 95,
-  "quotationTotal": 1285389.75,
+  "generatedAt": "2026-10-30T12:31:13Z",
+  "openCount": 174,
+  "openTotal": 2267715.2,
+  "quotationCount": 96,
+  "quotationTotal": 1285869.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -395,12 +395,31 @@
     },
     {
       "date": "2026-10-30",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 480.0,
+      "total": 480.0
     }
   ],
   "quotations": [
+    {
+      "id": 726,
+      "ref": "S00730",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-10-30",
+      "expires": "2026-11-29",
+      "total": 480.0,
+      "settled": 0.0,
+      "outstanding": 480.0,
+      "lines": [
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 30.0,
+          "total": 480.0
+        }
+      ]
+    },
     {
       "id": 720,
       "ref": "S00721",
