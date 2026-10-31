@@ -3,11 +3,11 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-10-31T10:01:22Z",
+  "generatedAt": "2026-10-31T10:15:51Z",
   "totalCases": 397.0,
   "quoted": {
-    "cases": 111.0,
-    "orders": 4
+    "cases": 114.0,
+    "orders": 5
   },
   "products": [
     {
