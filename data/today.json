@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T15:30:54Z",
+  "generatedAt": "2026-10-31T15:45:38Z",
   "cash": {
     "total": 188.0,
     "count": 5
   },
   "transfer": {
-    "total": 5661.0,
-    "count": 8
+    "total": 5711.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -170,6 +170,27 @@
       ]
     },
     {
+      "ref": "Ike - 000530",
+      "customer": "Walk-in",
+      "amount": 50.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "20:45",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70068] Sponges 5pcs#27",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[70066] Sponges 3pcs*200pcs#24",
+          "qty": 1.0,
+          "total": 25.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000524",
       "customer": "Walk-in",
       "amount": 35.0,
@@ -260,8 +281,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 3,
-      "total": 334.0
+      "count": 4,
+      "total": 384.0
     },
     {
       "name": "Cash",

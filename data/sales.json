@@ -25114,10 +25114,10 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T15:30:54Z",
+      "generatedAt": "2026-10-31T15:45:38Z",
       "pos": {
-        "total": 522.0,
-        "count": 8
+        "total": 572.0,
+        "count": 9
       },
       "regularSales": {
         "total": 5327.0,
@@ -25132,8 +25132,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 5661.0,
-        "count": 8
+        "total": 5711.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -25290,6 +25290,27 @@
               "name": "[70061] Toilet with Handle Plastic#39",
               "qty": 1.0,
               "total": 22.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000530",
+          "customer": "Walk-in",
+          "amount": 50.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:45",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70068] Sponges 5pcs#27",
+              "qty": 1.0,
+              "total": 25.0
+            },
+            {
+              "name": "[70066] Sponges 3pcs*200pcs#24",
+              "qty": 1.0,
+              "total": 25.0
             }
           ]
         },
