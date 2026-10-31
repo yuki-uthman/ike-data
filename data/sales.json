@@ -25114,10 +25114,10 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T05:01:07Z",
+      "generatedAt": "2026-10-31T05:15:37Z",
       "pos": {
-        "total": 195.0,
-        "count": 1
+        "total": 304.0,
+        "count": 2
       },
       "regularSales": {
         "total": 0,
@@ -25132,8 +25132,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 195.0,
-        "count": 1
+        "total": 304.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -25153,6 +25153,22 @@
               "name": "Soklin Detergent Liquid White (1 liter)",
               "qty": 3.0,
               "total": 195.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000523",
+          "customer": "Walk-in",
+          "amount": 109.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "10:15",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01893] Mosquito Racket 47*19cm JY-777",
+              "qty": 1.0,
+              "total": 109.0
             }
           ]
         }
