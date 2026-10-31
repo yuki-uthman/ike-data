@@ -3,418 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-02",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 40930.0,
-        "count": 19
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0.0,
-        "count": 2
-      },
-      "cash": {
-        "total": 1085.0,
-        "count": 9
-      },
-      "transfer": {
-        "total": 39845.0,
-        "count": 10
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00055 (Ike - 000060)",
-          "customer": "Iramaa N - 9",
-          "amount": 24910.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "13:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "2C Double Side Black 6ft X2set",
-              "qty": 2.0,
-              "total": 10000.0
-            },
-            {
-              "name": "2C Double Side Black 6ft X3set",
-              "qty": 1.0,
-              "total": 7350.0
-            },
-            {
-              "name": "2C Single Side Black 6.5ft X1set",
-              "qty": 2.0,
-              "total": 3300.0
-            },
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 4.0,
-              "total": 3160.0
-            },
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 50.0,
-              "total": 600.0
-            },
-            {
-              "name": "[70143] Hook Slat 6\"",
-              "qty": 50.0,
-              "total": 500.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00051 (Ike - 000057)",
-          "customer": "Z4 Mart A-10",
-          "amount": 5940.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:45",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70176] 51 Warehouse Rack White Large",
-              "qty": 3.0,
-              "total": 5940.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00060 (Ike - 000065)",
-          "customer": "Blooms Supplies",
-          "amount": 4000.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "21:25",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90049] Milkshake Powder Caramel Coffee",
-              "qty": 5.0,
-              "total": 1000.0
-            },
-            {
-              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-              "qty": 5.0,
-              "total": 1000.0
-            },
-            {
-              "name": "[02154] Milkshake Powder Mango",
-              "qty": 5.0,
-              "total": 1000.0
-            },
-            {
-              "name": "[90038] Milkshake Powder Hazelnut Coffee",
-              "qty": 5.0,
-              "total": 1000.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000061",
-          "customer": "Adam Farhan",
-          "amount": 1640.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:53",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1640.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00053 (Ike - 000059)",
-          "customer": "Twice G-2",
-          "amount": 1450.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[80001] Bagasse Plate 9'' 25 pcs",
-              "qty": 20.0,
-              "total": 1000.0
-            },
-            {
-              "name": "[02230] Wooden Spoon 100pcs",
-              "qty": 10.0,
-              "total": 450.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00056 (Ike - 000062)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 1200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:56",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 4.0,
-              "total": 800.0
-            },
-            {
-              "name": "[90042] Milkshake Powder Avocado",
-              "qty": 2.0,
-              "total": 400.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00058 (Ike - 000064)",
-          "customer": "Snap Buy",
-          "amount": 400.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:13",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 1.0,
-              "total": 200.0
-            },
-            {
-              "name": "[02154] Milkshake Powder Mango",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000058",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 280.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:54",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90048] Milkshake Powder Belgian Chocolate",
-              "qty": 1.0,
-              "total": 280.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000037",
-          "customer": "Walk-in",
-          "amount": 200.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00057 (Ike - 000063)",
-          "customer": "Snap Buy",
-          "amount": 200.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:00",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00054 (Ike - 000034)",
-          "customer": "Snap Buy",
-          "amount": 200.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:58",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000055",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 195.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:36",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[26038] A2 IRONING BOARD",
-              "qty": 1.0,
-              "total": 195.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00061 (Ike - 000066)",
-          "customer": "Glint Solutlons",
-          "amount": 120.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:27",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 10.0,
-              "total": 120.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00052 (Ike - 000056)",
-          "customer": "Simdi Company Pvt Ltd",
-          "amount": 110.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:42",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
-              "qty": 1.0,
-              "total": 110.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000036",
-          "customer": "Walk-in",
-          "amount": 30.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:14",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[03338] Paper Cup 4oz (Bundle)",
-              "qty": 2.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00059 (Ike - 000038)",
-          "customer": "Blooms Supplies",
-          "amount": 25.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:30",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[83241] Aluminium Foil Box 83241 Loose",
-              "qty": 5.0,
-              "total": 25.0
-            },
-            {
-              "name": "[90038] Milkshake Powder Hazelnut Coffee",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000035",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:15",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[03338] Paper Cup 4oz (Bundle)",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000039",
-          "customer": "Walk-in",
-          "amount": 12.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:22",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02036] PLASTIC STRAINER BLUE",
-              "qty": 1.0,
-              "total": 12.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000033",
-          "customer": "Walk-in",
-          "amount": 3.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:27",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[0012] Sponge WJ631 Loose PC",
-              "qty": 1.0,
-              "total": 3.0
-            },
-            {
-              "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 1920.0,
-        "expectedClosing": 3005.0,
-        "counted": 3005.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-03",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25437,6 +25025,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-01",
+      "generatedAt": "2026-10-31T19:01:06Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
