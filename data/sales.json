@@ -25114,14 +25114,14 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T09:01:07Z",
+      "generatedAt": "2026-10-31T09:15:38Z",
       "pos": {
         "total": 463.0,
         "count": 6
       },
       "regularSales": {
-        "total": 1950.0,
-        "count": 1
+        "total": 3850.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 1225.0,
@@ -25132,8 +25132,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 2254.0,
-        "count": 3
+        "total": 4154.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25153,6 +25153,48 @@
               "name": "[09881] City Bicycle 18'",
               "qty": 1.0,
               "total": 1950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00557",
+          "customer": "Blooms Supplies",
+          "amount": 1400.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:06",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[60033] Milkshake Powder Cappuccino",
+              "qty": 3.0,
+              "total": 600.0
+            },
+            {
+              "name": "[21283] Milkshake Powder White Coffee",
+              "qty": 2.0,
+              "total": 400.0
+            },
+            {
+              "name": "[90047] Milkshake Powder Tiramisu",
+              "qty": 2.0,
+              "total": 400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00558",
+          "customer": "Ali Naaiz U-8",
+          "amount": 500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:09",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70143] Hook Slat 6\"",
+              "qty": 50.0,
+              "total": 500.0
             }
           ]
         },
