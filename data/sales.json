@@ -25114,14 +25114,14 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T15:01:09Z",
+      "generatedAt": "2026-10-31T15:15:37Z",
       "pos": {
-        "total": 492.0,
-        "count": 7
+        "total": 522.0,
+        "count": 8
       },
       "regularSales": {
-        "total": 4895.0,
-        "count": 4
+        "total": 5327.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 1225.0,
@@ -25132,8 +25132,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 5199.0,
-        "count": 6
+        "total": 5661.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -25225,6 +25225,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00560",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 432.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:11",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[8000066447360] MARA BAKED BEANS IN TOMATO SAUCE 420G",
+              "qty": 24.0,
+              "total": 432.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000150",
           "customer": "Walk-in",
           "amount": 195.0,
@@ -25290,6 +25306,22 @@
               "name": "[02234] Silicone utensils loose PC brush #1702",
               "qty": 1.0,
               "total": 35.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000529",
+          "customer": "Walk-in",
+          "amount": 30.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:06",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Hanger Plastic A17 - Bundle (6pcs)",
+              "qty": 1.0,
+              "total": 30.0
             }
           ]
         },
