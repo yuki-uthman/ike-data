@@ -25114,7 +25114,7 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T17:01:08Z",
+      "generatedAt": "2026-10-31T17:15:37Z",
       "pos": {
         "total": 572.0,
         "count": 9
@@ -25396,13 +25396,42 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 449.0,
+        "count": 4
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Canvas matte with 4-- Hassan",
+          "amount": 324.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:12"
+        },
+        {
+          "reason": "Tea money 5 days --Jafar",
+          "amount": 100.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:12"
+        },
+        {
+          "reason": "Water bottle -- Nagarajan",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:11"
+        },
+        {
+          "reason": "Gate pass-- Nagarajn",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:10"
+        }
+      ],
       "till": {
         "opening": 1800.0,
-        "expectedClosing": 1988.0,
+        "expectedClosing": 1539.0,
         "counted": null,
         "difference": null,
         "closed": false,
