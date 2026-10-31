@@ -25114,14 +25114,14 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T06:01:10Z",
+      "generatedAt": "2026-10-31T06:15:40Z",
       "pos": {
         "total": 343.0,
         "count": 4
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1950.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
@@ -25132,14 +25132,30 @@
         "count": 2
       },
       "transfer": {
-        "total": 304.0,
-        "count": 2
+        "total": 2254.0,
+        "count": 3
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00556",
+          "customer": "Lemon Dine I-10",
+          "amount": 1950.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:12",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[09881] City Bicycle 18'",
+              "qty": 1.0,
+              "total": 1950.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000150",
           "customer": "Walk-in",
