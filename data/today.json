@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T08:45:38Z",
+  "generatedAt": "2026-10-31T08:52:14Z",
   "cash": {
-    "total": 58.0,
-    "count": 3
+    "total": 159.0,
+    "count": 4
   },
   "transfer": {
     "total": 2254.0,
@@ -61,6 +61,27 @@
           "name": "[01893] Mosquito Racket 47*19cm JY-777",
           "qty": 1.0,
           "total": 109.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000527",
+      "customer": "Walk-in",
+      "amount": 101.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "13:50",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70024] Mop Wooden#19",
+          "qty": 1.0,
+          "total": 79.0
+        },
+        {
+          "name": "[70061] Toilet with Handle Plastic#39",
+          "qty": 1.0,
+          "total": 22.0
         }
       ]
     },
@@ -129,8 +150,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 3,
-      "total": 58.0
+      "count": 4,
+      "total": 159.0
     }
   ],
   "cashOut": {
@@ -140,7 +161,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 1800.0,
-    "expectedClosing": 1858.0,
+    "expectedClosing": 1959.0,
     "counted": null,
     "difference": null,
     "closed": false,
