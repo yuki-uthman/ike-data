@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T05:31:02Z",
+  "generatedAt": "2026-10-31T05:45:38Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 39.0,
+    "count": 2
   },
   "transfer": {
     "total": 304.0,
@@ -47,6 +47,38 @@
           "total": 109.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000524",
+      "customer": "Walk-in",
+      "amount": 35.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02234] Silicone utensils loose PC brush #1702",
+          "qty": 1.0,
+          "total": 35.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000525",
+      "customer": "Walk-in",
+      "amount": 4.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:36",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[8582] Aluminium Foil Box 2 compartments 8582 Loose",
+          "qty": 2.0,
+          "total": 4.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -55,6 +87,12 @@
       "method": "transfer",
       "count": 2,
       "total": 304.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 2,
+      "total": 39.0
     }
   ],
   "cashOut": {
@@ -64,7 +102,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 1800.0,
-    "expectedClosing": 1800.0,
+    "expectedClosing": 1839.0,
     "counted": null,
     "difference": null,
     "closed": false,
