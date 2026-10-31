@@ -2,21 +2,45 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T04:45:38Z",
+  "generatedAt": "2026-10-31T05:01:07Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 195.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "Ike - 000150",
+      "customer": "Walk-in",
+      "amount": 195.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "10:00",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Soklin Detergent Liquid White (1 liter)",
+          "qty": 3.0,
+          "total": 195.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 195.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
