@@ -25114,10 +25114,10 @@
     },
     {
       "date": "2026-10-31",
-      "generatedAt": "2026-10-31T11:15:42Z",
+      "generatedAt": "2026-10-31T11:30:54Z",
       "pos": {
-        "total": 463.0,
-        "count": 6
+        "total": 492.0,
+        "count": 7
       },
       "regularSales": {
         "total": 4895.0,
@@ -25128,8 +25128,8 @@
         "count": 1
       },
       "cash": {
-        "total": 159.0,
-        "count": 4
+        "total": 188.0,
+        "count": 5
       },
       "transfer": {
         "total": 5199.0,
@@ -25294,6 +25294,22 @@
           ]
         },
         {
+          "ref": "Ike - 000528",
+          "customer": "Walk-in",
+          "amount": 29.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:28",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01871] Duster#43",
+              "qty": 1.0,
+              "total": 29.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000526",
           "customer": "Walk-in",
           "amount": 19.0,
@@ -25333,7 +25349,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1800.0,
-        "expectedClosing": 1959.0,
+        "expectedClosing": 1988.0,
         "counted": null,
         "difference": null,
         "closed": false,
