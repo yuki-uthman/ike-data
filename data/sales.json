@@ -25028,26 +25028,26 @@
     },
     {
       "date": "2026-11-01",
-      "generatedAt": "2026-11-01T12:45:38Z",
+      "generatedAt": "2026-11-01T13:01:12Z",
       "pos": {
-        "total": 286.0,
-        "count": 5
+        "total": 305.0,
+        "count": 6
       },
       "regularSales": {
-        "total": 16435.0,
-        "count": 5
+        "total": 17660.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 1225.0,
         "count": 1
       },
       "cash": {
-        "total": 5307.0,
-        "count": 6
+        "total": 5326.0,
+        "count": 7
       },
       "transfer": {
-        "total": 11414.0,
-        "count": 4
+        "total": 12639.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25143,6 +25143,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00566",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1225.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:45",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+              "qty": 1.0,
+              "total": 1225.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00564",
           "customer": "sales",
           "amount": 1100.0,
@@ -25233,6 +25249,22 @@
           ]
         },
         {
+          "ref": "Ike - 000536",
+          "customer": "Walk-in",
+          "amount": 19.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70071] Sponge 5pcs X 6pkts #23",
+              "qty": 1.0,
+              "total": 19.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000532",
           "customer": "Walk-in",
           "amount": 16.0,
@@ -25280,7 +25312,7 @@
       ],
       "till": {
         "opening": 1539.0,
-        "expectedClosing": 5203.0,
+        "expectedClosing": 5222.0,
         "counted": null,
         "difference": null,
         "closed": false,
