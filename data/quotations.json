@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-01T11:15:52Z",
-  "openCount": 172,
-  "openTotal": 2250560.2,
-  "quotationCount": 94,
-  "quotationTotal": 1268714.75,
+  "generatedAt": "2026-11-01T11:31:11Z",
+  "openCount": 173,
+  "openTotal": 2251785.2,
+  "quotationCount": 95,
+  "quotationTotal": 1269939.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -407,12 +407,31 @@
     },
     {
       "date": "2026-11-01",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 1225.0,
+      "total": 1225.0
     }
   ],
   "quotations": [
+    {
+      "id": 737,
+      "ref": "S00741",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-01",
+      "expires": "2026-12-01",
+      "total": 1225.0,
+      "settled": 0.0,
+      "outstanding": 1225.0,
+      "lines": [
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        }
+      ]
+    },
     {
       "id": 729,
       "ref": "S00733",
