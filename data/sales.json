@@ -3,409 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-03",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 28266.0,
-        "count": 20
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 57000.0,
-        "count": 1
-      },
-      "cash": {
-        "total": 2984.0,
-        "count": 8
-      },
-      "transfer": {
-        "total": 25282.0,
-        "count": 12
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00065 (Ike - 000070)",
-          "customer": "Fish Hub",
-          "amount": 5502.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:52",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70142] Hook Net 6\"",
-              "qty": 600.0,
-              "total": 5502.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00062 (Ike - 000067)",
-          "customer": "Z4 Mart A-10",
-          "amount": 5000.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:21",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "2C DS W 2set",
-              "qty": 1.0,
-              "total": 5000.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00066 (Ike - 000073)",
-          "customer": "Beyond Mart   C-14",
-          "amount": 4700.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:49",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[RD8-GRY-SSP-1950-X02] #RD8 Gray Single Perforated 1950mm x2",
-              "qty": 1.0,
-              "total": 4400.0
-            },
-            {
-              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-              "qty": 12.0,
-              "total": 300.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00069 (Ike - 000076)",
-          "customer": "Golden Eclipse Pvt Ltd",
-          "amount": 3100.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:16",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "2C Single Side White 6.5ft X2set",
-              "qty": 1.0,
-              "total": 3100.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00067 (Ike - 000074)",
-          "customer": "Velna View Sinad P-6",
-          "amount": 2685.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:29",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70182] Gas Burner ( High Pressure )",
-              "qty": 2.0,
-              "total": 1600.0
-            },
-            {
-              "name": "Gas Burner Table",
-              "qty": 1.0,
-              "total": 425.0
-            },
-            {
-              "name": "[70037] Gas Regular (High Pressure)",
-              "qty": 1.0,
-              "total": 360.0
-            },
-            {
-              "name": "[70215] Gas Pipe ( Yellow )",
-              "qty": 20.0,
-              "total": 300.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00063 (Ike - 000068)",
-          "customer": "Yoosuf Yameen",
-          "amount": 1980.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:36",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70176] 51 Warehouse Rack White Large",
-              "qty": 1.0,
-              "total": 1980.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000072",
-          "customer": "Bageechaa Niru",
-          "amount": 1500.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:55",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70170] Office Rack Small",
-              "qty": 1.0,
-              "total": 1500.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00068 (Ike - 000075)",
-          "customer": "Iresm Pvt Ltd",
-          "amount": 1490.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:37",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 1.0,
-              "total": 790.0
-            },
-            {
-              "name": "[70145] Hook Slat 10\"",
-              "qty": 50.0,
-              "total": 700.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00064 (Ike - 000069)",
-          "customer": "Z4 Mart A-10",
-          "amount": 1160.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "2C Clip",
-              "qty": 8.0,
-              "total": 580.0
-            },
-            {
-              "name": "2C Shelf",
-              "qty": 4.0,
-              "total": 580.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000042",
-          "customer": "Walk-in",
-          "amount": 420.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:19",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Dish Drying Rack SS 50x21x82cm #R3F-53cm 3tier",
-              "qty": 1.0,
-              "total": 420.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00070 (Ike - 000077)",
-          "customer": "Glint Solutlons",
-          "amount": 240.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:01",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 20.0,
-              "total": 240.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000071",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 140.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:20",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01621] Ceramic Plate 9\"#10",
-              "qty": 4.0,
-              "total": 140.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000046",
-          "customer": "Walk-in",
-          "amount": 120.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:03",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01666] Flat Roti Pan 28cm#8",
-              "qty": 1.0,
-              "total": 120.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000047",
-          "customer": "Walk-in",
-          "amount": 60.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:42",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 20.0,
-              "total": 60.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000041",
-          "customer": "Walk-in",
-          "amount": 50.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:16",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[83768] Plastic Basket Round 5#905",
-              "qty": 2.0,
-              "total": 50.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000040",
-          "customer": "Walk-in",
-          "amount": 39.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:04",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02232] Ice Cream Spoon 100pcs",
-              "qty": 1.0,
-              "total": 39.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000045",
-          "customer": "Walk-in",
-          "amount": 26.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:41",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70042] Paper Folded Dinner Napkin",
-              "qty": 1.0,
-              "total": 26.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000048",
-          "customer": "Walk-in",
-          "amount": 20.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000043",
-          "customer": "Walk-in",
-          "amount": 19.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:36",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01700] Strainer Steel 7cm YM-055#18",
-              "qty": 1.0,
-              "total": 19.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000044",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:19",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70060] Brush Toilet with Handle Plastic#38",
-              "qty": 1.0,
-              "total": 15.0
-            },
-            {
-              "name": "[01864] Toilet Brush Plastic Code:208 #35",
-              "qty": 0.0,
-              "total": 0.0
-            },
-            {
-              "name": "[70033] Pot Cleaner Brush Steel Wool Plastic 6 in # 1222",
-              "qty": 0.0,
-              "total": 0.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 3005.0,
-        "expectedClosing": 5989.0,
-        "counted": 5989.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-04",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25413,6 +25010,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-02",
+      "generatedAt": "2026-11-01T19:01:08Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
