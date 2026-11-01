@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T12:30:54Z",
+  "generatedAt": "2026-11-01T12:45:38Z",
   "cash": {
     "total": 5307.0,
     "count": 6
@@ -248,13 +248,21 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 400.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Rashad boss car reparing -- Zubaid",
+      "amount": 400.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:43"
+    }
+  ],
   "till": {
     "opening": 1539.0,
-    "expectedClosing": 5603.0,
+    "expectedClosing": 5203.0,
     "counted": null,
     "difference": null,
     "closed": false,

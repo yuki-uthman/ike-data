@@ -25028,7 +25028,7 @@
     },
     {
       "date": "2026-11-01",
-      "generatedAt": "2026-11-01T12:30:54Z",
+      "generatedAt": "2026-11-01T12:45:38Z",
       "pos": {
         "total": 286.0,
         "count": 5
@@ -25266,13 +25266,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 400.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Rashad boss car reparing -- Zubaid",
+          "amount": 400.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:43"
+        }
+      ],
       "till": {
         "opening": 1539.0,
-        "expectedClosing": 5603.0,
+        "expectedClosing": 5203.0,
         "counted": null,
         "difference": null,
         "closed": false,
