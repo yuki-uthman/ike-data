@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T17:01:07Z",
+  "generatedAt": "2026-11-01T17:15:40Z",
   "cash": {
-    "total": 5362.0,
-    "count": 8
+    "total": 5394.0,
+    "count": 9
   },
   "transfer": {
     "total": 12939.0,
@@ -227,6 +227,27 @@
       ]
     },
     {
+      "ref": "Ike - 000538",
+      "customer": "Walk-in",
+      "amount": 32.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:14",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[X0001] Damaged Aluminum Foil Container",
+          "qty": 17.0,
+          "total": 17.0
+        },
+        {
+          "name": "[5069] Aluminium Foil Container Round 5069 Loose",
+          "qty": 5.0,
+          "total": 15.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000534",
       "customer": "Walk-in",
       "amount": 30.0,
@@ -301,8 +322,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 8,
-      "total": 5362.0
+      "count": 9,
+      "total": 5394.0
     },
     {
       "name": "Bank Transfer",
@@ -354,7 +375,7 @@
   ],
   "till": {
     "opening": 1539.0,
-    "expectedClosing": 1100.0,
+    "expectedClosing": 1132.0,
     "counted": null,
     "difference": null,
     "closed": false,
