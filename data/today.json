@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T16:30:54Z",
+  "generatedAt": "2026-11-01T16:45:45Z",
   "cash": {
-    "total": 5326.0,
-    "count": 7
+    "total": 5362.0,
+    "count": 8
   },
   "transfer": {
-    "total": 12639.0,
-    "count": 5
+    "total": 12939.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -153,6 +153,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00567",
+      "customer": "Cafe One Family",
+      "amount": 300.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:31",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[A16] Plastic Container A16",
+          "qty": 100.0,
+          "total": 300.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000535",
       "customer": "Walk-in",
       "amount": 127.0,
@@ -191,6 +207,22 @@
           "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
           "qty": 2.0,
           "total": 20.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000537",
+      "customer": "Walk-in",
+      "amount": 36.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70076] Towel 042-0980 30*30cm",
+          "qty": 4.0,
+          "total": 36.0
         }
       ]
     },
@@ -263,14 +295,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 12505.0
+      "count": 4,
+      "total": 12805.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 7,
-      "total": 5326.0
+      "count": 8,
+      "total": 5362.0
     },
     {
       "name": "Bank Transfer",
@@ -280,10 +312,17 @@
     }
   ],
   "cashOut": {
-    "total": 400.0,
-    "count": 1
+    "total": 4900.0,
+    "count": 2
   },
   "cashOutTransactions": [
+    {
+      "reason": "Owners drawing --- Uthman",
+      "amount": 4500.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:37"
+    },
     {
       "reason": "Rashad boss car reparing -- Zubaid",
       "amount": 400.0,
@@ -294,7 +333,7 @@
   ],
   "till": {
     "opening": 1539.0,
-    "expectedClosing": 5222.0,
+    "expectedClosing": 758.0,
     "counted": null,
     "difference": null,
     "closed": false,
