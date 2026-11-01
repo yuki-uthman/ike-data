@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-01T06:45:58Z",
-  "openCount": 173,
-  "openTotal": 2261360.2,
-  "quotationCount": 95,
-  "quotationTotal": 1279514.75,
+  "generatedAt": "2026-11-01T07:01:16Z",
+  "openCount": 172,
+  "openTotal": 2250560.2,
+  "quotationCount": 94,
+  "quotationTotal": 1268714.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-10-28",
-      "count": 4,
-      "outstanding": 89855.0,
-      "total": 89855.0
+      "count": 3,
+      "outstanding": 79055.0,
+      "total": 79055.0
     },
     {
       "date": "2026-10-29",
@@ -573,25 +573,6 @@
           "name": "[70196] Cash Counter 6ftx2ft",
           "qty": 2.0,
           "total": 14070.0
-        }
-      ]
-    },
-    {
-      "id": 704,
-      "ref": "S00705",
-      "kind": "quotation",
-      "customer": "Sealife By Hydrosphere",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-28",
-      "expires": "2026-11-27",
-      "total": 10800.0,
-      "settled": 0.0,
-      "outstanding": 10800.0,
-      "lines": [
-        {
-          "name": "[70175] 51 Warehouse Rack White Medium",
-          "qty": 6.0,
-          "total": 10800.0
         }
       ]
     },
