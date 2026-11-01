@@ -25028,22 +25028,22 @@
     },
     {
       "date": "2026-11-01",
-      "generatedAt": "2026-11-01T04:01:05Z",
+      "generatedAt": "2026-11-01T04:15:41Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1675.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 1675.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -25053,13 +25053,42 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00561",
+          "customer": "Ald Mart",
+          "amount": 1675.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:06",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
+              "qty": 5.0,
+              "total": 900.0
+            },
+            {
+              "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+              "qty": 5.0,
+              "total": 775.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
       },
       "cashOutTransactions": [],
-      "till": null
+      "till": {
+        "opening": 1539.0,
+        "expectedClosing": 1539.0,
+        "counted": null,
+        "difference": null,
+        "closed": false,
+        "sessionCount": 1
+      }
     }
   ]
 }
