@@ -25028,10 +25028,10 @@
     },
     {
       "date": "2026-11-01",
-      "generatedAt": "2026-11-01T09:15:37Z",
+      "generatedAt": "2026-11-01T09:30:54Z",
       "pos": {
-        "total": 25.0,
-        "count": 2
+        "total": 129.0,
+        "count": 3
       },
       "regularSales": {
         "total": 15955.0,
@@ -25046,8 +25046,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 10800.0,
-        "count": 1
+        "total": 10904.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -25155,6 +25155,32 @@
               "name": "2C White Steel Barrier 900mm",
               "qty": 20.0,
               "total": 1100.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000533",
+          "customer": "Walk-in",
+          "amount": 104.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "14:21",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+              "qty": 2.0,
+              "total": 60.0
+            },
+            {
+              "name": "[14858] Fork Flatware Ss #2 Red (loose pc)",
+              "qty": 2.0,
+              "total": 24.0
+            },
+            {
+              "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
+              "qty": 2.0,
+              "total": 20.0
             }
           ]
         },
