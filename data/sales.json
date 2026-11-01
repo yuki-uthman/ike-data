@@ -25028,7 +25028,7 @@
     },
     {
       "date": "2026-11-01",
-      "generatedAt": "2026-11-01T17:15:40Z",
+      "generatedAt": "2026-11-01T17:30:55Z",
       "pos": {
         "total": 373.0,
         "count": 8
@@ -25351,8 +25351,8 @@
         }
       ],
       "cashOut": {
-        "total": 4990.0,
-        "count": 5
+        "total": 5432.0,
+        "count": 7
       },
       "cashOutTransactions": [
         {
@@ -25361,6 +25361,13 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "21:37"
+        },
+        {
+          "reason": "00560 Entered 2 times (mistakenly)",
+          "amount": 432.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:23"
         },
         {
           "reason": "Rashad boss car reparing -- Zubaid",
@@ -25389,11 +25396,18 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "21:46"
+        },
+        {
+          "reason": "Gate pass--nagarajan",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:18"
         }
       ],
       "till": {
         "opening": 1539.0,
-        "expectedClosing": 1132.0,
+        "expectedClosing": 690.0,
         "counted": null,
         "difference": null,
         "closed": false,
