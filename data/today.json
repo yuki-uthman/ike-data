@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T11:30:55Z",
+  "generatedAt": "2026-11-01T11:45:39Z",
   "cash": {
     "total": 5180.0,
     "count": 5
   },
   "transfer": {
-    "total": 10904.0,
-    "count": 2
+    "total": 11414.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -121,6 +121,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00565",
+      "customer": "Crystalline Mv Pvt Ltd",
+      "amount": 480.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:43",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[69059] Tool Box X2",
+          "qty": 6.0,
+          "total": 480.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000533",
       "customer": "Walk-in",
       "amount": 104.0,
@@ -143,6 +159,22 @@
           "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
           "qty": 2.0,
           "total": 20.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000534",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "16:38",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01911] Spray Bottle A34",
+          "qty": 2.0,
+          "total": 30.0
         }
       ]
     },
@@ -183,8 +215,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 10800.0
+      "count": 2,
+      "total": 11280.0
     },
     {
       "name": "Cash",
@@ -195,8 +227,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 104.0
+      "count": 2,
+      "total": 134.0
     }
   ],
   "cashOut": {
