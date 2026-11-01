@@ -25028,10 +25028,10 @@
     },
     {
       "date": "2026-11-01",
-      "generatedAt": "2026-11-01T11:45:39Z",
+      "generatedAt": "2026-11-01T12:01:09Z",
       "pos": {
-        "total": 159.0,
-        "count": 4
+        "total": 286.0,
+        "count": 5
       },
       "regularSales": {
         "total": 16435.0,
@@ -25042,8 +25042,8 @@
         "count": 1
       },
       "cash": {
-        "total": 5180.0,
-        "count": 5
+        "total": 5307.0,
+        "count": 6
       },
       "transfer": {
         "total": 11414.0,
@@ -25175,6 +25175,22 @@
           ]
         },
         {
+          "ref": "Ike - 000535",
+          "customer": "Walk-in",
+          "amount": 127.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Bagasse Plate 7\"",
+              "qty": 1.0,
+              "total": 127.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000533",
           "customer": "Walk-in",
           "amount": 104.0,
@@ -25256,7 +25272,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 1539.0,
-        "expectedClosing": 5476.0,
+        "expectedClosing": 5603.0,
         "counted": null,
         "difference": null,
         "closed": false,
