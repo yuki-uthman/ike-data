@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-01T04:15:48Z",
-  "openCount": 173,
-  "openTotal": 2261360.2,
-  "quotationCount": 95,
-  "quotationTotal": 1279514.75,
+  "generatedAt": "2026-11-01T04:31:01Z",
+  "openCount": 174,
+  "openTotal": 2263740.2,
+  "quotationCount": 96,
+  "quotationTotal": 1281894.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -407,12 +407,66 @@
     },
     {
       "date": "2026-11-01",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2380.0,
+      "total": 2380.0
     }
   ],
   "quotations": [
+    {
+      "id": 735,
+      "ref": "S00739",
+      "kind": "quotation",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-01",
+      "expires": "2026-12-01",
+      "total": 2380.0,
+      "settled": 0.0,
+      "outstanding": 2380.0,
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "[02440] Milkshake Powder Pistachio",
+          "qty": 2.0,
+          "total": 440.0
+        },
+        {
+          "name": "[90049] Milkshake Powder Caramel Coffee",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[60033] Milkshake Powder Cappuccino",
+          "qty": 2.0,
+          "total": 440.0
+        },
+        {
+          "name": "[54646] Milkshake Powder Blue Ice",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[49954] Milkshake Powder Grape",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[11435] Milkshake Powder Yam Taro",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
     {
       "id": 729,
       "ref": "S00733",
