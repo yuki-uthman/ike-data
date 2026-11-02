@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-02T12:31:12Z",
-  "openCount": 173,
-  "openTotal": 2298040.2,
-  "quotationCount": 95,
-  "quotationTotal": 1316194.75,
+  "generatedAt": "2026-11-02T12:46:07Z",
+  "openCount": 172,
+  "openTotal": 2296985.2,
+  "quotationCount": 94,
+  "quotationTotal": 1315139.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -413,9 +413,9 @@
     },
     {
       "date": "2026-11-02",
-      "count": 3,
-      "outstanding": 63105.0,
-      "total": 63105.0
+      "count": 2,
+      "outstanding": 62050.0,
+      "total": 62050.0
     }
   ],
   "quotations": [
@@ -459,35 +459,6 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 1.0,
           "total": 2850.0
-        }
-      ]
-    },
-    {
-      "id": 749,
-      "ref": "S00753",
-      "kind": "quotation",
-      "customer": "Kims Plus B-17",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-02",
-      "expires": "2026-12-02",
-      "total": 1055.0,
-      "settled": 0.0,
-      "outstanding": 1055.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
-          "qty": 1.0,
-          "total": 460.0
         }
       ]
     },

@@ -25013,26 +25013,26 @@
     },
     {
       "date": "2026-11-02",
-      "generatedAt": "2026-11-02T12:31:00Z",
+      "generatedAt": "2026-11-02T12:45:54Z",
       "pos": {
         "total": 65.0,
         "count": 1
       },
       "regularSales": {
-        "total": 63385.0,
-        "count": 9
+        "total": 64584.0,
+        "count": 11
       },
       "pendingQuotations": {
-        "total": 63105.0,
-        "count": 3
+        "total": 62050.0,
+        "count": 2
       },
       "cash": {
         "total": 275.0,
         "count": 2
       },
       "transfer": {
-        "total": 63175.0,
-        "count": 8
+        "total": 64374.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -25182,6 +25182,32 @@
           ]
         },
         {
+          "ref": "INV/2026/00577",
+          "customer": "Kims Plus B-17",
+          "amount": 1055.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+              "qty": 1.0,
+              "total": 460.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 1.0,
+              "total": 300.0
+            },
+            {
+              "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+              "qty": 1.0,
+              "total": 295.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00573",
           "customer": "Auguste Maldives",
           "amount": 950.0,
@@ -25215,6 +25241,22 @@
               "name": "Wings Porcelain Cleaner Blue (750 ml)",
               "qty": 3.0,
               "total": 90.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00578",
+          "customer": "sales",
+          "amount": 144.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:40",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70141] Hook Net 8\"",
+              "qty": 12.0,
+              "total": 144.0
             }
           ]
         },
