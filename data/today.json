@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T12:01:13Z",
+  "generatedAt": "2026-11-02T12:15:43Z",
   "cash": {
     "total": 275.0,
     "count": 2
   },
   "transfer": {
-    "total": 61500.0,
-    "count": 7
+    "total": 63175.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -106,6 +106,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00576",
+      "customer": "Yazuuru N-5",
+      "amount": 1675.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:11",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00568",
       "customer": "Ams P-2",
       "amount": 1500.0,
@@ -195,8 +216,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 61500.0
+      "count": 8,
+      "total": 63175.0
     },
     {
       "name": "Cash",
