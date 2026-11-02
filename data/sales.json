@@ -25013,14 +25013,14 @@
     },
     {
       "date": "2026-11-02",
-      "generatedAt": "2026-11-02T17:01:17Z",
+      "generatedAt": "2026-11-02T17:15:41Z",
       "pos": {
         "total": 65.0,
         "count": 1
       },
       "regularSales": {
-        "total": 64584.0,
-        "count": 11
+        "total": 64944.0,
+        "count": 12
       },
       "pendingQuotations": {
         "total": 62050.0,
@@ -25031,8 +25031,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 64374.0,
-        "count": 10
+        "total": 64734.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -25220,6 +25220,22 @@
               "name": "Net Stand 1.8M Wheel",
               "qty": 1.0,
               "total": 950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00579",
+          "customer": "Alivila Mart G-3",
+          "amount": 360.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:05",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[35940] Hook Mesh 8\"",
+              "qty": 30.0,
+              "total": 360.0
             }
           ]
         },
