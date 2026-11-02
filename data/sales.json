@@ -25013,32 +25013,63 @@
     },
     {
       "date": "2026-11-02",
-      "generatedAt": "2026-11-02T05:01:09Z",
+      "generatedAt": "2026-11-02T05:15:37Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 1500.0,
-        "count": 1
+        "total": 36350.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 39625.0,
-        "count": 2
+        "total": 4775.0,
+        "count": 1
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 1500.0,
-        "count": 1
+        "total": 36350.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00569",
+          "customer": "Malmal  Q-2",
+          "amount": 34850.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:12",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-BLK-SS-2000-X04] #2C Black Single Side 2000mm x4",
+              "qty": 3.0,
+              "total": 19200.0
+            },
+            {
+              "name": "[2C-BLK-DS-2000-X03] #2C Black Double Side 2000mm x3",
+              "qty": 1.0,
+              "total": 7800.0
+            },
+            {
+              "name": "[2C-BLK-SS-2000-X03] #2C Black Single Side 2000mm x3",
+              "qty": 1.0,
+              "total": 4850.0
+            },
+            {
+              "name": "[2C-BLK-ER-1800-X01] #2C Black End Rack 1800mm x1",
+              "qty": 2.0,
+              "total": 3000.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00568",
           "customer": "Ams P-2",

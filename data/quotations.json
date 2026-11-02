@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-02T05:01:22Z",
-  "openCount": 174,
-  "openTotal": 2290185.2,
-  "quotationCount": 96,
-  "quotationTotal": 1308339.75,
+  "generatedAt": "2026-11-02T05:15:44Z",
+  "openCount": 173,
+  "openTotal": 2255335.2,
+  "quotationCount": 95,
+  "quotationTotal": 1273489.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -413,46 +413,12 @@
     },
     {
       "date": "2026-11-02",
-      "count": 2,
-      "outstanding": 39625.0,
-      "total": 39625.0
+      "count": 1,
+      "outstanding": 4775.0,
+      "total": 4775.0
     }
   ],
   "quotations": [
-    {
-      "id": 740,
-      "ref": "S00744",
-      "kind": "quotation",
-      "customer": "Malmal  Q-2",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-02",
-      "expires": "2026-12-02",
-      "total": 34850.0,
-      "settled": 0.0,
-      "outstanding": 34850.0,
-      "lines": [
-        {
-          "name": "[2C-BLK-DS-2000-X03] #2C Black Double Side 2000mm x3",
-          "qty": 1.0,
-          "total": 7800.0
-        },
-        {
-          "name": "[2C-BLK-SS-2000-X03] #2C Black Single Side 2000mm x3",
-          "qty": 1.0,
-          "total": 4850.0
-        },
-        {
-          "name": "[2C-BLK-SS-2000-X04] #2C Black Single Side 2000mm x4",
-          "qty": 3.0,
-          "total": 19200.0
-        },
-        {
-          "name": "[2C-BLK-ER-1800-X01] #2C Black End Rack 1800mm x1",
-          "qty": 2.0,
-          "total": 3000.0
-        }
-      ]
-    },
     {
       "id": 742,
       "ref": "S00746",
