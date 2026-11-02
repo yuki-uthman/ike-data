@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T17:15:41Z",
+  "generatedAt": "2026-11-02T17:31:03Z",
   "cash": {
     "total": 275.0,
     "count": 2
   },
   "transfer": {
-    "total": 64734.0,
-    "count": 11
+    "total": 64974.0,
+    "count": 12
   },
   "other": {
     "total": 0,
@@ -217,6 +217,27 @@
       ]
     },
     {
+      "ref": "Ike - 000540",
+      "customer": "Walk-in",
+      "amount": 240.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "22:16",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01615] Ceramic Plate 9\" #3",
+          "qty": 4.0,
+          "total": 120.0
+        },
+        {
+          "name": "[01623] Ceramic Plate 8\"#12",
+          "qty": 4.0,
+          "total": 120.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00570",
       "customer": "Shabnam Relax",
       "amount": 210.0,
@@ -282,6 +303,12 @@
       "method": "cash",
       "count": 2,
       "total": 275.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 240.0
     }
   ],
   "cashOut": {
