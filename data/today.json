@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T09:45:52Z",
+  "generatedAt": "2026-11-02T10:01:18Z",
   "cash": {
     "total": 210.0,
     "count": 1
   },
   "transfer": {
-    "total": 55500.0,
-    "count": 5
+    "total": 60275.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -60,6 +60,32 @@
           "name": "[RD8-GRY-DSP-1950-X02] #RD8 Gray Double Side Perforated 1950mm x2",
           "qty": 3.0,
           "total": 14400.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00574",
+      "customer": "Sun Shine Arts",
+      "amount": 4775.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:56",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+          "qty": 1.0,
+          "total": 2500.0
+        },
+        {
+          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+          "qty": 1.0,
+          "total": 2000.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 11.0,
+          "total": 275.0
         }
       ]
     },
@@ -137,8 +163,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 55500.0
+      "count": 6,
+      "total": 60275.0
     },
     {
       "name": "Cash",
