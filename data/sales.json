@@ -25013,7 +25013,7 @@
     },
     {
       "date": "2026-11-02",
-      "generatedAt": "2026-11-02T09:10:05Z",
+      "generatedAt": "2026-11-02T09:15:49Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -25078,7 +25078,13 @@
           "rawMethod": "Bank",
           "time": "13:49",
           "source": "payment",
-          "lines": []
+          "lines": [
+            {
+              "name": "[RD8-GRY-DSP-1950-X02] #RD8 Gray Double Side Perforated 1950mm x2",
+              "qty": 3.0,
+              "total": 0.0
+            }
+          ]
         },
         {
           "ref": "INV/2026/00572",
