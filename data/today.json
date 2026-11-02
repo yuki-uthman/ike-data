@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T08:45:39Z",
+  "generatedAt": "2026-11-02T09:01:13Z",
   "cash": {
     "total": 210.0,
     "count": 1
   },
   "transfer": {
-    "total": 36350.0,
-    "count": 2
+    "total": 54550.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -44,6 +44,32 @@
           "name": "[2C-BLK-ER-1800-X01] #2C Black End Rack 1800mm x1",
           "qty": 2.0,
           "total": 3000.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00571",
+      "customer": "Hangnaamee council idharaa",
+      "amount": 14400.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:49",
+      "source": "payment",
+      "lines": []
+    },
+    {
+      "ref": "INV/2026/00572",
+      "customer": "Gn.Naaz Store",
+      "amount": 3800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:59",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 2.0,
+          "total": 3800.0
         }
       ]
     },
@@ -89,8 +115,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 36350.0
+      "count": 4,
+      "total": 54550.0
     },
     {
       "name": "Cash",
