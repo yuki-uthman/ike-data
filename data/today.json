@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T05:15:37Z",
+  "generatedAt": "2026-11-02T05:30:57Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 210.0,
+    "count": 1
   },
   "transfer": {
     "total": 36350.0,
@@ -62,6 +62,27 @@
           "total": 1500.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00570",
+      "customer": "Shabnam Relax",
+      "amount": 210.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:26",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) (800 ml)",
+          "qty": 4.0,
+          "total": 120.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue (750 ml)",
+          "qty": 3.0,
+          "total": 90.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -70,6 +91,12 @@
       "method": "transfer",
       "count": 2,
       "total": 36350.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 210.0
     }
   ],
   "cashOut": {
@@ -79,7 +106,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 690.0,
-    "expectedClosing": 690.0,
+    "expectedClosing": 900.0,
     "counted": null,
     "difference": null,
     "closed": false,
