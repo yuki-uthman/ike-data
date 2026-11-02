@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T16:31:01Z",
+  "generatedAt": "2026-11-02T16:45:44Z",
   "cash": {
     "total": 275.0,
     "count": 2
@@ -269,13 +269,28 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 65.0,
+    "count": 2
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Petrol--Hassan",
+      "amount": 45.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:42"
+    },
+    {
+      "reason": "Gate pass--Nagarajan",
+      "amount": 20.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:42"
+    }
+  ],
   "till": {
     "opening": 690.0,
-    "expectedClosing": 965.0,
+    "expectedClosing": 900.0,
     "counted": null,
     "difference": null,
     "closed": false,
