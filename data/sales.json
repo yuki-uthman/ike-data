@@ -25013,14 +25013,14 @@
     },
     {
       "date": "2026-11-02",
-      "generatedAt": "2026-11-02T09:15:49Z",
+      "generatedAt": "2026-11-02T09:30:58Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 54760.0,
-        "count": 5
+        "total": 55710.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 66825.0,
@@ -25031,8 +25031,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 54550.0,
-        "count": 4
+        "total": 55500.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25082,7 +25082,7 @@
             {
               "name": "[RD8-GRY-DSP-1950-X02] #RD8 Gray Double Side Perforated 1950mm x2",
               "qty": 3.0,
-              "total": 0.0
+              "total": 14400.0
             }
           ]
         },
@@ -25115,6 +25115,22 @@
               "name": "[A16] Plastic Container A16",
               "qty": 500.0,
               "total": 1500.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00573",
+          "customer": "Auguste Maldives",
+          "amount": 950.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:29",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Net Stand 1.8M Wheel",
+              "qty": 1.0,
+              "total": 950.0
             }
           ]
         },
