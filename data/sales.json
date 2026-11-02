@@ -3,229 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-04",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 2992.0,
-        "count": 10
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 618.0,
-        "count": 6
-      },
-      "transfer": {
-        "total": 2374.0,
-        "count": 4
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00071 (Ike - 000078)",
-          "customer": "Fathis Plaza N-8",
-          "amount": 1200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:57",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
-              "qty": 1.0,
-              "total": 1200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00073 (Ike - 000082)",
-          "customer": "Family Mart Hithadhoo",
-          "amount": 1140.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:28",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70147] Hook Mesh 10\"",
-              "qty": 50.0,
-              "total": 700.0
-            },
-            {
-              "name": "[35940] Hook Mesh 8\"",
-              "qty": 20.0,
-              "total": 240.0
-            },
-            {
-              "name": "[70148] Hook Mesh 6\"",
-              "qty": 20.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000052",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 290.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:23",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01896] Led Flashlight 5V 16.5*4.1*2.8cm#716",
-              "qty": 2.0,
-              "total": 278.0
-            },
-            {
-              "name": "[02254] Steel Wool 2pcs",
-              "qty": 1.0,
-              "total": 12.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000049",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 130.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:26",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[BC96B] Bagasse Clamshell 9\"X6\" Loose",
-              "qty": 30.0,
-              "total": 90.0
-            },
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 2.0,
-              "total": 40.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000079",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 78.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:00",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01933] Melamine Bowl Wavy 7.5\"",
-              "qty": 2.0,
-              "total": 78.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00072 (Ike - 000081)",
-          "customer": "Ike.Salesperson@Gmail.Com",
-          "amount": 65.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:57",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70025] Deck Brush T-5908",
-              "qty": 1.0,
-              "total": 65.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000053",
-          "customer": "Hassan Ike Wholesale",
-          "amount": 35.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:44",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70009] Seasoing Box Two Grid 0206",
-              "qty": 1.0,
-              "total": 35.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00144 (Ike - 000051)",
-          "customer": "Sales",
-          "amount": 20.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:19",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[2268] Tooth Pick",
-              "qty": 2.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000080",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 19.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01700] Strainer Steel 7cm YM-055#18",
-              "qty": 1.0,
-              "total": 19.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000050",
-          "customer": "Ike.Retail.Sales@Gmail.Com",
-          "amount": 15.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:51",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Falcon Aluminum Container 8342 10pcs",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 1798.0,
-        "expectedClosing": 6432.0,
-        "counted": 6432.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-05",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25342,6 +25119,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-03",
+      "generatedAt": "2026-11-02T19:01:12Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
