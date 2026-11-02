@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-02T04:31:03Z",
-  "openCount": 173,
-  "openTotal": 2285410.2,
-  "quotationCount": 95,
-  "quotationTotal": 1303564.75,
+  "generatedAt": "2026-11-02T04:45:48Z",
+  "openCount": 174,
+  "openTotal": 2290185.2,
+  "quotationCount": 96,
+  "quotationTotal": 1308339.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -413,9 +413,9 @@
     },
     {
       "date": "2026-11-02",
-      "count": 1,
-      "outstanding": 34850.0,
-      "total": 34850.0
+      "count": 2,
+      "outstanding": 39625.0,
+      "total": 39625.0
     }
   ],
   "quotations": [
@@ -450,6 +450,35 @@
           "name": "[2C-BLK-ER-1800-X01] #2C Black End Rack 1800mm x1",
           "qty": 2.0,
           "total": 3000.0
+        }
+      ]
+    },
+    {
+      "id": 742,
+      "ref": "S00746",
+      "kind": "quotation",
+      "customer": "Sun Shine Arts",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-02",
+      "expires": "2026-12-02",
+      "total": 4775.0,
+      "settled": 0.0,
+      "outstanding": 4775.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+          "qty": 1.0,
+          "total": 2000.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 11.0,
+          "total": 275.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
+          "qty": 1.0,
+          "total": 2500.0
         }
       ]
     },
