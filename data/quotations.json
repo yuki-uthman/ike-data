@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-02T05:31:06Z",
-  "openCount": 173,
-  "openTotal": 2255335.2,
-  "quotationCount": 95,
-  "quotationTotal": 1273489.75,
+  "generatedAt": "2026-11-02T05:45:45Z",
+  "openCount": 175,
+  "openTotal": 2317385.2,
+  "quotationCount": 97,
+  "quotationTotal": 1335539.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -413,12 +413,36 @@
     },
     {
       "date": "2026-11-02",
-      "count": 1,
-      "outstanding": 4775.0,
-      "total": 4775.0
+      "count": 3,
+      "outstanding": 66825.0,
+      "total": 66825.0
     }
   ],
   "quotations": [
+    {
+      "id": 744,
+      "ref": "S00748",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-02",
+      "expires": "2026-12-02",
+      "total": 59200.0,
+      "settled": 0.0,
+      "outstanding": 59200.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-DSP-1950-X05] #RD8 White Double Side Perforated 1950mm x5",
+          "qty": 2.0,
+          "total": 33600.0
+        },
+        {
+          "name": "[2C-WHT-DS-2000-X05] #2C White Double Side 2000mm x5",
+          "qty": 2.0,
+          "total": 25600.0
+        }
+      ]
+    },
     {
       "id": 742,
       "ref": "S00746",
@@ -445,6 +469,25 @@
           "name": "[RD8-WHT-SSP-1950-X01] #RD8 White Single Perforated 1950mm x1",
           "qty": 1.0,
           "total": 2500.0
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "ref": "S00749",
+      "kind": "quotation",
+      "customer": "Mohamed Didi Q-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-02",
+      "expires": "2026-12-02",
+      "total": 2850.0,
+      "settled": 0.0,
+      "outstanding": 2850.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
         }
       ]
     },
