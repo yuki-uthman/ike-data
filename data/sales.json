@@ -25122,10 +25122,10 @@
     },
     {
       "date": "2026-11-03",
-      "generatedAt": "2026-11-03T17:45:47Z",
+      "generatedAt": "2026-11-03T18:01:23Z",
       "pos": {
-        "total": 523.0,
-        "count": 10
+        "total": 1018.0,
+        "count": 12
       },
       "regularSales": {
         "total": 8041.0,
@@ -25140,8 +25140,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 5564.0,
-        "count": 6
+        "total": 6059.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -25238,6 +25238,22 @@
           ]
         },
         {
+          "ref": "Ike - 000551",
+          "customer": "Walk-in",
+          "amount": 320.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+              "qty": 1.0,
+              "total": 320.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00585",
           "customer": "My View E-13",
           "amount": 284.0,
@@ -25276,6 +25292,22 @@
               "name": "[70141] Hook Net 8\"",
               "qty": 5.0,
               "total": 60.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000552",
+          "customer": "Walk-in",
+          "amount": 175.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:54",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01632] Digital Body Scale#2017",
+              "qty": 1.0,
+              "total": 175.0
             }
           ]
         },
@@ -25488,9 +25520,9 @@
       "till": {
         "opening": 900.0,
         "expectedClosing": 3900.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "counted": 3900.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
