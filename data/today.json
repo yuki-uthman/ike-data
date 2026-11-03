@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T08:45:40Z",
+  "generatedAt": "2026-11-03T09:01:13Z",
   "cash": {
     "total": 2607.0,
     "count": 2
   },
   "transfer": {
-    "total": 5195.0,
-    "count": 4
+    "total": 5280.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -127,6 +127,22 @@
       ]
     },
     {
+      "ref": "Ike - 000542",
+      "customer": "Walk-in",
+      "amount": 85.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "13:58",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02422] KRAFT PAPER BAG 16*7*32CM 50PCS",
+          "qty": 1.0,
+          "total": 85.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000541",
       "customer": "Walk-in",
       "amount": 45.0,
@@ -159,8 +175,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 45.0
+      "count": 2,
+      "total": 130.0
     }
   ],
   "cashOut": {
