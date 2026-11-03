@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-03T04:15:51Z",
-  "openCount": 172,
-  "openTotal": 2296985.2,
-  "quotationCount": 94,
-  "quotationTotal": 1315139.75,
+  "generatedAt": "2026-11-03T04:31:04Z",
+  "openCount": 173,
+  "openTotal": 2299685.2,
+  "quotationCount": 95,
+  "quotationTotal": 1317839.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -419,12 +419,41 @@
     },
     {
       "date": "2026-11-03",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2700.0,
+      "total": 2700.0
     }
   ],
   "quotations": [
+    {
+      "id": 753,
+      "ref": "S00757",
+      "kind": "quotation",
+      "customer": "Mnt Home Decore Q-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-03",
+      "expires": "2026-12-03",
+      "total": 2700.0,
+      "settled": 0.0,
+      "outstanding": 2700.0,
+      "lines": [
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 50.0,
+          "total": 800.0
+        },
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 100.0,
+          "total": 1400.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 50.0,
+          "total": 500.0
+        }
+      ]
+    },
     {
       "id": 744,
       "ref": "S00748",
