@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T06:31:06Z",
+  "generatedAt": "2026-11-03T06:45:40Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 187.0,
+    "count": 1
   },
   "transfer": {
     "total": 4635.0,
@@ -54,6 +54,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00582",
+      "customer": "sales",
+      "amount": 187.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "11:36",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Plate 7\"",
+          "qty": 125.0,
+          "total": 127.0
+        },
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 5.0,
+          "total": 60.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000541",
       "customer": "Walk-in",
       "amount": 45.0,
@@ -78,6 +99,12 @@
       "total": 4590.0
     },
     {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 187.0
+    },
+    {
       "name": "Bank Transfer",
       "method": "transfer",
       "count": 1,
@@ -91,7 +118,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 900.0,
-    "expectedClosing": 900.0,
+    "expectedClosing": 1087.0,
     "counted": null,
     "difference": null,
     "closed": false,
