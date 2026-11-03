@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-03T04:45:50Z",
+  "generatedAt": "2026-11-03T05:01:21Z",
   "openCount": 173,
   "openTotal": 2299685.2,
-  "quotationCount": 95,
-  "quotationTotal": 1317839.75,
-  "orderCount": 78,
-  "orderTotal": 981845.45,
+  "quotationCount": 94,
+  "quotationTotal": 1314989.75,
+  "orderCount": 79,
+  "orderTotal": 984695.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -413,18 +413,37 @@
     },
     {
       "date": "2026-11-02",
-      "count": 2,
-      "outstanding": 62050.0,
-      "total": 62050.0
+      "count": 1,
+      "outstanding": 59200.0,
+      "total": 59200.0
     },
     {
       "date": "2026-11-03",
-      "count": 1,
-      "outstanding": 2700.0,
-      "total": 2700.0
+      "count": 2,
+      "outstanding": 5550.0,
+      "total": 5550.0
     }
   ],
   "quotations": [
+    {
+      "id": 745,
+      "ref": "S00749",
+      "kind": "order",
+      "customer": "Lavie Mart Q-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-03",
+      "expires": "2026-12-02",
+      "total": 2850.0,
+      "settled": 0.0,
+      "outstanding": 2850.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        }
+      ]
+    },
     {
       "id": 753,
       "ref": "S00757",
@@ -475,25 +494,6 @@
           "name": "[2C-WHT-DS-2000-X05] #2C White Double Side 2000mm x5",
           "qty": 2.0,
           "total": 25600.0
-        }
-      ]
-    },
-    {
-      "id": 745,
-      "ref": "S00749",
-      "kind": "quotation",
-      "customer": "Mohamed Didi Q-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-02",
-      "expires": "2026-12-02",
-      "total": 2850.0,
-      "settled": 0.0,
-      "outstanding": 2850.0,
-      "lines": [
-        {
-          "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 1.0,
-          "total": 2850.0
         }
       ]
     },
