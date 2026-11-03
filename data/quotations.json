@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-03T05:01:21Z",
-  "openCount": 173,
-  "openTotal": 2299685.2,
+  "generatedAt": "2026-11-03T05:15:51Z",
+  "openCount": 172,
+  "openTotal": 2296835.2,
   "quotationCount": 94,
   "quotationTotal": 1314989.75,
-  "orderCount": 79,
-  "orderTotal": 984695.45,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -419,31 +419,12 @@
     },
     {
       "date": "2026-11-03",
-      "count": 2,
-      "outstanding": 5550.0,
-      "total": 5550.0
+      "count": 1,
+      "outstanding": 2700.0,
+      "total": 2700.0
     }
   ],
   "quotations": [
-    {
-      "id": 745,
-      "ref": "S00749",
-      "kind": "order",
-      "customer": "Lavie Mart Q-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-03",
-      "expires": "2026-12-02",
-      "total": 2850.0,
-      "settled": 0.0,
-      "outstanding": 2850.0,
-      "lines": [
-        {
-          "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 1.0,
-          "total": 2850.0
-        }
-      ]
-    },
     {
       "id": 753,
       "ref": "S00757",
