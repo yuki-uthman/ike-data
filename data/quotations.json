@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-03T15:31:17Z",
-  "openCount": 173,
-  "openTotal": 2297860.2,
-  "quotationCount": 95,
-  "quotationTotal": 1316014.75,
+  "generatedAt": "2026-11-03T15:45:59Z",
+  "openCount": 174,
+  "openTotal": 2298144.2,
+  "quotationCount": 96,
+  "quotationTotal": 1316298.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -419,9 +419,9 @@
     },
     {
       "date": "2026-11-03",
-      "count": 2,
-      "outstanding": 3725.0,
-      "total": 3725.0
+      "count": 3,
+      "outstanding": 4009.0,
+      "total": 4009.0
     }
   ],
   "quotations": [
@@ -470,6 +470,30 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 41.0,
           "total": 1025.0
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "ref": "S00763",
+      "kind": "quotation",
+      "customer": "My View E-13",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-03",
+      "expires": "2026-12-03",
+      "total": 284.0,
+      "settled": 0.0,
+      "outstanding": 284.0,
+      "lines": [
+        {
+          "name": "[70145] Hook Slat 10\"",
+          "qty": 6.0,
+          "total": 84.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 20.0,
+          "total": 200.0
         }
       ]
     },
