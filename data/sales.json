@@ -25122,26 +25122,26 @@
     },
     {
       "date": "2026-11-03",
-      "generatedAt": "2026-11-03T16:15:41Z",
+      "generatedAt": "2026-11-03T16:31:04Z",
       "pos": {
         "total": 443.0,
         "count": 8
       },
       "regularSales": {
-        "total": 7757.0,
-        "count": 5
+        "total": 8041.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 4009.0,
-        "count": 3
+        "total": 3725.0,
+        "count": 2
       },
       "cash": {
         "total": 2920.0,
         "count": 8
       },
       "transfer": {
-        "total": 5280.0,
-        "count": 5
+        "total": 5564.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25234,6 +25234,27 @@
               "name": "[70147] Hook Mesh 10\"",
               "qty": 15.0,
               "total": 210.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00585",
+          "customer": "My View E-13",
+          "amount": 284.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:30",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70143] Hook Slat 6\"",
+              "qty": 20.0,
+              "total": 200.0
+            },
+            {
+              "name": "[70145] Hook Slat 10\"",
+              "qty": 6.0,
+              "total": 84.0
             }
           ]
         },
