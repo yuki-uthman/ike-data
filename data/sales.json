@@ -25122,14 +25122,14 @@
     },
     {
       "date": "2026-11-03",
-      "generatedAt": "2026-11-03T06:15:45Z",
+      "generatedAt": "2026-11-03T06:31:06Z",
       "pos": {
         "total": 45.0,
         "count": 1
       },
       "regularSales": {
-        "total": 2850.0,
-        "count": 1
+        "total": 4590.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 4600.0,
@@ -25140,8 +25140,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 2895.0,
-        "count": 2
+        "total": 4635.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -25161,6 +25161,27 @@
               "name": "[70161] Vegetable Rack 4 Square Baskets",
               "qty": 1.0,
               "total": 2850.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00581",
+          "customer": "sales",
+          "amount": 1740.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:19",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70145] Hook Slat 10\"",
+              "qty": 100.0,
+              "total": 1400.0
+            },
+            {
+              "name": "[70201] Thermal Printer Roll 80mm",
+              "qty": 25.0,
+              "total": 340.0
             }
           ]
         },
