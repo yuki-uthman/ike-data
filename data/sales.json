@@ -3,349 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-06",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 15571.0,
-        "count": 15
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 103120.0,
-        "count": 3
-      },
-      "cash": {
-        "total": 504.0,
-        "count": 4
-      },
-      "transfer": {
-        "total": 15067.0,
-        "count": 11
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00090 (Ike - 000101)",
-          "customer": "Brc G-02",
-          "amount": 6450.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:06",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[RD8-WHT-SSP-1950-X03] #RD8 White Single Perforated 1950mm x3",
-              "qty": 1.0,
-              "total": 6450.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00087 (Ike - 000097)",
-          "customer": "Finifen Rose  I-2",
-          "amount": 3580.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:22",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1640.0
-            },
-            {
-              "name": "[8342P] Aluminium Foil Box 8342 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1180.0
-            },
-            {
-              "name": "[8325C] Aluminium Foil Box 8325 [case]",
-              "qty": 1.0,
-              "total": 760.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00091 (Ike - 000098)",
-          "customer": "Mr.17 B-5",
-          "amount": 2158.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:51",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "2C Single Side White 6.5ft X1set",
-              "qty": 1.0,
-              "total": 1650.0
-            },
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 10.0,
-              "total": 120.0
-            },
-            {
-              "name": "[70140] Hook Net 10\"",
-              "qty": 8.0,
-              "total": 112.0
-            },
-            {
-              "name": "[70142] Hook Net 6\"",
-              "qty": 10.0,
-              "total": 100.0
-            },
-            {
-              "name": "[70141] Hook Net 8\"",
-              "qty": 8.0,
-              "total": 96.0
-            },
-            {
-              "name": "[70139] Hook Net 12\"",
-              "qty": 5.0,
-              "total": 80.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00089 (Ike - 000100)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 1600.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:56",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[10007] Plastic Container T2 [case]",
-              "qty": 1.0,
-              "total": 1000.0
-            },
-            {
-              "name": "[01010] paper straw 8mm 50 pcs",
-              "qty": 10.0,
-              "total": 350.0
-            },
-            {
-              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
-              "qty": 50.0,
-              "total": 250.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00088 (Ike - 000099)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 970.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:56",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Tea Powder AI-Kabous 454g",
-              "qty": 2.0,
-              "total": 520.0
-            },
-            {
-              "name": "[10008] Top Kokoa Creamy Cheese 1kg",
-              "qty": 1.0,
-              "total": 300.0
-            },
-            {
-              "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
-              "qty": 2.0,
-              "total": 150.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00092 (Ike - 000102)",
-          "customer": "Cafe Dilvona",
-          "amount": 280.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[A12B] Plastic Container A12 (Bundle)",
-              "qty": 2.0,
-              "total": 280.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00086 (Ike - 000096)",
-          "customer": "Snap Buy",
-          "amount": 200.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "09:53",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90041] Milkshake Powder Red Velvet",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000062",
-          "customer": "Walk-in",
-          "amount": 99.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:17",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02048] rubber shoe",
-              "qty": 1.0,
-              "total": 99.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000066",
-          "customer": "Walk-in",
-          "amount": 85.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:35",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01777] Plastic Container 250ml#2083",
-              "qty": 2.0,
-              "total": 70.0
-            },
-            {
-              "name": "[01911] Spray Bottle A34",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000068",
-          "customer": "Walk-in",
-          "amount": 40.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:41",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 2.0,
-              "total": 40.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000067",
-          "customer": "Walk-in",
-          "amount": 40.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:39",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02393] Dustbin Bag",
-              "qty": 1.0,
-              "total": 40.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000063",
-          "customer": "Walk-in",
-          "amount": 30.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:25",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Falcon Aluminum Container 8342 10pcs",
-              "qty": 2.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000069",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:44",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[03338] Paper Cup 4oz (Bundle)",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000064",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:52",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 5.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000065",
-          "customer": "Walk-in",
-          "amount": 9.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:00",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70076] Towel 042-0980 30*30cm",
-              "qty": 1.0,
-              "total": 9.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 6432.0,
-        "expectedClosing": 6936.0,
-        "counted": 6936.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-07",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25456,6 +25113,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-05",
+      "generatedAt": "2026-11-04T19:01:15Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
