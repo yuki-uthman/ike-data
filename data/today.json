@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T06:01:10Z",
+  "generatedAt": "2026-11-04T06:15:44Z",
   "cash": {
     "total": 3200.0,
     "count": 1
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 760.0,
+    "count": 1
   },
   "other": {
     "total": 0,
@@ -36,6 +36,22 @@
           "total": 200.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00587",
+      "customer": "Jizee I.3",
+      "amount": 760.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:12",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[8325C] Aluminium Foil Box 8325 [case]",
+          "qty": 1.0,
+          "total": 760.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -44,6 +60,12 @@
       "method": "cash",
       "count": 1,
       "total": 3200.0
+    },
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 760.0
     }
   ],
   "cashOut": {

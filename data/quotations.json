@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T06:01:17Z",
-  "openCount": 179,
-  "openTotal": 2309672.2,
-  "quotationCount": 99,
-  "quotationTotal": 1324216.75,
+  "generatedAt": "2026-11-04T06:15:55Z",
+  "openCount": 178,
+  "openTotal": 2308912.2,
+  "quotationCount": 98,
+  "quotationTotal": 1322599.75,
   "orderCount": 80,
-  "orderTotal": 985455.45,
+  "orderTotal": 986312.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-11-04",
-      "count": 6,
-      "outstanding": 11812.0,
-      "total": 11812.0
+      "count": 5,
+      "outstanding": 11052.0,
+      "total": 11052.0
     }
   ],
   "quotations": [
@@ -497,8 +497,8 @@
     {
       "id": 765,
       "ref": "S00769",
-      "kind": "quotation",
-      "customer": "sales",
+      "kind": "order",
+      "customer": "Teal Choice D08",
       "salesperson": "Ike.Retail.Sales@Gmail.Com",
       "date": "2026-11-04",
       "expires": "2026-12-04",
@@ -559,25 +559,6 @@
           "name": "[70146] Hook Slat 12\"",
           "qty": 10.0,
           "total": 160.0
-        }
-      ]
-    },
-    {
-      "id": 762,
-      "ref": "S00766",
-      "kind": "order",
-      "customer": "Jizee I.3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-04",
-      "expires": "2026-12-04",
-      "total": 760.0,
-      "settled": 0.0,
-      "outstanding": 760.0,
-      "lines": [
-        {
-          "name": "[8325C] Aluminium Foil Box 8325 [case]",
-          "qty": 1.0,
-          "total": 760.0
         }
       ]
     },
