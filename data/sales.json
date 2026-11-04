@@ -25076,7 +25076,7 @@
     },
     {
       "date": "2026-11-04",
-      "generatedAt": "2026-11-04T17:31:01Z",
+      "generatedAt": "2026-11-04T17:45:40Z",
       "pos": {
         "total": 380.0,
         "count": 3
@@ -25420,13 +25420,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 5.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Gate pass",
+          "amount": 5.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:37"
+        }
+      ],
       "till": {
         "opening": 3900.0,
-        "expectedClosing": 8538.0,
+        "expectedClosing": 8533.0,
         "counted": null,
         "difference": null,
         "closed": false,
