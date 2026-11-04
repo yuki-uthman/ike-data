@@ -3,8 +3,8 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T10:01:31Z",
-  "totalCases": 419.0,
+  "generatedAt": "2026-11-04T10:16:05Z",
+  "totalCases": 420.0,
   "quoted": {
     "cases": 121.0,
     "orders": 6
@@ -306,7 +306,7 @@
       "size": "750 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 81.0,
+      "cases": 82.0,
       "profitBasis": "sold",
       "profitPct": 12.9
     }
@@ -1010,9 +1010,10 @@
     },
     {
       "date": "2026-11-04",
-      "cases": 1.0,
-      "orders": 1,
+      "cases": 2.0,
+      "orders": 2,
       "byProduct": {
+        "2064": 1.0,
         "2081": 1.0
       }
     }
