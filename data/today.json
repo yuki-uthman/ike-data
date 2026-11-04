@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T16:15:40Z",
+  "generatedAt": "2026-11-04T16:30:59Z",
   "cash": {
-    "total": 3885.0,
-    "count": 3
+    "total": 4185.0,
+    "count": 4
   },
   "transfer": {
     "total": 47992.0,
@@ -232,6 +232,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00596",
+      "customer": "Fine Wear 1",
+      "amount": 300.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:20",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Paper Plate 9'' 100pcs Bundle",
+          "qty": 6.0,
+          "total": 300.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000553",
       "customer": "Walk-in",
       "amount": 195.0,
@@ -274,8 +290,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 3,
-      "total": 3885.0
+      "count": 4,
+      "total": 4185.0
     },
     {
       "name": "Bank Transfer",
@@ -291,7 +307,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3900.0,
-    "expectedClosing": 7785.0,
+    "expectedClosing": 8085.0,
     "counted": null,
     "difference": null,
     "closed": false,
