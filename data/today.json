@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T06:15:44Z",
+  "generatedAt": "2026-11-04T06:30:59Z",
   "cash": {
     "total": 3200.0,
     "count": 1
   },
   "transfer": {
-    "total": 760.0,
-    "count": 1
+    "total": 5227.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -38,6 +38,53 @@
       ]
     },
     {
+      "ref": "INV/2026/00588",
+      "customer": "S&Y Mart E-10",
+      "amount": 2850.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:17",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00589",
+      "customer": "Teal Choice D08",
+      "amount": 1617.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:24",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "[70003] BBQ 28*52cm",
+          "qty": 3.0,
+          "total": 147.0
+        },
+        {
+          "name": "[70001] BBQ Fish Fry",
+          "qty": 3.0,
+          "total": 135.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00587",
       "customer": "Jizee I.3",
       "amount": 760.0,
@@ -56,16 +103,16 @@
   ],
   "methodsSeen": [
     {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 3,
+      "total": 5227.0
+    },
+    {
       "name": "Cash",
       "method": "cash",
       "count": 1,
       "total": 3200.0
-    },
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 1,
-      "total": 760.0
     }
   ],
   "cashOut": {

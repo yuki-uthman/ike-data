@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T06:15:55Z",
-  "openCount": 178,
-  "openTotal": 2308912.2,
+  "generatedAt": "2026-11-04T06:31:06Z",
+  "openCount": 176,
+  "openTotal": 2304445.2,
   "quotationCount": 98,
   "quotationTotal": 1322599.75,
-  "orderCount": 80,
-  "orderTotal": 986312.45,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-11-04",
-      "count": 5,
-      "outstanding": 11052.0,
-      "total": 11052.0
+      "count": 3,
+      "outstanding": 6585.0,
+      "total": 6585.0
     }
   ],
   "quotations": [
@@ -472,59 +472,6 @@
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
           "qty": 2.0,
           "total": 100.0
-        }
-      ]
-    },
-    {
-      "id": 761,
-      "ref": "S00765",
-      "kind": "order",
-      "customer": "S&Y Mart E-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-04",
-      "expires": "2026-12-04",
-      "total": 2850.0,
-      "settled": 0.0,
-      "outstanding": 2850.0,
-      "lines": [
-        {
-          "name": "[70161] Vegetable Rack 4 Square Baskets",
-          "qty": 1.0,
-          "total": 2850.0
-        }
-      ]
-    },
-    {
-      "id": 765,
-      "ref": "S00769",
-      "kind": "order",
-      "customer": "Teal Choice D08",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-04",
-      "expires": "2026-12-04",
-      "total": 1617.0,
-      "settled": 0.0,
-      "outstanding": 1617.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
-        },
-        {
-          "name": "[70001] BBQ Fish Fry",
-          "qty": 3.0,
-          "total": 135.0
-        },
-        {
-          "name": "[70003] BBQ 28*52cm",
-          "qty": 3.0,
-          "total": 147.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
         }
       ]
     },
