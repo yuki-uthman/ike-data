@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T16:01:10Z",
+  "generatedAt": "2026-11-04T16:15:40Z",
   "cash": {
     "total": 3885.0,
     "count": 3
   },
   "transfer": {
-    "total": 45932.0,
-    "count": 8
+    "total": 47992.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -92,6 +92,27 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 1.0,
           "total": 2850.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00595",
+      "customer": "Cinzia B.12",
+      "amount": 2060.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:01",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2140WHITE] Chair DIAMOND STYLE - White #2140",
+          "qty": 4.0,
+          "total": 1160.0
+        },
+        {
+          "name": "[70179] Table White Plastic Square 2801 70x70cm",
+          "qty": 1.0,
+          "total": 900.0
         }
       ]
     },
@@ -247,8 +268,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 45777.0
+      "count": 8,
+      "total": 47837.0
     },
     {
       "name": "Cash",
