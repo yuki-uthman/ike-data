@@ -25076,22 +25076,22 @@
     },
     {
       "date": "2026-11-04",
-      "generatedAt": "2026-11-04T11:45:42Z",
+      "generatedAt": "2026-11-04T12:01:14Z",
       "pos": {
         "total": 350.0,
         "count": 2
       },
       "regularSales": {
-        "total": 48977.0,
-        "count": 8
+        "total": 49467.0,
+        "count": 9
       },
       "pendingQuotations": {
         "total": 6585.0,
         "count": 4
       },
       "cash": {
-        "total": 3395.0,
-        "count": 2
+        "total": 3885.0,
+        "count": 3
       },
       "transfer": {
         "total": 45932.0,
@@ -25281,6 +25281,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00594",
+          "customer": "sales",
+          "amount": 490.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:00",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70139] Hook Net 12\"",
+              "qty": 15.0,
+              "total": 240.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000553",
           "customer": "Walk-in",
           "amount": 195.0,
@@ -25320,7 +25336,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3900.0,
-        "expectedClosing": 7295.0,
+        "expectedClosing": 7785.0,
         "counted": null,
         "difference": null,
         "closed": false,
