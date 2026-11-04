@@ -25076,14 +25076,14 @@
     },
     {
       "date": "2026-11-04",
-      "generatedAt": "2026-11-04T06:45:39Z",
+      "generatedAt": "2026-11-04T07:01:13Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 8427.0,
-        "count": 4
+        "total": 34027.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 6585.0,
@@ -25094,14 +25094,30 @@
         "count": 1
       },
       "transfer": {
-        "total": 5227.0,
-        "count": 3
+        "total": 30827.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00590",
+          "customer": "Varahutta Investment",
+          "amount": 25600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:52",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-WHT-DS-2000-X05] #2C White Double Side 2000mm x5",
+              "qty": 2.0,
+              "total": 25600.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00586",
           "customer": "Bl Mart Q-5",

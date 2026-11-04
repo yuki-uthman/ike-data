@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T06:46:00Z",
-  "openCount": 176,
-  "openTotal": 2270845.2,
-  "quotationCount": 98,
-  "quotationTotal": 1288999.75,
+  "generatedAt": "2026-11-04T07:01:24Z",
+  "openCount": 175,
+  "openTotal": 2245245.2,
+  "quotationCount": 97,
+  "quotationTotal": 1263399.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -413,9 +413,9 @@
     },
     {
       "date": "2026-11-02",
-      "count": 1,
-      "outstanding": 25600.0,
-      "total": 25600.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     },
     {
       "date": "2026-11-03",
@@ -573,25 +573,6 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 41.0,
           "total": 1025.0
-        }
-      ]
-    },
-    {
-      "id": 744,
-      "ref": "S00748",
-      "kind": "quotation",
-      "customer": "sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-02",
-      "expires": "2026-12-02",
-      "total": 25600.0,
-      "settled": 0.0,
-      "outstanding": 25600.0,
-      "lines": [
-        {
-          "name": "[2C-WHT-DS-2000-X05] #2C White Double Side 2000mm x5",
-          "qty": 2.0,
-          "total": 25600.0
         }
       ]
     },
