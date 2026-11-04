@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T04:45:57Z",
+  "generatedAt": "2026-11-04T05:01:24Z",
   "openCount": 175,
   "openTotal": 2302220.2,
-  "quotationCount": 97,
-  "quotationTotal": 1320374.75,
-  "orderCount": 78,
-  "orderTotal": 981845.45,
+  "quotationCount": 96,
+  "quotationTotal": 1317524.75,
+  "orderCount": 79,
+  "orderTotal": 984695.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -434,8 +434,8 @@
     {
       "id": 761,
       "ref": "S00765",
-      "kind": "quotation",
-      "customer": "Mariyam shafia",
+      "kind": "order",
+      "customer": "S&Y Mart E-10",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-04",
       "expires": "2026-12-04",
