@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T12:01:23Z",
-  "openCount": 170,
-  "openTotal": 2244610.2,
-  "quotationCount": 92,
-  "quotationTotal": 1262764.75,
+  "generatedAt": "2026-11-04T12:15:59Z",
+  "openCount": 171,
+  "openTotal": 2246050.2,
+  "quotationCount": 93,
+  "quotationTotal": 1264204.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-11-04",
-      "count": 3,
-      "outstanding": 6585.0,
-      "total": 6585.0
+      "count": 4,
+      "outstanding": 8025.0,
+      "total": 8025.0
     }
   ],
   "quotations": [
@@ -506,6 +506,25 @@
           "name": "[70146] Hook Slat 12\"",
           "qty": 10.0,
           "total": 160.0
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "ref": "S00777",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-04",
+      "expires": "2026-12-04",
+      "total": 1440.0,
+      "settled": 0.0,
+      "outstanding": 1440.0,
+      "lines": [
+        {
+          "name": "[BBRE24300B] Black Base Container 24oz",
+          "qty": 6.0,
+          "total": 1440.0
         }
       ]
     },
