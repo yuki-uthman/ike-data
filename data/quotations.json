@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T16:31:10Z",
-  "openCount": 172,
-  "openTotal": 2246284.2,
+  "generatedAt": "2026-11-04T16:45:49Z",
+  "openCount": 171,
+  "openTotal": 2246050.2,
   "quotationCount": 93,
   "quotationTotal": 1264204.75,
-  "orderCount": 79,
-  "orderTotal": 982079.45,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-11-04",
-      "count": 5,
-      "outstanding": 8259.0,
-      "total": 8259.0
+      "count": 4,
+      "outstanding": 8025.0,
+      "total": 8025.0
     }
   ],
   "quotations": [
@@ -544,25 +544,6 @@
           "name": "[70110] paper plates 9 inch 100pcs",
           "qty": 12.0,
           "total": 600.0
-        }
-      ]
-    },
-    {
-      "id": 776,
-      "ref": "S00780",
-      "kind": "order",
-      "customer": "Fine Wear 1",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-04",
-      "expires": "2026-12-04",
-      "total": 234.0,
-      "settled": 0.0,
-      "outstanding": 234.0,
-      "lines": [
-        {
-          "name": "[70088] Hand Towel",
-          "qty": 6.0,
-          "total": 234.0
         }
       ]
     },
