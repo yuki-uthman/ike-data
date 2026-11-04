@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T05:45:57Z",
-  "openCount": 177,
-  "openTotal": 2303580.2,
-  "quotationCount": 97,
-  "quotationTotal": 1318124.75,
+  "generatedAt": "2026-11-04T06:01:17Z",
+  "openCount": 179,
+  "openTotal": 2309672.2,
+  "quotationCount": 99,
+  "quotationTotal": 1324216.75,
   "orderCount": 80,
   "orderTotal": 985455.45,
   "days": [
@@ -425,12 +425,56 @@
     },
     {
       "date": "2026-11-04",
-      "count": 4,
-      "outstanding": 5720.0,
-      "total": 5720.0
+      "count": 6,
+      "outstanding": 11812.0,
+      "total": 11812.0
     }
   ],
   "quotations": [
+    {
+      "id": 766,
+      "ref": "S00770",
+      "kind": "quotation",
+      "customer": "Ummeedhu Store N.Hemadhoo D-2",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-04",
+      "expires": "2026-12-04",
+      "total": 4475.0,
+      "settled": 0.0,
+      "outstanding": 4475.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
+        },
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 5.0,
+          "total": 2300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 2.0,
+          "total": 590.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
+          "qty": 2.0,
+          "total": 100.0
+        }
+      ]
+    },
     {
       "id": 761,
       "ref": "S00765",
@@ -447,6 +491,40 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 1.0,
           "total": 2850.0
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "ref": "S00769",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-11-04",
+      "expires": "2026-12-04",
+      "total": 1617.0,
+      "settled": 0.0,
+      "outstanding": 1617.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
+        },
+        {
+          "name": "[70001] BBQ Fish Fry",
+          "qty": 3.0,
+          "total": 135.0
+        },
+        {
+          "name": "[70003] BBQ 28*52cm",
+          "qty": 3.0,
+          "total": 147.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
         }
       ]
     },
