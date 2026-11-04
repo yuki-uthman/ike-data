@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T11:15:50Z",
-  "openCount": 175,
-  "openTotal": 2245245.2,
-  "quotationCount": 97,
-  "quotationTotal": 1263399.75,
+  "generatedAt": "2026-11-04T11:31:09Z",
+  "openCount": 171,
+  "openTotal": 2246560.2,
+  "quotationCount": 93,
+  "quotationTotal": 1264714.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -77,15 +77,15 @@
     },
     {
       "date": "2026-09-07",
-      "count": 10,
-      "outstanding": 53454.0,
-      "total": 53454.0
+      "count": 7,
+      "outstanding": 53327.0,
+      "total": 53327.0
     },
     {
       "date": "2026-09-08",
-      "count": 9,
-      "outstanding": 155225.0,
-      "total": 155225.0
+      "count": 8,
+      "outstanding": 154725.0,
+      "total": 154725.0
     },
     {
       "date": "2026-09-09",
@@ -95,9 +95,9 @@
     },
     {
       "date": "2026-09-10",
-      "count": 6,
-      "outstanding": 4667.0,
-      "total": 4667.0
+      "count": 5,
+      "outstanding": 4659.0,
+      "total": 4659.0
     },
     {
       "date": "2026-09-11",
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-11-04",
-      "count": 3,
-      "outstanding": 6585.0,
-      "total": 6585.0
+      "count": 4,
+      "outstanding": 8535.0,
+      "total": 8535.0
     }
   ],
   "quotations": [
@@ -472,6 +472,25 @@
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
           "qty": 2.0,
           "total": 100.0
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "ref": "S00774",
+      "kind": "quotation",
+      "customer": "sales",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-11-04",
+      "expires": "2026-12-04",
+      "total": 1950.0,
+      "settled": 0.0,
+      "outstanding": 1950.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-ERF-1950] #RD8 White End Rack Flat 1950mm",
+          "qty": 1.0,
+          "total": 1950.0
         }
       ]
     },
@@ -2553,25 +2572,6 @@
       ]
     },
     {
-      "id": 199,
-      "ref": "S00200",
-      "kind": "quotation",
-      "customer": "Test",
-      "salesperson": "Ahmed Rashad",
-      "date": "2026-09-10",
-      "expires": "2026-10-10",
-      "total": 8.0,
-      "settled": 0.0,
-      "outstanding": 8.0,
-      "lines": [
-        {
-          "name": "[8388] Black Base Rectangular Container 38oz w/ PP Lid (TPLM C053)",
-          "qty": 1.0,
-          "total": 8.0
-        }
-      ]
-    },
-    {
       "id": 186,
       "ref": "S00187",
       "kind": "quotation",
@@ -2745,25 +2745,6 @@
           "name": "[RD8-GRY-SSP-1950-X01] RD8 Gray Single Perforated 1950mm x1",
           "qty": 1.0,
           "total": 2350.0
-        }
-      ]
-    },
-    {
-      "id": 173,
-      "ref": "S00174",
-      "kind": "quotation",
-      "customer": "Test",
-      "salesperson": "Ahmed Rashad",
-      "date": "2026-09-08",
-      "expires": "2026-10-08",
-      "total": 500.0,
-      "settled": 0.0,
-      "outstanding": 500.0,
-      "lines": [
-        {
-          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
-          "qty": 1.0,
-          "total": 500.0
         }
       ]
     },
@@ -3072,63 +3053,6 @@
           "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
           "qty": 2.0,
           "total": 250.0
-        }
-      ]
-    },
-    {
-      "id": 168,
-      "ref": "S00169",
-      "kind": "quotation",
-      "customer": "Test",
-      "salesperson": "Ahmed Rashad",
-      "date": "2026-09-07",
-      "expires": "2026-10-07",
-      "total": 125.0,
-      "settled": 0.0,
-      "outstanding": 125.0,
-      "lines": [
-        {
-          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
-          "qty": 1.0,
-          "total": 125.0
-        }
-      ]
-    },
-    {
-      "id": 167,
-      "ref": "S00168",
-      "kind": "quotation",
-      "customer": "Test",
-      "salesperson": "Ahmed Rashad",
-      "date": "2026-09-07",
-      "expires": "2026-10-07",
-      "total": 1.0,
-      "settled": 0.0,
-      "outstanding": 1.0,
-      "lines": [
-        {
-          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
-          "qty": 1.0,
-          "total": 1.0
-        }
-      ]
-    },
-    {
-      "id": 166,
-      "ref": "S00167",
-      "kind": "quotation",
-      "customer": "Test",
-      "salesperson": "Ahmed Rashad",
-      "date": "2026-09-07",
-      "expires": "2026-10-07",
-      "total": 1.0,
-      "settled": 0.0,
-      "outstanding": 1.0,
-      "lines": [
-        {
-          "name": "[BAG-CLAM-6X6] Bagasse Clamshell 6x6\"",
-          "qty": 1.0,
-          "total": 1.0
         }
       ]
     },
