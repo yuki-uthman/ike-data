@@ -25076,26 +25076,26 @@
     },
     {
       "date": "2026-11-04",
-      "generatedAt": "2026-11-04T11:30:59Z",
+      "generatedAt": "2026-11-04T11:45:42Z",
       "pos": {
         "total": 350.0,
         "count": 2
       },
       "regularSales": {
-        "total": 45387.0,
-        "count": 6
+        "total": 48977.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 8535.0,
-        "count": 5
+        "total": 6585.0,
+        "count": 4
       },
       "cash": {
         "total": 3395.0,
         "count": 2
       },
       "transfer": {
-        "total": 42342.0,
-        "count": 6
+        "total": 45932.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -25178,6 +25178,58 @@
               "name": "[70161] Vegetable Rack 4 Square Baskets",
               "qty": 1.0,
               "total": 2850.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00592",
+          "customer": "sales",
+          "amount": 1950.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:37",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-ERF-1950] #RD8 White End Rack Flat 1950mm",
+              "qty": 1.0,
+              "total": 1950.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00593",
+          "customer": "Hussain",
+          "amount": 1640.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:42",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 2.0,
+              "total": 560.0
+            },
+            {
+              "name": "[02440] Milkshake Powder Pistachio",
+              "qty": 2.0,
+              "total": 440.0
+            },
+            {
+              "name": "[90039] Milkshake Powder Vanilla Blue",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[60033] Milkshake Powder Cappuccino",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[90056] Milkshake Powder Honeydew",
+              "qty": 1.0,
+              "total": 200.0
             }
           ]
         },
