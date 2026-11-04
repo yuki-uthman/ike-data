@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T15:31:16Z",
-  "openCount": 171,
-  "openTotal": 2246050.2,
-  "quotationCount": 93,
-  "quotationTotal": 1264204.75,
+  "generatedAt": "2026-11-04T15:45:50Z",
+  "openCount": 172,
+  "openTotal": 2248110.2,
+  "quotationCount": 94,
+  "quotationTotal": 1266264.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-11-04",
-      "count": 4,
-      "outstanding": 8025.0,
-      "total": 8025.0
+      "count": 5,
+      "outstanding": 10085.0,
+      "total": 10085.0
     }
   ],
   "quotations": [
@@ -472,6 +472,30 @@
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
           "qty": 2.0,
           "total": 100.0
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "ref": "S00778",
+      "kind": "quotation",
+      "customer": "Cinzia B.12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-04",
+      "expires": "2026-12-04",
+      "total": 2060.0,
+      "settled": 0.0,
+      "outstanding": 2060.0,
+      "lines": [
+        {
+          "name": "[2140WHITE] Chair DIAMOND STYLE - White #2140",
+          "qty": 4.0,
+          "total": 1160.0
+        },
+        {
+          "name": "[70179] Table White Plastic Square 2801 70x70cm",
+          "qty": 1.0,
+          "total": 900.0
         }
       ]
     },
