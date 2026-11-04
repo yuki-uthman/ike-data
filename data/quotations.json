@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-04T09:15:47Z",
-  "openCount": 176,
-  "openTotal": 2256605.2,
+  "generatedAt": "2026-11-04T09:31:15Z",
+  "openCount": 175,
+  "openTotal": 2245245.2,
   "quotationCount": 97,
   "quotationTotal": 1263399.75,
-  "orderCount": 79,
-  "orderTotal": 993205.45,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -425,41 +425,12 @@
     },
     {
       "date": "2026-11-04",
-      "count": 4,
-      "outstanding": 17945.0,
-      "total": 17945.0
+      "count": 3,
+      "outstanding": 6585.0,
+      "total": 6585.0
     }
   ],
   "quotations": [
-    {
-      "id": 768,
-      "ref": "S00772",
-      "kind": "order",
-      "customer": "Naushaadh Thimara",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-04",
-      "expires": "2026-12-04",
-      "total": 11360.0,
-      "settled": 0.0,
-      "outstanding": 11360.0,
-      "lines": [
-        {
-          "name": "Gas Burner Table",
-          "qty": 20.0,
-          "total": 9500.0
-        },
-        {
-          "name": "[70175] 51 Warehouse Rack White Medium",
-          "qty": 1.0,
-          "total": 1800.0
-        },
-        {
-          "name": "[01755] Door Mat Pvc Code: 07 #43X67",
-          "qty": 2.0,
-          "total": 60.0
-        }
-      ]
-    },
     {
       "id": 766,
       "ref": "S00770",
