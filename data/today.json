@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T14:31:06Z",
+  "generatedAt": "2026-11-04T14:45:41Z",
   "cash": {
     "total": 3885.0,
     "count": 3
@@ -97,7 +97,7 @@
     },
     {
       "ref": "INV/2026/00592",
-      "customer": "sales",
+      "customer": "Sales",
       "amount": 1950.0,
       "method": "transfer",
       "rawMethod": "Bank",
@@ -196,7 +196,7 @@
     },
     {
       "ref": "INV/2026/00594",
-      "customer": "sales",
+      "customer": "Sales",
       "amount": 490.0,
       "method": "cash",
       "rawMethod": "Cash",
