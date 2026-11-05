@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T10:45:40Z",
+  "generatedAt": "2026-11-05T11:01:10Z",
   "cash": {
     "total": 99.0,
     "count": 3
   },
   "transfer": {
-    "total": 19420.0,
-    "count": 11
+    "total": 25715.0,
+    "count": 12
   },
   "other": {
     "total": 0,
@@ -29,6 +29,37 @@
           "name": "[70196] Cash Counter 6ftx2ft",
           "qty": 1.0,
           "total": 7035.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00609",
+      "customer": "Food Quest Q.10",
+      "amount": 6295.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "15:49",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[MILO900-C12] Milo 900g (Case 12pcs)",
+          "qty": 3.0,
+          "total": 5400.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
         }
       ]
     },
@@ -275,8 +306,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 19245.0
+      "count": 10,
+      "total": 25540.0
     },
     {
       "name": "Bank Transfer",

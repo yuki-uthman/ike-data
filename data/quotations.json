@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T10:45:51Z",
+  "generatedAt": "2026-11-05T11:01:21Z",
   "openCount": 172,
-  "openTotal": 2253134.2,
+  "openTotal": 2248064.2,
   "quotationCount": 94,
-  "quotationTotal": 1271288.75,
+  "quotationTotal": 1266218.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -432,45 +432,11 @@
     {
       "date": "2026-11-05",
       "count": 4,
-      "outstanding": 17069.0,
-      "total": 17069.0
+      "outstanding": 11999.0,
+      "total": 11999.0
     }
   ],
   "quotations": [
-    {
-      "id": 786,
-      "ref": "S00790",
-      "kind": "quotation",
-      "customer": "Food Quest Q.10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-05",
-      "expires": "2026-12-05",
-      "total": 6295.0,
-      "settled": 0.0,
-      "outstanding": 6295.0,
-      "lines": [
-        {
-          "name": "[MILO900-C12] Milo 900g (Case 12pcs)",
-          "qty": 3.0,
-          "total": 5400.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        }
-      ]
-    },
     {
       "id": 784,
       "ref": "S00788",
@@ -595,6 +561,30 @@
           "name": "[8000066447360] MARA BAKED BEANS IN TOMATO SAUCE 420G",
           "qty": 24.0,
           "total": 432.0
+        }
+      ]
+    },
+    {
+      "id": 787,
+      "ref": "S00791",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-05",
+      "expires": "2026-12-05",
+      "total": 1225.0,
+      "settled": 0.0,
+      "outstanding": 1225.0,
+      "lines": [
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
         }
       ]
     },
