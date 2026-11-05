@@ -25116,14 +25116,14 @@
     },
     {
       "date": "2026-11-05",
-      "generatedAt": "2026-11-05T12:31:00Z",
+      "generatedAt": "2026-11-05T12:45:39Z",
       "pos": {
         "total": 462.0,
         "count": 8
       },
       "regularSales": {
-        "total": 25540.0,
-        "count": 10
+        "total": 26100.0,
+        "count": 11
       },
       "pendingQuotations": {
         "total": 12949.0,
@@ -25134,8 +25134,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 25715.0,
-        "count": 12
+        "total": 26275.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -25302,6 +25302,22 @@
               "name": "[PP9] PAPER PLATE 9\"",
               "qty": 12.0,
               "total": 600.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00610",
+          "customer": "Fusion Feast",
+          "amount": 560.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:39",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 2.0,
+              "total": 560.0
             }
           ]
         },
