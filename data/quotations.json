@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T10:01:19Z",
-  "openCount": 171,
-  "openTotal": 2246839.2,
-  "quotationCount": 93,
-  "quotationTotal": 1264993.75,
+  "generatedAt": "2026-11-05T10:08:52Z",
+  "openCount": 172,
+  "openTotal": 2253124.2,
+  "quotationCount": 94,
+  "quotationTotal": 1271278.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -431,12 +431,46 @@
     },
     {
       "date": "2026-11-05",
-      "count": 3,
-      "outstanding": 10774.0,
-      "total": 10774.0
+      "count": 4,
+      "outstanding": 17059.0,
+      "total": 17059.0
     }
   ],
   "quotations": [
+    {
+      "id": 786,
+      "ref": "S00790",
+      "kind": "quotation",
+      "customer": "Food Quest Q.10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-05",
+      "expires": "2026-12-05",
+      "total": 6285.0,
+      "settled": 0.0,
+      "outstanding": 6285.0,
+      "lines": [
+        {
+          "name": "[MILO900-C12] Milo 900g (Case 12pcs)",
+          "qty": 2.0,
+          "total": 3600.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 3.0,
+          "total": 885.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        }
+      ]
+    },
     {
       "id": 784,
       "ref": "S00788",
