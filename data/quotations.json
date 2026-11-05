@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T09:31:05Z",
-  "openCount": 170,
-  "openTotal": 2243164.2,
-  "quotationCount": 92,
-  "quotationTotal": 1261318.75,
+  "generatedAt": "2026-11-05T09:45:48Z",
+  "openCount": 171,
+  "openTotal": 2246839.2,
+  "quotationCount": 93,
+  "quotationTotal": 1264993.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -431,9 +431,9 @@
     },
     {
       "date": "2026-11-05",
-      "count": 2,
-      "outstanding": 7099.0,
-      "total": 7099.0
+      "count": 3,
+      "outstanding": 10774.0,
+      "total": 10774.0
     }
   ],
   "quotations": [
@@ -508,6 +508,30 @@
           "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
           "qty": 1.0,
           "total": 1225.0
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "ref": "S00789",
+      "kind": "quotation",
+      "customer": "Naushaadh Thimara",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-05",
+      "expires": "2026-12-05",
+      "total": 3675.0,
+      "settled": 0.0,
+      "outstanding": 3675.0,
+      "lines": [
+        {
+          "name": "Gas Burner Table",
+          "qty": 3.0,
+          "total": 1275.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 3.0,
+          "total": 2400.0
         }
       ]
     },
