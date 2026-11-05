@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T15:01:30Z",
-  "openCount": 173,
-  "openTotal": 2249014.2,
-  "quotationCount": 95,
-  "quotationTotal": 1267168.75,
+  "generatedAt": "2026-11-05T15:15:54Z",
+  "openCount": 172,
+  "openTotal": 2247022.2,
+  "quotationCount": 94,
+  "quotationTotal": 1265176.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -431,9 +431,9 @@
     },
     {
       "date": "2026-11-05",
-      "count": 5,
-      "outstanding": 12949.0,
-      "total": 12949.0
+      "count": 4,
+      "outstanding": 10957.0,
+      "total": 10957.0
     }
   ],
   "quotations": [
@@ -532,35 +532,6 @@
           "name": "[70182] Gas Burner ( High Pressure )",
           "qty": 3.0,
           "total": 2400.0
-        }
-      ]
-    },
-    {
-      "id": 778,
-      "ref": "S00782",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-05",
-      "expires": "2026-12-05",
-      "total": 1992.0,
-      "settled": 0.0,
-      "outstanding": 1992.0,
-      "lines": [
-        {
-          "name": "[MACHA100] Macha Green Tea 100g",
-          "qty": 4.0,
-          "total": 960.0
-        },
-        {
-          "name": "[10008] Top Kokoa Creamy Cheese 1kg",
-          "qty": 2.0,
-          "total": 600.0
-        },
-        {
-          "name": "[8000066447360] MARA BAKED BEANS IN TOMATO SAUCE 420G",
-          "qty": 24.0,
-          "total": 432.0
         }
       ]
     },

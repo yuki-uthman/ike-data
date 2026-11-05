@@ -25116,22 +25116,22 @@
     },
     {
       "date": "2026-11-05",
-      "generatedAt": "2026-11-05T15:01:15Z",
+      "generatedAt": "2026-11-05T15:15:43Z",
       "pos": {
         "total": 462.0,
         "count": 8
       },
       "regularSales": {
-        "total": 26100.0,
-        "count": 11
+        "total": 28092.0,
+        "count": 12
       },
       "pendingQuotations": {
-        "total": 12949.0,
-        "count": 5
+        "total": 10957.0,
+        "count": 4
       },
       "cash": {
-        "total": 287.0,
-        "count": 6
+        "total": 2279.0,
+        "count": 7
       },
       "transfer": {
         "total": 26275.0,
@@ -25202,6 +25202,32 @@
               "name": "[70161] Vegetable Rack 4 Square Baskets",
               "qty": 2.0,
               "total": 5600.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00611",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1992.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:14",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[MACHA100] Macha Green Tea 100g",
+              "qty": 4.0,
+              "total": 960.0
+            },
+            {
+              "name": "[10008] Top Kokoa Creamy Cheese 1kg",
+              "qty": 2.0,
+              "total": 600.0
+            },
+            {
+              "name": "[8000066447360] MARA BAKED BEANS IN TOMATO SAUCE 420G",
+              "qty": 24.0,
+              "total": 432.0
             }
           ]
         },
@@ -25499,7 +25525,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 8533.0,
-        "expectedClosing": 8820.0,
+        "expectedClosing": 10812.0,
         "counted": null,
         "difference": null,
         "closed": false,
