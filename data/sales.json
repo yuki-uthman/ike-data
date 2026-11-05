@@ -25116,14 +25116,14 @@
     },
     {
       "date": "2026-11-05",
-      "generatedAt": "2026-11-05T09:01:11Z",
+      "generatedAt": "2026-11-05T09:15:41Z",
       "pos": {
         "total": 185.0,
         "count": 3
       },
       "regularSales": {
-        "total": 16580.0,
-        "count": 7
+        "total": 18020.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 1992.0,
@@ -25134,8 +25134,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 16755.0,
-        "count": 9
+        "total": 18195.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -25202,6 +25202,22 @@
               "name": "[70146] Hook Slat 12\"",
               "qty": 10.0,
               "total": 160.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00607",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1440.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:12",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[BBRE24300B] Black Base Container 24oz",
+              "qty": 6.0,
+              "total": 1440.0
             }
           ]
         },

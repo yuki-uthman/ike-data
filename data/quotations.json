@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T09:01:19Z",
-  "openCount": 170,
-  "openTotal": 2239497.2,
-  "quotationCount": 92,
-  "quotationTotal": 1257651.75,
+  "generatedAt": "2026-11-05T09:15:49Z",
+  "openCount": 169,
+  "openTotal": 2238057.2,
+  "quotationCount": 91,
+  "quotationTotal": 1256211.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -425,9 +425,9 @@
     },
     {
       "date": "2026-11-04",
-      "count": 3,
-      "outstanding": 6515.0,
-      "total": 6515.0
+      "count": 2,
+      "outstanding": 5075.0,
+      "total": 5075.0
     },
     {
       "date": "2026-11-05",
@@ -507,25 +507,6 @@
           "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
           "qty": 2.0,
           "total": 100.0
-        }
-      ]
-    },
-    {
-      "id": 773,
-      "ref": "S00777",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-04",
-      "expires": "2026-12-04",
-      "total": 1440.0,
-      "settled": 0.0,
-      "outstanding": 1440.0,
-      "lines": [
-        {
-          "name": "[BBRE24300B] Black Base Container 24oz",
-          "qty": 6.0,
-          "total": 1440.0
         }
       ]
     },
