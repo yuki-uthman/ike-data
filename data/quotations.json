@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T06:01:17Z",
-  "openCount": 171,
-  "openTotal": 2239665.2,
+  "generatedAt": "2026-11-05T06:15:49Z",
+  "openCount": 170,
+  "openTotal": 2239065.2,
   "quotationCount": 92,
   "quotationTotal": 1257219.75,
-  "orderCount": 79,
-  "orderTotal": 982445.45,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -431,9 +431,9 @@
     },
     {
       "date": "2026-11-05",
-      "count": 2,
-      "outstanding": 2160.0,
-      "total": 2160.0
+      "count": 1,
+      "outstanding": 1560.0,
+      "total": 1560.0
     }
   ],
   "quotations": [
@@ -457,25 +457,6 @@
         {
           "name": "[10008] Top Kokoa Creamy Cheese 1kg",
           "qty": 2.0,
-          "total": 600.0
-        }
-      ]
-    },
-    {
-      "id": 780,
-      "ref": "S00784",
-      "kind": "order",
-      "customer": "Droparc",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-05",
-      "expires": "2026-12-05",
-      "total": 600.0,
-      "settled": 0.0,
-      "outstanding": 600.0,
-      "lines": [
-        {
-          "name": "[PP9] PAPER PLATE 9\"",
-          "qty": 12.0,
           "total": 600.0
         }
       ]

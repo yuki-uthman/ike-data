@@ -25116,14 +25116,14 @@
     },
     {
       "date": "2026-11-05",
-      "generatedAt": "2026-11-05T06:01:08Z",
+      "generatedAt": "2026-11-05T06:15:40Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 14145.0,
-        "count": 3
+        "total": 14745.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 1560.0,
@@ -25134,8 +25134,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 14145.0,
-        "count": 3
+        "total": 14745.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -25202,6 +25202,22 @@
               "name": "[70146] Hook Slat 12\"",
               "qty": 10.0,
               "total": 160.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00603",
+          "customer": "Droparc",
+          "amount": 600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:01",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[PP9] PAPER PLATE 9\"",
+              "qty": 12.0,
+              "total": 600.0
             }
           ]
         }
