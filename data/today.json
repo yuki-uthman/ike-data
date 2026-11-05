@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T08:30:58Z",
+  "generatedAt": "2026-11-05T08:45:39Z",
   "cash": {
     "total": 10.0,
     "count": 1
   },
   "transfer": {
-    "total": 15505.0,
-    "count": 8
+    "total": 16755.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -76,6 +76,22 @@
           "name": "[70146] Hook Slat 12\"",
           "qty": 10.0,
           "total": 160.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00606",
+      "customer": "Coral Life Pvt Ltd.",
+      "amount": 1250.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:35",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
+          "qty": 5.0,
+          "total": 1250.0
         }
       ]
     },
@@ -185,8 +201,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 6,
-      "total": 15330.0
+      "count": 7,
+      "total": 16580.0
     },
     {
       "name": "Bank Transfer",

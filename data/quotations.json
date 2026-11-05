@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T08:31:12Z",
+  "generatedAt": "2026-11-05T08:45:48Z",
   "openCount": 170,
   "openTotal": 2239065.2,
   "quotationCount": 92,
@@ -458,6 +458,11 @@
           "name": "[10008] Top Kokoa Creamy Cheese 1kg",
           "qty": 2.0,
           "total": 600.0
+        },
+        {
+          "name": "bra",
+          "qty": 1.0,
+          "total": 0.0
         }
       ]
     },
