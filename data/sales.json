@@ -25116,10 +25116,10 @@
     },
     {
       "date": "2026-11-05",
-      "generatedAt": "2026-11-05T06:15:40Z",
+      "generatedAt": "2026-11-05T06:30:56Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 150.0,
+        "count": 1
       },
       "regularSales": {
         "total": 14745.0,
@@ -25134,8 +25134,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 14745.0,
-        "count": 4
+        "total": 14895.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25218,6 +25218,22 @@
               "name": "[PP9] PAPER PLATE 9\"",
               "qty": 12.0,
               "total": 600.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000557",
+          "customer": "Walk-in",
+          "amount": 150.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:21",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[A16] Plastic Container A16",
+              "qty": 50.0,
+              "total": 150.0
             }
           ]
         }
