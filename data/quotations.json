@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T15:15:54Z",
+  "generatedAt": "2026-11-05T15:31:09Z",
   "openCount": 172,
-  "openTotal": 2247022.2,
+  "openTotal": 2247972.2,
   "quotationCount": 94,
-  "quotationTotal": 1265176.75,
+  "quotationTotal": 1266126.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -432,8 +432,8 @@
     {
       "date": "2026-11-05",
       "count": 4,
-      "outstanding": 10957.0,
-      "total": 10957.0
+      "outstanding": 11907.0,
+      "total": 11907.0
     }
   ],
   "quotations": [
@@ -536,6 +536,25 @@
       ]
     },
     {
+      "id": 788,
+      "ref": "S00792",
+      "kind": "quotation",
+      "customer": "Auguste Maldives",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-05",
+      "expires": "2026-12-05",
+      "total": 1900.0,
+      "settled": 0.0,
+      "outstanding": 1900.0,
+      "lines": [
+        {
+          "name": "Net Stand 1.8M Wheel",
+          "qty": 2.0,
+          "total": 1900.0
+        }
+      ]
+    },
+    {
       "id": 787,
       "ref": "S00791",
       "kind": "quotation",
@@ -556,25 +575,6 @@
           "name": "[70182] Gas Burner ( High Pressure )",
           "qty": 1.0,
           "total": 800.0
-        }
-      ]
-    },
-    {
-      "id": 788,
-      "ref": "S00792",
-      "kind": "quotation",
-      "customer": "Auguste Maldives",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-05",
-      "expires": "2026-12-05",
-      "total": 950.0,
-      "settled": 0.0,
-      "outstanding": 950.0,
-      "lines": [
-        {
-          "name": "Net Stand 1.8M Wheel",
-          "qty": 1.0,
-          "total": 950.0
         }
       ]
     },
