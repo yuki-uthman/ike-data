@@ -3,11 +3,11 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T04:15:57Z",
-  "totalCases": 420.0,
+  "generatedAt": "2026-11-05T04:31:06Z",
+  "totalCases": 421.0,
   "quoted": {
-    "cases": 121.0,
-    "orders": 6
+    "cases": 120.0,
+    "orders": 5
   },
   "products": [
     {
@@ -286,7 +286,7 @@
       "size": "40 gr",
       "pack": "6 bundles",
       "active": true,
-      "cases": 11.0,
+      "cases": 12.0,
       "profitBasis": "sold",
       "profitPct": 18.4
     },
@@ -1014,6 +1014,14 @@
       "orders": 2,
       "byProduct": {
         "2064": 1.0,
+        "2081": 1.0
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "cases": 1.0,
+      "orders": 1,
+      "byProduct": {
         "2081": 1.0
       }
     }

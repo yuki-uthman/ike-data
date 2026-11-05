@@ -2,21 +2,45 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T04:15:40Z",
+  "generatedAt": "2026-11-05T04:30:55Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 7035.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "INV/2026/00599",
+      "customer": "Sifco",
+      "amount": 7035.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "09:17",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70196] Cash Counter 6ftx2ft",
+          "qty": 1.0,
+          "total": 7035.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 7035.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
