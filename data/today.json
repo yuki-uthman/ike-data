@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T12:01:09Z",
+  "generatedAt": "2026-11-05T12:15:39Z",
   "cash": {
-    "total": 147.0,
-    "count": 5
+    "total": 287.0,
+    "count": 6
   },
   "transfer": {
     "total": 25715.0,
@@ -228,6 +228,22 @@
       ]
     },
     {
+      "ref": "Ike - 000564",
+      "customer": "Walk-in",
+      "amount": 140.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:06",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[A12B] Plastic Container A12 (Bundle)",
+          "qty": 1.0,
+          "total": 140.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000560",
       "customer": "Walk-in",
       "amount": 59.0,
@@ -342,16 +358,16 @@
       "total": 25540.0
     },
     {
+      "name": "Cash",
+      "method": "cash",
+      "count": 6,
+      "total": 287.0
+    },
+    {
       "name": "Bank Transfer",
       "method": "transfer",
       "count": 2,
       "total": 175.0
-    },
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 5,
-      "total": 147.0
     }
   ],
   "cashOut": {
@@ -361,7 +377,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 8533.0,
-    "expectedClosing": 8680.0,
+    "expectedClosing": 8820.0,
     "counted": null,
     "difference": null,
     "closed": false,
