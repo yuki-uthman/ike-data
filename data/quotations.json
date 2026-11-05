@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T08:45:48Z",
+  "generatedAt": "2026-11-05T09:01:19Z",
   "openCount": 170,
-  "openTotal": 2239065.2,
+  "openTotal": 2239497.2,
   "quotationCount": 92,
-  "quotationTotal": 1257219.75,
+  "quotationTotal": 1257651.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -432,8 +432,8 @@
     {
       "date": "2026-11-05",
       "count": 1,
-      "outstanding": 1560.0,
-      "total": 1560.0
+      "outstanding": 1992.0,
+      "total": 1992.0
     }
   ],
   "quotations": [
@@ -445,9 +445,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-05",
       "expires": "2026-12-05",
-      "total": 1560.0,
+      "total": 1992.0,
       "settled": 0.0,
-      "outstanding": 1560.0,
+      "outstanding": 1992.0,
       "lines": [
         {
           "name": "[MACHA100] Macha Green Tea 100g",
@@ -460,9 +460,9 @@
           "total": 600.0
         },
         {
-          "name": "bra",
-          "qty": 1.0,
-          "total": 0.0
+          "name": "[8000066447360] MARA BAKED BEANS IN TOMATO SAUCE 420G",
+          "qty": 24.0,
+          "total": 432.0
         }
       ]
     },
