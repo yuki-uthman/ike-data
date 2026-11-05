@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T04:30:55Z",
+  "generatedAt": "2026-11-05T04:45:39Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 7035.0,
-    "count": 1
+    "total": 14145.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -31,14 +31,61 @@
           "total": 7035.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00601",
+      "customer": "Vfs Home Care Q-6",
+      "amount": 5600.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "09:45",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 2.0,
+          "total": 5600.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00600",
+      "customer": "Four Zr Maldives K.Huraa",
+      "amount": 1510.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "09:31",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 1.0,
+          "total": 550.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Case (120pcs)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 10.0,
+          "total": 160.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 7035.0
+      "count": 3,
+      "total": 14145.0
     }
   ],
   "cashOut": {

@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-05T04:31:02Z",
+  "generatedAt": "2026-11-05T04:45:49Z",
   "openCount": 170,
-  "openTotal": 2239015.2,
-  "quotationCount": 91,
-  "quotationTotal": 1255659.75,
-  "orderCount": 79,
-  "orderTotal": 983355.45,
+  "openTotal": 2239065.2,
+  "quotationCount": 92,
+  "quotationTotal": 1257219.75,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -432,42 +432,32 @@
     {
       "date": "2026-11-05",
       "count": 1,
-      "outstanding": 1510.0,
-      "total": 1510.0
+      "outstanding": 1560.0,
+      "total": 1560.0
     }
   ],
   "quotations": [
     {
-      "id": 760,
-      "ref": "S00764",
-      "kind": "order",
-      "customer": "Four Zr Maldives K.Huraa",
+      "id": 778,
+      "ref": "S00782",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-05",
-      "expires": "2026-12-04",
-      "total": 1510.0,
+      "expires": "2026-12-05",
+      "total": 1560.0,
       "settled": 0.0,
-      "outstanding": 1510.0,
+      "outstanding": 1560.0,
       "lines": [
         {
-          "name": "Hanger Plastic A17 - Case (144pcs)",
-          "qty": 1.0,
-          "total": 550.0
+          "name": "[MACHA100] Macha Green Tea 100g",
+          "qty": 4.0,
+          "total": 960.0
         },
         {
-          "name": "Hanger Plastic C1-10 - Case (120pcs)",
-          "qty": 1.0,
-          "total": 350.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        },
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 10.0,
-          "total": 160.0
+          "name": "[10008] Top Kokoa Creamy Cheese 1kg",
+          "qty": 2.0,
+          "total": 600.0
         }
       ]
     },
