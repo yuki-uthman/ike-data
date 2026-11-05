@@ -25116,14 +25116,14 @@
     },
     {
       "date": "2026-11-05",
-      "generatedAt": "2026-11-05T06:30:56Z",
+      "generatedAt": "2026-11-05T06:45:38Z",
       "pos": {
         "total": 150.0,
         "count": 1
       },
       "regularSales": {
-        "total": 14745.0,
-        "count": 4
+        "total": 15135.0,
+        "count": 5
       },
       "pendingQuotations": {
         "total": 1560.0,
@@ -25134,8 +25134,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 14895.0,
-        "count": 5
+        "total": 15285.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25218,6 +25218,22 @@
               "name": "[PP9] PAPER PLATE 9\"",
               "qty": 12.0,
               "total": 600.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00604",
+          "customer": "Cityplex R-1",
+          "amount": 390.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:41",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70156] RUBER CARPET GREEN &GREY",
+              "qty": 6.0,
+              "total": 390.0
             }
           ]
         },

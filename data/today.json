@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T06:30:56Z",
+  "generatedAt": "2026-11-05T06:45:38Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 14895.0,
-    "count": 5
+    "total": 15285.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -96,6 +96,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00604",
+      "customer": "Cityplex R-1",
+      "amount": 390.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:41",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70156] RUBER CARPET GREEN &GREY",
+          "qty": 6.0,
+          "total": 390.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000557",
       "customer": "Walk-in",
       "amount": 150.0,
@@ -116,8 +132,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 14745.0
+      "count": 5,
+      "total": 15135.0
     },
     {
       "name": "Bank Transfer",
