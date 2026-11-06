@@ -24623,10 +24623,10 @@
     },
     {
       "date": "2026-11-06",
-      "generatedAt": "2026-11-06T16:15:41Z",
+      "generatedAt": "2026-11-06T16:30:59Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 290.0,
+        "count": 1
       },
       "regularSales": {
         "total": 3751.0,
@@ -24641,8 +24641,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 3751.0,
-        "count": 3
+        "total": 4041.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -24704,6 +24704,22 @@
               "name": "[90047] Milkshake Powder Tiramisu",
               "qty": 4.0,
               "total": 800.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000568",
+          "customer": "Walk-in",
+          "amount": 290.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:27",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[MC500BHP-B50] Microwave PP Container w/lids 500Ml Mc500BHP (Bundle 50pcs)",
+              "qty": 2.0,
+              "total": 290.0
             }
           ]
         }
