@@ -24623,14 +24623,14 @@
     },
     {
       "date": "2026-11-06",
-      "generatedAt": "2026-11-06T15:15:41Z",
+      "generatedAt": "2026-11-06T15:30:58Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 1926.0,
-        "count": 1
+        "total": 2951.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 0,
@@ -24641,8 +24641,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 1926.0,
-        "count": 1
+        "total": 2951.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -24672,6 +24672,22 @@
               "name": "[70141] Hook Net 8\"",
               "qty": 1.0,
               "total": 12.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00615",
+          "customer": "Beluga Rm Tuck Shop",
+          "amount": 1025.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:29",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 41.0,
+              "total": 1025.0
             }
           ]
         }
