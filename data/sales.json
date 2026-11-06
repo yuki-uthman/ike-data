@@ -24623,14 +24623,14 @@
     },
     {
       "date": "2026-11-06",
-      "generatedAt": "2026-11-06T15:45:41Z",
+      "generatedAt": "2026-11-06T16:01:11Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 2951.0,
-        "count": 2
+        "total": 3751.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 0,
@@ -24641,8 +24641,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 2951.0,
-        "count": 2
+        "total": 3751.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -24688,6 +24688,22 @@
               "name": "[70216] RD8 Price Border Strip White 900mm (875)",
               "qty": 41.0,
               "total": 1025.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00616",
+          "customer": "Blooms Supplies",
+          "amount": 800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:48",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90047] Milkshake Powder Tiramisu",
+              "qty": 4.0,
+              "total": 800.0
             }
           ]
         }
