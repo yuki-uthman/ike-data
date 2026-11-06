@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T17:45:40Z",
+  "generatedAt": "2026-11-06T18:01:11Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 35.0,
+    "count": 1
   },
   "transfer": {
     "total": 4821.0,
@@ -110,6 +110,22 @@
           "total": 290.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000569",
+      "customer": "Walk-in",
+      "amount": 35.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:47",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01777] Plastic Container 250ml#2083",
+          "qty": 1.0,
+          "total": 35.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -124,19 +140,33 @@
       "method": "transfer",
       "count": 1,
       "total": 290.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 35.0
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 1500.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Owners drawing --Uthman",
+      "amount": 1500.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:54"
+    }
+  ],
   "till": {
     "opening": 3696.0,
-    "expectedClosing": 3696.0,
-    "counted": null,
-    "difference": null,
-    "closed": false,
+    "expectedClosing": 2231.0,
+    "counted": 2231.0,
+    "difference": 0.0,
+    "closed": true,
     "sessionCount": 1
   }
 }
