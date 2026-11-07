@@ -3,420 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-09",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 18264.0,
-        "count": 21
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 2260.0,
-        "count": 14
-      },
-      "transfer": {
-        "total": 16004.0,
-        "count": 7
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00107 (S00194)",
-          "customer": "Look Nice",
-          "amount": 9000.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:05",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70193] Miniso Counter - Type A",
-              "qty": 1.0,
-              "total": 3000.0
-            },
-            {
-              "name": "[70193] Miniso Counter - Type A",
-              "qty": 1.0,
-              "total": 3000.0
-            },
-            {
-              "name": "[70194] Miniso Counter - Type D",
-              "qty": 1.0,
-              "total": 3000.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000124",
-          "customer": "Najmee",
-          "amount": 3000.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:08",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
-              "qty": 1.0,
-              "total": 3000.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00108 (S00197)",
-          "customer": "Niba Pvt Ltd",
-          "amount": 2420.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:41",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70187] Trolley Stand 5 Layer White",
-              "qty": 1.0,
-              "total": 1900.0
-            },
-            {
-              "name": "[70145] Hook Slat 10\"",
-              "qty": 30.0,
-              "total": 420.0
-            },
-            {
-              "name": "[70143] Hook Slat 6\"",
-              "qty": 10.0,
-              "total": 100.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000121",
-          "customer": "Sales",
-          "amount": 1640.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:55",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 1.0,
-              "total": 1640.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00109 (S00192)",
-          "customer": "My View E-13",
-          "amount": 970.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "21:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 1.0,
-              "total": 970.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00106 (Ike - 000122)",
-          "customer": "Snap Buy",
-          "amount": 400.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:56",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90045] Milkshake Powder Thai Milk Tea",
-              "qty": 2.0,
-              "total": 400.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000125",
-          "customer": "Red Bee Mart",
-          "amount": 320.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:01",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70146] Hook Slat 12\"",
-              "qty": 20.0,
-              "total": 320.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000090",
-          "customer": "Walk-in",
-          "amount": 165.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:10",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01633] Kitchen Sale 5kg#KE-2",
-              "qty": 1.0,
-              "total": 165.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000078",
-          "customer": "Walk-in",
-          "amount": 88.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "13:45",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01796] Toilet Brush Plastic #9016A",
-              "qty": 2.0,
-              "total": 58.0
-            },
-            {
-              "name": "[70074] Towel 042-02 30*40cm",
-              "qty": 2.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000087",
-          "customer": "Walk-in",
-          "amount": 60.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:03",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
-              "qty": 1.0,
-              "total": 60.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000079",
-          "customer": "Walk-in",
-          "amount": 49.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "13:54",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70027] Hook Adhesive 2 in 1#2878",
-              "qty": 1.0,
-              "total": 49.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000086",
-          "customer": "Walk-in",
-          "amount": 41.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70075] Towel 042-0983 35*75cm",
-              "qty": 1.0,
-              "total": 19.0
-            },
-            {
-              "name": "[70018] PLASTIC BASKET ROUND 2# 902",
-              "qty": 1.0,
-              "total": 12.0
-            },
-            {
-              "name": "Hotpack Toothpick",
-              "qty": 1.0,
-              "total": 10.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000085",
-          "customer": "Walk-in",
-          "amount": 30.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:15",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Falcon Aluminum Container 8342 10pcs",
-              "qty": 2.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000091",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:11",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Falcon Aluminum Container 8342 10pcs",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000082",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:42",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01928] Ceramic Mug#48-1",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000080",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "13:56",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[03338] Paper Cup 4oz (Bundle)",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000088",
-          "customer": "Walk-in",
-          "amount": 10.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:06",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02254] Steel Wool 2pcs",
-              "qty": 1.0,
-              "total": 10.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000084",
-          "customer": "Walk-in",
-          "amount": 10.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:13",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[X0001] Damaged Aluminum Foil Container",
-              "qty": 1.0,
-              "total": 10.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000083",
-          "customer": "Walk-in",
-          "amount": 6.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:11",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 2.0,
-              "total": 6.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000089",
-          "customer": "Walk-in",
-          "amount": 5.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:12",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
-              "qty": 1.0,
-              "total": 5.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000081",
-          "customer": "Walk-in",
-          "amount": 5.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:11",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[77574] Paper Bag Brown Twisted Handle 32*12*35cm",
-              "qty": 1.0,
-              "total": 5.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 9222.0,
-        "expectedClosing": 11482.0,
-        "counted": 11482.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-10",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -24479,6 +24065,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-08",
+      "generatedAt": "2026-11-07T19:01:13Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
