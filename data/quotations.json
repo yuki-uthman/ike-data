@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-07T04:31:07Z",
-  "openCount": 173,
-  "openTotal": 2248497.2,
-  "quotationCount": 95,
-  "quotationTotal": 1266651.75,
+  "generatedAt": "2026-11-07T04:45:48Z",
+  "openCount": 174,
+  "openTotal": 2249514.2,
+  "quotationCount": 96,
+  "quotationTotal": 1267668.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -443,9 +443,9 @@
     },
     {
       "date": "2026-11-07",
-      "count": 2,
-      "outstanding": 1550.0,
-      "total": 1550.0
+      "count": 3,
+      "outstanding": 2567.0,
+      "total": 2567.0
     }
   ],
   "quotations": [
@@ -465,6 +465,25 @@
           "name": "[90045] Milkshake Powder Thai Milk Tea",
           "qty": 5.0,
           "total": 1250.0
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "ref": "S00801",
+      "kind": "quotation",
+      "customer": "Koobe E-08",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-07",
+      "expires": "2026-12-07",
+      "total": 1017.0,
+      "settled": 0.0,
+      "outstanding": 1017.0,
+      "lines": [
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 3.0,
+          "total": 1017.0
         }
       ]
     },
