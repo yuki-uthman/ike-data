@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T09:15:41Z",
+  "generatedAt": "2026-11-07T09:31:00Z",
   "cash": {
-    "total": 143.0,
-    "count": 2
+    "total": 743.0,
+    "count": 3
   },
   "transfer": {
     "total": 760.0,
@@ -16,6 +16,22 @@
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00620",
+      "customer": "Snap Buy",
+      "amount": 600.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:28",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 3.0,
+          "total": 600.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00619",
       "customer": "Coral Life Pvt Ltd.",
@@ -96,8 +112,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 143.0
+      "count": 3,
+      "total": 743.0
     }
   ],
   "cashOut": {
@@ -107,7 +123,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2231.0,
-    "expectedClosing": 2374.0,
+    "expectedClosing": 2974.0,
     "counted": null,
     "difference": null,
     "closed": false,
