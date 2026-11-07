@@ -24128,14 +24128,14 @@
     },
     {
       "date": "2026-11-07",
-      "generatedAt": "2026-11-07T05:15:41Z",
+      "generatedAt": "2026-11-07T05:30:58Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 280.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 8532.0,
@@ -24146,14 +24146,31 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 280.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00618",
+          "customer": "Coral Life Pvt Ltd.",
+          "amount": 280.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:16",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 1.0,
+              "total": 280.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
