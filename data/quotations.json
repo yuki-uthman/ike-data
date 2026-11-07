@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-07T12:15:51Z",
-  "openCount": 176,
-  "openTotal": 2274771.2,
+  "generatedAt": "2026-11-07T12:31:07Z",
+  "openCount": 175,
+  "openTotal": 2268579.2,
   "quotationCount": 97,
   "quotationTotal": 1286733.75,
-  "orderCount": 79,
-  "orderTotal": 988037.45,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -443,9 +443,9 @@
     },
     {
       "date": "2026-11-07",
-      "count": 5,
-      "outstanding": 27824.0,
-      "total": 27824.0
+      "count": 4,
+      "outstanding": 21632.0,
+      "total": 21632.0
     }
   ],
   "quotations": [
@@ -470,90 +470,6 @@
           "name": "rd8 white ",
           "qty": 1.0,
           "total": 0.0
-        }
-      ]
-    },
-    {
-      "id": 803,
-      "ref": "S00807",
-      "kind": "order",
-      "customer": "Teal Choice D08",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-07",
-      "expires": "2026-12-07",
-      "total": 6192.0,
-      "settled": 0.0,
-      "outstanding": 6192.0,
-      "lines": [
-        {
-          "name": "[01895] Mosquito Racket 47*19cm 0008",
-          "qty": 6.0,
-          "total": 594.0
-        },
-        {
-          "name": "[01693] Multi-Purpose Vegetable Cutter Ss#10",
-          "qty": 6.0,
-          "total": 570.0
-        },
-        {
-          "name": "[01694] Multi-Purpose Grater Ss#11g",
-          "qty": 6.0,
-          "total": 678.0
-        },
-        {
-          "name": "[01695] Multi-Purpose Vegetable Cutter Ss#12",
-          "qty": 6.0,
-          "total": 774.0
-        },
-        {
-          "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
-          "qty": 12.0,
-          "total": 180.0
-        },
-        {
-          "name": "[02036] PLASTIC STRAINER BLUE",
-          "qty": 12.0,
-          "total": 144.0
-        },
-        {
-          "name": "[02033] Plastic Strainer Green",
-          "qty": 12.0,
-          "total": 300.0
-        },
-        {
-          "name": "[02035] Plastic Strainer Orange",
-          "qty": 12.0,
-          "total": 180.0
-        },
-        {
-          "name": "[02037] Plastic Strainer Yellow",
-          "qty": 12.0,
-          "total": 108.0
-        },
-        {
-          "name": "[02034] Plastic Strainer red",
-          "qty": 12.0,
-          "total": 228.0
-        },
-        {
-          "name": "[70045] Kids slipper",
-          "qty": 12.0,
-          "total": 828.0
-        },
-        {
-          "name": "[70046] kids slipper green",
-          "qty": 12.0,
-          "total": 1068.0
-        },
-        {
-          "name": "[LG103509] Glass LG-103509 (LG-35) 256ml",
-          "qty": 18.0,
-          "total": 324.0
-        },
-        {
-          "name": "[LG103009] Glass LG-103009 (LG-30) 250ml",
-          "qty": 18.0,
-          "total": 216.0
         }
       ]
     },

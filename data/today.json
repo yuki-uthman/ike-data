@@ -2,20 +2,101 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T12:15:42Z",
+  "generatedAt": "2026-11-07T12:30:57Z",
   "cash": {
     "total": 1043.0,
     "count": 4
   },
   "transfer": {
-    "total": 760.0,
-    "count": 2
+    "total": 6952.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00622",
+      "customer": "Teal Choice D08",
+      "amount": 6192.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:16",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70046] kids slipper green",
+          "qty": 12.0,
+          "total": 1068.0
+        },
+        {
+          "name": "[70045] Kids slipper",
+          "qty": 12.0,
+          "total": 828.0
+        },
+        {
+          "name": "[01695] Multi-Purpose Vegetable Cutter Ss#12",
+          "qty": 6.0,
+          "total": 774.0
+        },
+        {
+          "name": "[01694] Multi-Purpose Grater Ss#11g",
+          "qty": 6.0,
+          "total": 678.0
+        },
+        {
+          "name": "[01895] Mosquito Racket 47*19cm 0008",
+          "qty": 6.0,
+          "total": 594.0
+        },
+        {
+          "name": "[01693] Multi-Purpose Vegetable Cutter Ss#10",
+          "qty": 6.0,
+          "total": 570.0
+        },
+        {
+          "name": "[LG103509] Glass LG-103509 (LG-35) 256ml",
+          "qty": 18.0,
+          "total": 324.0
+        },
+        {
+          "name": "[02033] Plastic Strainer Green",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[02034] Plastic Strainer red",
+          "qty": 12.0,
+          "total": 228.0
+        },
+        {
+          "name": "[LG103009] Glass LG-103009 (LG-30) 250ml",
+          "qty": 18.0,
+          "total": 216.0
+        },
+        {
+          "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[02035] Plastic Strainer Orange",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[02036] PLASTIC STRAINER BLUE",
+          "qty": 12.0,
+          "total": 144.0
+        },
+        {
+          "name": "[02037] Plastic Strainer Yellow",
+          "qty": 12.0,
+          "total": 108.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00620",
       "customer": "Snap Buy",
@@ -120,16 +201,16 @@
   ],
   "methodsSeen": [
     {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 3,
+      "total": 6952.0
+    },
+    {
       "name": "Cash",
       "method": "cash",
       "count": 4,
       "total": 1043.0
-    },
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 2,
-      "total": 760.0
     }
   ],
   "cashOut": {
