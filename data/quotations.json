@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-07T11:15:53Z",
+  "generatedAt": "2026-11-07T11:31:07Z",
   "openCount": 176,
-  "openTotal": 2268879.2,
+  "openTotal": 2273823.2,
   "quotationCount": 98,
-  "quotationTotal": 1287033.75,
+  "quotationTotal": 1291977.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -444,8 +444,8 @@
     {
       "date": "2026-11-07",
       "count": 5,
-      "outstanding": 21932.0,
-      "total": 21932.0
+      "outstanding": 26876.0,
+      "total": 26876.0
     }
   ],
   "quotations": [
@@ -503,6 +503,90 @@
       ]
     },
     {
+      "id": 803,
+      "ref": "S00807",
+      "kind": "quotation",
+      "customer": "Teal Choice D08",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-11-07",
+      "expires": "2026-12-07",
+      "total": 5244.0,
+      "settled": 0.0,
+      "outstanding": 5244.0,
+      "lines": [
+        {
+          "name": "[01895] Mosquito Racket 47*19cm 0008",
+          "qty": 6.0,
+          "total": 594.0
+        },
+        {
+          "name": "[01693] Multi-Purpose Vegetable Cutter Ss#10",
+          "qty": 6.0,
+          "total": 570.0
+        },
+        {
+          "name": "[01694] Multi-Purpose Grater Ss#11g",
+          "qty": 6.0,
+          "total": 678.0
+        },
+        {
+          "name": "[01695] Multi-Purpose Vegetable Cutter Ss#12",
+          "qty": 6.0,
+          "total": 774.0
+        },
+        {
+          "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[02036] PLASTIC STRAINER BLUE",
+          "qty": 12.0,
+          "total": 144.0
+        },
+        {
+          "name": "[02033] Plastic Strainer Green",
+          "qty": 12.0,
+          "total": 300.0
+        },
+        {
+          "name": "[02035] Plastic Strainer Orange",
+          "qty": 12.0,
+          "total": 180.0
+        },
+        {
+          "name": "[02037] Plastic Strainer Yellow",
+          "qty": 12.0,
+          "total": 108.0
+        },
+        {
+          "name": "[02034] Plastic Strainer red",
+          "qty": 12.0,
+          "total": 228.0
+        },
+        {
+          "name": "[70045] Kids slipper",
+          "qty": 6.0,
+          "total": 414.0
+        },
+        {
+          "name": "[70046] kids slipper green",
+          "qty": 6.0,
+          "total": 534.0
+        },
+        {
+          "name": "[LG103509] Glass LG-103509 (LG-35) 256ml",
+          "qty": 18.0,
+          "total": 324.0
+        },
+        {
+          "name": "[LG103009] Glass LG-103009 (LG-30) 250ml",
+          "qty": 18.0,
+          "total": 216.0
+        }
+      ]
+    },
+    {
       "id": 796,
       "ref": "S00800",
       "kind": "quotation",
@@ -537,25 +621,6 @@
           "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
           "qty": 3.0,
           "total": 1017.0
-        }
-      ]
-    },
-    {
-      "id": 795,
-      "ref": "S00799",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-07",
-      "expires": "2026-12-07",
-      "total": 300.0,
-      "settled": 0.0,
-      "outstanding": 300.0,
-      "lines": [
-        {
-          "name": "[MILO900] Milo 900g",
-          "qty": 2.0,
-          "total": 300.0
         }
       ]
     },

@@ -24128,22 +24128,22 @@
     },
     {
       "date": "2026-11-07",
-      "generatedAt": "2026-11-07T11:15:41Z",
+      "generatedAt": "2026-11-07T11:30:58Z",
       "pos": {
         "total": 143.0,
         "count": 2
       },
       "regularSales": {
-        "total": 1360.0,
-        "count": 3
+        "total": 1660.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 21932.0,
+        "total": 26876.0,
         "count": 5
       },
       "cash": {
-        "total": 743.0,
-        "count": 3
+        "total": 1043.0,
+        "count": 4
       },
       "transfer": {
         "total": 760.0,
@@ -24188,6 +24188,22 @@
               "name": "[11435] Milkshake Powder Yam Taro",
               "qty": 1.0,
               "total": 200.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00621",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 300.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:30",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[MILO900] Milo 900g",
+              "qty": 2.0,
+              "total": 300.0
             }
           ]
         },
@@ -24247,7 +24263,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2231.0,
-        "expectedClosing": 2974.0,
+        "expectedClosing": 3274.0,
         "counted": null,
         "difference": null,
         "closed": false,
