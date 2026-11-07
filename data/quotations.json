@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-07T11:31:07Z",
+  "generatedAt": "2026-11-07T11:45:51Z",
   "openCount": 176,
-  "openTotal": 2273823.2,
+  "openTotal": 2274771.2,
   "quotationCount": 98,
-  "quotationTotal": 1291977.75,
+  "quotationTotal": 1292925.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -444,8 +444,8 @@
     {
       "date": "2026-11-07",
       "count": 5,
-      "outstanding": 26876.0,
-      "total": 26876.0
+      "outstanding": 27824.0,
+      "total": 27824.0
     }
   ],
   "quotations": [
@@ -474,35 +474,6 @@
       ]
     },
     {
-      "id": 798,
-      "ref": "S00802",
-      "kind": "quotation",
-      "customer": "Feshey Azum 0-11",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-07",
-      "expires": "2026-12-07",
-      "total": 5965.0,
-      "settled": 0.0,
-      "outstanding": 5965.0,
-      "lines": [
-        {
-          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
-          "qty": 16.0,
-          "total": 4640.0
-        },
-        {
-          "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
-          "qty": 5.0,
-          "total": 1325.0
-        },
-        {
-          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
-          "qty": 42.0,
-          "total": 0.0
-        }
-      ]
-    },
-    {
       "id": 803,
       "ref": "S00807",
       "kind": "quotation",
@@ -510,9 +481,9 @@
       "salesperson": "Ike.Retail.Sales@Gmail.Com",
       "date": "2026-11-07",
       "expires": "2026-12-07",
-      "total": 5244.0,
+      "total": 6192.0,
       "settled": 0.0,
-      "outstanding": 5244.0,
+      "outstanding": 6192.0,
       "lines": [
         {
           "name": "[01895] Mosquito Racket 47*19cm 0008",
@@ -566,13 +537,13 @@
         },
         {
           "name": "[70045] Kids slipper",
-          "qty": 6.0,
-          "total": 414.0
+          "qty": 12.0,
+          "total": 828.0
         },
         {
           "name": "[70046] kids slipper green",
-          "qty": 6.0,
-          "total": 534.0
+          "qty": 12.0,
+          "total": 1068.0
         },
         {
           "name": "[LG103509] Glass LG-103509 (LG-35) 256ml",
@@ -583,6 +554,35 @@
           "name": "[LG103009] Glass LG-103009 (LG-30) 250ml",
           "qty": 18.0,
           "total": 216.0
+        }
+      ]
+    },
+    {
+      "id": 798,
+      "ref": "S00802",
+      "kind": "quotation",
+      "customer": "Feshey Azum 0-11",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-07",
+      "expires": "2026-12-07",
+      "total": 5965.0,
+      "settled": 0.0,
+      "outstanding": 5965.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 16.0,
+          "total": 4640.0
+        },
+        {
+          "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
+          "qty": 5.0,
+          "total": 1325.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 42.0,
+          "total": 0.0
         }
       ]
     },
