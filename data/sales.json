@@ -24128,7 +24128,7 @@
     },
     {
       "date": "2026-11-07",
-      "generatedAt": "2026-11-07T16:30:57Z",
+      "generatedAt": "2026-11-07T16:45:41Z",
       "pos": {
         "total": 661.0,
         "count": 6
@@ -24412,10 +24412,24 @@
         }
       ],
       "cashOut": {
-        "total": 20.0,
-        "count": 2
+        "total": 115.0,
+        "count": 4
       },
       "cashOutTransactions": [
+        {
+          "reason": "Redfox spray paint 2 bottles--Nagaraj",
+          "amount": 85.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:33"
+        },
+        {
+          "reason": "10 pcs ice cream spoon.",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:34"
+        },
         {
           "reason": "Super glue -- Nagarajan",
           "amount": 10.0,
@@ -24433,7 +24447,7 @@
       ],
       "till": {
         "opening": 2231.0,
-        "expectedClosing": 3412.0,
+        "expectedClosing": 3317.0,
         "counted": null,
         "difference": null,
         "closed": false,
