@@ -24128,10 +24128,10 @@
     },
     {
       "date": "2026-11-07",
-      "generatedAt": "2026-11-07T12:30:57Z",
+      "generatedAt": "2026-11-07T12:45:42Z",
       "pos": {
-        "total": 143.0,
-        "count": 2
+        "total": 341.0,
+        "count": 4
       },
       "regularSales": {
         "total": 7852.0,
@@ -24142,12 +24142,12 @@
         "count": 4
       },
       "cash": {
-        "total": 1043.0,
-        "count": 4
+        "total": 1046.0,
+        "count": 5
       },
       "transfer": {
-        "total": 6952.0,
-        "count": 3
+        "total": 7147.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -24305,6 +24305,22 @@
           ]
         },
         {
+          "ref": "Ike - 000572",
+          "customer": "Walk-in",
+          "amount": 195.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:39",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02444] ironing board",
+              "qty": 1.0,
+              "total": 195.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000570",
           "customer": "Walk-in",
           "amount": 95.0,
@@ -24335,6 +24351,27 @@
               "total": 48.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000573",
+          "customer": "Walk-in",
+          "amount": 3.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:42",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02222] Paper Salad Bowl 500ml",
+              "qty": 2.0,
+              "total": 2.0
+            },
+            {
+              "name": "[8389] Aluminium Foil Box 8389 Loose",
+              "qty": 1.0,
+              "total": 1.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24344,7 +24381,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2231.0,
-        "expectedClosing": 3274.0,
+        "expectedClosing": 3277.0,
         "counted": null,
         "difference": null,
         "closed": false,
