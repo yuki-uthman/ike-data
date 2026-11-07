@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-07T04:45:48Z",
-  "openCount": 174,
-  "openTotal": 2249514.2,
-  "quotationCount": 96,
-  "quotationTotal": 1267668.75,
+  "generatedAt": "2026-11-07T05:01:20Z",
+  "openCount": 175,
+  "openTotal": 2255479.2,
+  "quotationCount": 97,
+  "quotationTotal": 1273633.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -443,12 +443,41 @@
     },
     {
       "date": "2026-11-07",
-      "count": 3,
-      "outstanding": 2567.0,
-      "total": 2567.0
+      "count": 4,
+      "outstanding": 8532.0,
+      "total": 8532.0
     }
   ],
   "quotations": [
+    {
+      "id": 798,
+      "ref": "S00802",
+      "kind": "quotation",
+      "customer": "Feshey Azum 0-11",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-07",
+      "expires": "2026-12-07",
+      "total": 5965.0,
+      "settled": 0.0,
+      "outstanding": 5965.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 16.0,
+          "total": 4640.0
+        },
+        {
+          "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
+          "qty": 5.0,
+          "total": 1325.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 42.0,
+          "total": 0.0
+        }
+      ]
+    },
     {
       "id": 796,
       "ref": "S00800",
