@@ -24068,32 +24068,48 @@
     },
     {
       "date": "2026-11-08",
-      "generatedAt": "2026-11-08T05:15:40Z",
+      "generatedAt": "2026-11-08T05:30:58Z",
       "pos": {
         "total": 27.0,
         "count": 1
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 339.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 34865.0,
-        "count": 2
+        "total": 37150.0,
+        "count": 3
       },
       "cash": {
         "total": 27.0,
         "count": 1
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 339.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00623",
+          "customer": "Kiwome Shop / G-O2",
+          "amount": 339.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:22",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000577",
           "customer": "Walk-in",
