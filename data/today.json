@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T04:30:57Z",
+  "generatedAt": "2026-11-08T04:45:39Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 27.0,
+    "count": 1
   },
   "transfer": {
     "total": 0,
@@ -15,8 +15,32 @@
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "Ike - 000577",
+      "customer": "Walk-in",
+      "amount": 27.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "09:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02068] Flower Pot 23x20cm E300x260",
+          "qty": 3.0,
+          "total": 27.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 27.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
@@ -24,7 +48,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3376.0,
-    "expectedClosing": 3376.0,
+    "expectedClosing": 3403.0,
     "counted": null,
     "difference": null,
     "closed": false,
