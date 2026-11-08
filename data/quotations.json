@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-08T04:15:56Z",
-  "openCount": 175,
-  "openTotal": 2268579.2,
-  "quotationCount": 97,
-  "quotationTotal": 1286733.75,
+  "generatedAt": "2026-11-08T04:31:06Z",
+  "openCount": 176,
+  "openTotal": 2297479.2,
+  "quotationCount": 98,
+  "quotationTotal": 1315633.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -449,12 +449,36 @@
     },
     {
       "date": "2026-11-08",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 28900.0,
+      "total": 28900.0
     }
   ],
   "quotations": [
+    {
+      "id": 804,
+      "ref": "S00808",
+      "kind": "quotation",
+      "customer": "Ns Essential",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-08",
+      "expires": "2026-12-08",
+      "total": 28900.0,
+      "settled": 0.0,
+      "outstanding": 28900.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-SSP-1950-X06] #RD8 White Single Perforated 1950mm x6",
+          "qty": 1.0,
+          "total": 12600.0
+        },
+        {
+          "name": "[RD8-WHT-SSP-1950-X07] #RD8 White Single Perforated 1950mm x7",
+          "qty": 1.0,
+          "total": 16300.0
+        }
+      ]
+    },
     {
       "id": 800,
       "ref": "S00804",
