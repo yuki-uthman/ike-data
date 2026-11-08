@@ -24068,7 +24068,7 @@
     },
     {
       "date": "2026-11-08",
-      "generatedAt": "2026-11-08T04:01:08Z",
+      "generatedAt": "2026-11-08T04:15:41Z",
       "pos": {
         "total": 0,
         "count": 0
@@ -24099,7 +24099,14 @@
         "count": 0
       },
       "cashOutTransactions": [],
-      "till": null
+      "till": {
+        "opening": 3376.0,
+        "expectedClosing": 3376.0,
+        "counted": null,
+        "difference": null,
+        "closed": false,
+        "sessionCount": 1
+      }
     }
   ]
 }
