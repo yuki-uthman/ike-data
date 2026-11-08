@@ -24068,10 +24068,10 @@
     },
     {
       "date": "2026-11-08",
-      "generatedAt": "2026-11-08T17:01:13Z",
+      "generatedAt": "2026-11-08T17:15:41Z",
       "pos": {
-        "total": 821.0,
-        "count": 4
+        "total": 886.0,
+        "count": 5
       },
       "regularSales": {
         "total": 8479.0,
@@ -24086,8 +24086,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 7999.0,
-        "count": 7
+        "total": 8064.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -24307,6 +24307,22 @@
               "name": "[01112] Steel Wool #40 Loose",
               "qty": 1.0,
               "total": 5.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000581",
+          "customer": "Walk-in",
+          "amount": 65.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:08",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soklin Detergent Liquid White (1 liter)",
+              "qty": 1.0,
+              "total": 65.0
             }
           ]
         },
