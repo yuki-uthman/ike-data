@@ -24068,10 +24068,10 @@
     },
     {
       "date": "2026-11-08",
-      "generatedAt": "2026-11-08T16:01:08Z",
+      "generatedAt": "2026-11-08T16:10:32Z",
       "pos": {
-        "total": 656.0,
-        "count": 3
+        "total": 821.0,
+        "count": 4
       },
       "regularSales": {
         "total": 8479.0,
@@ -24086,8 +24086,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 7834.0,
-        "count": 6
+        "total": 7999.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -24254,6 +24254,22 @@
               "name": "[70146] Hook Slat 12\"",
               "qty": 5.0,
               "total": 80.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000580",
+          "customer": "Walk-in",
+          "amount": 165.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:04",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70048] slipper",
+              "qty": 1.0,
+              "total": 165.0
             }
           ]
         },

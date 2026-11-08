@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T16:01:08Z",
+  "generatedAt": "2026-11-08T16:10:32Z",
   "cash": {
     "total": 1301.0,
     "count": 5
   },
   "transfer": {
-    "total": 7834.0,
-    "count": 6
+    "total": 7999.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -180,6 +180,22 @@
       ]
     },
     {
+      "ref": "Ike - 000580",
+      "customer": "Walk-in",
+      "amount": 165.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "21:04",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70048] slipper",
+          "qty": 1.0,
+          "total": 165.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00630",
       "customer": "Sales",
       "amount": 145.0,
@@ -245,6 +261,12 @@
       "method": "cash",
       "count": 5,
       "total": 1301.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 165.0
     }
   ],
   "cashOut": {
