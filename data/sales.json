@@ -24068,17 +24068,17 @@
     },
     {
       "date": "2026-11-08",
-      "generatedAt": "2026-11-08T05:30:58Z",
+      "generatedAt": "2026-11-08T05:45:40Z",
       "pos": {
         "total": 27.0,
         "count": 1
       },
       "regularSales": {
-        "total": 339.0,
-        "count": 1
+        "total": 619.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 37150.0,
+        "total": 37548.0,
         "count": 3
       },
       "cash": {
@@ -24086,8 +24086,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 339.0,
-        "count": 1
+        "total": 619.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -24107,6 +24107,27 @@
               "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
               "qty": 1.0,
               "total": 339.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00624",
+          "customer": "Island Divers",
+          "amount": 280.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:34",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70143] Hook Slat 6\"",
+              "qty": 20.0,
+              "total": 200.0
+            },
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 5.0,
+              "total": 80.0
             }
           ]
         },

@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-08T05:31:07Z",
+  "generatedAt": "2026-11-08T05:45:50Z",
   "openCount": 178,
-  "openTotal": 2305729.2,
+  "openTotal": 2306127.2,
   "quotationCount": 100,
-  "quotationTotal": 1323883.75,
+  "quotationTotal": 1324281.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -450,8 +450,8 @@
     {
       "date": "2026-11-08",
       "count": 3,
-      "outstanding": 37150.0,
-      "total": 37150.0
+      "outstanding": 37548.0,
+      "total": 37548.0
     }
   ],
   "quotations": [
@@ -509,26 +509,26 @@
       ]
     },
     {
-      "id": 805,
-      "ref": "S00809",
+      "id": 808,
+      "ref": "S00812",
       "kind": "quotation",
-      "customer": "Island Divers",
+      "customer": "Alaalmart  E. 9",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-08",
       "expires": "2026-12-08",
-      "total": 280.0,
+      "total": 678.0,
       "settled": 0.0,
-      "outstanding": 280.0,
+      "outstanding": 678.0,
       "lines": [
         {
-          "name": "[70143] Hook Slat 6\"",
-          "qty": 20.0,
-          "total": 200.0
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
         },
         {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 5.0,
-          "total": 80.0
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
         }
       ]
     },
