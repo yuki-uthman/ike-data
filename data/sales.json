@@ -3,426 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-10",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 41387.0,
-        "count": 17
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 4448.0,
-        "count": 3
-      },
-      "cash": {
-        "total": 279.0,
-        "count": 8
-      },
-      "transfer": {
-        "total": 41108.0,
-        "count": 9
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00112 (S00196)",
-          "customer": "Manthiri Store  Q-10",
-          "amount": 20165.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "15:13",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
-              "qty": 1.0,
-              "total": 6900.0
-            },
-            {
-              "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
-              "qty": 1.0,
-              "total": 6700.0
-            },
-            {
-              "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
-              "qty": 1.0,
-              "total": 1950.0
-            },
-            {
-              "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
-              "qty": 1.0,
-              "total": 1950.0
-            },
-            {
-              "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
-              "qty": 1.0,
-              "total": 1540.0
-            },
-            {
-              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-              "qty": 45.0,
-              "total": 1125.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00111 (S00185)",
-          "customer": "Eyecare Pvt",
-          "amount": 9900.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:34",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70176] 51 Warehouse Rack White Large",
-              "qty": 5.0,
-              "total": 9900.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00110 (S00198)",
-          "customer": "Feneenaa B-12",
-          "amount": 6560.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:52",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389P] Aluminium Foil Box 8389 + Plastic Lid [case]",
-              "qty": 4.0,
-              "total": 6560.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00113 (S00202)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 2744.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:27",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
-              "qty": 1.0,
-              "total": 1200.0
-            },
-            {
-              "name": "[R12C] Plastic Container A12 [case]",
-              "qty": 1.0,
-              "total": 1160.0
-            },
-            {
-              "name": "[70074] Towel 042-02 30*40cm",
-              "qty": 10.0,
-              "total": 150.0
-            },
-            {
-              "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
-              "qty": 1.0,
-              "total": 39.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00114 (Ike - 000133)",
-          "customer": "Red Bee Mart",
-          "amount": 936.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:46",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90048] Milkshake Powder Belgian Chocolate",
-              "qty": 2.0,
-              "total": 560.0
-            },
-            {
-              "name": "[90036] Milkshake Powder Chocolate",
-              "qty": 1.0,
-              "total": 220.0
-            },
-            {
-              "name": "[02232] Ice Cream Spoon 100pcs",
-              "qty": 4.0,
-              "total": 156.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000129",
-          "customer": "Sales",
-          "amount": 560.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:21",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90048] Milkshake Powder Belgian Chocolate",
-              "qty": 2.0,
-              "total": 560.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000100",
-          "customer": "Walk-in",
-          "amount": 150.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:40",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 50.0,
-              "total": 150.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000098",
-          "customer": "Walk-in",
-          "amount": 101.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:32",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70126] Dustbin Plastic 26cm #601",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[01680] Table Mat Pvc 30x45cm #3",
-              "qty": 1.0,
-              "total": 19.0
-            },
-            {
-              "name": "[70075] Towel 042-0983 35*75cm",
-              "qty": 1.0,
-              "total": 19.0
-            },
-            {
-              "name": "[70074] Towel 042-02 30*40cm",
-              "qty": 1.0,
-              "total": 15.0
-            },
-            {
-              "name": "[70076] Towel 042-0980 30*30cm",
-              "qty": 1.0,
-              "total": 9.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000094",
-          "customer": "Walk-in",
-          "amount": 75.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "14:31",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70031] Cloth Hanger Plastic Round 42x42cm #0316",
-              "qty": 1.0,
-              "total": 59.0
-            },
-            {
-              "name": "[42688] Spoon small flatware Ss#3 Red",
-              "qty": 2.0,
-              "total": 16.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000093",
-          "customer": "Walk-in",
-          "amount": 40.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:18",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01699] Strainer Steel 10cm Ym-055#17",
-              "qty": 1.0,
-              "total": 25.0
-            },
-            {
-              "name": "[02035] Plastic Strainer Orange",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000092",
-          "customer": "Walk-in",
-          "amount": 40.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:10",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02393] Dustbin Bag",
-              "qty": 1.0,
-              "total": 40.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000099",
-          "customer": "Walk-in",
-          "amount": 25.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:51",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70066] Sponges 3pcs*200pcs#24",
-              "qty": 1.0,
-              "total": 25.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000102",
-          "customer": "Walk-in",
-          "amount": 20.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:24",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000096",
-          "customer": "Walk-in",
-          "amount": 19.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:51",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70075] Towel 042-0983 35*75cm",
-              "qty": 1.0,
-              "total": 19.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000095",
-          "customer": "Walk-in",
-          "amount": 19.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:32",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70071] Sponge 5pcs X 6pkts #23",
-              "qty": 1.0,
-              "total": 19.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000101",
-          "customer": "Walk-in",
-          "amount": 18.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "21:51",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70076] Towel 042-0980 30*30cm",
-              "qty": 2.0,
-              "total": 18.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000097",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:14",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01907] Toilet Brush Plastic #36",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 11482.0,
-        "expectedClosing": 11761.0,
-        "counted": 11761.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-11",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -24394,6 +23974,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-09",
+      "generatedAt": "2026-11-08T19:01:11Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
