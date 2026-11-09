@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T06:15:52Z",
-  "openCount": 181,
-  "openTotal": 2308722.2,
-  "quotationCount": 103,
-  "quotationTotal": 1326876.75,
+  "generatedAt": "2026-11-09T06:31:10Z",
+  "openCount": 182,
+  "openTotal": 2326422.2,
+  "quotationCount": 104,
+  "quotationTotal": 1344576.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -455,12 +455,36 @@
     },
     {
       "date": "2026-11-09",
-      "count": 2,
-      "outstanding": 1520.0,
-      "total": 1520.0
+      "count": 3,
+      "outstanding": 19220.0,
+      "total": 19220.0
     }
   ],
   "quotations": [
+    {
+      "id": 822,
+      "ref": "S00826",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-09",
+      "expires": "2026-12-09",
+      "total": 17700.0,
+      "settled": 0.0,
+      "outstanding": 17700.0,
+      "lines": [
+        {
+          "name": "Menu Book A4",
+          "qty": 10.0,
+          "total": 17450.0
+        },
+        {
+          "name": "Apron - Cotton Medium",
+          "qty": 1.0,
+          "total": 250.0
+        }
+      ]
+    },
     {
       "id": 818,
       "ref": "S00822",
