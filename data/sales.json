@@ -23977,10 +23977,10 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T15:45:45Z",
+      "generatedAt": "2026-11-09T16:01:15Z",
       "pos": {
-        "total": 797.0,
-        "count": 9
+        "total": 992.0,
+        "count": 10
       },
       "regularSales": {
         "total": 40609.0,
@@ -23995,8 +23995,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 40447.0,
-        "count": 10
+        "total": 40642.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -24291,6 +24291,22 @@
               "name": "[90042] Milkshake Powder Avocado",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000592",
+          "customer": "Walk-in",
+          "amount": 195.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01954] Ironing Board Small",
+              "qty": 1.0,
+              "total": 195.0
             }
           ]
         },
