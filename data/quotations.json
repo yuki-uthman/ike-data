@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T08:31:17Z",
-  "openCount": 183,
-  "openTotal": 2326912.2,
+  "generatedAt": "2026-11-09T08:45:52Z",
+  "openCount": 184,
+  "openTotal": 2328347.2,
   "quotationCount": 105,
-  "quotationTotal": 1345066.75,
-  "orderCount": 78,
-  "orderTotal": 981845.45,
+  "quotationTotal": 1346011.75,
+  "orderCount": 79,
+  "orderTotal": 982335.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -455,9 +455,9 @@
     },
     {
       "date": "2026-11-09",
-      "count": 4,
-      "outstanding": 19710.0,
-      "total": 19710.0
+      "count": 5,
+      "outstanding": 21145.0,
+      "total": 21145.0
     }
   ],
   "quotations": [
@@ -482,6 +482,30 @@
           "name": "Apron - Cotton Medium",
           "qty": 1.0,
           "total": 250.0
+        }
+      ]
+    },
+    {
+      "id": 824,
+      "ref": "S00828",
+      "kind": "quotation",
+      "customer": "Leonora B-4",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-09",
+      "expires": "2026-12-09",
+      "total": 1435.0,
+      "settled": 0.0,
+      "outstanding": 1435.0,
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 1.0,
+          "total": 550.0
+        },
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
         }
       ]
     },
@@ -536,7 +560,7 @@
     {
       "id": 823,
       "ref": "S00827",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Gems View / C-15",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-09",
