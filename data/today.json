@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T05:31:02Z",
+  "generatedAt": "2026-11-09T05:45:40Z",
   "cash": {
-    "total": 220.0,
-    "count": 1
+    "total": 280.0,
+    "count": 2
   },
   "transfer": {
-    "total": 2242.0,
-    "count": 2
+    "total": 2842.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -54,6 +54,32 @@
       ]
     },
     {
+      "ref": "INV/2026/00634",
+      "customer": "Blooms Supplies",
+      "amount": 600.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:38",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[54646] Milkshake Powder Blue Ice",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[90043] Milkshake Powder Butterscotch",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00632",
       "customer": "Snap Buy",
       "amount": 220.0,
@@ -68,20 +94,36 @@
           "total": 220.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000583",
+      "customer": "Walk-in",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:35",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) (800 ml)",
+          "qty": 2.0,
+          "total": 60.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 2242.0
+      "count": 3,
+      "total": 2842.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 220.0
+      "count": 2,
+      "total": 280.0
     }
   ],
   "cashOut": {
@@ -91,7 +133,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3372.0,
-    "expectedClosing": 3592.0,
+    "expectedClosing": 3652.0,
     "counted": null,
     "difference": null,
     "closed": false,
