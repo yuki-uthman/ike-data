@@ -3,187 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-11",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 778.0,
-        "count": 8
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 578.0,
-        "count": 7
-      },
-      "transfer": {
-        "total": 200.0,
-        "count": 1
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "Ike - 000106",
-          "customer": "Walk-in",
-          "amount": 270.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:17",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70020] SHOPPING BASKET GRAY 612 S3",
-              "qty": 2.0,
-              "total": 270.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00115 (Ike - 000134)",
-          "customer": "Dough Depot",
-          "amount": 200.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:25",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[06705] Milkshake Powder Vanilla",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000107",
-          "customer": "Walk-in",
-          "amount": 180.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:16",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02119] Artificial Hanging Plant D1",
-              "qty": 1.0,
-              "total": 180.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000108",
-          "customer": "Walk-in",
-          "amount": 54.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:32",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 10.0,
-              "total": 30.0
-            },
-            {
-              "name": "[83241] Aluminium Foil Box 83241 Loose",
-              "qty": 8.0,
-              "total": 24.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000105",
-          "customer": "Walk-in",
-          "amount": 29.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:06",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02139] Plastic container round big 02061 small",
-              "qty": 1.0,
-              "total": 29.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000109",
-          "customer": "Walk-in",
-          "amount": 19.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:53",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70075] Towel 042-0983 35*75cm",
-              "qty": 1.0,
-              "total": 19.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000103",
-          "customer": "Walk-in",
-          "amount": 16.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:08",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[2268] Tooth Pick",
-              "qty": 1.0,
-              "total": 10.0
-            },
-            {
-              "name": "[0012] Sponge WJ631 Loose PC",
-              "qty": 2.0,
-              "total": 6.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000104",
-          "customer": "Walk-in",
-          "amount": 10.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:57",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
-              "qty": 1.0,
-              "total": 10.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 1532.0,
-        "expectedClosing": 2110.0,
-        "counted": 2110.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-12",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -24584,6 +24403,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-10",
+      "generatedAt": "2026-11-09T19:01:16Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
