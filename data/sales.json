@@ -23977,10 +23977,10 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T10:01:18Z",
+      "generatedAt": "2026-11-09T10:15:46Z",
       "pos": {
-        "total": 167.0,
-        "count": 2
+        "total": 432.0,
+        "count": 3
       },
       "regularSales": {
         "total": 5987.0,
@@ -23991,8 +23991,8 @@
         "count": 5
       },
       "cash": {
-        "total": 387.0,
-        "count": 3
+        "total": 652.0,
+        "count": 4
       },
       "transfer": {
         "total": 5767.0,
@@ -24125,6 +24125,27 @@
           ]
         },
         {
+          "ref": "Ike - 000585",
+          "customer": "Walk-in",
+          "amount": 265.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "15:07",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01633] Kitchen Sale 5kg#KE-2",
+              "qty": 1.0,
+              "total": 165.0
+            },
+            {
+              "name": "Kraft burger box 1pcs",
+              "qty": 50.0,
+              "total": 100.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00632",
           "customer": "Snap Buy",
           "amount": 220.0,
@@ -24185,7 +24206,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3372.0,
-        "expectedClosing": 3759.0,
+        "expectedClosing": 4024.0,
         "counted": null,
         "difference": null,
         "closed": false,
