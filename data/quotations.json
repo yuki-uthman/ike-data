@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T11:45:51Z",
+  "generatedAt": "2026-11-09T12:01:24Z",
   "openCount": 182,
   "openTotal": 2356806.2,
-  "quotationCount": 104,
-  "quotationTotal": 1374960.75,
-  "orderCount": 78,
-  "orderTotal": 981845.45,
+  "quotationCount": 103,
+  "quotationTotal": 1344611.75,
+  "orderCount": 79,
+  "orderTotal": 1012194.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -449,18 +449,92 @@
     },
     {
       "date": "2026-11-08",
-      "count": 5,
-      "outstanding": 69104.0,
-      "total": 69104.0
+      "count": 4,
+      "outstanding": 38755.0,
+      "total": 38755.0
     },
     {
       "date": "2026-11-09",
-      "count": 3,
-      "outstanding": 20140.0,
-      "total": 20140.0
+      "count": 4,
+      "outstanding": 50489.0,
+      "total": 50489.0
     }
   ],
   "quotations": [
+    {
+      "id": 816,
+      "ref": "S00820",
+      "kind": "order",
+      "customer": "Kims Print Hdh.Makunudhoo B-17",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-09",
+      "expires": "2026-12-08",
+      "total": 30349.0,
+      "settled": 0.0,
+      "outstanding": 30349.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "[POCKY-C120] Pocky Chocolate (Case 120pcs)",
+          "qty": 1.0,
+          "total": 2500.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 2.0,
+          "total": 3800.0
+        },
+        {
+          "name": "[2C-WHT-DS-2000-X04] #2C White Double Side 2000mm x4",
+          "qty": 1.0,
+          "total": 10600.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X04] #2C White Single Side 2000mm x4",
+          "qty": 1.0,
+          "total": 6400.0
+        },
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        },
+        {
+          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+          "qty": 2.0,
+          "total": 3080.0
+        }
+      ]
+    },
     {
       "id": 822,
       "ref": "S00826",
@@ -559,80 +633,6 @@
           "name": "[70196] Cash Counter 6ftx2ft",
           "qty": 1.0,
           "total": 7035.0
-        }
-      ]
-    },
-    {
-      "id": 816,
-      "ref": "S00820",
-      "kind": "quotation",
-      "customer": "Kims Print Hdh.Makunudhoo B-17",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-08",
-      "expires": "2026-12-08",
-      "total": 30349.0,
-      "settled": 0.0,
-      "outstanding": 30349.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        },
-        {
-          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
-          "qty": 1.0,
-          "total": 350.0
-        },
-        {
-          "name": "[POCKY-C120] Pocky Chocolate (Case 120pcs)",
-          "qty": 1.0,
-          "total": 2500.0
-        },
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "[70187] Trolley Stand 5 Layer White",
-          "qty": 2.0,
-          "total": 3800.0
-        },
-        {
-          "name": "[2C-WHT-DS-2000-X04] #2C White Double Side 2000mm x4",
-          "qty": 1.0,
-          "total": 10600.0
-        },
-        {
-          "name": "[2C-WHT-SS-2000-X04] #2C White Single Side 2000mm x4",
-          "qty": 1.0,
-          "total": 6400.0
-        },
-        {
-          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
-          "qty": 1.0,
-          "total": 1225.0
-        },
-        {
-          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
-          "qty": 2.0,
-          "total": 3080.0
         }
       ]
     },
