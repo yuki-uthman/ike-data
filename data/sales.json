@@ -23977,26 +23977,26 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T12:45:40Z",
+      "generatedAt": "2026-11-09T13:01:13Z",
       "pos": {
-        "total": 739.0,
-        "count": 8
-      },
-      "regularSales": {
-        "total": 38629.0,
+        "total": 797.0,
         "count": 9
       },
+      "regularSales": {
+        "total": 40609.0,
+        "count": 10
+      },
       "pendingQuotations": {
-        "total": 24960.0,
-        "count": 5
+        "total": 22980.0,
+        "count": 4
       },
       "cash": {
         "total": 959.0,
         "count": 9
       },
       "transfer": {
-        "total": 38409.0,
-        "count": 8
+        "total": 40447.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -24117,6 +24117,22 @@
               "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
               "qty": 1.0,
               "total": 295.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00640",
+          "customer": "Hardware SS",
+          "amount": 1980.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:48",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[65356] Tool Box X1",
+              "qty": 36.0,
+              "total": 1980.0
             }
           ]
         },
@@ -24380,6 +24396,22 @@
               "name": "Soklin Floor Cleaner Rose (Pink) (800 ml)",
               "qty": 2.0,
               "total": 60.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000591",
+          "customer": "Walk-in",
+          "amount": 58.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:59",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70127] Hanger Plastic 27cm #C-519",
+              "qty": 2.0,
+              "total": 58.0
             }
           ]
         },

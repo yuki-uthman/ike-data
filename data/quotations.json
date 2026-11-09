@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T12:45:51Z",
-  "openCount": 183,
-  "openTotal": 2331277.2,
-  "quotationCount": 105,
-  "quotationTotal": 1349431.75,
+  "generatedAt": "2026-11-09T13:01:26Z",
+  "openCount": 182,
+  "openTotal": 2329297.2,
+  "quotationCount": 104,
+  "quotationTotal": 1347451.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -455,9 +455,9 @@
     },
     {
       "date": "2026-11-09",
-      "count": 5,
-      "outstanding": 24960.0,
-      "total": 24960.0
+      "count": 4,
+      "outstanding": 22980.0,
+      "total": 22980.0
     }
   ],
   "quotations": [
@@ -501,25 +501,6 @@
           "name": "[70176] 51 Warehouse Rack White Large",
           "qty": 2.0,
           "total": 3960.0
-        }
-      ]
-    },
-    {
-      "id": 826,
-      "ref": "S00830",
-      "kind": "quotation",
-      "customer": "Hardware SS",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-09",
-      "expires": "2026-12-09",
-      "total": 1980.0,
-      "settled": 0.0,
-      "outstanding": 1980.0,
-      "lines": [
-        {
-          "name": "[65356] Tool Box X1",
-          "qty": 36.0,
-          "total": 1980.0
         }
       ]
     },
