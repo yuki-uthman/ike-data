@@ -2,20 +2,91 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T12:01:14Z",
+  "generatedAt": "2026-11-09T12:15:43Z",
   "cash": {
-    "total": 652.0,
-    "count": 4
+    "total": 682.0,
+    "count": 5
   },
   "transfer": {
-    "total": 8060.0,
-    "count": 7
+    "total": 38409.0,
+    "count": 8
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00639",
+      "customer": "Kims Print Hdh.Makunudhoo B-17",
+      "amount": 30349.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:09",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-DS-2000-X04] #2C White Double Side 2000mm x4",
+          "qty": 1.0,
+          "total": 10600.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X04] #2C White Single Side 2000mm x4",
+          "qty": 1.0,
+          "total": 6400.0
+        },
+        {
+          "name": "[70187] Trolley Stand 5 Layer White",
+          "qty": 2.0,
+          "total": 3800.0
+        },
+        {
+          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
+          "qty": 2.0,
+          "total": 3080.0
+        },
+        {
+          "name": "[POCKY-C120] Pocky Chocolate (Case 120pcs)",
+          "qty": 1.0,
+          "total": 2500.0
+        },
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        },
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
+        },
+        {
+          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
+          "qty": 1.0,
+          "total": 450.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00638",
       "customer": "Lagoon Mart U-1",
@@ -256,20 +327,36 @@
           "total": 60.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000586",
+      "customer": "Walk-in",
+      "amount": 30.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:12",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Bundle (6pcs)",
+          "qty": 1.0,
+          "total": 30.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 8060.0
+      "count": 8,
+      "total": 38409.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 652.0
+      "count": 5,
+      "total": 682.0
     }
   ],
   "cashOut": {
@@ -279,7 +366,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3372.0,
-    "expectedClosing": 4024.0,
+    "expectedClosing": 4054.0,
     "counted": null,
     "difference": null,
     "closed": false,

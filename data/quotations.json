@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T12:01:24Z",
-  "openCount": 182,
-  "openTotal": 2356806.2,
+  "generatedAt": "2026-11-09T12:15:52Z",
+  "openCount": 181,
+  "openTotal": 2325337.2,
   "quotationCount": 103,
-  "quotationTotal": 1344611.75,
-  "orderCount": 79,
-  "orderTotal": 1012194.45,
+  "quotationTotal": 1343491.75,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -455,86 +455,12 @@
     },
     {
       "date": "2026-11-09",
-      "count": 4,
-      "outstanding": 50489.0,
-      "total": 50489.0
+      "count": 3,
+      "outstanding": 19020.0,
+      "total": 19020.0
     }
   ],
   "quotations": [
-    {
-      "id": 816,
-      "ref": "S00820",
-      "kind": "order",
-      "customer": "Kims Print Hdh.Makunudhoo B-17",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-09",
-      "expires": "2026-12-08",
-      "total": 30349.0,
-      "settled": 0.0,
-      "outstanding": 30349.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
-        },
-        {
-          "name": "Willie Wafer Chocolate Stick - Case (6 bundles, 40 gr)",
-          "qty": 1.0,
-          "total": 450.0
-        },
-        {
-          "name": "Better Sandwich Biscuit - Case (12 bundles, 23 gr)",
-          "qty": 1.0,
-          "total": 350.0
-        },
-        {
-          "name": "[POCKY-C120] Pocky Chocolate (Case 120pcs)",
-          "qty": 1.0,
-          "total": 2500.0
-        },
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "[70187] Trolley Stand 5 Layer White",
-          "qty": 2.0,
-          "total": 3800.0
-        },
-        {
-          "name": "[2C-WHT-DS-2000-X04] #2C White Double Side 2000mm x4",
-          "qty": 1.0,
-          "total": 10600.0
-        },
-        {
-          "name": "[2C-WHT-SS-2000-X04] #2C White Single Side 2000mm x4",
-          "qty": 1.0,
-          "total": 6400.0
-        },
-        {
-          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
-          "qty": 1.0,
-          "total": 1225.0
-        },
-        {
-          "name": "[RACKLKHM] Lui Kaana Haru Medium 5 Layers",
-          "qty": 2.0,
-          "total": 3080.0
-        }
-      ]
-    },
     {
       "id": 822,
       "ref": "S00826",
@@ -567,14 +493,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-09",
       "expires": "2026-12-09",
-      "total": 1920.0,
+      "total": 800.0,
       "settled": 0.0,
-      "outstanding": 1920.0,
+      "outstanding": 800.0,
       "lines": [
         {
           "name": "[2169RED] PLASTIC CHAIR Red #2169",
-          "qty": 12.0,
-          "total": 1920.0
+          "qty": 5.0,
+          "total": 800.0
         }
       ]
     },
