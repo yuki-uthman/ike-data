@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T09:16:02Z",
+  "generatedAt": "2026-11-09T09:31:50Z",
   "openCount": 183,
   "openTotal": 2328777.2,
-  "quotationCount": 105,
-  "quotationTotal": 1346931.75,
-  "orderCount": 78,
-  "orderTotal": 981845.45,
+  "quotationCount": 104,
+  "quotationTotal": 1345496.75,
+  "orderCount": 79,
+  "orderTotal": 983280.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -507,7 +507,7 @@
     {
       "id": 824,
       "ref": "S00828",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Leonora B-4",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-09",
