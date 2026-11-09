@@ -23977,32 +23977,49 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T04:15:44Z",
+      "generatedAt": "2026-11-09T04:30:59Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1017.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 1520.0,
+        "count": 2
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1017.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00631",
+          "customer": "Koobe E-08",
+          "amount": 1017.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:17",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 3.0,
+              "total": 1017.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
