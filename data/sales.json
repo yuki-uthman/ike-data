@@ -23977,26 +23977,26 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T17:45:46Z",
+      "generatedAt": "2026-11-09T18:01:22Z",
       "pos": {
         "total": 1810.0,
         "count": 13
       },
       "regularSales": {
-        "total": 41834.0,
-        "count": 11
+        "total": 42634.0,
+        "count": 12
       },
       "pendingQuotations": {
-        "total": 22980.0,
-        "count": 4
+        "total": 22180.0,
+        "count": 3
       },
       "cash": {
         "total": 1078.0,
         "count": 11
       },
       "transfer": {
-        "total": 42566.0,
-        "count": 13
+        "total": 43366.0,
+        "count": 14
       },
       "other": {
         "total": 0,
@@ -24228,6 +24228,22 @@
               "name": "[10007] Plastic Container T2 [case]",
               "qty": 1.0,
               "total": 1000.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00642",
+          "customer": "Busy Biz K-8",
+          "amount": 800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:48",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2169RED] PLASTIC CHAIR Red #2169",
+              "qty": 5.0,
+              "total": 800.0
             }
           ]
         },
@@ -24563,9 +24579,9 @@
       "till": {
         "opening": 3372.0,
         "expectedClosing": 3625.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "counted": 3625.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }

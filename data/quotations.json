@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T17:45:58Z",
-  "openCount": 182,
-  "openTotal": 2329297.2,
-  "quotationCount": 104,
-  "quotationTotal": 1347451.75,
+  "generatedAt": "2026-11-09T18:01:32Z",
+  "openCount": 181,
+  "openTotal": 2328497.2,
+  "quotationCount": 103,
+  "quotationTotal": 1346651.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -455,9 +455,9 @@
     },
     {
       "date": "2026-11-09",
-      "count": 4,
-      "outstanding": 22980.0,
-      "total": 22980.0
+      "count": 3,
+      "outstanding": 22180.0,
+      "total": 22180.0
     }
   ],
   "quotations": [
@@ -501,25 +501,6 @@
           "name": "[70176] 51 Warehouse Rack White Large",
           "qty": 2.0,
           "total": 3960.0
-        }
-      ]
-    },
-    {
-      "id": 825,
-      "ref": "S00829",
-      "kind": "quotation",
-      "customer": "Busy Biz K-8",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-09",
-      "expires": "2026-12-09",
-      "total": 800.0,
-      "settled": 0.0,
-      "outstanding": 800.0,
-      "lines": [
-        {
-          "name": "[2169RED] PLASTIC CHAIR Red #2169",
-          "qty": 5.0,
-          "total": 800.0
         }
       ]
     },
