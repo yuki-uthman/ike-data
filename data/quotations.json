@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T11:15:55Z",
+  "generatedAt": "2026-11-09T11:31:12Z",
   "openCount": 182,
   "openTotal": 2356806.2,
   "quotationCount": 104,
@@ -566,7 +566,7 @@
       "id": 816,
       "ref": "S00820",
       "kind": "quotation",
-      "customer": "Kims Plus B-17",
+      "customer": "Kims Print Hdh.Makunudhoo B-17",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-08",
       "expires": "2026-12-08",
