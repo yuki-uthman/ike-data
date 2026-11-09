@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T06:31:10Z",
-  "openCount": 182,
-  "openTotal": 2326422.2,
-  "quotationCount": 104,
-  "quotationTotal": 1344576.75,
+  "generatedAt": "2026-11-09T06:45:51Z",
+  "openCount": 183,
+  "openTotal": 2326912.2,
+  "quotationCount": 105,
+  "quotationTotal": 1345066.75,
   "orderCount": 78,
   "orderTotal": 981845.45,
   "days": [
@@ -455,9 +455,9 @@
     },
     {
       "date": "2026-11-09",
-      "count": 3,
-      "outstanding": 19220.0,
-      "total": 19220.0
+      "count": 4,
+      "outstanding": 19710.0,
+      "total": 19710.0
     }
   ],
   "quotations": [
@@ -530,6 +530,30 @@
           "name": "Mojito Syrup - Yuzu 1kg",
           "qty": 1.0,
           "total": 210.0
+        }
+      ]
+    },
+    {
+      "id": 823,
+      "ref": "S00827",
+      "kind": "quotation",
+      "customer": "Gems View / C-15",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-09",
+      "expires": "2026-12-09",
+      "total": 490.0,
+      "settled": 0.0,
+      "outstanding": 490.0,
+      "lines": [
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 2.0,
+          "total": 310.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
+          "qty": 1.0,
+          "total": 180.0
         }
       ]
     },
