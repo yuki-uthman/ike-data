@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T15:15:44Z",
+  "generatedAt": "2026-11-09T15:31:04Z",
   "cash": {
     "total": 959.0,
     "count": 9
@@ -482,13 +482,28 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 765.0,
+    "count": 2
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Waste disposal-- Zubaid",
+      "amount": 750.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:19"
+    },
+    {
+      "reason": "Gate pass--Nagarajan",
+      "amount": 15.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:19"
+    }
+  ],
   "till": {
     "opening": 3372.0,
-    "expectedClosing": 4331.0,
+    "expectedClosing": 3566.0,
     "counted": null,
     "difference": null,
     "closed": false,
