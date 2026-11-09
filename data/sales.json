@@ -23977,10 +23977,10 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T16:01:15Z",
+      "generatedAt": "2026-11-09T16:15:45Z",
       "pos": {
-        "total": 992.0,
-        "count": 10
+        "total": 1691.0,
+        "count": 11
       },
       "regularSales": {
         "total": 40609.0,
@@ -23995,8 +23995,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 40642.0,
-        "count": 11
+        "total": 41341.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -24207,6 +24207,22 @@
               "name": "[10007] Plastic Container T2 [case]",
               "qty": 1.0,
               "total": 1000.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000593",
+          "customer": "Walk-in",
+          "amount": 699.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:10",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01817] Rain Coat Polyester#4",
+              "qty": 1.0,
+              "total": 699.0
             }
           ]
         },
