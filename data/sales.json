@@ -23977,32 +23977,78 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T10:45:47Z",
+      "generatedAt": "2026-11-09T11:01:14Z",
       "pos": {
         "total": 432.0,
         "count": 3
       },
       "regularSales": {
-        "total": 5987.0,
-        "count": 7
+        "total": 8280.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 22433.0,
-        "count": 5
+        "total": 20140.0,
+        "count": 4
       },
       "cash": {
         "total": 652.0,
         "count": 4
       },
       "transfer": {
-        "total": 5767.0,
-        "count": 6
+        "total": 8060.0,
+        "count": 7
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00638",
+          "customer": "Lagoon Mart U-1",
+          "amount": 2293.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:56",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+              "qty": 1.0,
+              "total": 360.0
+            },
+            {
+              "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+              "qty": 1.0,
+              "total": 360.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+              "qty": 1.0,
+              "total": 300.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 1.0,
+              "total": 300.0
+            },
+            {
+              "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+              "qty": 1.0,
+              "total": 295.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00637",
           "customer": "Leonora B-4",
