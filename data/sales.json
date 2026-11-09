@@ -23977,14 +23977,14 @@
     },
     {
       "date": "2026-11-09",
-      "generatedAt": "2026-11-09T17:31:03Z",
+      "generatedAt": "2026-11-09T17:45:46Z",
       "pos": {
         "total": 1810.0,
         "count": 13
       },
       "regularSales": {
-        "total": 40609.0,
-        "count": 10
+        "total": 41834.0,
+        "count": 11
       },
       "pendingQuotations": {
         "total": 22980.0,
@@ -23995,8 +23995,8 @@
         "count": 11
       },
       "transfer": {
-        "total": 41341.0,
-        "count": 12
+        "total": 42566.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -24154,6 +24154,27 @@
               "name": "Hanger Plastic A17 - Case (144pcs)",
               "qty": 1.0,
               "total": 550.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00641",
+          "customer": "Sales",
+          "amount": 1225.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:35",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70182] Gas Burner ( High Pressure )",
+              "qty": 1.0,
+              "total": 800.0
+            },
+            {
+              "name": "Gas Burner Table",
+              "qty": 1.0,
+              "total": 425.0
             }
           ]
         },
