@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-09T08:45:52Z",
+  "generatedAt": "2026-11-09T09:01:43Z",
   "openCount": 184,
-  "openTotal": 2328347.2,
-  "quotationCount": 105,
-  "quotationTotal": 1346011.75,
-  "orderCount": 79,
-  "orderTotal": 982335.45,
+  "openTotal": 2329777.2,
+  "quotationCount": 106,
+  "quotationTotal": 1347931.75,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -456,8 +456,8 @@
     {
       "date": "2026-11-09",
       "count": 5,
-      "outstanding": 21145.0,
-      "total": 21145.0
+      "outstanding": 22575.0,
+      "total": 22575.0
     }
   ],
   "quotations": [
@@ -482,6 +482,25 @@
           "name": "Apron - Cotton Medium",
           "qty": 1.0,
           "total": 250.0
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "ref": "S00829",
+      "kind": "quotation",
+      "customer": "Busy Biz K-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-09",
+      "expires": "2026-12-09",
+      "total": 1920.0,
+      "settled": 0.0,
+      "outstanding": 1920.0,
+      "lines": [
+        {
+          "name": "[2169RED] PLASTIC CHAIR Red #2169",
+          "qty": 12.0,
+          "total": 1920.0
         }
       ]
     },
@@ -554,30 +573,6 @@
           "name": "Mojito Syrup - Yuzu 1kg",
           "qty": 1.0,
           "total": 210.0
-        }
-      ]
-    },
-    {
-      "id": 823,
-      "ref": "S00827",
-      "kind": "order",
-      "customer": "Gems View / C-15",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-09",
-      "expires": "2026-12-09",
-      "total": 490.0,
-      "settled": 0.0,
-      "outstanding": 490.0,
-      "lines": [
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 2.0,
-          "total": 310.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
-          "qty": 1.0,
-          "total": 180.0
         }
       ]
     },
