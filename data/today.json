@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T11:01:17Z",
+  "generatedAt": "2026-11-10T11:15:45Z",
   "cash": {
     "total": 10855.0,
     "count": 5
   },
   "transfer": {
-    "total": 17955.0,
-    "count": 4
+    "total": 22554.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -60,6 +60,32 @@
           "name": "[70188] Polish Tile 600x600mm",
           "qty": 120.0,
           "total": 6600.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00649",
+      "customer": "J.H Store /M-3",
+      "amount": 4599.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:04",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70176] 51 Warehouse Rack White Large",
+          "qty": 2.0,
+          "total": 3960.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
         }
       ]
     },
@@ -240,8 +266,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 17886.0
+      "count": 4,
+      "total": 22485.0
     },
     {
       "name": "Cash",
