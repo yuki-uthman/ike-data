@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T12:01:16Z",
+  "generatedAt": "2026-11-10T12:15:44Z",
   "cash": {
-    "total": 11135.0,
-    "count": 6
+    "total": 11149.0,
+    "count": 7
   },
   "transfer": {
-    "total": 22554.0,
-    "count": 5
+    "total": 23164.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -198,6 +198,32 @@
       ]
     },
     {
+      "ref": "INV/2026/00651",
+      "customer": "Sales",
+      "amount": 610.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:06",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70147] Hook Mesh 10\"",
+          "qty": 20.0,
+          "total": 280.0
+        },
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 15.0,
+          "total": 180.0
+        },
+        {
+          "name": "[70148] Hook Mesh 6\"",
+          "qty": 15.0,
+          "total": 150.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00650",
       "customer": "Snap Buy",
       "amount": 280.0,
@@ -276,20 +302,36 @@
           "total": 15.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000599",
+      "customer": "Walk-in",
+      "amount": 14.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:02",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[BT5P] Bagasse Tray 5 compartments",
+          "qty": 2.0,
+          "total": 14.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 22485.0
+      "count": 5,
+      "total": 23095.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 11135.0
+      "count": 7,
+      "total": 11149.0
     },
     {
       "name": "Bank Transfer",
@@ -305,7 +347,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3625.0,
-    "expectedClosing": 14760.0,
+    "expectedClosing": 14774.0,
     "counted": null,
     "difference": null,
     "closed": false,
