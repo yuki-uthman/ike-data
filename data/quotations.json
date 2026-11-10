@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-10T17:01:30Z",
+  "generatedAt": "2026-11-10T17:15:53Z",
   "openCount": 181,
   "openTotal": 2328962.2,
-  "quotationCount": 103,
-  "quotationTotal": 1347116.75,
-  "orderCount": 78,
-  "orderTotal": 981845.45,
+  "quotationCount": 102,
+  "quotationTotal": 1342956.75,
+  "orderCount": 79,
+  "orderTotal": 986005.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -227,9 +227,9 @@
     },
     {
       "date": "2026-10-02",
-      "count": 1,
-      "outstanding": 4160.0,
-      "total": 4160.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     },
     {
       "date": "2026-10-03",
@@ -461,9 +461,9 @@
     },
     {
       "date": "2026-11-10",
-      "count": 1,
-      "outstanding": 4425.0,
-      "total": 4425.0
+      "count": 2,
+      "outstanding": 8585.0,
+      "total": 8585.0
     }
   ],
   "quotations": [
@@ -483,6 +483,30 @@
           "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 5.0,
           "total": 4425.0
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "ref": "S00425",
+      "kind": "order",
+      "customer": "Zilaal Mart R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-10",
+      "expires": "2026-11-01",
+      "total": 4160.0,
+      "settled": 0.0,
+      "outstanding": 4160.0,
+      "lines": [
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 5.0,
+          "total": 1600.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 8.0,
+          "total": 2560.0
         }
       ]
     },
@@ -1980,30 +2004,6 @@
           "name": "37 Miniso Cupboard",
           "qty": 3.0,
           "total": 4200.0
-        }
-      ]
-    },
-    {
-      "id": 424,
-      "ref": "S00425",
-      "kind": "quotation",
-      "customer": "Zilaal Mart R-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-10-02",
-      "expires": "2026-11-01",
-      "total": 4160.0,
-      "settled": 0.0,
-      "outstanding": 4160.0,
-      "lines": [
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 5.0,
-          "total": 1600.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 8.0,
-          "total": 2560.0
         }
       ]
     },
