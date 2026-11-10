@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T06:45:42Z",
+  "generatedAt": "2026-11-10T07:01:16Z",
   "cash": {
-    "total": 6820.0,
-    "count": 2
+    "total": 6835.0,
+    "count": 3
   },
   "transfer": {
-    "total": 13369.0,
-    "count": 2
+    "total": 15662.0,
+    "count": 3
   },
   "other": {
     "total": 0,
@@ -64,6 +64,52 @@
       ]
     },
     {
+      "ref": "INV/2026/00646",
+      "customer": "Yooly N-9",
+      "amount": 2293.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:49",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00644",
       "customer": "Snap Buy",
       "amount": 220.0,
@@ -94,20 +140,36 @@
           "total": 69.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000597",
+      "customer": "Walk-in",
+      "amount": 15.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "11:47",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[09041] Towel 042-02 30*40cm",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 13300.0
+      "count": 2,
+      "total": 15593.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 6820.0
+      "count": 3,
+      "total": 6835.0
     },
     {
       "name": "Bank Transfer",
@@ -123,7 +185,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3625.0,
-    "expectedClosing": 10445.0,
+    "expectedClosing": 10460.0,
     "counted": null,
     "difference": null,
     "closed": false,
