@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T11:31:03Z",
+  "generatedAt": "2026-11-10T11:45:45Z",
   "cash": {
-    "total": 10855.0,
-    "count": 5
+    "total": 11135.0,
+    "count": 6
   },
   "transfer": {
     "total": 22554.0,
@@ -198,6 +198,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00650",
+      "customer": "Snap Buy",
+      "amount": 280.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:43",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00644",
       "customer": "Snap Buy",
       "amount": 220.0,
@@ -272,8 +288,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 10855.0
+      "count": 6,
+      "total": 11135.0
     },
     {
       "name": "Bank Transfer",
@@ -289,7 +305,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3625.0,
-    "expectedClosing": 14480.0,
+    "expectedClosing": 14760.0,
     "counted": null,
     "difference": null,
     "closed": false,
