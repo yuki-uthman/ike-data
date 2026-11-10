@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-10T17:45:52Z",
-  "openCount": 181,
-  "openTotal": 2328962.2,
+  "generatedAt": "2026-11-10T18:01:24Z",
+  "openCount": 180,
+  "openTotal": 2324537.2,
   "quotationCount": 101,
   "quotationTotal": 1338531.75,
-  "orderCount": 80,
-  "orderTotal": 990430.45,
+  "orderCount": 79,
+  "orderTotal": 986005.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -461,31 +461,12 @@
     },
     {
       "date": "2026-11-10",
-      "count": 2,
-      "outstanding": 8585.0,
-      "total": 8585.0
+      "count": 1,
+      "outstanding": 4160.0,
+      "total": 4160.0
     }
   ],
   "quotations": [
-    {
-      "id": 839,
-      "ref": "S00843",
-      "kind": "order",
-      "customer": "Rose Flower D-2",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-10",
-      "expires": "2026-12-10",
-      "total": 4425.0,
-      "settled": 0.0,
-      "outstanding": 4425.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 5.0,
-          "total": 4425.0
-        }
-      ]
-    },
     {
       "id": 424,
       "ref": "S00425",
