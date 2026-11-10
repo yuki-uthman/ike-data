@@ -24406,22 +24406,22 @@
     },
     {
       "date": "2026-11-10",
-      "generatedAt": "2026-11-10T05:01:13Z",
+      "generatedAt": "2026-11-10T05:15:47Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 6600.0,
-        "count": 1
+        "total": 6820.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 4586.0,
         "count": 1
       },
       "cash": {
-        "total": 6600.0,
-        "count": 1
+        "total": 6820.0,
+        "count": 2
       },
       "transfer": {
         "total": 0,
@@ -24447,6 +24447,22 @@
               "total": 6600.0
             }
           ]
+        },
+        {
+          "ref": "INV/2026/00644",
+          "customer": "Snap Buy",
+          "amount": 220.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:09",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90049] Milkshake Powder Caramel Coffee",
+              "qty": 1.0,
+              "total": 220.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24456,7 +24472,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3625.0,
-        "expectedClosing": 10225.0,
+        "expectedClosing": 10445.0,
         "counted": null,
         "difference": null,
         "closed": false,
