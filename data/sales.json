@@ -24406,22 +24406,22 @@
     },
     {
       "date": "2026-11-10",
-      "generatedAt": "2026-11-10T16:45:44Z",
+      "generatedAt": "2026-11-10T17:01:17Z",
       "pos": {
-        "total": 498.0,
-        "count": 7
+        "total": 507.0,
+        "count": 8
       },
       "regularSales": {
-        "total": 62355.0,
-        "count": 10
+        "total": 62855.0,
+        "count": 11
       },
       "pendingQuotations": {
         "total": 4425.0,
         "count": 1
       },
       "cash": {
-        "total": 11206.0,
-        "count": 9
+        "total": 11715.0,
+        "count": 11
       },
       "transfer": {
         "total": 51647.0,
@@ -24681,6 +24681,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00653",
+          "customer": "Coffee State",
+          "amount": 500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:47",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
+              "qty": 2.0,
+              "total": 500.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000601",
           "customer": "Walk-in",
           "amount": 283.0,
@@ -24828,6 +24844,22 @@
               "total": 14.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000603",
+          "customer": "Walk-in",
+          "amount": 9.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:54",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[X0001] Damaged Aluminum Foil Container",
+              "qty": 9.0,
+              "total": 9.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24845,7 +24877,7 @@
       ],
       "till": {
         "opening": 3625.0,
-        "expectedClosing": 1831.0,
+        "expectedClosing": 2340.0,
         "counted": null,
         "difference": null,
         "closed": false,
