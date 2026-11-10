@@ -3,11 +3,11 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-11-10T10:01:30Z",
-  "totalCases": 466.0,
+  "generatedAt": "2026-11-10T10:15:59Z",
+  "totalCases": 473.0,
   "quoted": {
-    "cases": 139.0,
-    "orders": 8
+    "cases": 133.0,
+    "orders": 7
   },
   "products": [
     {
@@ -36,7 +36,7 @@
       "size": "60 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 25.0,
+      "cases": 26.0,
       "profitBasis": "sold",
       "profitPct": 6.0
     },
@@ -46,7 +46,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 15.0,
+      "cases": 16.0,
       "profitBasis": "sold",
       "profitPct": 1.5
     },
@@ -56,7 +56,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 50.0,
+      "cases": 51.0,
       "profitBasis": "sold",
       "profitPct": 1.5
     },
@@ -66,7 +66,7 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 11.0,
+      "cases": 12.0,
       "profitBasis": "sold",
       "profitPct": 0.9
     },
@@ -76,7 +76,7 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 12.0,
+      "cases": 13.0,
       "profitBasis": "sold",
       "profitPct": 0.9
     },
@@ -96,7 +96,7 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 18.0,
+      "cases": 19.0,
       "profitBasis": "sold",
       "profitPct": 18.2
     },
@@ -106,7 +106,7 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 39.0,
+      "cases": 40.0,
       "profitBasis": "sold",
       "profitPct": 18.2
     },
@@ -1069,16 +1069,16 @@
     },
     {
       "date": "2026-11-10",
-      "cases": 7.0,
-      "orders": 1,
+      "cases": 14.0,
+      "orders": 2,
       "byProduct": {
-        "2018": 1.0,
-        "2020": 1.0,
-        "2022": 1.0,
-        "2024": 1.0,
-        "2026": 1.0,
-        "2030": 1.0,
-        "2032": 1.0
+        "2018": 2.0,
+        "2020": 2.0,
+        "2022": 2.0,
+        "2024": 2.0,
+        "2026": 2.0,
+        "2030": 2.0,
+        "2032": 2.0
       }
     }
   ]
