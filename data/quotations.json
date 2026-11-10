@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-10T04:31:04Z",
+  "generatedAt": "2026-11-10T04:45:47Z",
   "openCount": 182,
-  "openTotal": 2335097.2,
-  "quotationCount": 103,
-  "quotationTotal": 1346651.75,
-  "orderCount": 79,
-  "orderTotal": 988445.45,
+  "openTotal": 2333083.2,
+  "quotationCount": 104,
+  "quotationTotal": 1351237.75,
+  "orderCount": 78,
+  "orderTotal": 981845.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -462,27 +462,57 @@
     {
       "date": "2026-11-10",
       "count": 1,
-      "outstanding": 6600.0,
-      "total": 6600.0
+      "outstanding": 4586.0,
+      "total": 4586.0
     }
   ],
   "quotations": [
     {
-      "id": 830,
-      "ref": "S00834",
-      "kind": "order",
-      "customer": "Mohamed Hussain I-8",
+      "id": 831,
+      "ref": "S00835",
+      "kind": "quotation",
+      "customer": "Lucky Way Plaza / H-1",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-10",
       "expires": "2026-12-10",
-      "total": 6600.0,
+      "total": 4586.0,
       "settled": 0.0,
-      "outstanding": 6600.0,
+      "outstanding": 4586.0,
       "lines": [
         {
-          "name": "[70188] Polish Tile 600x600mm",
-          "qty": 120.0,
-          "total": 6600.0
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 2.0,
+          "total": 678.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 2.0,
+          "total": 678.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 2.0,
+          "total": 600.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 2.0,
+          "total": 590.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 2.0,
+          "total": 600.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 2.0,
+          "total": 720.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 2.0,
+          "total": 720.0
         }
       ]
     },
