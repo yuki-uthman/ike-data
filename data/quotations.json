@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-10T17:31:13Z",
+  "generatedAt": "2026-11-10T17:45:52Z",
   "openCount": 181,
   "openTotal": 2328962.2,
-  "quotationCount": 102,
-  "quotationTotal": 1342956.75,
-  "orderCount": 79,
-  "orderTotal": 986005.45,
+  "quotationCount": 101,
+  "quotationTotal": 1338531.75,
+  "orderCount": 80,
+  "orderTotal": 990430.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -470,7 +470,7 @@
     {
       "id": 839,
       "ref": "S00843",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Rose Flower D-2",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-10",
