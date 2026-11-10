@@ -2,20 +2,51 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T06:31:02Z",
+  "generatedAt": "2026-11-10T06:45:42Z",
   "cash": {
     "total": 6820.0,
     "count": 2
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 13369.0,
+    "count": 2
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00645",
+      "customer": "Mohamed nadheem E 7",
+      "amount": 13300.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:32",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 5.0,
+          "total": 8750.0
+        },
+        {
+          "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
+          "qty": 2.0,
+          "total": 3500.0
+        },
+        {
+          "name": "2C Price Border Strip Black",
+          "qty": 30.0,
+          "total": 750.0
+        },
+        {
+          "name": "2C Price Border Strip White",
+          "qty": 12.0,
+          "total": 300.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00643",
       "customer": "Mohamed Hussain I-8",
@@ -47,14 +78,42 @@
           "total": 220.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000596",
+      "customer": "Walk-in",
+      "amount": 69.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "11:32",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01849] Mop Wooden#20",
+          "qty": 1.0,
+          "total": 69.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 13300.0
+    },
     {
       "name": "Cash",
       "method": "cash",
       "count": 2,
       "total": 6820.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 69.0
     }
   ],
   "cashOut": {
