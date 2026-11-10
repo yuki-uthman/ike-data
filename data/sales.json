@@ -24406,14 +24406,14 @@
     },
     {
       "date": "2026-11-10",
-      "generatedAt": "2026-11-10T16:01:17Z",
+      "generatedAt": "2026-11-10T16:15:44Z",
       "pos": {
-        "total": 185.0,
-        "count": 5
+        "total": 468.0,
+        "count": 6
       },
       "regularSales": {
-        "total": 34155.0,
-        "count": 9
+        "total": 62355.0,
+        "count": 10
       },
       "pendingQuotations": {
         "total": 0,
@@ -24424,14 +24424,55 @@
         "count": 8
       },
       "transfer": {
-        "total": 23164.0,
-        "count": 6
+        "total": 51647.0,
+        "count": 8
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00652",
+          "customer": "Function hub / Q-4",
+          "amount": 28200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:12",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-BLK-SS-2000-X06] #2C Black Single Side 2000mm x6",
+              "qty": 1.0,
+              "total": 9700.0
+            },
+            {
+              "name": "[2C-BLK-SS-2000-X04] #2C Black Single Side 2000mm x4",
+              "qty": 1.0,
+              "total": 6400.0
+            },
+            {
+              "name": "[70161] Vegetable Rack 4 Square Baskets",
+              "qty": 2.0,
+              "total": 5700.0
+            },
+            {
+              "name": "[2C-BLK-SS-2000-X02] #2C Black Single Side 2000mm x2",
+              "qty": 1.0,
+              "total": 3300.0
+            },
+            {
+              "name": "[70186] Trolley Stand 5 Layer Black",
+              "qty": 1.0,
+              "total": 1900.0
+            },
+            {
+              "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+              "qty": 1.0,
+              "total": 1200.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00645",
           "customer": "Mohamed nadheem E 7",
@@ -24640,6 +24681,27 @@
           ]
         },
         {
+          "ref": "Ike - 000601",
+          "customer": "Walk-in",
+          "amount": 283.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:05",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01671] Kitchen pot 20cm#13",
+              "qty": 1.0,
+              "total": 265.0
+            },
+            {
+              "name": "[70065] Sponges 5pcs YQE07",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00650",
           "customer": "Snap Buy",
           "amount": 280.0,
@@ -24753,13 +24815,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 13000.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Owners drawing--Uthman",
+          "amount": 13000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:08"
+        }
+      ],
       "till": {
         "opening": 3625.0,
-        "expectedClosing": 14801.0,
+        "expectedClosing": 1801.0,
         "counted": null,
         "difference": null,
         "closed": false,
