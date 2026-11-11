@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T12:15:56Z",
-  "openCount": 183,
-  "openTotal": 2338997.2,
-  "quotationCount": 104,
-  "quotationTotal": 1352991.75,
+  "generatedAt": "2026-11-11T12:31:16Z",
+  "openCount": 184,
+  "openTotal": 2338907.2,
+  "quotationCount": 105,
+  "quotationTotal": 1352901.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -467,9 +467,9 @@
     },
     {
       "date": "2026-11-11",
-      "count": 3,
-      "outstanding": 14460.0,
-      "total": 14460.0
+      "count": 4,
+      "outstanding": 14370.0,
+      "total": 14370.0
     }
   ],
   "quotations": [
@@ -529,19 +529,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-11",
       "expires": "2026-12-11",
-      "total": 840.0,
+      "total": 390.0,
       "settled": 0.0,
-      "outstanding": 840.0,
+      "outstanding": 390.0,
       "lines": [
         {
           "name": "[02385] Spoon Stainless",
           "qty": 10.0,
           "total": 150.0
-        },
-        {
-          "name": "[02257] Ceramic Saucer cup",
-          "qty": 10.0,
-          "total": 450.0
         },
         {
           "name": "[09041] Towel 042-02 30*40cm",
@@ -552,6 +547,25 @@
           "name": "[01666] Flat Roti Pan 28cm#8",
           "qty": 1.0,
           "total": 180.0
+        }
+      ]
+    },
+    {
+      "id": 851,
+      "ref": "S00855",
+      "kind": "quotation",
+      "customer": "Thandiya Fihaara Adh.Dhangethi 791-6047",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-11",
+      "expires": "2026-12-11",
+      "total": 360.0,
+      "settled": 0.0,
+      "outstanding": 360.0,
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
         }
       ]
     },
