@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T11:31:11Z",
-  "openCount": 182,
-  "openTotal": 2326597.2,
-  "quotationCount": 103,
-  "quotationTotal": 1340591.75,
+  "generatedAt": "2026-11-11T11:45:56Z",
+  "openCount": 183,
+  "openTotal": 2338997.2,
+  "quotationCount": 104,
+  "quotationTotal": 1352991.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -467,12 +467,36 @@
     },
     {
       "date": "2026-11-11",
-      "count": 2,
-      "outstanding": 2060.0,
-      "total": 2060.0
+      "count": 3,
+      "outstanding": 14460.0,
+      "total": 14460.0
     }
   ],
   "quotations": [
+    {
+      "id": 850,
+      "ref": "S00854",
+      "kind": "quotation",
+      "customer": "Food Land U-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-11",
+      "expires": "2026-12-11",
+      "total": 12400.0,
+      "settled": 0.0,
+      "outstanding": 12400.0,
+      "lines": [
+        {
+          "name": "#37 White Double Side 1500mm",
+          "qty": 2.0,
+          "total": 8500.0
+        },
+        {
+          "name": "#37 White End Shelf",
+          "qty": 2.0,
+          "total": 3900.0
+        }
+      ]
+    },
     {
       "id": 841,
       "ref": "S00845",
