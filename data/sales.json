@@ -23593,22 +23593,22 @@
     },
     {
       "date": "2026-11-11",
-      "generatedAt": "2026-11-11T09:15:44Z",
+      "generatedAt": "2026-11-11T09:31:02Z",
       "pos": {
         "total": 415.0,
         "count": 3
       },
       "regularSales": {
-        "total": 12520.0,
-        "count": 4
+        "total": 12935.0,
+        "count": 5
       },
       "pendingQuotations": {
-        "total": 1220.0,
-        "count": 1
+        "total": 2099.0,
+        "count": 2
       },
       "cash": {
-        "total": 1745.0,
-        "count": 1
+        "total": 2160.0,
+        "count": 2
       },
       "transfer": {
         "total": 11190.0,
@@ -23719,6 +23719,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00659",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 415.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:29",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
+              "qty": 1.0,
+              "total": 415.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000610",
           "customer": "Walk-in",
           "amount": 295.0,
@@ -23779,7 +23795,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2355.0,
-        "expectedClosing": 4100.0,
+        "expectedClosing": 4515.0,
         "counted": null,
         "difference": null,
         "closed": false,
