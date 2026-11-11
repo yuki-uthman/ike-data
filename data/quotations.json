@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T15:08:33Z",
+  "generatedAt": "2026-11-11T15:15:54Z",
   "openCount": 184,
-  "openTotal": 2338907.2,
+  "openTotal": 2338967.2,
   "quotationCount": 105,
-  "quotationTotal": 1352901.75,
+  "quotationTotal": 1352961.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -468,8 +468,8 @@
     {
       "date": "2026-11-11",
       "count": 4,
-      "outstanding": 14370.0,
-      "total": 14370.0
+      "outstanding": 14430.0,
+      "total": 14430.0
     }
   ],
   "quotations": [
@@ -522,6 +522,30 @@
       ]
     },
     {
+      "id": 851,
+      "ref": "S00855",
+      "kind": "quotation",
+      "customer": "Thandiya Fihaara Adh.Dhangethi 791-6047",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-11",
+      "expires": "2026-12-11",
+      "total": 420.0,
+      "settled": 0.0,
+      "outstanding": 420.0,
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "[69093] Glass Ocean Fin Line Juice B01206 175ml",
+          "qty": 6.0,
+          "total": 60.0
+        }
+      ]
+    },
+    {
       "id": 846,
       "ref": "S00850",
       "kind": "quotation",
@@ -547,25 +571,6 @@
           "name": "[01666] Flat Roti Pan 28cm#8",
           "qty": 1.0,
           "total": 180.0
-        }
-      ]
-    },
-    {
-      "id": 851,
-      "ref": "S00855",
-      "kind": "quotation",
-      "customer": "Thandiya Fihaara Adh.Dhangethi 791-6047",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-11",
-      "expires": "2026-12-11",
-      "total": 360.0,
-      "settled": 0.0,
-      "outstanding": 360.0,
-      "lines": [
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
         }
       ]
     },
