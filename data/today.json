@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T09:31:02Z",
+  "generatedAt": "2026-11-11T09:45:43Z",
   "cash": {
     "total": 2160.0,
     "count": 2
   },
   "transfer": {
-    "total": 11190.0,
-    "count": 6
+    "total": 11550.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -132,6 +132,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00660",
+      "customer": "Shaheedha  Guleynooranmage O-1",
+      "amount": 360.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:38",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70037] Gas Regulator (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000610",
       "customer": "Walk-in",
       "amount": 295.0,
@@ -189,8 +205,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 10775.0
+      "count": 4,
+      "total": 11135.0
     },
     {
       "name": "Cash",

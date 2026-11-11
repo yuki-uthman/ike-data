@@ -23593,14 +23593,14 @@
     },
     {
       "date": "2026-11-11",
-      "generatedAt": "2026-11-11T09:31:02Z",
+      "generatedAt": "2026-11-11T09:45:43Z",
       "pos": {
         "total": 415.0,
         "count": 3
       },
       "regularSales": {
-        "total": 12935.0,
-        "count": 5
+        "total": 13295.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 2099.0,
@@ -23611,8 +23611,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 11190.0,
-        "count": 6
+        "total": 11550.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -23731,6 +23731,22 @@
               "name": "Harpic Toilet Cleaner Original - Case (12pcs, 450 ml)",
               "qty": 1.0,
               "total": 415.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00660",
+          "customer": "Shaheedha  Guleynooranmage O-1",
+          "amount": 360.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:38",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70037] Gas Regulator (High Pressure)",
+              "qty": 1.0,
+              "total": 360.0
             }
           ]
         },
