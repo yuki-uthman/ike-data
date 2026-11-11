@@ -3,444 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-13",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 1848.0,
-        "count": 13
-      },
-      "regularSales": {
-        "total": 17731.0,
-        "count": 7
-      },
-      "pendingQuotations": {
-        "total": 3000.0,
-        "count": 1
-      },
-      "cash": {
-        "total": 1657.0,
-        "count": 10
-      },
-      "transfer": {
-        "total": 17922.0,
-        "count": 10
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00129",
-          "customer": "Ajwa Mart",
-          "amount": 10586.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "20:04",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[RD8-WHT-DSP-1950-X02] #RD8 White Double Side Perforated 1950mm x2",
-              "qty": 1.0,
-              "total": 6900.0
-            },
-            {
-              "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
-              "qty": 8.0,
-              "total": 3120.0
-            },
-            {
-              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-              "qty": 22.0,
-              "total": 550.0
-            },
-            {
-              "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
-              "qty": 16.0,
-              "total": 16.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00123",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 2600.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "15:04",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "Tahina Durra Sesame 18kg",
-              "qty": 1.0,
-              "total": 2600.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00128",
-          "customer": "4H /S-2",
-          "amount": 1750.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "16:04",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
-              "qty": 1.0,
-              "total": 1750.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00127",
-          "customer": "Peko Peko  Mina Asiri B-3",
-          "amount": 1025.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "15:58",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-              "qty": 2.0,
-              "total": 400.0
-            },
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 125.0,
-              "total": 375.0
-            },
-            {
-              "name": "[3038] Mix-Lah Iced Tea Premix Lemon Tea",
-              "qty": 1.0,
-              "total": 250.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00130",
-          "customer": "Red Bee Mart",
-          "amount": 800.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:21",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70182] Gas Burner ( High Pressure )",
-              "qty": 1.0,
-              "total": 800.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00122",
-          "customer": "Turtle Garden / I-2",
-          "amount": 720.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "10:16",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[90048] Milkshake Powder Belgian Chocolate",
-              "qty": 1.0,
-              "total": 280.0
-            },
-            {
-              "name": "[06705] Milkshake Powder Vanilla",
-              "qty": 1.0,
-              "total": 220.0
-            },
-            {
-              "name": "[02154] Milkshake Powder Mango",
-              "qty": 1.0,
-              "total": 220.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00124 (Ike - 000124)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 620.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "15:10",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[90042] Milkshake Powder Avocado",
-              "qty": 2.0,
-              "total": 400.0
-            },
-            {
-              "name": "[01010] paper straw 8mm 50 pcs",
-              "qty": 10.0,
-              "total": 220.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000126",
-          "customer": "Walk-in",
-          "amount": 315.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:20",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01943] Apron - Love life",
-              "qty": 6.0,
-              "total": 300.0
-            },
-            {
-              "name": "[01911] Spray Bottle A34",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000131",
-          "customer": "Walk-in",
-          "amount": 290.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:39",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01608] Glass Jug 800ml#11",
-              "qty": 1.0,
-              "total": 270.0
-            },
-            {
-              "name": "[6291101710057] Aluminum Container With lid 680cc 10pcs",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00126",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 250.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "15:51",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
-              "qty": 50.0,
-              "total": 250.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000121",
-          "customer": "Walk-in",
-          "amount": 185.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[6971746750075] Rain Coat Polyester #2",
-              "qty": 1.0,
-              "total": 185.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00125 (Ike - 000125)",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 147.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "15:12",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01786] Plastic Jug with lid 700ml#904",
-              "qty": 1.0,
-              "total": 59.0
-            },
-            {
-              "name": "[01697] Handheld Peeler 1129#15",
-              "qty": 1.0,
-              "total": 59.0
-            },
-            {
-              "name": "[01698] Strainer Steel 12cm Ym-055#16",
-              "qty": 1.0,
-              "total": 29.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000129",
-          "customer": "Walk-in",
-          "amount": 95.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:21",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Paper Plate 9'' 100pcs Bundle",
-              "qty": 1.0,
-              "total": 50.0
-            },
-            {
-              "name": "[02230] Wooden Spoon 100pcs",
-              "qty": 1.0,
-              "total": 45.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000122",
-          "customer": "Walk-in",
-          "amount": 78.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "11:53",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02232] Ice Cream Spoon 100pcs",
-              "qty": 2.0,
-              "total": 78.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000127",
-          "customer": "Walk-in",
-          "amount": 30.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:41",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[03338] Paper Cup 4oz (Bundle)",
-              "qty": 2.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000128",
-          "customer": "Walk-in",
-          "amount": 23.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:23",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01928] Ceramic Mug#48-1",
-              "qty": 1.0,
-              "total": 15.0
-            },
-            {
-              "name": "[42688] Spoon small flatware Ss#3 Red",
-              "qty": 1.0,
-              "total": 8.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000119",
-          "customer": "Walk-in",
-          "amount": 20.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:14",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000130",
-          "customer": "Walk-in",
-          "amount": 18.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "22:37",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[X0001] Damaged Aluminum Foil Container",
-              "qty": 1.0,
-              "total": 10.0
-            },
-            {
-              "name": "[8368] Aluminium Foil Box 8368 Loose",
-              "qty": 4.0,
-              "total": 8.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000123",
-          "customer": "Walk-in",
-          "amount": 18.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "13:35",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70076] Towel 042-0980 30*30cm",
-              "qty": 2.0,
-              "total": 18.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000120",
-          "customer": "Walk-in",
-          "amount": 9.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:27",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70076] Towel 042-0980 30*30cm",
-              "qty": 1.0,
-              "total": 9.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 4488.0,
-        "expectedClosing": 6145.0,
-        "counted": 6145.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-14",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -23925,6 +23487,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-12",
+      "generatedAt": "2026-11-11T19:01:17Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
