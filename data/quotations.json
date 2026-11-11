@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T17:15:54Z",
-  "openCount": 183,
-  "openTotal": 2326567.2,
-  "quotationCount": 104,
-  "quotationTotal": 1340561.75,
+  "generatedAt": "2026-11-11T17:31:17Z",
+  "openCount": 184,
+  "openTotal": 2334507.2,
+  "quotationCount": 105,
+  "quotationTotal": 1348501.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -467,12 +467,66 @@
     },
     {
       "date": "2026-11-11",
-      "count": 3,
-      "outstanding": 2030.0,
-      "total": 2030.0
+      "count": 4,
+      "outstanding": 9970.0,
+      "total": 9970.0
     }
   ],
   "quotations": [
+    {
+      "id": 852,
+      "ref": "S00856",
+      "kind": "quotation",
+      "customer": "Kilam Traders O-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-11",
+      "expires": "2026-12-11",
+      "total": 7940.0,
+      "settled": 0.0,
+      "outstanding": 7940.0,
+      "lines": [
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 5.0,
+          "total": 4425.0
+        },
+        {
+          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1400.0
+        },
+        {
+          "name": "Bagasse Clamshell 450ml - Bundle (50pcs)",
+          "qty": 10.0,
+          "total": 500.0
+        }
+      ]
+    },
     {
       "id": 841,
       "ref": "S00845",
