@@ -23593,26 +23593,26 @@
     },
     {
       "date": "2026-11-11",
-      "generatedAt": "2026-11-11T06:01:12Z",
+      "generatedAt": "2026-11-11T06:15:42Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 415.0,
+        "count": 3
       },
       "regularSales": {
         "total": 9045.0,
         "count": 2
       },
       "pendingQuotations": {
-        "total": 1220.0,
-        "count": 1
+        "total": 3470.0,
+        "count": 2
       },
       "cash": {
         "total": 1745.0,
         "count": 1
       },
       "transfer": {
-        "total": 7300.0,
-        "count": 1
+        "total": 7715.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -23678,6 +23678,59 @@
               "name": "[5000311241456] Tea Powder Al-Kabous 454g",
               "qty": 2.0,
               "total": 520.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000610",
+          "customer": "Walk-in",
+          "amount": 295.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:04",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[04405] Towel 166-440 bath 70*140cm",
+              "qty": 2.0,
+              "total": 290.0
+            },
+            {
+              "name": "[02200] plastic cups colorful Loose Pc #183-588",
+              "qty": 1.0,
+              "total": 5.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000609",
+          "customer": "Walk-in",
+          "amount": 60.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:02",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soklin Floor Cleaner Apple (Green) (800 ml)",
+              "qty": 2.0,
+              "total": 60.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000608",
+          "customer": "Walk-in",
+          "amount": 60.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:01",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[09041] Towel 042-02 30*40cm",
+              "qty": 4.0,
+              "total": 60.0
             }
           ]
         }
