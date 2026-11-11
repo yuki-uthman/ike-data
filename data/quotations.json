@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T16:31:16Z",
-  "openCount": 184,
-  "openTotal": 2338967.2,
+  "generatedAt": "2026-11-11T16:46:18Z",
+  "openCount": 183,
+  "openTotal": 2326567.2,
   "quotationCount": 104,
   "quotationTotal": 1340561.75,
-  "orderCount": 80,
-  "orderTotal": 998405.45,
+  "orderCount": 79,
+  "orderTotal": 986005.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -467,41 +467,12 @@
     },
     {
       "date": "2026-11-11",
-      "count": 4,
-      "outstanding": 14430.0,
-      "total": 14430.0
+      "count": 3,
+      "outstanding": 2030.0,
+      "total": 2030.0
     }
   ],
   "quotations": [
-    {
-      "id": 850,
-      "ref": "S00854",
-      "kind": "order",
-      "customer": "Kokaa Boutique",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-11",
-      "expires": "2026-12-11",
-      "total": 12400.0,
-      "settled": 0.0,
-      "outstanding": 12400.0,
-      "lines": [
-        {
-          "name": "#37 White Double Side 1500mm",
-          "qty": 2.0,
-          "total": 8500.0
-        },
-        {
-          "name": "#37 White End Shelf",
-          "qty": 2.0,
-          "total": 3900.0
-        },
-        {
-          "name": "37# White Double Middle Frame 1500mm",
-          "qty": 0.0,
-          "total": 0.0
-        }
-      ]
-    },
     {
       "id": 841,
       "ref": "S00845",

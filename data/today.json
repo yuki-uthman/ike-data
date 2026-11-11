@@ -2,20 +2,41 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T16:31:05Z",
+  "generatedAt": "2026-11-11T16:46:03Z",
   "cash": {
     "total": 2437.0,
     "count": 4
   },
   "transfer": {
-    "total": 11550.0,
-    "count": 7
+    "total": 23950.0,
+    "count": 8
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00662",
+      "customer": "Kokaa Boutique",
+      "amount": 12400.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:31",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "#37 White Double Side 1500mm",
+          "qty": 2.0,
+          "total": 8500.0
+        },
+        {
+          "name": "#37 White End Shelf",
+          "qty": 2.0,
+          "total": 3900.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00656",
       "customer": "Quay Mart Q-10",
@@ -242,8 +263,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 11135.0
+      "count": 5,
+      "total": 23535.0
     },
     {
       "name": "Cash",
