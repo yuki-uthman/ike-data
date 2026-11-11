@@ -2,20 +2,61 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T05:31:03Z",
+  "generatedAt": "2026-11-11T05:45:42Z",
   "cash": {
     "total": 1745.0,
     "count": 1
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 7300.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00656",
+      "customer": "Quay Mart Q-10",
+      "amount": 7300.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:45",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "37# Shelf Top 900x300mm",
+          "qty": 16.0,
+          "total": 6240.0
+        },
+        {
+          "name": "37# Shelf Top 660x300mm",
+          "qty": 4.0,
+          "total": 1060.0
+        },
+        {
+          "name": "37# Black Shelf Clip",
+          "qty": 40.0,
+          "total": 0.0
+        },
+        {
+          "name": "37# Black Shelf Reinforce Bar 920mm",
+          "qty": 16.0,
+          "total": 0.0
+        },
+        {
+          "name": "37# Screw",
+          "qty": 60.0,
+          "total": 0.0
+        },
+        {
+          "name": "37# Black Shelf Reinforce Bar 660mm",
+          "qty": 4.0,
+          "total": 0.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00655",
       "customer": "United Huvadhoo Holding PVT LTD",
@@ -39,6 +80,12 @@
     }
   ],
   "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 7300.0
+    },
     {
       "name": "Cash",
       "method": "cash",

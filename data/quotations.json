@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T05:31:12Z",
-  "openCount": 182,
-  "openTotal": 2329657.2,
-  "quotationCount": 103,
-  "quotationTotal": 1343651.75,
+  "generatedAt": "2026-11-11T05:45:49Z",
+  "openCount": 181,
+  "openTotal": 2325757.2,
+  "quotationCount": 102,
+  "quotationTotal": 1339751.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -467,46 +467,12 @@
     },
     {
       "date": "2026-11-11",
-      "count": 2,
-      "outstanding": 5120.0,
-      "total": 5120.0
+      "count": 1,
+      "outstanding": 1220.0,
+      "total": 1220.0
     }
   ],
   "quotations": [
-    {
-      "id": 843,
-      "ref": "S00847",
-      "kind": "quotation",
-      "customer": "Quay Mart Q-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-11",
-      "expires": "2026-12-11",
-      "total": 3900.0,
-      "settled": 0.0,
-      "outstanding": 3900.0,
-      "lines": [
-        {
-          "name": "37# Shelf Top 900x300mm",
-          "qty": 10.0,
-          "total": 3900.0
-        },
-        {
-          "name": "37# Black Shelf Clip",
-          "qty": 20.0,
-          "total": 0.0
-        },
-        {
-          "name": "37# Black Shelf Reinforce Bar 920mm",
-          "qty": 10.0,
-          "total": 0.0
-        },
-        {
-          "name": "37# Screw",
-          "qty": 30.0,
-          "total": 0.0
-        }
-      ]
-    },
     {
       "id": 841,
       "ref": "S00845",
