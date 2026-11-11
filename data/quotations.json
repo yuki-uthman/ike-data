@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T15:15:54Z",
+  "generatedAt": "2026-11-11T15:31:17Z",
   "openCount": 184,
   "openTotal": 2338967.2,
   "quotationCount": 105,
@@ -477,7 +477,7 @@
       "id": 850,
       "ref": "S00854",
       "kind": "quotation",
-      "customer": "Food Land U-1",
+      "customer": "Kokaa Boutique",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-11",
       "expires": "2026-12-11",
