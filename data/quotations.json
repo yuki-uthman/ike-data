@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T04:15:47Z",
-  "openCount": 180,
-  "openTotal": 2324537.2,
-  "quotationCount": 101,
-  "quotationTotal": 1338531.75,
+  "generatedAt": "2026-11-11T04:31:08Z",
+  "openCount": 181,
+  "openTotal": 2326982.2,
+  "quotationCount": 102,
+  "quotationTotal": 1340976.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -467,12 +467,41 @@
     },
     {
       "date": "2026-11-11",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2445.0,
+      "total": 2445.0
     }
   ],
   "quotations": [
+    {
+      "id": 841,
+      "ref": "S00845",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-11",
+      "expires": "2026-12-11",
+      "total": 2445.0,
+      "settled": 0.0,
+      "outstanding": 2445.0,
+      "lines": [
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        },
+        {
+          "name": "Baba's Curry Powder 1kg",
+          "qty": 2.0,
+          "total": 800.0
+        },
+        {
+          "name": "Candle Nut (Spice) 1kg",
+          "qty": 2.0,
+          "total": 420.0
+        }
+      ]
+    },
     {
       "id": 424,
       "ref": "S00425",
