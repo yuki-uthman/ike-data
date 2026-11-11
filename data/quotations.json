@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T10:45:58Z",
+  "generatedAt": "2026-11-11T11:01:28Z",
   "openCount": 182,
-  "openTotal": 2326636.2,
+  "openTotal": 2326597.2,
   "quotationCount": 103,
-  "quotationTotal": 1340630.75,
+  "quotationTotal": 1340591.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -468,8 +468,8 @@
     {
       "date": "2026-11-11",
       "count": 2,
-      "outstanding": 2099.0,
-      "total": 2099.0
+      "outstanding": 2060.0,
+      "total": 2060.0
     }
   ],
   "quotations": [
@@ -505,9 +505,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-11",
       "expires": "2026-12-11",
-      "total": 879.0,
+      "total": 840.0,
       "settled": 0.0,
-      "outstanding": 879.0,
+      "outstanding": 840.0,
       "lines": [
         {
           "name": "[02385] Spoon Stainless",
@@ -523,11 +523,6 @@
           "name": "[09041] Towel 042-02 30*40cm",
           "qty": 4.0,
           "total": 60.0
-        },
-        {
-          "name": "Door Mat Code02#38*58",
-          "qty": 1.0,
-          "total": 39.0
         },
         {
           "name": "[01666] Flat Roti Pan 28cm#8",

@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T10:45:44Z",
+  "generatedAt": "2026-11-11T11:01:17Z",
   "cash": {
-    "total": 2160.0,
-    "count": 2
+    "total": 2395.0,
+    "count": 3
   },
   "transfer": {
     "total": 11550.0,
@@ -169,6 +169,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00661",
+      "customer": "Triple Y Attire Pvt Ltd",
+      "amount": 235.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "15:53",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[56263] Bracket for Slat Board 12\"",
+          "qty": 3.0,
+          "total": 135.0
+        },
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 10.0,
+          "total": 100.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000609",
       "customer": "Walk-in",
       "amount": 60.0,
@@ -211,8 +232,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 2,
-      "total": 2160.0
+      "count": 3,
+      "total": 2395.0
     },
     {
       "name": "Bank Transfer",
@@ -228,7 +249,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2355.0,
-    "expectedClosing": 4515.0,
+    "expectedClosing": 4750.0,
     "counted": null,
     "difference": null,
     "closed": false,
