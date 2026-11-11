@@ -23593,14 +23593,14 @@
     },
     {
       "date": "2026-11-11",
-      "generatedAt": "2026-11-11T08:45:43Z",
+      "generatedAt": "2026-11-11T09:01:13Z",
       "pos": {
         "total": 415.0,
         "count": 3
       },
       "regularSales": {
-        "total": 11295.0,
-        "count": 3
+        "total": 12520.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 1220.0,
@@ -23611,8 +23611,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 9965.0,
-        "count": 5
+        "total": 11190.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -23694,6 +23694,27 @@
               "name": "[5000311241456] Tea Powder Al-Kabous 454g",
               "qty": 2.0,
               "total": 520.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00658",
+          "customer": "Shaheedha  Guleynooranmage O-1",
+          "amount": 1225.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:47",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70182] Gas Burner ( High Pressure )",
+              "qty": 1.0,
+              "total": 800.0
+            },
+            {
+              "name": "Gas Burner Table",
+              "qty": 1.0,
+              "total": 425.0
             }
           ]
         },
