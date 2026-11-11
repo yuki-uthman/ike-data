@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T04:31:08Z",
+  "generatedAt": "2026-11-11T04:46:02Z",
   "openCount": 181,
-  "openTotal": 2326982.2,
+  "openTotal": 2325757.2,
   "quotationCount": 102,
-  "quotationTotal": 1340976.75,
+  "quotationTotal": 1339751.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -468,8 +468,8 @@
     {
       "date": "2026-11-11",
       "count": 1,
-      "outstanding": 2445.0,
-      "total": 2445.0
+      "outstanding": 1220.0,
+      "total": 1220.0
     }
   ],
   "quotations": [
@@ -481,15 +481,10 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-11",
       "expires": "2026-12-11",
-      "total": 2445.0,
+      "total": 1220.0,
       "settled": 0.0,
-      "outstanding": 2445.0,
+      "outstanding": 1220.0,
       "lines": [
-        {
-          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
-          "qty": 1.0,
-          "total": 1225.0
-        },
         {
           "name": "Baba's Curry Powder 1kg",
           "qty": 2.0,

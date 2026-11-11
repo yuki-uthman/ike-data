@@ -23593,22 +23593,22 @@
     },
     {
       "date": "2026-11-11",
-      "generatedAt": "2026-11-11T04:30:59Z",
+      "generatedAt": "2026-11-11T04:45:46Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1745.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 2445.0,
+        "total": 1220.0,
         "count": 1
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 1745.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -23618,7 +23618,29 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00655",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1745.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+              "qty": 1.0,
+              "total": 1225.0
+            },
+            {
+              "name": "[5000311241456] Tea Powder Al-Kabous 454g",
+              "qty": 2.0,
+              "total": 520.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
@@ -23626,7 +23648,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2355.0,
-        "expectedClosing": 2355.0,
+        "expectedClosing": 4100.0,
         "counted": null,
         "difference": null,
         "closed": false,
