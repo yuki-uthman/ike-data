@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-11T06:15:51Z",
-  "openCount": 182,
-  "openTotal": 2328007.2,
-  "quotationCount": 103,
-  "quotationTotal": 1342001.75,
+  "generatedAt": "2026-11-11T06:31:08Z",
+  "openCount": 181,
+  "openTotal": 2325757.2,
+  "quotationCount": 102,
+  "quotationTotal": 1339751.75,
   "orderCount": 79,
   "orderTotal": 986005.45,
   "days": [
@@ -467,31 +467,12 @@
     },
     {
       "date": "2026-11-11",
-      "count": 2,
-      "outstanding": 3470.0,
-      "total": 3470.0
+      "count": 1,
+      "outstanding": 1220.0,
+      "total": 1220.0
     }
   ],
   "quotations": [
-    {
-      "id": 844,
-      "ref": "S00848",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-11",
-      "expires": "2026-12-11",
-      "total": 2250.0,
-      "settled": 0.0,
-      "outstanding": 2250.0,
-      "lines": [
-        {
-          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
-          "qty": 1.0,
-          "total": 2250.0
-        }
-      ]
-    },
     {
       "id": 841,
       "ref": "S00845",
