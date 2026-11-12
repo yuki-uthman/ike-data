@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-12T05:15:56Z",
-  "openCount": 183,
-  "openTotal": 2327925.2,
-  "quotationCount": 105,
-  "quotationTotal": 1348779.75,
-  "orderCount": 78,
-  "orderTotal": 979145.45,
+  "generatedAt": "2026-11-12T05:31:14Z",
+  "openCount": 181,
+  "openTotal": 2325647.2,
+  "quotationCount": 104,
+  "quotationTotal": 1347501.75,
+  "orderCount": 77,
+  "orderTotal": 978145.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -473,65 +473,12 @@
     },
     {
       "date": "2026-11-12",
-      "count": 2,
-      "outstanding": 2278.0,
-      "total": 2278.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 853,
-      "ref": "S00857",
-      "kind": "quotation",
-      "customer": "Beach Raha Mart K. Himmafushi",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-12",
-      "expires": "2026-12-12",
-      "total": 1278.0,
-      "settled": 0.0,
-      "outstanding": 1278.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        }
-      ]
-    },
-    {
-      "id": 812,
-      "ref": "S00816",
-      "kind": "order",
-      "customer": "Fenfila Maldives B-12",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-12",
-      "expires": "2026-12-08",
-      "total": 1000.0,
-      "settled": 0.0,
-      "outstanding": 1000.0,
-      "lines": [
-        {
-          "name": "[70143] Hook Slat 6\"",
-          "qty": 100.0,
-          "total": 1000.0
-        }
-      ]
-    },
     {
       "id": 852,
       "ref": "S00856",
