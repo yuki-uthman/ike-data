@@ -23490,26 +23490,26 @@
     },
     {
       "date": "2026-11-12",
-      "generatedAt": "2026-11-12T06:01:09Z",
+      "generatedAt": "2026-11-12T06:15:43Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 14118.0,
-        "count": 3
+        "total": 15368.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 1250.0,
-        "count": 1
+        "total": 0,
+        "count": 0
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 14118.0,
-        "count": 3
+        "total": 15368.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -23600,6 +23600,22 @@
               "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
               "qty": 1.0,
               "total": 300.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00666",
+          "customer": "Coral Life Pvt Ltd.",
+          "amount": 1250.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:05",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
+              "qty": 5.0,
+              "total": 1250.0
             }
           ]
         },

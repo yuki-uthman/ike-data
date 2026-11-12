@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-12T06:01:18Z",
-  "openCount": 181,
-  "openTotal": 2318957.2,
-  "quotationCount": 104,
-  "quotationTotal": 1340811.75,
+  "generatedAt": "2026-11-12T06:15:54Z",
+  "openCount": 180,
+  "openTotal": 2317707.2,
+  "quotationCount": 103,
+  "quotationTotal": 1339561.75,
   "orderCount": 77,
   "orderTotal": 978145.45,
   "days": [
@@ -473,31 +473,12 @@
     },
     {
       "date": "2026-11-12",
-      "count": 1,
-      "outstanding": 1250.0,
-      "total": 1250.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 854,
-      "ref": "S00858",
-      "kind": "quotation",
-      "customer": "Coral Life Pvt Ltd.",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-12",
-      "expires": "2026-12-12",
-      "total": 1250.0,
-      "settled": 0.0,
-      "outstanding": 1250.0,
-      "lines": [
-        {
-          "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
-          "qty": 5.0,
-          "total": 1250.0
-        }
-      ]
-    },
     {
       "id": 841,
       "ref": "S00845",
