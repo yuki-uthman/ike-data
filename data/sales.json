@@ -23490,10 +23490,10 @@
     },
     {
       "date": "2026-11-12",
-      "generatedAt": "2026-11-12T17:01:17Z",
+      "generatedAt": "2026-11-12T17:15:55Z",
       "pos": {
-        "total": 632.0,
-        "count": 7
+        "total": 729.0,
+        "count": 9
       },
       "regularSales": {
         "total": 16368.0,
@@ -23504,8 +23504,8 @@
         "count": 3
       },
       "cash": {
-        "total": 730.0,
-        "count": 5
+        "total": 827.0,
+        "count": 7
       },
       "transfer": {
         "total": 16270.0,
@@ -23777,6 +23777,22 @@
           ]
         },
         {
+          "ref": "Ike - 000621",
+          "customer": "Walk-in",
+          "amount": 79.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:06",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70024] Mop Wooden#19",
+              "qty": 1.0,
+              "total": 79.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000620",
           "customer": "Walk-in",
           "amount": 65.0,
@@ -23814,6 +23830,22 @@
           ]
         },
         {
+          "ref": "Ike - 000622",
+          "customer": "Walk-in",
+          "amount": 18.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:10",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70070] Glass Wiper A63",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000619",
           "customer": "Walk-in",
           "amount": 15.0,
@@ -23847,13 +23879,35 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 570.0,
+        "count": 3
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Diesel--Zubaid",
+          "amount": 500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:08"
+        },
+        {
+          "reason": "Tea money 3 days--Jafar",
+          "amount": 60.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:09"
+        },
+        {
+          "reason": "Gate pass--Ngarajn",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:07"
+        }
+      ],
       "till": {
         "opening": 4932.0,
-        "expectedClosing": 5662.0,
+        "expectedClosing": 5189.0,
         "counted": null,
         "difference": null,
         "closed": false,
