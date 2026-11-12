@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-12T15:01:31Z",
-  "openCount": 180,
-  "openTotal": 2317667.2,
-  "quotationCount": 103,
-  "quotationTotal": 1339521.75,
+  "generatedAt": "2026-11-12T15:16:01Z",
+  "openCount": 181,
+  "openTotal": 2322917.2,
+  "quotationCount": 104,
+  "quotationTotal": 1344771.75,
   "orderCount": 77,
   "orderTotal": 978145.45,
   "days": [
@@ -473,12 +473,31 @@
     },
     {
       "date": "2026-11-12",
-      "count": 1,
-      "outstanding": 480.0,
-      "total": 480.0
+      "count": 2,
+      "outstanding": 5730.0,
+      "total": 5730.0
     }
   ],
   "quotations": [
+    {
+      "id": 858,
+      "ref": "S00862",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-12",
+      "expires": "2026-12-12",
+      "total": 5250.0,
+      "settled": 0.0,
+      "outstanding": 5250.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 3.0,
+          "total": 5250.0
+        }
+      ]
+    },
     {
       "id": 857,
       "ref": "S00861",
