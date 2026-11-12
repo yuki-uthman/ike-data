@@ -23490,10 +23490,10 @@
     },
     {
       "date": "2026-11-12",
-      "generatedAt": "2026-11-12T16:01:16Z",
+      "generatedAt": "2026-11-12T16:15:43Z",
       "pos": {
-        "total": 567.0,
-        "count": 6
+        "total": 632.0,
+        "count": 7
       },
       "regularSales": {
         "total": 16368.0,
@@ -23508,8 +23508,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 16205.0,
-        "count": 8
+        "total": 16270.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -23773,6 +23773,27 @@
               "name": "[70050] Slipper#1",
               "qty": 1.0,
               "total": 95.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000620",
+          "customer": "Walk-in",
+          "amount": 65.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:04",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[09041] Towel 042-02 30*40cm",
+              "qty": 4.0,
+              "total": 60.0
+            },
+            {
+              "name": "[83241] Aluminium Foil Box 83241 Loose",
+              "qty": 1.0,
+              "total": 5.0
             }
           ]
         },
