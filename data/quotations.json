@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-12T04:45:46Z",
+  "generatedAt": "2026-11-12T05:01:20Z",
   "openCount": 183,
-  "openTotal": 2326947.2,
+  "openTotal": 2327925.2,
   "quotationCount": 105,
-  "quotationTotal": 1347801.75,
+  "quotationTotal": 1348779.75,
   "orderCount": 78,
   "orderTotal": 979145.45,
   "days": [
@@ -474,11 +474,45 @@
     {
       "date": "2026-11-12",
       "count": 2,
-      "outstanding": 1300.0,
-      "total": 1300.0
+      "outstanding": 2278.0,
+      "total": 2278.0
     }
   ],
   "quotations": [
+    {
+      "id": 853,
+      "ref": "S00857",
+      "kind": "quotation",
+      "customer": "Beach Raha Mart K. Himmafushi",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-12",
+      "expires": "2026-12-12",
+      "total": 1278.0,
+      "settled": 0.0,
+      "outstanding": 1278.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        }
+      ]
+    },
     {
       "id": 812,
       "ref": "S00816",
@@ -495,25 +529,6 @@
           "name": "[70143] Hook Slat 6\"",
           "qty": 100.0,
           "total": 1000.0
-        }
-      ]
-    },
-    {
-      "id": 853,
-      "ref": "S00857",
-      "kind": "quotation",
-      "customer": "Beach Raha Mart K. Himmafushi",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-12",
-      "expires": "2026-12-12",
-      "total": 300.0,
-      "settled": 0.0,
-      "outstanding": 300.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
         }
       ]
     },
