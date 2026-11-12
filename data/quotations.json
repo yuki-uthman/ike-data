@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-12T11:45:58Z",
-  "openCount": 179,
-  "openTotal": 2317187.2,
-  "quotationCount": 102,
-  "quotationTotal": 1339041.75,
+  "generatedAt": "2026-11-12T12:01:29Z",
+  "openCount": 180,
+  "openTotal": 2317667.2,
+  "quotationCount": 103,
+  "quotationTotal": 1339521.75,
   "orderCount": 77,
   "orderTotal": 978145.45,
   "days": [
@@ -473,12 +473,36 @@
     },
     {
       "date": "2026-11-12",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 480.0,
+      "total": 480.0
     }
   ],
   "quotations": [
+    {
+      "id": 857,
+      "ref": "S00861",
+      "kind": "quotation",
+      "customer": "Ike Retail",
+      "salesperson": "Ahmed Rashad",
+      "date": "2026-11-12",
+      "expires": "2026-12-12",
+      "total": 480.0,
+      "settled": 0.0,
+      "outstanding": 480.0,
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 1.0,
+          "total": 280.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
     {
       "id": 841,
       "ref": "S00845",
