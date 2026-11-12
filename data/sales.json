@@ -3,229 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-14",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 478.0,
-        "count": 5
-      },
-      "regularSales": {
-        "total": 14110.0,
-        "count": 5
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 10809.0,
-        "count": 8
-      },
-      "transfer": {
-        "total": 3779.0,
-        "count": 2
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00131",
-          "customer": "Red Bee Mart",
-          "amount": 5830.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "09:16",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
-              "qty": 3.0,
-              "total": 5250.0
-            },
-            {
-              "name": "[PP9] PAPER PLATE 9\"",
-              "qty": 12.0,
-              "total": 580.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00134",
-          "customer": "Cocohut Artificial Beach",
-          "amount": 3950.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:16",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
-              "qty": 1.0,
-              "total": 3950.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00135",
-          "customer": "I.M.U E-8",
-          "amount": 3750.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "17:24",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[A16] Plastic Container A16",
-              "qty": 500.0,
-              "total": 1500.0
-            },
-            {
-              "name": "[R12C] Plastic Container A12 [case]",
-              "qty": 500.0,
-              "total": 1450.0
-            },
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 40.0,
-              "total": 800.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00133",
-          "customer": "Master Kids",
-          "amount": 400.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:45",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 20.0,
-              "total": 400.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000132",
-          "customer": "Walk-in",
-          "amount": 300.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:22",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
-              "qty": 6.0,
-              "total": 300.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00132",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 180.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:15",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
-              "qty": 3.0,
-              "total": 180.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000134",
-          "customer": "Walk-in",
-          "amount": 90.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "13:38",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01928] Ceramic Mug#48-1",
-              "qty": 6.0,
-              "total": 90.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000136",
-          "customer": "Walk-in",
-          "amount": 30.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:26",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 10.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000135",
-          "customer": "Walk-in",
-          "amount": 29.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "21:25",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01871] Duster#43",
-              "qty": 1.0,
-              "total": 29.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000133",
-          "customer": "Walk-in",
-          "amount": 29.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:39",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70071] Sponge 5pcs X 6pkts #23",
-              "qty": 1.0,
-              "total": 19.0
-            },
-            {
-              "name": "[70067] Sponges 2pcs YQE19",
-              "qty": 1.0,
-              "total": 10.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 6145.0,
-        "expectedClosing": 6386.0,
-        "counted": 6386.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-15",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -23913,6 +23690,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-13",
+      "generatedAt": "2026-11-12T19:01:14Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
