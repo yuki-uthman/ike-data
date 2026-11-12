@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-12T05:31:14Z",
+  "generatedAt": "2026-11-12T05:45:57Z",
   "openCount": 181,
-  "openTotal": 2325647.2,
+  "openTotal": 2329547.2,
   "quotationCount": 104,
-  "quotationTotal": 1347501.75,
+  "quotationTotal": 1351401.75,
   "orderCount": 77,
   "orderTotal": 978145.45,
   "days": [
@@ -468,8 +468,8 @@
     {
       "date": "2026-11-11",
       "count": 4,
-      "outstanding": 9970.0,
-      "total": 9970.0
+      "outstanding": 13870.0,
+      "total": 13870.0
     },
     {
       "date": "2026-11-12",
@@ -487,9 +487,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-11",
       "expires": "2026-12-11",
-      "total": 7940.0,
+      "total": 11840.0,
       "settled": 0.0,
-      "outstanding": 7940.0,
+      "outstanding": 11840.0,
       "lines": [
         {
           "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
@@ -530,6 +530,11 @@
           "name": "Bagasse Clamshell 450ml - Bundle (50pcs)",
           "qty": 10.0,
           "total": 500.0
+        },
+        {
+          "name": "[09881] City Bicycle 18'",
+          "qty": 2.0,
+          "total": 3900.0
         }
       ]
     },
