@@ -23490,10 +23490,10 @@
     },
     {
       "date": "2026-11-12",
-      "generatedAt": "2026-11-12T06:31:03Z",
+      "generatedAt": "2026-11-12T06:45:41Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 27.0,
+        "count": 1
       },
       "regularSales": {
         "total": 15368.0,
@@ -23508,8 +23508,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 15368.0,
-        "count": 4
+        "total": 15395.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -23632,6 +23632,22 @@
               "name": "[70143] Hook Slat 6\"",
               "qty": 100.0,
               "total": 1000.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000614",
+          "customer": "Walk-in",
+          "amount": 27.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:40",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01877] Air Fry Paper 16cm*4.5cm #1",
+              "qty": 1.0,
+              "total": 27.0
             }
           ]
         }
