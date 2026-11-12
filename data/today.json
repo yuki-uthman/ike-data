@@ -2,20 +2,76 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T05:45:43Z",
+  "generatedAt": "2026-11-12T06:01:09Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 2278.0,
-    "count": 2
+    "total": 14118.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00665",
+      "customer": "Kilam Traders O-8",
+      "amount": 11840.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:48",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 5.0,
+          "total": 4425.0
+        },
+        {
+          "name": "[09881] City Bicycle 18'",
+          "qty": 2.0,
+          "total": 3900.0
+        },
+        {
+          "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 1400.0
+        },
+        {
+          "name": "Bagasse Clamshell 450ml - Bundle (50pcs)",
+          "qty": 10.0,
+          "total": 500.0
+        },
+        {
+          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+          "qty": 1.0,
+          "total": 360.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00663",
       "customer": "Beach Raha Mart K. Himmafushi",
@@ -68,8 +124,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 2278.0
+      "count": 3,
+      "total": 14118.0
     }
   ],
   "cashOut": {
