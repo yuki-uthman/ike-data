@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-12T10:45:58Z",
-  "openCount": 181,
-  "openTotal": 2317907.2,
-  "quotationCount": 104,
-  "quotationTotal": 1339761.75,
+  "generatedAt": "2026-11-12T11:01:32Z",
+  "openCount": 180,
+  "openTotal": 2317707.2,
+  "quotationCount": 103,
+  "quotationTotal": 1339561.75,
   "orderCount": 77,
   "orderTotal": 978145.45,
   "days": [
@@ -473,31 +473,12 @@
     },
     {
       "date": "2026-11-12",
-      "count": 1,
-      "outstanding": 200.0,
-      "total": 200.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 855,
-      "ref": "S00859",
-      "kind": "quotation",
-      "customer": "Snap Buy",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-12",
-      "expires": "2026-12-12",
-      "total": 200.0,
-      "settled": 0.0,
-      "outstanding": 200.0,
-      "lines": [
-        {
-          "name": "[90040] Milkshake Powder Coconut",
-          "qty": 1.0,
-          "total": 200.0
-        }
-      ]
-    },
     {
       "id": 841,
       "ref": "S00845",
