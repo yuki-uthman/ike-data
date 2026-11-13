@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T17:15:44Z",
+  "generatedAt": "2026-11-13T17:31:22Z",
   "cash": {
     "total": 561.0,
     "count": 4
@@ -194,13 +194,21 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 3500.0,
+    "count": 1
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Uthman",
+      "amount": 3500.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:19"
+    }
+  ],
   "till": {
     "opening": 5189.0,
-    "expectedClosing": 5750.0,
+    "expectedClosing": 2250.0,
     "counted": null,
     "difference": null,
     "closed": false,
