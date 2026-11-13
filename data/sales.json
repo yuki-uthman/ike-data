@@ -3,447 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-15",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 1364.0,
-        "count": 12
-      },
-      "regularSales": {
-        "total": 6331.0,
-        "count": 6
-      },
-      "pendingQuotations": {
-        "total": 52370.0,
-        "count": 4
-      },
-      "cash": {
-        "total": 1243.0,
-        "count": 10
-      },
-      "transfer": {
-        "total": 6452.0,
-        "count": 8
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00138",
-          "customer": "Keesa Zone Q-10",
-          "amount": 2320.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "15:04",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[75053] Hook Mesh 12\"",
-              "qty": 70.0,
-              "total": 1120.0
-            },
-            {
-              "name": "[70147] Hook Mesh 10\"",
-              "qty": 60.0,
-              "total": 840.0
-            },
-            {
-              "name": "[35940] Hook Mesh 8\"",
-              "qty": 30.0,
-              "total": 360.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00139",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 1780.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "16:07",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[10007] Plastic Container T2 [case]",
-              "qty": 1.0,
-              "total": 1000.0
-            },
-            {
-              "name": "Tea Powder AI-Kabous 454g",
-              "qty": 3.0,
-              "total": 780.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00140",
-          "customer": "Retro Mart D-12",
-          "amount": 1035.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "16:15",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[63258] 999  IRONING BOARD JUMBO",
-              "qty": 3.0,
-              "total": 585.0
-            },
-            {
-              "name": "[02399] Fleece Blanket 9 Pounds",
-              "qty": 1.0,
-              "total": 450.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00136",
-          "customer": "Sales",
-          "amount": 446.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "13:45",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[01955] ironing board large",
-              "qty": 1.0,
-              "total": 195.0
-            },
-            {
-              "name": "[70058] Tooth Scarping Dustset",
-              "qty": 1.0,
-              "total": 103.0
-            },
-            {
-              "name": "[01870] Duster 15cm#42",
-              "qty": 1.0,
-              "total": 55.0
-            },
-            {
-              "name": "[01836] Broom Wooden#7",
-              "qty": 1.0,
-              "total": 45.0
-            },
-            {
-              "name": "[01755] Door Mat Pvc Code: 07 #43X67",
-              "qty": 1.0,
-              "total": 30.0
-            },
-            {
-              "name": "[70065] Sponges 5pcs YQE07",
-              "qty": 1.0,
-              "total": 18.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00141",
-          "customer": "Sales",
-          "amount": 390.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "17:16",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70140] Hook Net 10\"",
-              "qty": 15.0,
-              "total": 210.0
-            },
-            {
-              "name": "[70141] Hook Net 8\"",
-              "qty": 15.0,
-              "total": 180.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000148",
-          "customer": "Walk-in",
-          "amount": 385.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:46",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[77618] Tea pot stainless steel 1*20 oz",
-              "qty": 1.0,
-              "total": 277.0
-            },
-            {
-              "name": "[02342] Glass#2",
-              "qty": 6.0,
-              "total": 108.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00137",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 360.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "14:00",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
-              "qty": 6.0,
-              "total": 360.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000144",
-          "customer": "Walk-in",
-          "amount": 228.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "18:02",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01755] Door Mat Pvc Code: 07 #43X67",
-              "qty": 3.0,
-              "total": 90.0
-            },
-            {
-              "name": "[70047] slipper#2",
-              "qty": 1.0,
-              "total": 69.0
-            },
-            {
-              "name": "[01797] Toilet Brush Plastic #328-10048-1",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[70074] Towel 042-02 30*40cm",
-              "qty": 2.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000145",
-          "customer": "Walk-in",
-          "amount": 187.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:12",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70044] Slipper#1112",
-              "qty": 2.0,
-              "total": 118.0
-            },
-            {
-              "name": "[70045] Kids slipper",
-              "qty": 1.0,
-              "total": 69.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000147",
-          "customer": "Walk-in",
-          "amount": 120.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:52",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01666] Flat Roti Pan 28cm#8",
-              "qty": 1.0,
-              "total": 120.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000142",
-          "customer": "Walk-in",
-          "amount": 120.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:29",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01666] Flat Roti Pan 28cm#8",
-              "qty": 1.0,
-              "total": 120.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000141",
-          "customer": "Walk-in",
-          "amount": 110.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:24",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02230] Wooden Spoon 100pcs",
-              "qty": 1.0,
-              "total": 45.0
-            },
-            {
-              "name": "[02231] Wooden Fork 100pcs",
-              "qty": 1.0,
-              "total": 45.0
-            },
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000137",
-          "customer": "Sales",
-          "amount": 66.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "09:31",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01920] Wall hook pink #8022",
-              "qty": 1.0,
-              "total": 25.0
-            },
-            {
-              "name": "[70074] Towel 042-02 30*40cm",
-              "qty": 1.0,
-              "total": 15.0
-            },
-            {
-              "name": "[70019] PLASTIC BASKET ROUND 3# 903",
-              "qty": 1.0,
-              "total": 14.0
-            },
-            {
-              "name": "[70018] PLASTIC BASKET ROUND 2# 902",
-              "qty": 1.0,
-              "total": 12.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000139",
-          "customer": "Walk-in",
-          "amount": 65.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:36",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70074] Towel 042-02 30*40cm",
-              "qty": 2.0,
-              "total": 30.0
-            },
-            {
-              "name": "[8368] Aluminium Foil Box 8368 Loose",
-              "qty": 10.0,
-              "total": 20.0
-            },
-            {
-              "name": "Falcon Aluminum Container 8342 10pcs",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000146",
-          "customer": "Walk-in",
-          "amount": 30.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 10.0,
-              "total": 30.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000143",
-          "customer": "Walk-in",
-          "amount": 26.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:30",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70042] Paper Folded Dinner Napkin",
-              "qty": 1.0,
-              "total": 26.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000140",
-          "customer": "Walk-in",
-          "amount": 18.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:00",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70076] Towel 042-0980 30*30cm",
-              "qty": 2.0,
-              "total": 18.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000138",
-          "customer": "Walk-in",
-          "amount": 9.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:17",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 3.0,
-              "total": 9.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 1609.0,
-        "expectedClosing": 2482.0,
-        "counted": 2482.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-16",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -23919,6 +23478,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-14",
+      "generatedAt": "2026-11-13T19:01:16Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }

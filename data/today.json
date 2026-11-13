@@ -1,233 +1,26 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T18:45:46Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-13T19:01:16Z",
   "cash": {
-    "total": 1446.0,
-    "count": 5
+    "total": 0,
+    "count": 0
   },
   "transfer": {
-    "total": 2390.0,
-    "count": 3
+    "total": 0,
+    "count": 0
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [
-    {
-      "ref": "INV/2026/00522",
-      "customer": "Zilaal Mart R-1",
-      "amount": 2005.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "21:36",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[10007] Plastic Container T2 [case]",
-          "qty": 2.0,
-          "total": 2000.0
-        },
-        {
-          "name": "[BC8C] Bagasse Clamshell 8\" [case]",
-          "qty": 2.0,
-          "total": 1200.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 5.0,
-          "total": 775.0
-        },
-        {
-          "name": "[09041] Towel 042-02 30*40cm",
-          "qty": 50.0,
-          "total": 750.0
-        },
-        {
-          "name": "Hanger Plastic A17 - Case (144pcs)",
-          "qty": 1.0,
-          "total": 550.0
-        },
-        {
-          "name": "[01010] paper straw 8mm 50 pcs",
-          "qty": 20.0,
-          "total": 500.0
-        },
-        {
-          "name": "Hanger Plastic C1-10 - Case (120pcs)",
-          "qty": 1.0,
-          "total": 350.0
-        },
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
-          "qty": 1.0,
-          "total": 180.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00674",
-      "customer": "EM Farm E-16",
-      "amount": 885.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:33",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00672",
-      "customer": "Afaas Mart",
-      "amount": 485.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:07",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[1069257] Soklin Floor Cleaner Rose (Pink / Merah) - Case (12pcs, 400 ml)",
-          "qty": 1.0,
-          "total": 165.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 160.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
-          "qty": 1.0,
-          "total": 160.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00673",
-      "customer": "Scapers",
-      "amount": 235.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "22:14",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70146] Hook Slat 12\"",
-          "qty": 10.0,
-          "total": 160.0
-        },
-        {
-          "name": "[6933890382274] Glass jug with lid 600ml #15",
-          "qty": 1.0,
-          "total": 75.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00670",
-      "customer": "Sales",
-      "amount": 150.0,
-      "method": "transfer",
-      "rawMethod": "Bank",
-      "time": "15:44",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[70148] Hook Mesh 6\"",
-          "qty": 15.0,
-          "total": 150.0
-        }
-      ]
-    },
-    {
-      "ref": "INV/2026/00671",
-      "customer": "Pluvia",
-      "amount": 68.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "21:08",
-      "source": "payment",
-      "lines": [
-        {
-          "name": "[02532] Printer roll",
-          "qty": 5.0,
-          "total": 68.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000623",
-      "customer": "Walk-in",
-      "amount": 5.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "20:31",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[5069] Aluminium Foil Container Round 5069 Loose",
-          "qty": 1.0,
-          "total": 5.0
-        }
-      ]
-    },
-    {
-      "ref": "Ike - 000624",
-      "customer": "Walk-in",
-      "amount": 3.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "21:33",
-      "source": "pos",
-      "lines": [
-        {
-          "name": "[PSB750B] Paper Salad Bowl 750ml",
-          "qty": 1.0,
-          "total": 3.0
-        }
-      ]
-    }
-  ],
-  "methodsSeen": [
-    {
-      "name": "Bank",
-      "method": "transfer",
-      "count": 3,
-      "total": 2390.0
-    },
-    {
-      "name": "Cash",
-      "method": "cash",
-      "count": 5,
-      "total": 1446.0
-    }
-  ],
+  "transactions": [],
+  "methodsSeen": [],
   "cashOut": {
-    "total": 3500.0,
-    "count": 1
+    "total": 0,
+    "count": 0
   },
-  "cashOutTransactions": [
-    {
-      "reason": "Uthman",
-      "amount": 3500.0,
-      "method": "cash",
-      "rawMethod": "Cash",
-      "time": "22:19"
-    }
-  ],
-  "till": {
-    "opening": 5189.0,
-    "expectedClosing": 3135.0,
-    "counted": 3135.0,
-    "difference": 0.0,
-    "closed": true,
-    "sessionCount": 1
-  }
+  "cashOutTransactions": [],
+  "till": null
 }
