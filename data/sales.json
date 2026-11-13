@@ -23693,22 +23693,22 @@
     },
     {
       "date": "2026-11-13",
-      "generatedAt": "2026-11-13T17:31:22Z",
+      "generatedAt": "2026-11-13T17:45:45Z",
       "pos": {
         "total": 8.0,
         "count": 2
       },
       "regularSales": {
-        "total": 2943.0,
-        "count": 5
+        "total": 3828.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 0.0,
         "count": 1
       },
       "cash": {
-        "total": 561.0,
-        "count": 4
+        "total": 1446.0,
+        "count": 5
       },
       "transfer": {
         "total": 2390.0,
@@ -23767,6 +23767,22 @@
               "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
               "qty": 1.0,
               "total": 180.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00674",
+          "customer": "EM Farm E-16",
+          "amount": 885.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:33",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+              "qty": 1.0,
+              "total": 885.0
             }
           ]
         },
@@ -23897,7 +23913,7 @@
       ],
       "till": {
         "opening": 5189.0,
-        "expectedClosing": 2250.0,
+        "expectedClosing": 3135.0,
         "counted": null,
         "difference": null,
         "closed": false,
