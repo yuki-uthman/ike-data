@@ -23693,14 +23693,14 @@
     },
     {
       "date": "2026-11-13",
-      "generatedAt": "2026-11-13T10:31:04Z",
+      "generatedAt": "2026-11-13T10:45:46Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 150.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
@@ -23711,14 +23711,31 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 150.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00670",
+          "customer": "Sales",
+          "amount": 150.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:44",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70148] Hook Mesh 6\"",
+              "qty": 15.0,
+              "total": 150.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
