@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-14T12:01:25Z",
-  "openCount": 182,
-  "openTotal": 2327097.2,
+  "generatedAt": "2026-11-14T12:15:52Z",
+  "openCount": 181,
+  "openTotal": 2322147.2,
   "quotationCount": 105,
   "quotationTotal": 1346806.75,
-  "orderCount": 77,
-  "orderTotal": 980290.45,
+  "orderCount": 76,
+  "orderTotal": 975340.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -485,41 +485,12 @@
     },
     {
       "date": "2026-11-14",
-      "count": 1,
-      "outstanding": 4950.0,
-      "total": 4950.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 870,
-      "ref": "S00874",
-      "kind": "order",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-14",
-      "expires": "2026-12-14",
-      "total": 4950.0,
-      "settled": 0.0,
-      "outstanding": 4950.0,
-      "lines": [
-        {
-          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
-          "qty": 3.0,
-          "total": 3600.0
-        },
-        {
-          "name": "[90048] Milkshake Powder Belgian Chocolate",
-          "qty": 3.0,
-          "total": 750.0
-        },
-        {
-          "name": "[90042] Milkshake Powder Avocado",
-          "qty": 3.0,
-          "total": 600.0
-        }
-      ]
-    },
     {
       "id": 858,
       "ref": "S00862",

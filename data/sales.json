@@ -23481,14 +23481,14 @@
     },
     {
       "date": "2026-11-14",
-      "generatedAt": "2026-11-14T12:01:13Z",
+      "generatedAt": "2026-11-14T12:15:42Z",
       "pos": {
         "total": 568.0,
         "count": 6
       },
       "regularSales": {
-        "total": 4597.0,
-        "count": 7
+        "total": 9547.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 0,
@@ -23499,14 +23499,40 @@
         "count": 10
       },
       "transfer": {
-        "total": 1175.0,
-        "count": 3
+        "total": 6125.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00681",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 4950.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:15",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+              "qty": 3.0,
+              "total": 3600.0
+            },
+            {
+              "name": "[90048] Milkshake Powder Belgian Chocolate",
+              "qty": 3.0,
+              "total": 750.0
+            },
+            {
+              "name": "[90042] Milkshake Powder Avocado",
+              "qty": 3.0,
+              "total": 600.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00677",
           "customer": "Sun Shine Arts",
