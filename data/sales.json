@@ -23481,10 +23481,10 @@
     },
     {
       "date": "2026-11-14",
-      "generatedAt": "2026-11-14T11:31:06Z",
+      "generatedAt": "2026-11-14T11:45:41Z",
       "pos": {
-        "total": 424.0,
-        "count": 5
+        "total": 568.0,
+        "count": 6
       },
       "regularSales": {
         "total": 4597.0,
@@ -23495,8 +23495,8 @@
         "count": 0
       },
       "cash": {
-        "total": 3846.0,
-        "count": 9
+        "total": 3990.0,
+        "count": 10
       },
       "transfer": {
         "total": 1175.0,
@@ -23648,6 +23648,32 @@
           ]
         },
         {
+          "ref": "Ike - 000630",
+          "customer": "Walk-in",
+          "amount": 144.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:43",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01870] Duster 15cm#42",
+              "qty": 1.0,
+              "total": 55.0
+            },
+            {
+              "name": "[01943] Apron - Love life",
+              "qty": 1.0,
+              "total": 50.0
+            },
+            {
+              "name": "[01873] Duster cloth Microfiber",
+              "qty": 1.0,
+              "total": 39.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00678",
           "customer": "Sun Shine Arts",
           "amount": 144.0,
@@ -23777,7 +23803,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3135.0,
-        "expectedClosing": 6981.0,
+        "expectedClosing": 7125.0,
         "counted": null,
         "difference": null,
         "closed": false,
