@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-14",
-  "generatedAt": "2026-11-14T09:15:50Z",
+  "generatedAt": "2026-11-14T09:31:00Z",
   "cash": {
-    "total": 3755.0,
-    "count": 7
+    "total": 3774.0,
+    "count": 8
   },
   "transfer": {
     "total": 800.0,
@@ -198,14 +198,30 @@
           "total": 5.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000628",
+      "customer": "Walk-in",
+      "amount": 19.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:16",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70071] Sponge 5pcs X 6pkts #23",
+          "qty": 1.0,
+          "total": 19.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Cash",
       "method": "cash",
-      "count": 7,
-      "total": 3755.0
+      "count": 8,
+      "total": 3774.0
     },
     {
       "name": "Bank",
@@ -221,7 +237,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3135.0,
-    "expectedClosing": 6890.0,
+    "expectedClosing": 6909.0,
     "counted": null,
     "difference": null,
     "closed": false,
