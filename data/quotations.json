@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-14T04:45:52Z",
-  "openCount": 182,
-  "openTotal": 2322947.2,
+  "generatedAt": "2026-11-14T05:01:19Z",
+  "openCount": 183,
+  "openTotal": 2325477.2,
   "quotationCount": 105,
   "quotationTotal": 1346806.75,
-  "orderCount": 77,
-  "orderTotal": 976140.45,
+  "orderCount": 78,
+  "orderTotal": 978670.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -485,12 +485,41 @@
     },
     {
       "date": "2026-11-14",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2530.0,
+      "total": 2530.0
     }
   ],
   "quotations": [
+    {
+      "id": 868,
+      "ref": "S00872",
+      "kind": "order",
+      "customer": "Sun Shine Arts",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-14",
+      "expires": "2026-12-14",
+      "total": 2530.0,
+      "settled": 0.0,
+      "outstanding": 2530.0,
+      "lines": [
+        {
+          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+          "qty": 1.0,
+          "total": 2000.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 4.0,
+          "total": 0.0
+        },
+        {
+          "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
+          "qty": 2.0,
+          "total": 530.0
+        }
+      ]
+    },
     {
       "id": 858,
       "ref": "S00862",
