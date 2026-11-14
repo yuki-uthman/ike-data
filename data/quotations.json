@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-14T16:31:17Z",
-  "openCount": 184,
-  "openTotal": 2334217.2,
-  "quotationCount": 108,
-  "quotationTotal": 1358876.75,
+  "generatedAt": "2026-11-14T16:45:52Z",
+  "openCount": 182,
+  "openTotal": 2326987.2,
+  "quotationCount": 106,
+  "quotationTotal": 1351646.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -485,36 +485,12 @@
     },
     {
       "date": "2026-11-14",
-      "count": 3,
-      "outstanding": 12070.0,
-      "total": 12070.0
+      "count": 1,
+      "outstanding": 4840.0,
+      "total": 4840.0
     }
   ],
   "quotations": [
-    {
-      "id": 875,
-      "ref": "S00879",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-14",
-      "expires": "2026-12-14",
-      "total": 5050.0,
-      "settled": 0.0,
-      "outstanding": 5050.0,
-      "lines": [
-        {
-          "name": "[2C-BLK-SS-2000-X02] #2C Black Single Side 2000mm x2",
-          "qty": 1.0,
-          "total": 3300.0
-        },
-        {
-          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
-          "qty": 1.0,
-          "total": 1750.0
-        }
-      ]
-    },
     {
       "id": 873,
       "ref": "S00877",
@@ -551,45 +527,6 @@
           "name": "[90052] Milkshake Powder Mocha",
           "qty": 2.0,
           "total": 440.0
-        }
-      ]
-    },
-    {
-      "id": 874,
-      "ref": "S00878",
-      "kind": "quotation",
-      "customer": "Pako Pako Mina asiri B-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-14",
-      "expires": "2026-12-14",
-      "total": 2180.0,
-      "settled": 0.0,
-      "outstanding": 2180.0,
-      "lines": [
-        {
-          "name": "[90035] Milkshake Powder Strawberry",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[90036] Milkshake Powder Chocolate",
-          "qty": 4.0,
-          "total": 880.0
-        },
-        {
-          "name": "[90037] Milkshake Powder Blueberry",
-          "qty": 1.0,
-          "total": 200.0
-        },
-        {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[02440] Milkshake Powder Pistachio",
-          "qty": 1.0,
-          "total": 220.0
         }
       ]
     },

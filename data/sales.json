@@ -23481,32 +23481,53 @@
     },
     {
       "date": "2026-11-14",
-      "generatedAt": "2026-11-14T16:31:08Z",
+      "generatedAt": "2026-11-14T16:45:43Z",
       "pos": {
         "total": 706.0,
         "count": 9
       },
       "regularSales": {
-        "total": 9547.0,
-        "count": 8
+        "total": 16777.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 12070.0,
-        "count": 3
+        "total": 4840.0,
+        "count": 1
       },
       "cash": {
         "total": 3990.0,
         "count": 10
       },
       "transfer": {
-        "total": 6263.0,
-        "count": 7
+        "total": 13493.0,
+        "count": 9
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00682",
+          "customer": "Rashaad",
+          "amount": 5050.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:41",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-BLK-SS-2000-X02] #2C Black Single Side 2000mm x2",
+              "qty": 1.0,
+              "total": 3300.0
+            },
+            {
+              "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+              "qty": 1.0,
+              "total": 1750.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00681",
           "customer": "United Huvadhoo Holding PVT LTD",
@@ -23556,6 +23577,42 @@
               "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
               "qty": 4.0,
               "total": 0.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00683",
+          "customer": "Pako Pako Mina asiri B-3",
+          "amount": 2180.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:42",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90036] Milkshake Powder Chocolate",
+              "qty": 4.0,
+              "total": 880.0
+            },
+            {
+              "name": "[90035] Milkshake Powder Strawberry",
+              "qty": 2.0,
+              "total": 440.0
+            },
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 2.0,
+              "total": 440.0
+            },
+            {
+              "name": "[02440] Milkshake Powder Pistachio",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[90037] Milkshake Powder Blueberry",
+              "qty": 1.0,
+              "total": 200.0
             }
           ]
         },
