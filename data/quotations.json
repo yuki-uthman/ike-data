@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-14T05:01:19Z",
+  "generatedAt": "2026-11-14T05:15:55Z",
   "openCount": 183,
-  "openTotal": 2325477.2,
-  "quotationCount": 105,
-  "quotationTotal": 1346806.75,
-  "orderCount": 78,
-  "orderTotal": 978670.45,
+  "openTotal": 2327972.2,
+  "quotationCount": 106,
+  "quotationTotal": 1351831.75,
+  "orderCount": 77,
+  "orderTotal": 976140.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -486,37 +486,42 @@
     {
       "date": "2026-11-14",
       "count": 1,
-      "outstanding": 2530.0,
-      "total": 2530.0
+      "outstanding": 5025.0,
+      "total": 5025.0
     }
   ],
   "quotations": [
     {
-      "id": 868,
-      "ref": "S00872",
-      "kind": "order",
-      "customer": "Sun Shine Arts",
+      "id": 870,
+      "ref": "S00874",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-14",
       "expires": "2026-12-14",
-      "total": 2530.0,
+      "total": 5025.0,
       "settled": 0.0,
-      "outstanding": 2530.0,
+      "outstanding": 5025.0,
       "lines": [
         {
-          "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
-          "qty": 1.0,
-          "total": 2000.0
+          "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
+          "qty": 3.0,
+          "total": 3600.0
         },
         {
-          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
-          "qty": 4.0,
-          "total": 0.0
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 3.0,
+          "total": 750.0
         },
         {
-          "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
           "qty": 2.0,
-          "total": 530.0
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
         }
       ]
     },

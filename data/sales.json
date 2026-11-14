@@ -23481,22 +23481,22 @@
     },
     {
       "date": "2026-11-14",
-      "generatedAt": "2026-11-14T05:01:11Z",
+      "generatedAt": "2026-11-14T05:15:48Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 748.0,
-        "count": 2
+        "total": 3422.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 5025.0,
+        "count": 1
       },
       "cash": {
-        "total": 748.0,
-        "count": 2
+        "total": 3422.0,
+        "count": 4
       },
       "transfer": {
         "total": 0,
@@ -23507,6 +23507,32 @@
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00677",
+          "customer": "Sun Shine Arts",
+          "amount": 2530.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:02",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-WHT-ERP-1950] #RD8 White End Rack Perforated 1950mm",
+              "qty": 1.0,
+              "total": 2000.0
+            },
+            {
+              "name": "[RD8-WHT-SHTOP-700] RD8 White Shelf Top 700x300mm",
+              "qty": 2.0,
+              "total": 530.0
+            },
+            {
+              "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+              "qty": 4.0,
+              "total": 0.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00675",
           "customer": "Afaas Mart",
@@ -23525,6 +23551,22 @@
               "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
               "qty": 1.0,
               "total": 339.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00678",
+          "customer": "Sun Shine Arts",
+          "amount": 144.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "10:09",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[35940] Hook Mesh 8\"",
+              "qty": 12.0,
+              "total": 144.0
             }
           ]
         },
@@ -23552,7 +23594,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3135.0,
-        "expectedClosing": 3883.0,
+        "expectedClosing": 6557.0,
         "counted": null,
         "difference": null,
         "closed": false,
