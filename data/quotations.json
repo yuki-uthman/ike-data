@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-14T11:15:57Z",
+  "generatedAt": "2026-11-14T11:31:19Z",
   "openCount": 182,
   "openTotal": 2327097.2,
-  "quotationCount": 106,
-  "quotationTotal": 1351756.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "quotationCount": 105,
+  "quotationTotal": 1346806.75,
+  "orderCount": 77,
+  "orderTotal": 980290.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -494,7 +494,7 @@
     {
       "id": 870,
       "ref": "S00874",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "United Huvadhoo Holding PVT LTD",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-14",
