@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-14",
-  "generatedAt": "2026-11-14T05:30:56Z",
+  "generatedAt": "2026-11-14T05:45:40Z",
   "cash": {
-    "total": 3422.0,
-    "count": 4
+    "total": 3531.0,
+    "count": 5
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 800.0,
+    "count": 1
   },
   "other": {
     "total": 0,
@@ -39,6 +39,57 @@
           "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
           "qty": 4.0,
           "total": 0.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00522",
+      "customer": "Zilaal Mart R-1",
+      "amount": 800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:31",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[10007] Plastic Container T2 [case]",
+          "qty": 2.0,
+          "total": 2000.0
+        },
+        {
+          "name": "[BC8C] Bagasse Clamshell 8\" [case]",
+          "qty": 2.0,
+          "total": 1200.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 5.0,
+          "total": 775.0
+        },
+        {
+          "name": "[09041] Towel 042-02 30*40cm",
+          "qty": 50.0,
+          "total": 750.0
+        },
+        {
+          "name": "Hanger Plastic A17 - Case (144pcs)",
+          "qty": 1.0,
+          "total": 550.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 20.0,
+          "total": 500.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Case (120pcs)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (12pcs, 360 ml)",
+          "qty": 1.0,
+          "total": 180.0
         }
       ]
     },
@@ -80,6 +131,22 @@
       ]
     },
     {
+      "ref": "Ike - 000625",
+      "customer": "Walk-in",
+      "amount": 109.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:39",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70128] Mop Bucket Plastic 505 #1",
+          "qty": 1.0,
+          "total": 109.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00676",
       "customer": "Sales",
       "amount": 70.0,
@@ -100,8 +167,14 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 3422.0
+      "count": 5,
+      "total": 3531.0
+    },
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 800.0
     }
   ],
   "cashOut": {
@@ -111,7 +184,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3135.0,
-    "expectedClosing": 6557.0,
+    "expectedClosing": 6666.0,
     "counted": null,
     "difference": null,
     "closed": false,
