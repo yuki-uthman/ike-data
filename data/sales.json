@@ -23481,10 +23481,10 @@
     },
     {
       "date": "2026-11-14",
-      "generatedAt": "2026-11-14T15:01:11Z",
+      "generatedAt": "2026-11-14T15:15:42Z",
       "pos": {
-        "total": 568.0,
-        "count": 6
+        "total": 646.0,
+        "count": 7
       },
       "regularSales": {
         "total": 9547.0,
@@ -23499,8 +23499,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 6125.0,
-        "count": 4
+        "total": 6203.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -23728,6 +23728,22 @@
               "name": "[70128] Mop Bucket Plastic 505 #1",
               "qty": 1.0,
               "total": 109.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000631",
+          "customer": "Walk-in",
+          "amount": 78.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01797] Toilet Brush Plastic #328-10048-1",
+              "qty": 2.0,
+              "total": 78.0
             }
           ]
         },
