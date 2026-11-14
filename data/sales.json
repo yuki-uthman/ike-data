@@ -23481,14 +23481,14 @@
     },
     {
       "date": "2026-11-14",
-      "generatedAt": "2026-11-14T10:01:18Z",
+      "generatedAt": "2026-11-14T10:15:53Z",
       "pos": {
         "total": 424.0,
         "count": 5
       },
       "regularSales": {
-        "total": 4222.0,
-        "count": 5
+        "total": 4597.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 5625.0,
@@ -23499,8 +23499,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 800.0,
-        "count": 1
+        "total": 1175.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -23606,6 +23606,32 @@
           ]
         },
         {
+          "ref": "INV/2026/00679",
+          "customer": "Auguste Maldives",
+          "amount": 345.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:04",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70140] Hook Net 10\"",
+              "qty": 10.0,
+              "total": 140.0
+            },
+            {
+              "name": "[70141] Hook Net 8\"",
+              "qty": 10.0,
+              "total": 120.0
+            },
+            {
+              "name": "[02176] Plastic Container Rectangular#big",
+              "qty": 1.0,
+              "total": 85.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000626",
           "customer": "Walk-in",
           "amount": 200.0,
@@ -23682,6 +23708,27 @@
               "name": "[01777] Plastic Container 250ml#2083",
               "qty": 2.0,
               "total": 70.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00680",
+          "customer": "Auguste Maldives",
+          "amount": 30.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:06",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) (400 ml)",
+              "qty": 1.0,
+              "total": 15.0
+            },
+            {
+              "name": "Soft Napkin ARMAAN",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
