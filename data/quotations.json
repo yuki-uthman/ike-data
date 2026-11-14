@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-14T10:46:01Z",
+  "generatedAt": "2026-11-14T11:01:21Z",
   "openCount": 182,
-  "openTotal": 2327772.2,
+  "openTotal": 2327097.2,
   "quotationCount": 106,
-  "quotationTotal": 1352431.75,
+  "quotationTotal": 1351756.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -486,8 +486,8 @@
     {
       "date": "2026-11-14",
       "count": 1,
-      "outstanding": 5625.0,
-      "total": 5625.0
+      "outstanding": 4950.0,
+      "total": 4950.0
     }
   ],
   "quotations": [
@@ -499,9 +499,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-14",
       "expires": "2026-12-14",
-      "total": 5625.0,
+      "total": 4950.0,
       "settled": 0.0,
-      "outstanding": 5625.0,
+      "outstanding": 4950.0,
       "lines": [
         {
           "name": "[70183] Mattress Spring 91x190x20cm N-M02032",
@@ -512,16 +512,6 @@
           "name": "[90048] Milkshake Powder Belgian Chocolate",
           "qty": 3.0,
           "total": 750.0
-        },
-        {
-          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
-          "qty": 2.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
         },
         {
           "name": "[90042] Milkshake Powder Avocado",
