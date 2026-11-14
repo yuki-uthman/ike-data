@@ -3,258 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-16",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 651.0,
-        "count": 7
-      },
-      "regularSales": {
-        "total": 8650.0,
-        "count": 4
-      },
-      "pendingQuotations": {
-        "total": 14760.0,
-        "count": 4
-      },
-      "cash": {
-        "total": 294.0,
-        "count": 5
-      },
-      "transfer": {
-        "total": 9007.0,
-        "count": 6
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00143",
-          "customer": "Greenzone District",
-          "amount": 4950.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "11:12",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[3C270] Aluminium Foil Box 3 compartments 3377 3C270 [case]",
-              "qty": 3.0,
-              "total": 4950.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00145",
-          "customer": "Hawwa Masuoodha Bulaasam F-1",
-          "amount": 1980.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "13:50",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70176] 51 Warehouse Rack White Large",
-              "qty": 1.0,
-              "total": 1980.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00142",
-          "customer": "3R Cafe & Bistro R-1",
-          "amount": 1200.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "09:26",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[BC8C] Bagasse Clamshell 8\" [case]",
-              "qty": 2.0,
-              "total": 1200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00146",
-          "customer": "Sales",
-          "amount": 520.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:09",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70145] Hook Slat 10\"",
-              "qty": 20.0,
-              "total": 280.0
-            },
-            {
-              "name": "[70144] Hook Slat 8\"",
-              "qty": 20.0,
-              "total": 240.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000154",
-          "customer": "Walk-in",
-          "amount": 280.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "20:08",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[0100T] Paper salad bowl 1000 ML",
-              "qty": 1.0,
-              "total": 150.0
-            },
-            {
-              "name": "[02422] KRAFT PAPER BAG 16*7*32CM 50PCS",
-              "qty": 1.0,
-              "total": 85.0
-            },
-            {
-              "name": "[70053] Bamboo Skewer 8\"/20cm MTL",
-              "qty": 1.0,
-              "total": 45.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000155",
-          "customer": "Walk-in",
-          "amount": 138.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:40",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[98559] Kitchen scale 5kg@SH-125",
-              "qty": 1.0,
-              "total": 138.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000149",
-          "customer": "Walk-in",
-          "amount": 77.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "10:10",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[6291106520040] TOILET ROLL 2 PLY 1X10",
-              "qty": 1.0,
-              "total": 39.0
-            },
-            {
-              "name": "[6955105504080] Brush Silicone Scrubber#91264",
-              "qty": 1.0,
-              "total": 20.0
-            },
-            {
-              "name": "[70065] Sponges 5pcs YQE07",
-              "qty": 1.0,
-              "total": 18.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000152",
-          "customer": "Walk-in",
-          "amount": 59.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:43",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70040] Ignitor Battery Operated",
-              "qty": 1.0,
-              "total": 59.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000153",
-          "customer": "Walk-in",
-          "amount": 50.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:03",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[X0001] Damaged Aluminum Foil Container",
-              "qty": 10.0,
-              "total": 50.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000151",
-          "customer": "Walk-in",
-          "amount": 29.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:05",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01798] Hair comb Plastic#M86",
-              "qty": 1.0,
-              "total": 29.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000156",
-          "customer": "Walk-in",
-          "amount": 18.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "21:03",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70065] Sponges 5pcs YQE07",
-              "qty": 1.0,
-              "total": 18.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 1000.0,
-        "count": 1
-      },
-      "cashOutTransactions": [
-        {
-          "reason": "uthman",
-          "amount": 1000.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:54"
-        }
-      ],
-      "till": {
-        "opening": 2482.0,
-        "expectedClosing": 1706.0,
-        "counted": 1706.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-17",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -24011,6 +23759,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-15",
+      "generatedAt": "2026-11-14T19:01:17Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }

@@ -3,25 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-16",
-      "generatedAt": "2026-09-16T18:45:43Z",
-      "confirmed": {
-        "total": 70.0,
-        "count": 2
-      },
-      "pending": {
-        "total": 0,
-        "count": 0
-      },
-      "categories": [
-        {
-          "name": "Expenses",
-          "count": 2,
-          "total": 70.0
-        }
-      ]
-    },
-    {
       "date": "2026-09-17",
       "generatedAt": "2026-09-17T18:45:48Z",
       "confirmed": {
@@ -823,6 +804,19 @@
     {
       "date": "2026-11-14",
       "generatedAt": "2026-11-14T18:45:55Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-11-15",
+      "generatedAt": "2026-11-14T19:01:27Z",
       "confirmed": {
         "total": 0,
         "count": 0
