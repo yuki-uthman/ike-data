@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T09:30:58Z",
+  "generatedAt": "2026-11-15T09:41:21Z",
   "cash": {
     "total": 2102.0,
     "count": 6
   },
   "transfer": {
-    "total": 12994.0,
-    "count": 5
+    "total": 13574.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -81,6 +81,22 @@
           "name": "[90036] Milkshake Powder Chocolate",
           "qty": 1.0,
           "total": 210.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00691",
+      "customer": "Packbox",
+      "amount": 580.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:31",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 12.0,
+          "total": 580.0
         }
       ]
     },
@@ -232,8 +248,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 12870.0
+      "count": 3,
+      "total": 13450.0
     },
     {
       "name": "Cash",
