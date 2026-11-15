@@ -23762,10 +23762,10 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T17:45:42Z",
+      "generatedAt": "2026-11-15T18:01:10Z",
       "pos": {
-        "total": 927.0,
-        "count": 13
+        "total": 818.0,
+        "count": 14
       },
       "regularSales": {
         "total": 27942.0,
@@ -23776,8 +23776,8 @@
         "count": 7
       },
       "cash": {
-        "total": 2770.0,
-        "count": 10
+        "total": 2661.0,
+        "count": 11
       },
       "transfer": {
         "total": 26099.0,
@@ -24291,6 +24291,22 @@
               "name": "Chuba Ubee Chips Sweet Corn (45 gr)",
               "qty": 1.0,
               "total": 12.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000641 REFUND",
+          "customer": "Walk-in",
+          "amount": -109.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:45",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70043] Hotpack coffee stirrer wooden 14cm",
+              "qty": -1.0,
+              "total": 109.0
             }
           ]
         }
