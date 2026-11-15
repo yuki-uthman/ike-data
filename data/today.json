@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T15:30:59Z",
+  "generatedAt": "2026-11-15T15:45:41Z",
   "cash": {
     "total": 2350.0,
     "count": 9
   },
   "transfer": {
-    "total": 13649.0,
-    "count": 7
+    "total": 16684.0,
+    "count": 9
   },
   "other": {
     "total": 0,
@@ -44,6 +44,22 @@
           "name": "[70216] RD8 Price Border Strip White 900mm (875)",
           "qty": 28.0,
           "total": 700.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00693",
+      "customer": "Gn.Naaz Store R-1",
+      "amount": 2850.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "20:38",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
         }
       ]
     },
@@ -145,6 +161,22 @@
           "name": "[70147] Hook Mesh 10\"",
           "qty": 15.0,
           "total": 210.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000645",
+      "customer": "Walk-in",
+      "amount": 185.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "20:44",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[6971746750075] Rain Coat Polyester #2",
+          "qty": 1.0,
+          "total": 185.0
         }
       ]
     },
@@ -327,8 +359,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 13450.0
+      "count": 4,
+      "total": 16300.0
     },
     {
       "name": "Cash",
@@ -339,8 +371,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 4,
-      "total": 199.0
+      "count": 5,
+      "total": 384.0
     }
   ],
   "cashOut": {
