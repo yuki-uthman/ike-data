@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-15T15:01:30Z",
-  "openCount": 186,
-  "openTotal": 2345829.2,
-  "quotationCount": 110,
-  "quotationTotal": 1370488.75,
+  "generatedAt": "2026-11-15T15:15:50Z",
+  "openCount": 188,
+  "openTotal": 2351974.2,
+  "quotationCount": 112,
+  "quotationTotal": 1376633.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -491,9 +491,9 @@
     },
     {
       "date": "2026-11-15",
-      "count": 4,
-      "outstanding": 36292.0,
-      "total": 36292.0
+      "count": 6,
+      "outstanding": 42437.0,
+      "total": 42437.0
     }
   ],
   "quotations": [
@@ -547,6 +547,64 @@
           "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
           "qty": 1.0,
           "total": 2800.0
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "ref": "S00892",
+      "kind": "quotation",
+      "customer": "Clous E-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-15",
+      "expires": "2026-12-15",
+      "total": 3295.0,
+      "settled": 0.0,
+      "outstanding": 3295.0,
+      "lines": [
+        {
+          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+          "qty": 5.0,
+          "total": 1450.0
+        },
+        {
+          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+          "qty": 10.0,
+          "total": 0.0
+        },
+        {
+          "name": "[70002] BBQ 24*25cm",
+          "qty": 10.0,
+          "total": 500.0
+        },
+        {
+          "name": "[01895] Mosquito Racket 47*19cm 0008",
+          "qty": 10.0,
+          "total": 990.0
+        },
+        {
+          "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        }
+      ]
+    },
+    {
+      "id": 889,
+      "ref": "S00893",
+      "kind": "quotation",
+      "customer": "Gn.Naaz Store",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-15",
+      "expires": "2026-12-15",
+      "total": 2850.0,
+      "settled": 0.0,
+      "outstanding": 2850.0,
+      "lines": [
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
         }
       ]
     },
