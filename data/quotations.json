@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-15T05:15:50Z",
+  "generatedAt": "2026-11-15T05:31:12Z",
   "openCount": 184,
-  "openTotal": 2314024.2,
+  "openTotal": 2329729.2,
   "quotationCount": 108,
-  "quotationTotal": 1338683.75,
+  "quotationTotal": 1354388.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -492,11 +492,30 @@
     {
       "date": "2026-11-15",
       "count": 2,
-      "outstanding": 4487.0,
-      "total": 4487.0
+      "outstanding": 20192.0,
+      "total": 20192.0
     }
   ],
   "quotations": [
+    {
+      "id": 878,
+      "ref": "S00882",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-15",
+      "expires": "2026-12-15",
+      "total": 17450.0,
+      "settled": 0.0,
+      "outstanding": 17450.0,
+      "lines": [
+        {
+          "name": "Menu Book A4",
+          "qty": 10.0,
+          "total": 17450.0
+        }
+      ]
+    },
     {
       "id": 877,
       "ref": "S00881",
@@ -528,25 +547,6 @@
           "name": "Sponge Green D6 4pcs",
           "qty": 2.0,
           "total": 42.0
-        }
-      ]
-    },
-    {
-      "id": 878,
-      "ref": "S00882",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-15",
-      "expires": "2026-12-15",
-      "total": 1745.0,
-      "settled": 0.0,
-      "outstanding": 1745.0,
-      "lines": [
-        {
-          "name": "Menu Book A4",
-          "qty": 1.0,
-          "total": 1745.0
         }
       ]
     },
