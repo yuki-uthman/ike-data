@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T09:45:41Z",
+  "generatedAt": "2026-11-15T10:01:12Z",
   "cash": {
-    "total": 2102.0,
-    "count": 6
+    "total": 2320.0,
+    "count": 8
   },
   "transfer": {
     "total": 13574.0,
@@ -165,6 +165,38 @@
       ]
     },
     {
+      "ref": "INV/2026/00692 (Ike - 000642)",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 109.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:48",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70043] Hotpack coffee stirrer wooden 14cm",
+          "qty": 1.0,
+          "total": 109.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000641",
+      "customer": "Walk-in",
+      "amount": 109.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:47",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70043] Hotpack coffee stirrer wooden 14cm",
+          "qty": 1.0,
+          "total": 109.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000637",
       "customer": "Walk-in",
       "amount": 58.0,
@@ -254,8 +286,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 2102.0
+      "count": 8,
+      "total": 2320.0
     },
     {
       "name": "Bank Transfer",
@@ -271,7 +303,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3132.0,
-    "expectedClosing": 5234.0,
+    "expectedClosing": 5452.0,
     "counted": null,
     "difference": null,
     "closed": false,
