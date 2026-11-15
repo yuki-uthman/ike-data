@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T18:01:10Z",
+  "generatedAt": "2026-11-15T18:15:51Z",
   "cash": {
     "total": 2661.0,
     "count": 11
@@ -560,10 +560,17 @@
     }
   ],
   "cashOut": {
-    "total": 135.0,
-    "count": 2
+    "total": 2135.0,
+    "count": 3
   },
   "cashOutTransactions": [
+    {
+      "reason": "Owners drawing-- Uthman",
+      "amount": 2000.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "23:04"
+    },
     {
       "reason": "Red fox spray paint 2 bottle --Nagarajn",
       "amount": 90.0,
@@ -581,10 +588,10 @@
   ],
   "till": {
     "opening": 3132.0,
-    "expectedClosing": 5658.0,
-    "counted": null,
-    "difference": null,
-    "closed": false,
+    "expectedClosing": 3658.0,
+    "counted": 3658.0,
+    "difference": 0.0,
+    "closed": true,
     "sessionCount": 1
   }
 }
