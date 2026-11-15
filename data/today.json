@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T15:45:41Z",
+  "generatedAt": "2026-11-15T16:01:10Z",
   "cash": {
     "total": 2350.0,
     "count": 9
   },
   "transfer": {
-    "total": 16684.0,
-    "count": 9
+    "total": 18829.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -60,6 +60,27 @@
           "name": "[70161] Vegetable Rack 4 Square Baskets",
           "qty": 1.0,
           "total": 2850.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00694",
+      "customer": "Pink / C-16",
+      "amount": 2100.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "20:52",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 5.0,
+          "total": 1050.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 5.0,
+          "total": 1050.0
         }
       ]
     },
@@ -307,6 +328,22 @@
       ]
     },
     {
+      "ref": "Ike - 000646",
+      "customer": "Walk-in",
+      "amount": 45.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "20:48",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Soft Napkin ARMAAN",
+          "qty": 3.0,
+          "total": 45.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000643",
       "customer": "Walk-in",
       "amount": 30.0,
@@ -359,8 +396,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 16300.0
+      "count": 5,
+      "total": 18400.0
     },
     {
       "name": "Cash",
@@ -371,8 +408,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 5,
-      "total": 384.0
+      "count": 6,
+      "total": 429.0
     }
   ],
   "cashOut": {

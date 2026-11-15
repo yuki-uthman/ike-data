@@ -23762,26 +23762,26 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T15:45:41Z",
+      "generatedAt": "2026-11-15T16:01:10Z",
       "pos": {
-        "total": 829.0,
-        "count": 10
+        "total": 874.0,
+        "count": 11
       },
       "regularSales": {
-        "total": 18205.0,
-        "count": 8
+        "total": 20305.0,
+        "count": 9
       },
       "pendingQuotations": {
-        "total": 104797.0,
-        "count": 8
+        "total": 102697.0,
+        "count": 7
       },
       "cash": {
         "total": 2350.0,
         "count": 9
       },
       "transfer": {
-        "total": 16684.0,
-        "count": 9
+        "total": 18829.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -23832,6 +23832,27 @@
               "name": "[70161] Vegetable Rack 4 Square Baskets",
               "qty": 1.0,
               "total": 2850.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00694",
+          "customer": "Pink / C-16",
+          "amount": 2100.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:52",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90036] Milkshake Powder Chocolate",
+              "qty": 5.0,
+              "total": 1050.0
+            },
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 5.0,
+              "total": 1050.0
             }
           ]
         },
@@ -24075,6 +24096,22 @@
               "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
               "qty": 1.0,
               "total": 10.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000646",
+          "customer": "Walk-in",
+          "amount": 45.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:48",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soft Napkin ARMAAN",
+              "qty": 3.0,
+              "total": 45.0
             }
           ]
         },

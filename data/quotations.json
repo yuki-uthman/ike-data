@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-15T15:45:51Z",
-  "openCount": 190,
-  "openTotal": 2414334.2,
-  "quotationCount": 114,
-  "quotationTotal": 1438993.75,
+  "generatedAt": "2026-11-15T16:01:24Z",
+  "openCount": 189,
+  "openTotal": 2412234.2,
+  "quotationCount": 113,
+  "quotationTotal": 1436893.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -491,9 +491,9 @@
     },
     {
       "date": "2026-11-15",
-      "count": 8,
-      "outstanding": 104797.0,
-      "total": 104797.0
+      "count": 7,
+      "outstanding": 102697.0,
+      "total": 102697.0
     }
   ],
   "quotations": [
@@ -678,30 +678,6 @@
           "name": "Sponge Green D6 4pcs",
           "qty": 2.0,
           "total": 42.0
-        }
-      ]
-    },
-    {
-      "id": 890,
-      "ref": "S00894",
-      "kind": "quotation",
-      "customer": "Pink / C-16",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-15",
-      "expires": "2026-12-15",
-      "total": 2100.0,
-      "settled": 0.0,
-      "outstanding": 2100.0,
-      "lines": [
-        {
-          "name": "[90036] Milkshake Powder Chocolate",
-          "qty": 5.0,
-          "total": 1050.0
-        },
-        {
-          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
-          "qty": 5.0,
-          "total": 1050.0
         }
       ]
     },
