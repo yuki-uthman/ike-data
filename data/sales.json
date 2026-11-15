@@ -23762,14 +23762,14 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T17:15:51Z",
+      "generatedAt": "2026-11-15T17:31:01Z",
       "pos": {
         "total": 889.0,
         "count": 12
       },
       "regularSales": {
-        "total": 25142.0,
-        "count": 12
+        "total": 27942.0,
+        "count": 13
       },
       "pendingQuotations": {
         "total": 102755.0,
@@ -23780,8 +23780,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 23261.0,
-        "count": 14
+        "total": 26061.0,
+        "count": 15
       },
       "other": {
         "total": 0,
@@ -23832,6 +23832,22 @@
               "name": "[70161] Vegetable Rack 4 Square Baskets",
               "qty": 1.0,
               "total": 2850.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00698",
+          "customer": "H A Plus E-1",
+          "amount": 2800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:24",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
+              "qty": 2.0,
+              "total": 2800.0
             }
           ]
         },
