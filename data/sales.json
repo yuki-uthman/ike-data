@@ -3,409 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-17",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 564.0,
-        "count": 7
-      },
-      "regularSales": {
-        "total": 33925.0,
-        "count": 13
-      },
-      "pendingQuotations": {
-        "total": 50.0,
-        "count": 1
-      },
-      "cash": {
-        "total": 3729.0,
-        "count": 9
-      },
-      "transfer": {
-        "total": 30760.0,
-        "count": 11
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00158",
-          "customer": "Ekuveri Store I-8",
-          "amount": 15200.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:00",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[2C-WHT-SS-2000-X01] #2C White Single Side 2000mm x1",
-              "qty": 8.0,
-              "total": 14000.0
-            },
-            {
-              "name": "2C Price Border Strip Red",
-              "qty": 48.0,
-              "total": 1200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00152",
-          "customer": "Zeelam Trade C -14",
-          "amount": 5755.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "14:46",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[2C-WHT-SS-2000-X02] #2C White Single Side 2000mm x2",
-              "qty": 1.0,
-              "total": 3300.0
-            },
-            {
-              "name": "[70186] Trolley Stand 5 Layer Black",
-              "qty": 1.0,
-              "total": 1900.0
-            },
-            {
-              "name": "2C Price Border Strip Red",
-              "qty": 12.0,
-              "total": 300.0
-            },
-            {
-              "name": "[79687] Hook Slat with 7 Pegs",
-              "qty": 5.0,
-              "total": 175.0
-            },
-            {
-              "name": "[70139] Hook Net 12\"",
-              "qty": 5.0,
-              "total": 80.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00148",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 2300.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:24",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[BBRE24300B] Black Base Container 24oz",
-              "qty": 6.0,
-              "total": 1440.0
-            },
-            {
-              "name": "Top kokoa Hokkaido white chocolate 1kg",
-              "qty": 2.0,
-              "total": 500.0
-            },
-            {
-              "name": "Green's Carmelle [bundle]",
-              "qty": 2.0,
-              "total": 360.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00155",
-          "customer": "Jhl/S-2",
-          "amount": 2200.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "16:09",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[80001] Bagasse Plate 9'' 25 pcs",
-              "qty": 40.0,
-              "total": 2200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00154",
-          "customer": "U.A Store  F-1",
-          "amount": 2200.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "15:53",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[80001] Bagasse Plate 9'' 25 pcs",
-              "qty": 40.0,
-              "total": 2200.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00151",
-          "customer": "I Select E-16",
-          "amount": 1900.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "11:36",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70187] Trolley Stand 5 Layer White",
-              "qty": 1.0,
-              "total": 1900.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00153",
-          "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 1440.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "14:58",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[BBRE24300B] Black Base Container 24oz",
-              "qty": 6.0,
-              "total": 1440.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00149",
-          "customer": "Insta Cart C-13",
-          "amount": 1280.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "11:02",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[01815] SLAT BOARD 4X8FT 15MM 11 ALU",
-              "qty": 1.0,
-              "total": 790.0
-            },
-            {
-              "name": "[70145] Hook Slat 10\"",
-              "qty": 35.0,
-              "total": 490.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00156",
-          "customer": "H.Miz",
-          "amount": 800.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:16",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70139] Hook Net 12\"",
-              "qty": 50.0,
-              "total": 800.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00147",
-          "customer": "Eden Mart",
-          "amount": 280.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "10:08",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[90048] Milkshake Powder Belgian Chocolate",
-              "qty": 1.0,
-              "total": 280.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000163",
-          "customer": "Walk-in",
-          "amount": 220.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "17:52",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
-              "qty": 2.0,
-              "total": 220.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00159",
-          "customer": "Novelty Bookshop",
-          "amount": 220.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:28",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70155] FLOOR MAT Office Nylon Carpet 1.2x15m",
-              "qty": 2.0,
-              "total": 220.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00157",
-          "customer": "Sales",
-          "amount": 200.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:28",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[06705] Milkshake Powder Vanilla",
-              "qty": 1.0,
-              "total": 200.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000161",
-          "customer": "Walk-in",
-          "amount": 195.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:21",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[00002] Clothes kids",
-              "qty": 1.0,
-              "total": 195.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00150",
-          "customer": "Good  Coffee",
-          "amount": 150.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "11:04",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 50.0,
-              "total": 150.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000162",
-          "customer": "Walk-in",
-          "amount": 50.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:59",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70059] Dust Pan Dm-044",
-              "qty": 1.0,
-              "total": 50.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000157",
-          "customer": "Walk-in",
-          "amount": 50.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "09:48",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02424] KRAFT PAPER BAG 16*8*28CM 50PCS",
-              "qty": 1.0,
-              "total": 50.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000158",
-          "customer": "Walk-in",
-          "amount": 25.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:34",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01773] Wall Clip Adhesive Plastic#22808",
-              "qty": 1.0,
-              "total": 25.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000160",
-          "customer": "Walk-in",
-          "amount": 15.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "13:37",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01928] Ceramic Mug#48-1",
-              "qty": 1.0,
-              "total": 15.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000159",
-          "customer": "Walk-in",
-          "amount": 9.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "11:47",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[8389] Aluminium Foil Box 8389 Loose",
-              "qty": 3.0,
-              "total": 9.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 2076.0,
-        "expectedClosing": 5795.0,
-        "counted": 5795.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-18",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -24346,6 +23943,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-16",
+      "generatedAt": "2026-11-15T19:01:13Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
