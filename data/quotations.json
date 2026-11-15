@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-15T11:31:09Z",
-  "openCount": 185,
-  "openTotal": 2330029.2,
-  "quotationCount": 109,
-  "quotationTotal": 1354688.75,
+  "generatedAt": "2026-11-15T11:45:53Z",
+  "openCount": 186,
+  "openTotal": 2345829.2,
+  "quotationCount": 110,
+  "quotationTotal": 1370488.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -491,9 +491,9 @@
     },
     {
       "date": "2026-11-15",
-      "count": 3,
-      "outstanding": 20492.0,
-      "total": 20492.0
+      "count": 4,
+      "outstanding": 36292.0,
+      "total": 36292.0
     }
   ],
   "quotations": [
@@ -513,6 +513,40 @@
           "name": "Menu Book A4",
           "qty": 10.0,
           "total": 17450.0
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "ref": "S00891",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-15",
+      "expires": "2026-12-15",
+      "total": 15800.0,
+      "settled": 0.0,
+      "outstanding": 15800.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-SS-2000-X03] #2C Black Single Side 2000mm x3",
+          "qty": 1.0,
+          "total": 4850.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X04] #2C Black Single Side 2000mm x4",
+          "qty": 1.0,
+          "total": 6400.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 1.0,
+          "total": 1750.0
+        },
+        {
+          "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
+          "qty": 1.0,
+          "total": 2800.0
         }
       ]
     },
