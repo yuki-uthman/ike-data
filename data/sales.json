@@ -23762,32 +23762,63 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T06:30:57Z",
+      "generatedAt": "2026-11-15T06:45:40Z",
       "pos": {
-        "total": 112.0,
-        "count": 2
+        "total": 309.0,
+        "count": 4
       },
       "regularSales": {
-        "total": 220.0,
-        "count": 1
+        "total": 13090.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 20192.0,
         "count": 2
       },
       "cash": {
-        "total": 220.0,
-        "count": 1
+        "total": 405.0,
+        "count": 2
       },
       "transfer": {
-        "total": 112.0,
-        "count": 2
+        "total": 12994.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00686",
+          "customer": "Abdulla Ali  Haveeru B-12",
+          "amount": 12660.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:32",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-DSP-1550-X01] #RD8 Gray Double Side Perforated 1550mm x1",
+              "qty": 2.0,
+              "total": 6000.0
+            },
+            {
+              "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+              "qty": 2.0,
+              "total": 5000.0
+            },
+            {
+              "name": "[88734] Tool Box X3",
+              "qty": 12.0,
+              "total": 960.0
+            },
+            {
+              "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+              "qty": 28.0,
+              "total": 700.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00685",
           "customer": "Snap Buy",
@@ -23801,6 +23832,38 @@
               "name": "[06705] Milkshake Powder Vanilla",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00687",
+          "customer": "Bite And Basket",
+          "amount": 210.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70147] Hook Mesh 10\"",
+              "qty": 15.0,
+              "total": 210.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000638",
+          "customer": "Walk-in",
+          "amount": 185.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01747] Water Bottle#7",
+              "qty": 1.0,
+              "total": 185.0
             }
           ]
         },
@@ -23850,6 +23913,22 @@
               "total": 10.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000639",
+          "customer": "Walk-in",
+          "amount": 12.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:44",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Chuba Ubee Chips Sweet Corn (45 gr)",
+              "qty": 1.0,
+              "total": 12.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -23859,7 +23938,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3132.0,
-        "expectedClosing": 3352.0,
+        "expectedClosing": 3537.0,
         "counted": null,
         "difference": null,
         "closed": false,
