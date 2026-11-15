@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-15T04:01:23Z",
-  "openCount": 182,
-  "openTotal": 2326987.2,
-  "quotationCount": 106,
-  "quotationTotal": 1351646.75,
+  "generatedAt": "2026-11-15T04:15:50Z",
+  "openCount": 183,
+  "openTotal": 2329729.2,
+  "quotationCount": 107,
+  "quotationTotal": 1354388.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -491,12 +491,46 @@
     },
     {
       "date": "2026-11-15",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2742.0,
+      "total": 2742.0
     }
   ],
   "quotations": [
+    {
+      "id": 877,
+      "ref": "S00881",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-15",
+      "expires": "2026-12-15",
+      "total": 2742.0,
+      "settled": 0.0,
+      "outstanding": 2742.0,
+      "lines": [
+        {
+          "name": "Top Kokoa Hokkaido White Chocolate 1kg",
+          "qty": 2.0,
+          "total": 500.0
+        },
+        {
+          "name": "[6251136019358] Pomegranate Sauce 4kg Durra",
+          "qty": 1.0,
+          "total": 1200.0
+        },
+        {
+          "name": "[10007] Plastic Container T2 [case]",
+          "qty": 1.0,
+          "total": 1000.0
+        },
+        {
+          "name": "Sponge Green D6 4pcs",
+          "qty": 2.0,
+          "total": 42.0
+        }
+      ]
+    },
     {
       "id": 873,
       "ref": "S00877",
