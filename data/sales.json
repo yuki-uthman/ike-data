@@ -23762,14 +23762,14 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T16:15:42Z",
+      "generatedAt": "2026-11-15T16:31:01Z",
       "pos": {
         "total": 874.0,
         "count": 11
       },
       "regularSales": {
-        "total": 23047.0,
-        "count": 10
+        "total": 24722.0,
+        "count": 11
       },
       "pendingQuotations": {
         "total": 99955.0,
@@ -23780,8 +23780,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 21571.0,
-        "count": 12
+        "total": 23246.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -23884,6 +23884,37 @@
               "name": "[90051] Milkshake Powder Hazelnut Chocolate",
               "qty": 5.0,
               "total": 1050.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00696",
+          "customer": "Iruvaage/ a.a. maalhos U8",
+          "amount": 1675.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "21:21",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70182] Gas Burner ( High Pressure )",
+              "qty": 1.0,
+              "total": 800.0
+            },
+            {
+              "name": "Gas Burner Table",
+              "qty": 1.0,
+              "total": 425.0
+            },
+            {
+              "name": "[70037] Gas Regulator (High Pressure)",
+              "qty": 1.0,
+              "total": 360.0
+            },
+            {
+              "name": "[70215] Gas Pipe ( Yellow )",
+              "qty": 6.0,
+              "total": 90.0
             }
           ]
         },
