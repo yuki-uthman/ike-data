@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T11:45:40Z",
+  "generatedAt": "2026-11-15T12:01:15Z",
   "cash": {
     "total": 2350.0,
     "count": 9
   },
   "transfer": {
-    "total": 13574.0,
-    "count": 6
+    "total": 13649.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -197,6 +197,37 @@
       ]
     },
     {
+      "ref": "Ike - 000644",
+      "customer": "Walk-in",
+      "amount": 75.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "16:46",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01914] Kiwi Knife 474",
+          "qty": 1.0,
+          "total": 30.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq (140 gr)",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
+          "qty": 1.0,
+          "total": 10.0
+        },
+        {
+          "name": "[53824] Fork Flatware Ss #6 Green (loose pc)",
+          "qty": 1.0,
+          "total": 10.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000637",
       "customer": "Walk-in",
       "amount": 58.0,
@@ -308,8 +339,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 3,
-      "total": 124.0
+      "count": 4,
+      "total": 199.0
     }
   ],
   "cashOut": {
