@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T16:45:42Z",
+  "generatedAt": "2026-11-15T17:01:15Z",
   "cash": {
-    "total": 2350.0,
-    "count": 9
+    "total": 2770.0,
+    "count": 10
   },
   "transfer": {
     "total": 23261.0,
@@ -196,6 +196,27 @@
           "name": "[70110] paper plates 9 inch 100pcs",
           "qty": 12.0,
           "total": 580.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00697",
+      "customer": "Snap Buy",
+      "amount": 420.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:52",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 1.0,
+          "total": 210.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 210.0
         }
       ]
     },
@@ -480,8 +501,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 9,
-      "total": 2350.0
+      "count": 10,
+      "total": 2770.0
     },
     {
       "name": "Bank Transfer",
@@ -512,7 +533,7 @@
   ],
   "till": {
     "opening": 3132.0,
-    "expectedClosing": 5347.0,
+    "expectedClosing": 5767.0,
     "counted": null,
     "difference": null,
     "closed": false,
