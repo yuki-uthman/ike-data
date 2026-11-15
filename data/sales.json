@@ -23762,10 +23762,10 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T17:31:01Z",
+      "generatedAt": "2026-11-15T17:45:42Z",
       "pos": {
-        "total": 889.0,
-        "count": 12
+        "total": 927.0,
+        "count": 13
       },
       "regularSales": {
         "total": 27942.0,
@@ -23780,8 +23780,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 26061.0,
-        "count": 15
+        "total": 26099.0,
+        "count": 16
       },
       "other": {
         "total": 0,
@@ -24215,6 +24215,22 @@
           ]
         },
         {
+          "ref": "Ike - 000648",
+          "customer": "Walk-in",
+          "amount": 38.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:31",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[80203] Towel 042-0983 35*75cm",
+              "qty": 2.0,
+              "total": 38.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000643",
           "customer": "Walk-in",
           "amount": 30.0,
@@ -24301,7 +24317,7 @@
       ],
       "till": {
         "opening": 3132.0,
-        "expectedClosing": 5767.0,
+        "expectedClosing": 5658.0,
         "counted": null,
         "difference": null,
         "closed": false,
