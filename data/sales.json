@@ -23762,10 +23762,10 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T16:31:01Z",
+      "generatedAt": "2026-11-15T16:36:34Z",
       "pos": {
-        "total": 874.0,
-        "count": 11
+        "total": 889.0,
+        "count": 12
       },
       "regularSales": {
         "total": 24722.0,
@@ -23780,8 +23780,8 @@
         "count": 9
       },
       "transfer": {
-        "total": 23246.0,
-        "count": 13
+        "total": 23261.0,
+        "count": 14
       },
       "other": {
         "total": 0,
@@ -24190,6 +24190,22 @@
               "name": "[70096] Baking Paper 10m#4",
               "qty": 1.0,
               "total": 30.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000647",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "21:35",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01787] Strainer Flour Plastic 20cm#236-8815M",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         },
