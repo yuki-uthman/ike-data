@@ -23762,10 +23762,10 @@
     },
     {
       "date": "2026-11-15",
-      "generatedAt": "2026-11-15T04:15:44Z",
+      "generatedAt": "2026-11-15T04:31:00Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 54.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
@@ -23780,14 +23780,41 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 54.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "Ike - 000636",
+          "customer": "Walk-in",
+          "amount": 54.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "09:22",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01799] Hair Comb Plastic",
+              "qty": 1.0,
+              "total": 25.0
+            },
+            {
+              "name": "[01700] Strainer Steel 7cm YM-055#18",
+              "qty": 1.0,
+              "total": 19.0
+            },
+            {
+              "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
+              "qty": 1.0,
+              "total": 10.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
