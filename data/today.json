@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T08:31:03Z",
+  "generatedAt": "2026-11-16T08:45:52Z",
   "cash": {
     "total": 125.0,
     "count": 2
   },
   "transfer": {
-    "total": 8048.0,
-    "count": 4
+    "total": 10268.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -99,6 +99,37 @@
       ]
     },
     {
+      "ref": "INV/2026/00704",
+      "customer": "Sunset Treat",
+      "amount": 2220.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:38",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90048] Milkshake Powder Belgian Chocolate",
+          "qty": 3.0,
+          "total": 750.0
+        },
+        {
+          "name": "[90043] Milkshake Powder Butterscotch",
+          "qty": 3.0,
+          "total": 630.0
+        },
+        {
+          "name": "[90050] Milkshake Powder French Vanilla",
+          "qty": 3.0,
+          "total": 630.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 1.0,
+          "total": 210.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00699",
       "customer": "Hg Supermart  R-1",
       "amount": 1800.0,
@@ -177,8 +208,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 8048.0
+      "count": 5,
+      "total": 10268.0
     },
     {
       "name": "Cash",
