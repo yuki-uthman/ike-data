@@ -23946,26 +23946,26 @@
     },
     {
       "date": "2026-11-16",
-      "generatedAt": "2026-11-16T15:16:01Z",
+      "generatedAt": "2026-11-16T15:31:22Z",
       "pos": {
         "total": 660.0,
         "count": 7
       },
       "regularSales": {
-        "total": 34075.0,
-        "count": 9
+        "total": 34915.0,
+        "count": 11
       },
       "pendingQuotations": {
-        "total": 10668.0,
-        "count": 4
+        "total": 13698.0,
+        "count": 5
       },
       "cash": {
         "total": 2312.0,
         "count": 6
       },
       "transfer": {
-        "total": 32423.0,
-        "count": 10
+        "total": 33263.0,
+        "count": 12
       },
       "other": {
         "total": 0,
@@ -24190,6 +24190,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00709",
+          "customer": "Sales",
+          "amount": 600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:18",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[43079] Hook Slat White 6\"",
+              "qty": 30.0,
+              "total": 600.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00703",
           "customer": "Blooms Supplies",
           "amount": 420.0,
@@ -24207,6 +24223,22 @@
               "name": "[90047] Milkshake Powder Tiramisu",
               "qty": 1.0,
               "total": 210.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00710",
+          "customer": "Sales",
+          "amount": 240.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:20",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[MACHA100] Macha Green Tea 100g",
+              "qty": 1.0,
+              "total": 240.0
             }
           ]
         },
