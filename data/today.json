@@ -2,20 +2,76 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T16:01:19Z",
+  "generatedAt": "2026-11-16T16:15:46Z",
   "cash": {
     "total": 2312.0,
     "count": 6
   },
   "transfer": {
-    "total": 33263.0,
-    "count": 12
+    "total": 64341.0,
+    "count": 13
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00711",
+      "customer": "RJ Mart Q-4",
+      "amount": 31078.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:13",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-BLK-SS-2000-X06] #2C Black Single Side 2000mm x6",
+          "qty": 1.0,
+          "total": 9700.0
+        },
+        {
+          "name": "[2C-BLK-DS-2000-X03] #2C Black Double Side 2000mm x3",
+          "qty": 1.0,
+          "total": 8000.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 2.0,
+          "total": 3500.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X02] #2C Black Single Side 2000mm x2",
+          "qty": 1.0,
+          "total": 3300.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 90.0,
+          "total": 2250.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "Door Mat Code02#38*58",
+          "qty": 2.0,
+          "total": 78.0
+        },
+        {
+          "name": "Discount",
+          "qty": 1.0,
+          "total": -500.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00706",
       "customer": "Snap Buy",
@@ -439,8 +495,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 10,
-      "total": 32922.0
+      "count": 11,
+      "total": 64000.0
     },
     {
       "name": "Cash",
