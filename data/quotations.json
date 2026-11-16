@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T12:14:36Z",
+  "generatedAt": "2026-11-16T12:16:06Z",
   "openCount": 189,
   "openTotal": 2413165.2,
   "quotationCount": 113,
@@ -503,25 +503,6 @@
     }
   ],
   "quotations": [
-    {
-      "id": 907,
-      "ref": "S00911",
-      "kind": "quotation",
-      "customer": "Hi Max F-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-16",
-      "expires": "2026-12-16",
-      "total": 1770.0,
-      "settled": 0.0,
-      "outstanding": 1770.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 2.0,
-          "total": 1770.0
-        }
-      ]
-    },
     {
       "id": 907,
       "ref": "S00911",
