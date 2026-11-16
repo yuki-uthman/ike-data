@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T17:45:56Z",
+  "generatedAt": "2026-11-16T18:01:18Z",
   "cash": {
-    "total": 2342.0,
-    "count": 7
+    "total": 2642.0,
+    "count": 8
   },
   "transfer": {
     "total": 64341.0,
@@ -327,6 +327,27 @@
       ]
     },
     {
+      "ref": "Ike - 000658",
+      "customer": "Walk-in",
+      "amount": 300.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:59",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[A16] Plastic Container A16",
+          "qty": 50.0,
+          "total": 150.0
+        },
+        {
+          "name": "[0100T] Paper salad bowl 1000 ML",
+          "qty": 1.0,
+          "total": 150.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00710",
       "customer": "Sales",
       "amount": 240.0,
@@ -517,8 +538,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 7,
-      "total": 2342.0
+      "count": 8,
+      "total": 2642.0
     },
     {
       "name": "Bank Transfer",
@@ -542,7 +563,7 @@
   ],
   "till": {
     "opening": 3658.0,
-    "expectedClosing": 2500.0,
+    "expectedClosing": 2800.0,
     "counted": null,
     "difference": null,
     "closed": false,
