@@ -3,218 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-18",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 70.0,
-        "count": 3
-      },
-      "regularSales": {
-        "total": 8660.0,
-        "count": 6
-      },
-      "pendingQuotations": {
-        "total": 0,
-        "count": 0
-      },
-      "cash": {
-        "total": 29.0,
-        "count": 2
-      },
-      "transfer": {
-        "total": 8701.0,
-        "count": 7
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "INV/2026/00165",
-          "customer": "Ilios B. Fulhadhoo/F14",
-          "amount": 4100.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:56",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-              "qty": 2.0,
-              "total": 2200.0
-            },
-            {
-              "name": "Bagasse Clamshell 600ml Geo Peck - Case (10 bundles/500pcs)",
-              "qty": 1.0,
-              "total": 1400.0
-            },
-            {
-              "name": "Bagasse Clamshell 450ml - Bundle (50pcs)",
-              "qty": 10.0,
-              "total": 500.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00164",
-          "customer": "Umber Pvt Ltd C-1",
-          "amount": 1100.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:21",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-              "qty": 1.0,
-              "total": 1100.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00163",
-          "customer": "Blazing Star/N-4",
-          "amount": 1100.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "21:15",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "Bagasse Plate 9\" Geo Peck - Case (4 bundles/500pcs)",
-              "qty": 1.0,
-              "total": 1100.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00160",
-          "customer": "I Select E-16",
-          "amount": 1100.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "20:04",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[80001] Bagasse Plate 9'' 25 pcs",
-              "qty": 20.0,
-              "total": 1100.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00161",
-          "customer": "Family Mart Hithadhoo",
-          "amount": 940.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "20:07",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70147] Hook Mesh 10\"",
-              "qty": 50.0,
-              "total": 700.0
-            },
-            {
-              "name": "[35940] Hook Mesh 8\"",
-              "qty": 20.0,
-              "total": 240.0
-            }
-          ]
-        },
-        {
-          "ref": "INV/2026/00162",
-          "customer": "Sales",
-          "amount": 320.0,
-          "method": "transfer",
-          "rawMethod": "Bank",
-          "time": "20:14",
-          "source": "payment",
-          "lines": [
-            {
-              "name": "[70146] Hook Slat 12\"",
-              "qty": 20.0,
-              "total": 320.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000164",
-          "customer": "Walk-in",
-          "amount": 41.0,
-          "method": "transfer",
-          "rawMethod": "Bank Transfer",
-          "time": "16:36",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02240] Silicone utensils loose  PC spaghetti spoon 01702",
-              "qty": 1.0,
-              "total": 35.0
-            },
-            {
-              "name": "[0012] Sponge WJ631 Loose PC",
-              "qty": 1.0,
-              "total": 3.0
-            },
-            {
-              "name": "[0012] Sponge WJ631 Loose PC",
-              "qty": 1.0,
-              "total": 3.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000165",
-          "customer": "Walk-in",
-          "amount": 20.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:34",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[02228] Paper Cup 6oz (Bundle)",
-              "qty": 1.0,
-              "total": 20.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000166",
-          "customer": "Walk-in",
-          "amount": 9.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "20:27",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[70076] Towel 042-0980 30*30cm",
-              "qty": 1.0,
-              "total": 9.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 0,
-        "count": 0
-      },
-      "cashOutTransactions": [],
-      "till": {
-        "opening": 5816.5,
-        "expectedClosing": 3202.5,
-        "counted": 3202.5,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-19",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -24505,6 +24293,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-17",
+      "generatedAt": "2026-11-16T19:01:18Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
