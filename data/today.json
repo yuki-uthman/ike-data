@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T11:01:19Z",
+  "generatedAt": "2026-11-16T11:07:12Z",
   "cash": {
     "total": 2192.0,
     "count": 5
   },
   "transfer": {
-    "total": 31499.0,
-    "count": 7
+    "total": 31609.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -260,6 +260,27 @@
       ]
     },
     {
+      "ref": "Ike - 000655",
+      "customer": "Walk-in",
+      "amount": 110.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "16:02",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Hanger Plastic A17 - Bundle (6pcs)",
+          "qty": 3.0,
+          "total": 90.0
+        },
+        {
+          "name": "Hanger Plastic C1-10 - Bundle (6pcs)",
+          "qty": 1.0,
+          "total": 20.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000650",
       "customer": "Walk-in",
       "amount": 110.0,
@@ -345,8 +366,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 231.0
+      "count": 2,
+      "total": 341.0
     }
   ],
   "cashOut": {
