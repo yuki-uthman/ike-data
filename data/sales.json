@@ -23946,14 +23946,14 @@
     },
     {
       "date": "2026-11-16",
-      "generatedAt": "2026-11-16T04:15:41Z",
+      "generatedAt": "2026-11-16T04:31:01Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1800.0,
+        "count": 1
       },
       "pendingQuotations": {
         "total": 0,
@@ -23964,14 +23964,31 @@
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1800.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00699",
+          "customer": "Hg Supermart  R-1",
+          "amount": 1800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:24",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[MILO900-C12] Milo 900g (Case 12pcs)",
+              "qty": 1.0,
+              "total": 1800.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
