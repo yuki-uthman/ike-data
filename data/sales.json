@@ -23946,7 +23946,7 @@
     },
     {
       "date": "2026-11-16",
-      "generatedAt": "2026-11-16T16:45:52Z",
+      "generatedAt": "2026-11-16T17:01:42Z",
       "pos": {
         "total": 690.0,
         "count": 8
@@ -23956,8 +23956,8 @@
         "count": 12
       },
       "pendingQuotations": {
-        "total": 14588.0,
-        "count": 6
+        "total": 22548.0,
+        "count": 8
       },
       "cash": {
         "total": 2342.0,
@@ -24464,13 +24464,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 3500.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "owners drawing--Uthman",
+          "amount": 3500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:46"
+        }
+      ],
       "till": {
         "opening": 3658.0,
-        "expectedClosing": 6000.0,
+        "expectedClosing": 2500.0,
         "counted": null,
         "difference": null,
         "closed": false,
