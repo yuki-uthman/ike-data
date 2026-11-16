@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T15:45:56Z",
-  "openCount": 191,
-  "openTotal": 2423395.2,
+  "generatedAt": "2026-11-16T16:01:28Z",
+  "openCount": 192,
+  "openTotal": 2454973.2,
   "quotationCount": 115,
   "quotationTotal": 1448054.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "orderCount": 77,
+  "orderTotal": 1006918.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -497,12 +497,66 @@
     },
     {
       "date": "2026-11-16",
-      "count": 4,
-      "outstanding": 13698.0,
-      "total": 13698.0
+      "count": 5,
+      "outstanding": 45276.0,
+      "total": 45276.0
     }
   ],
   "quotations": [
+    {
+      "id": 913,
+      "ref": "S00917",
+      "kind": "order",
+      "customer": "RJ Mart Q-4",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 31578.0,
+      "settled": 0.0,
+      "outstanding": 31578.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 2.0,
+          "total": 3500.0
+        },
+        {
+          "name": "[70186] Trolley Stand 5 Layer Black",
+          "qty": 1.0,
+          "total": 1900.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X06] #2C Black Single Side 2000mm x6",
+          "qty": 1.0,
+          "total": 9700.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X02] #2C Black Single Side 2000mm x2",
+          "qty": 1.0,
+          "total": 3300.0
+        },
+        {
+          "name": "[2C-BLK-DS-2000-X03] #2C Black Double Side 2000mm x3",
+          "qty": 1.0,
+          "total": 8000.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 90.0,
+          "total": 2250.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 1.0,
+          "total": 2850.0
+        },
+        {
+          "name": "Door Mat Code02#38*58",
+          "qty": 2.0,
+          "total": 78.0
+        }
+      ]
+    },
     {
       "id": 909,
       "ref": "S00913",
