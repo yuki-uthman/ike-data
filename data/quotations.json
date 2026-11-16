@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T11:31:11Z",
-  "openCount": 189,
-  "openTotal": 2409488.2,
-  "quotationCount": 112,
-  "quotationTotal": 1432154.75,
+  "generatedAt": "2026-11-16T12:01:58Z",
+  "openCount": 190,
+  "openTotal": 2415158.2,
+  "quotationCount": 113,
+  "quotationTotal": 1437824.75,
   "orderCount": 77,
   "orderTotal": 977333.45,
   "days": [
@@ -492,14 +492,14 @@
     {
       "date": "2026-11-15",
       "count": 5,
-      "outstanding": 96260.0,
-      "total": 96260.0
+      "outstanding": 100160.0,
+      "total": 100160.0
     },
     {
       "date": "2026-11-16",
-      "count": 2,
-      "outstanding": 3691.0,
-      "total": 3691.0
+      "count": 3,
+      "outstanding": 5461.0,
+      "total": 5461.0
     }
   ],
   "quotations": [
@@ -534,6 +534,25 @@
           "name": "[70140] Hook Net 10\"",
           "qty": 8.0,
           "total": 112.0
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "ref": "S00911",
+      "kind": "quotation",
+      "customer": "Hi Max F-3",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 1770.0,
+      "settled": 0.0,
+      "outstanding": 1770.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
         }
       ]
     },
@@ -676,14 +695,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-15",
       "expires": "2026-12-15",
-      "total": 4850.0,
+      "total": 8750.0,
       "settled": 0.0,
-      "outstanding": 4850.0,
+      "outstanding": 8750.0,
       "lines": [
         {
-          "name": "[2C-BLK-SS-2000-X03] #2C Black Single Side 2000mm x3",
-          "qty": 1.0,
-          "total": 4850.0
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 5.0,
+          "total": 8750.0
         }
       ]
     },
