@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T09:45:43Z",
+  "generatedAt": "2026-11-16T10:01:21Z",
   "cash": {
-    "total": 199.0,
-    "count": 4
+    "total": 2192.0,
+    "count": 5
   },
   "transfer": {
-    "total": 10268.0,
-    "count": 5
+    "total": 10499.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -130,6 +130,37 @@
       ]
     },
     {
+      "ref": "INV/2026/00705",
+      "customer": "Linseed",
+      "amount": 1993.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:46",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 3.0,
+          "total": 885.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 8.0,
+          "total": 112.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 6.0,
+          "total": 96.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00699",
       "customer": "Hg Supermart  R-1",
       "amount": 1800.0,
@@ -163,6 +194,32 @@
           "name": "[90047] Milkshake Powder Tiramisu",
           "qty": 1.0,
           "total": 210.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000654",
+      "customer": "Walk-in",
+      "amount": 231.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "15:01",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[A12B] Plastic Container A12 (Bundle)",
+          "qty": 1.0,
+          "total": 140.0
+        },
+        {
+          "name": "[01623] Ceramic Plate 8\"#12",
+          "qty": 2.0,
+          "total": 66.0
+        },
+        {
+          "name": "[01617] Creamic Bowl 7\"#5",
+          "qty": 1.0,
+          "total": 25.0
         }
       ]
     },
@@ -246,8 +303,14 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 199.0
+      "count": 5,
+      "total": 2192.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 231.0
     }
   ],
   "cashOut": {
@@ -257,7 +320,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3658.0,
-    "expectedClosing": 3857.0,
+    "expectedClosing": 5850.0,
     "counted": null,
     "difference": null,
     "closed": false,
