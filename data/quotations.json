@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T17:01:51Z",
-  "openCount": 194,
-  "openTotal": 2432245.2,
-  "quotationCount": 118,
-  "quotationTotal": 1456904.75,
+  "generatedAt": "2026-11-16T17:16:18Z",
+  "openCount": 195,
+  "openTotal": 2441185.2,
+  "quotationCount": 119,
+  "quotationTotal": 1465844.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -497,12 +497,36 @@
     },
     {
       "date": "2026-11-16",
-      "count": 7,
-      "outstanding": 22548.0,
-      "total": 22548.0
+      "count": 8,
+      "outstanding": 31488.0,
+      "total": 31488.0
     }
   ],
   "quotations": [
+    {
+      "id": 903,
+      "ref": "S00907",
+      "kind": "quotation",
+      "customer": "Trivana Holdings Private Limited",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 8940.0,
+      "settled": 0.0,
+      "outstanding": 8940.0,
+      "lines": [
+        {
+          "name": "PET Cup 90U - 12oz - Case (1000pcs)",
+          "qty": 3.0,
+          "total": 6570.0
+        },
+        {
+          "name": "PET Lid 90 Dome Lid - Case (1000pcs)",
+          "qty": 3.0,
+          "total": 2370.0
+        }
+      ]
+    },
     {
       "id": 909,
       "ref": "S00913",
