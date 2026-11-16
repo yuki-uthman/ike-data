@@ -23946,32 +23946,68 @@
     },
     {
       "date": "2026-11-16",
-      "generatedAt": "2026-11-16T10:31:02Z",
+      "generatedAt": "2026-11-16T11:01:19Z",
       "pos": {
         "total": 430.0,
         "count": 5
       },
       "regularSales": {
-        "total": 12261.0,
-        "count": 6
+        "total": 33261.0,
+        "count": 7
       },
       "pendingQuotations": {
-        "total": 22698.0,
-        "count": 3
+        "total": 1698.0,
+        "count": 2
       },
       "cash": {
         "total": 2192.0,
         "count": 5
       },
       "transfer": {
-        "total": 10499.0,
-        "count": 6
+        "total": 31499.0,
+        "count": 7
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00706",
+          "customer": "Snap Buy",
+          "amount": 21000.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:53",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90036] Milkshake Powder Chocolate",
+              "qty": 20.0,
+              "total": 4200.0
+            },
+            {
+              "name": "[06705] Milkshake Powder Vanilla",
+              "qty": 20.0,
+              "total": 4200.0
+            },
+            {
+              "name": "[56296] Milkshake Powder Cookies & Cream",
+              "qty": 20.0,
+              "total": 4200.0
+            },
+            {
+              "name": "[02154] Milkshake Powder Mango",
+              "qty": 20.0,
+              "total": 4200.0
+            },
+            {
+              "name": "[90035] Milkshake Powder Strawberry",
+              "qty": 20.0,
+              "total": 4200.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00701",
           "customer": "Clous E-12",
