@@ -23946,22 +23946,22 @@
     },
     {
       "date": "2026-11-16",
-      "generatedAt": "2026-11-16T06:01:23Z",
+      "generatedAt": "2026-11-16T06:15:42Z",
       "pos": {
-        "total": 110.0,
-        "count": 1
+        "total": 125.0,
+        "count": 2
       },
       "regularSales": {
         "total": 8048.0,
         "count": 4
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 1698.0,
+        "count": 1
       },
       "cash": {
-        "total": 110.0,
-        "count": 1
+        "total": 125.0,
+        "count": 2
       },
       "transfer": {
         "total": 8048.0,
@@ -24111,6 +24111,22 @@
               "total": 45.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000651",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:01",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01907] Toilet Brush Plastic #36",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24120,7 +24136,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3658.0,
-        "expectedClosing": 3768.0,
+        "expectedClosing": 3783.0,
         "counted": null,
         "difference": null,
         "closed": false,
