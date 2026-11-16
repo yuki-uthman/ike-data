@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T11:07:12Z",
+  "generatedAt": "2026-11-16T11:16:03Z",
   "cash": {
-    "total": 2192.0,
-    "count": 5
+    "total": 2312.0,
+    "count": 6
   },
   "transfer": {
     "total": 31609.0,
@@ -260,6 +260,22 @@
       ]
     },
     {
+      "ref": "Ike - 000656",
+      "customer": "Walk-in",
+      "amount": 120.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:07",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70143] Hook Slat 6\"",
+          "qty": 12.0,
+          "total": 120.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000655",
       "customer": "Walk-in",
       "amount": 110.0,
@@ -360,8 +376,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 2192.0
+      "count": 6,
+      "total": 2312.0
     },
     {
       "name": "Bank Transfer",
@@ -377,7 +393,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 3658.0,
-    "expectedClosing": 5850.0,
+    "expectedClosing": 5970.0,
     "counted": null,
     "difference": null,
     "closed": false,
