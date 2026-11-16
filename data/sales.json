@@ -23946,26 +23946,26 @@
     },
     {
       "date": "2026-11-16",
-      "generatedAt": "2026-11-16T12:15:58Z",
+      "generatedAt": "2026-11-16T12:31:18Z",
       "pos": {
         "total": 660.0,
         "count": 7
       },
       "regularSales": {
-        "total": 33391.0,
-        "count": 8
+        "total": 34075.0,
+        "count": 9
       },
       "pendingQuotations": {
-        "total": 3468.0,
-        "count": 3
+        "total": 10668.0,
+        "count": 4
       },
       "cash": {
         "total": 2312.0,
         "count": 6
       },
       "transfer": {
-        "total": 31739.0,
-        "count": 9
+        "total": 32423.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -24165,6 +24165,27 @@
               "name": "[MILO900-C12] Milo 900g (Case 12pcs)",
               "qty": 1.0,
               "total": 1800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00708",
+          "customer": "Sales",
+          "amount": 684.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:28",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70145] Hook Slat 10\"",
+              "qty": 26.0,
+              "total": 364.0
+            },
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 20.0,
+              "total": 320.0
             }
           ]
         },

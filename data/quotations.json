@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T12:16:06Z",
-  "openCount": 189,
-  "openTotal": 2413165.2,
-  "quotationCount": 113,
-  "quotationTotal": 1437824.75,
+  "generatedAt": "2026-11-16T12:31:27Z",
+  "openCount": 190,
+  "openTotal": 2420365.2,
+  "quotationCount": 114,
+  "quotationTotal": 1445024.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -497,12 +497,31 @@
     },
     {
       "date": "2026-11-16",
-      "count": 2,
-      "outstanding": 3468.0,
-      "total": 3468.0
+      "count": 3,
+      "outstanding": 10668.0,
+      "total": 10668.0
     }
   ],
   "quotations": [
+    {
+      "id": 909,
+      "ref": "S00913",
+      "kind": "quotation",
+      "customer": "Sealife By Hydrosphere",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 7200.0,
+      "settled": 0.0,
+      "outstanding": 7200.0,
+      "lines": [
+        {
+          "name": "[70175] 51 Warehouse Rack White Medium",
+          "qty": 4.0,
+          "total": 7200.0
+        }
+      ]
+    },
     {
       "id": 907,
       "ref": "S00911",
