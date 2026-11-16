@@ -2,20 +2,102 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T05:31:08Z",
+  "generatedAt": "2026-11-16T05:45:47Z",
   "cash": {
     "total": 110.0,
     "count": 1
   },
   "transfer": {
-    "total": 1800.0,
-    "count": 1
+    "total": 7628.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00701",
+      "customer": "Clous E-12",
+      "amount": 3295.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:36",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
+          "qty": 5.0,
+          "total": 1450.0
+        },
+        {
+          "name": "[01895] Mosquito Racket 47*19cm 0008",
+          "qty": 10.0,
+          "total": 990.0
+        },
+        {
+          "name": "[70002] BBQ 24*25cm",
+          "qty": 10.0,
+          "total": 500.0
+        },
+        {
+          "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
+          "qty": 10.0,
+          "total": 0.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00702",
+      "customer": "Superior Plus O-6",
+      "amount": 2533.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:45",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 2.0,
+          "total": 640.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 1.0,
+          "total": 295.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00699",
       "customer": "Hg Supermart  R-1",
@@ -58,8 +140,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 1800.0
+      "count": 3,
+      "total": 7628.0
     },
     {
       "name": "Cash",

@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T05:31:16Z",
-  "openCount": 189,
-  "openTotal": 2411625.2,
-  "quotationCount": 113,
-  "quotationTotal": 1436284.75,
+  "generatedAt": "2026-11-16T05:45:55Z",
+  "openCount": 187,
+  "openTotal": 2405797.2,
+  "quotationCount": 111,
+  "quotationTotal": 1430456.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -491,67 +491,18 @@
     },
     {
       "date": "2026-11-15",
-      "count": 6,
-      "outstanding": 99555.0,
-      "total": 99555.0
+      "count": 5,
+      "outstanding": 96260.0,
+      "total": 96260.0
     },
     {
       "date": "2026-11-16",
-      "count": 1,
-      "outstanding": 2533.0,
-      "total": 2533.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 898,
-      "ref": "S00902",
-      "kind": "quotation",
-      "customer": "Superior Plus O-6",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-16",
-      "expires": "2026-12-16",
-      "total": 2533.0,
-      "settled": 0.0,
-      "outstanding": 2533.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
-          "qty": 1.0,
-          "total": 295.0
-        },
-        {
-          "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 2.0,
-          "total": 640.0
-        }
-      ]
-    },
     {
       "id": 892,
       "ref": "S00896",
@@ -660,45 +611,6 @@
           "name": "[2C-BLK-SS-2000-X03] #2C Black Single Side 2000mm x3",
           "qty": 1.0,
           "total": 4850.0
-        }
-      ]
-    },
-    {
-      "id": 888,
-      "ref": "S00892",
-      "kind": "quotation",
-      "customer": "Clous E-12",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-15",
-      "expires": "2026-12-15",
-      "total": 3295.0,
-      "settled": 0.0,
-      "outstanding": 3295.0,
-      "lines": [
-        {
-          "name": "[2C-WHT-SHTOP-900x300] 2C White Shelf Top 900x300mm",
-          "qty": 5.0,
-          "total": 1450.0
-        },
-        {
-          "name": "[2C-WHT-SHCLIP-285] 2C White Shelf Clip 285mm",
-          "qty": 10.0,
-          "total": 0.0
-        },
-        {
-          "name": "[70002] BBQ 24*25cm",
-          "qty": 10.0,
-          "total": 500.0
-        },
-        {
-          "name": "[01895] Mosquito Racket 47*19cm 0008",
-          "qty": 10.0,
-          "total": 990.0
-        },
-        {
-          "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
         }
       ]
     },
