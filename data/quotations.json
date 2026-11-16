@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T06:31:15Z",
-  "openCount": 188,
-  "openTotal": 2407495.2,
-  "quotationCount": 112,
-  "quotationTotal": 1432154.75,
+  "generatedAt": "2026-11-16T06:45:59Z",
+  "openCount": 189,
+  "openTotal": 2428495.2,
+  "quotationCount": 113,
+  "quotationTotal": 1453154.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -497,12 +497,51 @@
     },
     {
       "date": "2026-11-16",
-      "count": 1,
-      "outstanding": 1698.0,
-      "total": 1698.0
+      "count": 2,
+      "outstanding": 22698.0,
+      "total": 22698.0
     }
   ],
   "quotations": [
+    {
+      "id": 901,
+      "ref": "S00905",
+      "kind": "quotation",
+      "customer": "Snap Buy",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 21000.0,
+      "settled": 0.0,
+      "outstanding": 21000.0,
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 20.0,
+          "total": 4200.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 20.0,
+          "total": 4200.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 20.0,
+          "total": 4200.0
+        },
+        {
+          "name": "[02154] Milkshake Powder Mango",
+          "qty": 20.0,
+          "total": 4200.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 20.0,
+          "total": 4200.0
+        }
+      ]
+    },
     {
       "id": 900,
       "ref": "S00904",
