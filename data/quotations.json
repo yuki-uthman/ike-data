@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-16T09:31:18Z",
-  "openCount": 189,
-  "openTotal": 2428495.2,
+  "generatedAt": "2026-11-16T09:45:53Z",
+  "openCount": 191,
+  "openTotal": 2432481.2,
   "quotationCount": 113,
   "quotationTotal": 1453154.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "orderCount": 78,
+  "orderTotal": 979326.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -497,9 +497,9 @@
     },
     {
       "date": "2026-11-16",
-      "count": 2,
-      "outstanding": 22698.0,
-      "total": 22698.0
+      "count": 4,
+      "outstanding": 26684.0,
+      "total": 26684.0
     }
   ],
   "quotations": [
@@ -539,6 +539,74 @@
           "name": "[90035] Milkshake Powder Strawberry",
           "qty": 20.0,
           "total": 4200.0
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "ref": "S00909",
+      "kind": "order",
+      "customer": "Linseed",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 1993.0,
+      "settled": 0.0,
+      "outstanding": 1993.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 3.0,
+          "total": 885.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 6.0,
+          "total": 96.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 8.0,
+          "total": 112.0
+        }
+      ]
+    },
+    {
+      "id": 904,
+      "ref": "S00908",
+      "kind": "order",
+      "customer": "Linseed",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 1993.0,
+      "settled": 0.0,
+      "outstanding": 1993.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 3.0,
+          "total": 885.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 6.0,
+          "total": 96.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 8.0,
+          "total": 112.0
         }
       ]
     },
