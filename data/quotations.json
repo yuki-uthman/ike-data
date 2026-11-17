@@ -1,7 +1,7 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T16:01:36Z",
+  "generatedAt": "2026-11-17T16:15:56Z",
   "openCount": 196,
   "openTotal": 2448877.2,
   "quotationCount": 119,
@@ -813,7 +813,7 @@
       "id": 887,
       "ref": "S00891",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "Kuda Boh Maadhadu, Rukkara R-1",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-15",
       "expires": "2026-12-15",
