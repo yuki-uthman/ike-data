@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T15:45:58Z",
+  "generatedAt": "2026-11-17T16:01:36Z",
   "openCount": 196,
-  "openTotal": 2446477.2,
+  "openTotal": 2448877.2,
   "quotationCount": 119,
-  "quotationTotal": 1468286.75,
+  "quotationTotal": 1470686.75,
   "orderCount": 77,
   "orderTotal": 978190.45,
   "days": [
@@ -492,8 +492,8 @@
     {
       "date": "2026-11-15",
       "count": 5,
-      "outstanding": 100160.0,
-      "total": 100160.0
+      "outstanding": 102560.0,
+      "total": 102560.0
     },
     {
       "date": "2026-11-16",
@@ -810,25 +810,6 @@
       ]
     },
     {
-      "id": 878,
-      "ref": "S00882",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-15",
-      "expires": "2026-12-15",
-      "total": 17450.0,
-      "settled": 0.0,
-      "outstanding": 17450.0,
-      "lines": [
-        {
-          "name": "Menu Book A4",
-          "qty": 10.0,
-          "total": 17450.0
-        }
-      ]
-    },
-    {
       "id": 887,
       "ref": "S00891",
       "kind": "quotation",
@@ -836,9 +817,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-15",
       "expires": "2026-12-15",
-      "total": 15800.0,
+      "total": 18200.0,
       "settled": 0.0,
-      "outstanding": 15800.0,
+      "outstanding": 18200.0,
       "lines": [
         {
           "name": "[2C-BLK-SS-2000-X03] #2C Black Single Side 2000mm x3",
@@ -859,6 +840,35 @@
           "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
           "qty": 1.0,
           "total": 2800.0
+        },
+        {
+          "name": "[80302] Tube Stand",
+          "qty": 1.0,
+          "total": 950.0
+        },
+        {
+          "name": "2C Price Border Strip Black",
+          "qty": 58.0,
+          "total": 1450.0
+        }
+      ]
+    },
+    {
+      "id": 878,
+      "ref": "S00882",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-15",
+      "expires": "2026-12-15",
+      "total": 17450.0,
+      "settled": 0.0,
+      "outstanding": 17450.0,
+      "lines": [
+        {
+          "name": "Menu Book A4",
+          "qty": 10.0,
+          "total": 17450.0
         }
       ]
     },
