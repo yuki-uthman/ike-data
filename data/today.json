@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T09:15:46Z",
+  "generatedAt": "2026-11-17T09:31:08Z",
   "cash": {
     "total": 718.0,
     "count": 4
   },
   "transfer": {
-    "total": 7778.0,
-    "count": 4
+    "total": 8108.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -100,6 +100,27 @@
       ]
     },
     {
+      "ref": "Ike - 000663",
+      "customer": "Walk-in",
+      "amount": 260.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "14:16",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01633] Kitchen Sale 5kg#KE-2",
+          "qty": 1.0,
+          "total": 165.0
+        },
+        {
+          "name": "[70050] Slipper#1",
+          "qty": 1.0,
+          "total": 95.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000659",
       "customer": "Walk-in",
       "amount": 245.0,
@@ -179,6 +200,32 @@
       ]
     },
     {
+      "ref": "Ike - 000664",
+      "customer": "Walk-in",
+      "amount": 70.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "14:19",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70149] Hook Slat Double 10\"",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[70150] Hook Slat Double 8\"",
+          "qty": 1.0,
+          "total": 25.0
+        },
+        {
+          "name": "[70137] Price Label for Double Hook",
+          "qty": 2.0,
+          "total": 10.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000661",
       "customer": "Walk-in",
       "amount": 50.0,
@@ -211,8 +258,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 50.0
+      "count": 3,
+      "total": 380.0
     }
   ],
   "cashOut": {

@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T09:15:54Z",
+  "generatedAt": "2026-11-17T09:31:17Z",
   "openCount": 196,
   "openTotal": 2444417.2,
-  "quotationCount": 120,
-  "quotationTotal": 1469076.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "quotationCount": 119,
+  "quotationTotal": 1465716.75,
+  "orderCount": 77,
+  "orderTotal": 978700.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -512,7 +512,7 @@
     {
       "id": 921,
       "ref": "S00925",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Home Set B-12",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-17",
