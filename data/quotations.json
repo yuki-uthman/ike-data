@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T11:31:13Z",
-  "openCount": 198,
-  "openTotal": 2449947.2,
-  "quotationCount": 120,
-  "quotationTotal": 1471556.75,
+  "generatedAt": "2026-11-17T11:45:56Z",
+  "openCount": 197,
+  "openTotal": 2447077.2,
+  "quotationCount": 119,
+  "quotationTotal": 1468686.75,
   "orderCount": 78,
   "orderTotal": 978390.45,
   "days": [
@@ -497,9 +497,9 @@
     },
     {
       "date": "2026-11-16",
-      "count": 6,
-      "outstanding": 30265.0,
-      "total": 30265.0
+      "count": 5,
+      "outstanding": 27395.0,
+      "total": 27395.0
     },
     {
       "date": "2026-11-17",
@@ -797,40 +797,6 @@
           "name": "Gas Burner Table",
           "qty": 1.0,
           "total": 425.0
-        }
-      ]
-    },
-    {
-      "id": 914,
-      "ref": "S00918",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-16",
-      "expires": "2026-12-16",
-      "total": 2870.0,
-      "settled": 0.0,
-      "outstanding": 2870.0,
-      "lines": [
-        {
-          "name": "Salad Bowl 750ml - Case (300pcs)",
-          "qty": 2.0,
-          "total": 1380.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 3.0,
-          "total": 600.0
-        },
-        {
-          "name": "Salad Bowl 500ml - Case (300pcs)",
-          "qty": 1.0,
-          "total": 590.0
-        },
-        {
-          "name": "[0100T] Paper salad bowl 1000 ML",
-          "qty": 2.0,
-          "total": 300.0
         }
       ]
     },

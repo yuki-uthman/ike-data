@@ -24296,14 +24296,14 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T11:31:05Z",
+      "generatedAt": "2026-11-17T11:45:46Z",
       "pos": {
         "total": 1054.0,
         "count": 8
       },
       "regularSales": {
-        "total": 19348.0,
-        "count": 7
+        "total": 22218.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 6935.0,
@@ -24314,8 +24314,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 19623.0,
-        "count": 10
+        "total": 22493.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -24382,6 +24382,37 @@
               "name": "Salad Bowl Lid - Case (300pcs)",
               "qty": 4.0,
               "total": 800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00720",
+          "customer": "Sales",
+          "amount": 2870.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:37",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 750ml - Case (300pcs)",
+              "qty": 2.0,
+              "total": 1380.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 3.0,
+              "total": 600.0
+            },
+            {
+              "name": "Salad Bowl 500ml - Case (300pcs)",
+              "qty": 1.0,
+              "total": 590.0
+            },
+            {
+              "name": "[0100T] Paper salad bowl 1000 ML",
+              "qty": 2.0,
+              "total": 300.0
             }
           ]
         },
