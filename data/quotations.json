@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T15:16:03Z",
-  "openCount": 195,
-  "openTotal": 2443912.2,
-  "quotationCount": 118,
-  "quotationTotal": 1465721.75,
+  "generatedAt": "2026-11-17T15:31:27Z",
+  "openCount": 196,
+  "openTotal": 2446477.2,
+  "quotationCount": 119,
+  "quotationTotal": 1468286.75,
   "orderCount": 77,
   "orderTotal": 978190.45,
   "days": [
@@ -503,9 +503,9 @@
     },
     {
       "date": "2026-11-17",
-      "count": 3,
-      "outstanding": 6820.0,
-      "total": 6820.0
+      "count": 4,
+      "outstanding": 9385.0,
+      "total": 9385.0
     }
   ],
   "quotations": [
@@ -525,6 +525,40 @@
           "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
           "qty": 1.0,
           "total": 2850.0
+        }
+      ]
+    },
+    {
+      "id": 928,
+      "ref": "S00932",
+      "kind": "quotation",
+      "customer": "Quay Mart Q-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 2565.0,
+      "settled": 0.0,
+      "outstanding": 2565.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 590.0
+        },
+        {
+          "name": "Salad Bowl 750ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 690.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 2.0,
+          "total": 400.0
+        },
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 1.0,
+          "total": 885.0
         }
       ]
     },
