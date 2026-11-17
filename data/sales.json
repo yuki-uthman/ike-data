@@ -24296,26 +24296,26 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T09:01:18Z",
+      "generatedAt": "2026-11-17T09:15:46Z",
       "pos": {
         "total": 548.0,
         "count": 4
       },
       "regularSales": {
-        "total": 5478.0,
-        "count": 3
+        "total": 7948.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 7400.0,
-        "count": 3
+        "total": 4930.0,
+        "count": 2
       },
       "cash": {
         "total": 718.0,
         "count": 4
       },
       "transfer": {
-        "total": 5308.0,
-        "count": 3
+        "total": 7778.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -24340,6 +24340,32 @@
               "name": "Salad Bowl Lid - Case (300pcs)",
               "qty": 4.0,
               "total": 800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00715",
+          "customer": "U&V Mart O-8",
+          "amount": 2470.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:09",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 500ml - Case (300pcs)",
+              "qty": 2.0,
+              "total": 1180.0
+            },
+            {
+              "name": "Salad Bowl 750ml - Case (300pcs)",
+              "qty": 1.0,
+              "total": 690.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 3.0,
+              "total": 600.0
             }
           ]
         },
