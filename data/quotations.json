@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T05:01:26Z",
-  "openCount": 194,
-  "openTotal": 2439487.2,
-  "quotationCount": 118,
-  "quotationTotal": 1464146.75,
+  "generatedAt": "2026-11-17T05:16:02Z",
+  "openCount": 195,
+  "openTotal": 2443047.2,
+  "quotationCount": 119,
+  "quotationTotal": 1467706.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -503,12 +503,36 @@
     },
     {
       "date": "2026-11-17",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 3560.0,
+      "total": 3560.0
     }
   ],
   "quotations": [
+    {
+      "id": 918,
+      "ref": "S00922",
+      "kind": "quotation",
+      "customer": "Sp Trade",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 3560.0,
+      "settled": 0.0,
+      "outstanding": 3560.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 750ml - Case (300pcs)",
+          "qty": 4.0,
+          "total": 2760.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 4.0,
+          "total": 800.0
+        }
+      ]
+    },
     {
       "id": 903,
       "ref": "S00907",
