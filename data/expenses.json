@@ -3,35 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-19",
-      "generatedAt": "2026-09-19T18:54:27Z",
-      "confirmed": {
-        "total": 327.0,
-        "count": 6
-      },
-      "pending": {
-        "total": 0,
-        "count": 0
-      },
-      "categories": [
-        {
-          "name": "Expenses",
-          "count": 4,
-          "total": 272.0
-        },
-        {
-          "name": "Water",
-          "count": 1,
-          "total": 45.0
-        },
-        {
-          "name": "Gate Pass (Boat Delivery)",
-          "count": 1,
-          "total": 10.0
-        }
-      ]
-    },
-    {
       "date": "2026-09-20",
       "generatedAt": "2026-09-20T18:45:49Z",
       "confirmed": {
@@ -811,6 +782,19 @@
     {
       "date": "2026-11-17",
       "generatedAt": "2026-11-17T18:46:00Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-11-18",
+      "generatedAt": "2026-11-17T19:01:25Z",
       "confirmed": {
         "total": 0,
         "count": 0
