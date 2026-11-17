@@ -24296,14 +24296,14 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T09:31:08Z",
+      "generatedAt": "2026-11-17T09:45:47Z",
       "pos": {
         "total": 878.0,
         "count": 6
       },
       "regularSales": {
-        "total": 7948.0,
-        "count": 4
+        "total": 12148.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 1570.0,
@@ -24314,8 +24314,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 8108.0,
-        "count": 6
+        "total": 12308.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -24335,6 +24335,32 @@
               "name": "Salad Bowl 750ml - Case (300pcs)",
               "qty": 4.0,
               "total": 2760.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 4.0,
+              "total": 800.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00716",
+          "customer": "Home Set B-12",
+          "amount": 3360.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:33",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 750ml - Case (300pcs)",
+              "qty": 2.0,
+              "total": 1380.0
+            },
+            {
+              "name": "Salad Bowl 500ml - Case (300pcs)",
+              "qty": 2.0,
+              "total": 1180.0
             },
             {
               "name": "Salad Bowl Lid - Case (300pcs)",
@@ -24402,6 +24428,32 @@
               "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
               "qty": 1.0,
               "total": 300.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00717",
+          "customer": "Blooms Supplies",
+          "amount": 840.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:37",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[60033] Milkshake Powder Cappuccino",
+              "qty": 2.0,
+              "total": 420.0
+            },
+            {
+              "name": "[90038] Milkshake Powder Hazelnut Coffee",
+              "qty": 1.0,
+              "total": 210.0
+            },
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 1.0,
+              "total": 210.0
             }
           ]
         },

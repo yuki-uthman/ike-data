@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T09:31:17Z",
-  "openCount": 196,
-  "openTotal": 2444417.2,
+  "generatedAt": "2026-11-17T09:45:55Z",
+  "openCount": 195,
+  "openTotal": 2447507.2,
   "quotationCount": 119,
-  "quotationTotal": 1465716.75,
-  "orderCount": 77,
-  "orderTotal": 978700.45,
+  "quotationTotal": 1472166.75,
+  "orderCount": 76,
+  "orderTotal": 975340.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -498,46 +498,17 @@
     {
       "date": "2026-11-16",
       "count": 7,
-      "outstanding": 29790.0,
-      "total": 29790.0
+      "outstanding": 36240.0,
+      "total": 36240.0
     },
     {
       "date": "2026-11-17",
-      "count": 2,
-      "outstanding": 4930.0,
-      "total": 4930.0
+      "count": 1,
+      "outstanding": 1570.0,
+      "total": 1570.0
     }
   ],
   "quotations": [
-    {
-      "id": 921,
-      "ref": "S00925",
-      "kind": "order",
-      "customer": "Home Set B-12",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-17",
-      "expires": "2026-12-17",
-      "total": 3360.0,
-      "settled": 0.0,
-      "outstanding": 3360.0,
-      "lines": [
-        {
-          "name": "Salad Bowl 500ml - Case (300pcs)",
-          "qty": 2.0,
-          "total": 1180.0
-        },
-        {
-          "name": "Salad Bowl 750ml - Case (300pcs)",
-          "qty": 2.0,
-          "total": 1380.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 4.0,
-          "total": 800.0
-        }
-      ]
-    },
     {
       "id": 920,
       "ref": "S00924",
@@ -585,19 +556,24 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-16",
       "expires": "2026-12-16",
-      "total": 8940.0,
+      "total": 15390.0,
       "settled": 0.0,
-      "outstanding": 8940.0,
+      "outstanding": 15390.0,
       "lines": [
         {
           "name": "PET Cup 90U - 12oz - Case (1000pcs)",
-          "qty": 3.0,
-          "total": 6570.0
+          "qty": 6.0,
+          "total": 13140.0
         },
         {
           "name": "PET Lid 90 Dome Lid - Case (1000pcs)",
           "qty": 3.0,
           "total": 2370.0
+        },
+        {
+          "name": "Discount",
+          "qty": 1.0,
+          "total": -120.0
         }
       ]
     },
