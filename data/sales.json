@@ -24296,10 +24296,10 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T06:01:17Z",
+      "generatedAt": "2026-11-17T06:15:46Z",
       "pos": {
-        "total": 368.0,
-        "count": 2
+        "total": 418.0,
+        "count": 3
       },
       "regularSales": {
         "total": 5478.0,
@@ -24314,8 +24314,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 5258.0,
-        "count": 2
+        "total": 5308.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -24434,6 +24434,22 @@
               "name": "[01112] Steel Wool #40 Loose",
               "qty": 1.0,
               "total": 5.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000661",
+          "customer": "Walk-in",
+          "amount": 50.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:15",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70110] paper plates 9 inch 100pcs",
+              "qty": 1.0,
+              "total": 50.0
             }
           ]
         }
