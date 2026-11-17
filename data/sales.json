@@ -24296,14 +24296,14 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T17:31:03Z",
+      "generatedAt": "2026-11-17T17:45:46Z",
       "pos": {
         "total": 1204.0,
         "count": 13
       },
       "regularSales": {
-        "total": 48243.0,
-        "count": 14
+        "total": 48893.0,
+        "count": 15
       },
       "pendingQuotations": {
         "total": 15745.0,
@@ -24314,8 +24314,8 @@
         "count": 10
       },
       "transfer": {
-        "total": 48352.0,
-        "count": 17
+        "total": 49002.0,
+        "count": 18
       },
       "other": {
         "total": 0,
@@ -24640,6 +24640,22 @@
               "name": "[90051] Milkshake Powder Hazelnut Chocolate",
               "qty": 1.0,
               "total": 210.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00726",
+          "customer": "Ahmed Mujthaba U-4",
+          "amount": 650.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:40",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Paper Straw Wrapped 8mm - bundle (100pcs)",
+              "qty": 10.0,
+              "total": 650.0
             }
           ]
         },
