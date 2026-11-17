@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T16:15:46Z",
+  "generatedAt": "2026-11-17T16:31:08Z",
   "cash": {
-    "total": 875.0,
-    "count": 9
+    "total": 1095.0,
+    "count": 10
   },
   "transfer": {
-    "total": 27902.0,
-    "count": 15
+    "total": 30152.0,
+    "count": 16
   },
   "other": {
     "total": 0,
@@ -203,6 +203,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00724",
+      "customer": "Hussain Samay",
+      "amount": 2250.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:25",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RACK52] 52 Warehouse Rack Blue 2000x600x2000mm",
+          "qty": 1.0,
+          "total": 2250.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00713",
       "customer": "Siz Mart",
       "amount": 1698.0,
@@ -314,6 +330,22 @@
           "name": "[01645] Electric Kettle 1.8L Hoffmas#HM-2512",
           "qty": 1.0,
           "total": 245.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00723",
+      "customer": "Snap Buy",
+      "amount": 220.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:22",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Milkshake Powder Thai Green Tea",
+          "qty": 1.0,
+          "total": 220.0
         }
       ]
     },
@@ -565,14 +597,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 10,
-      "total": 27353.0
+      "count": 11,
+      "total": 29603.0
     },
     {
       "name": "Cash",
       "method": "cash",
-      "count": 9,
-      "total": 875.0
+      "count": 10,
+      "total": 1095.0
     },
     {
       "name": "Bank Transfer",
@@ -582,13 +614,28 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 110.0,
+    "count": 2
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Tea money 5 days--Jafar",
+      "amount": 100.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:16"
+    },
+    {
+      "reason": "Gate pass--Nagarajan",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:17"
+    }
+  ],
   "till": {
     "opening": 2800.0,
-    "expectedClosing": 3675.0,
+    "expectedClosing": 3785.0,
     "counted": null,
     "difference": null,
     "closed": false,
