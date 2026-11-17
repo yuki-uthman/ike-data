@@ -24296,26 +24296,26 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T11:01:21Z",
+      "generatedAt": "2026-11-17T11:15:47Z",
       "pos": {
-        "total": 878.0,
-        "count": 6
+        "total": 1054.0,
+        "count": 8
       },
       "regularSales": {
         "total": 19348.0,
         "count": 7
       },
       "pendingQuotations": {
-        "total": 1570.0,
-        "count": 1
+        "total": 5675.0,
+        "count": 2
       },
       "cash": {
-        "total": 718.0,
-        "count": 4
+        "total": 779.0,
+        "count": 5
       },
       "transfer": {
-        "total": 19508.0,
-        "count": 9
+        "total": 19623.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -24574,6 +24574,22 @@
           ]
         },
         {
+          "ref": "Ike - 000665",
+          "customer": "Walk-in",
+          "amount": 115.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "16:04",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[88182] Towel 126-23 Bath 70*140cm",
+              "qty": 1.0,
+              "total": 115.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000664",
           "customer": "Walk-in",
           "amount": 70.0,
@@ -24596,6 +24612,27 @@
               "name": "[70137] Price Label for Double Hook",
               "qty": 2.0,
               "total": 10.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000666",
+          "customer": "Walk-in",
+          "amount": 61.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:12",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02142] Glass Bowl with lid#9 01606 small",
+              "qty": 1.0,
+              "total": 45.0
+            },
+            {
+              "name": "[02527] Spoon Stainless Hongxaan",
+              "qty": 1.0,
+              "total": 16.0
             }
           ]
         },
@@ -24623,7 +24660,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2800.0,
-        "expectedClosing": 3518.0,
+        "expectedClosing": 3579.0,
         "counted": null,
         "difference": null,
         "closed": false,

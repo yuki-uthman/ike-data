@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T11:01:30Z",
-  "openCount": 195,
-  "openTotal": 2444892.2,
-  "quotationCount": 118,
-  "quotationTotal": 1466701.75,
+  "generatedAt": "2026-11-17T11:15:55Z",
+  "openCount": 196,
+  "openTotal": 2448997.2,
+  "quotationCount": 119,
+  "quotationTotal": 1470806.75,
   "orderCount": 77,
   "orderTotal": 978190.45,
   "days": [
@@ -503,12 +503,81 @@
     },
     {
       "date": "2026-11-17",
-      "count": 2,
-      "outstanding": 4420.0,
-      "total": 4420.0
+      "count": 3,
+      "outstanding": 8525.0,
+      "total": 8525.0
     }
   ],
   "quotations": [
+    {
+      "id": 924,
+      "ref": "S00928",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 4105.0,
+      "settled": 0.0,
+      "outstanding": 4105.0,
+      "lines": [
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        },
+        {
+          "name": "[ZILK-TR-C144] Zilk Toilet Roll (Case 144pcs)",
+          "qty": 1.0,
+          "total": 790.0
+        },
+        {
+          "name": "[3044] Mix-Lah Cheese Foam Powder 500g",
+          "qty": 4.0,
+          "total": 600.0
+        },
+        {
+          "name": "Mojito Syrup - Yuzu 1kg",
+          "qty": 1.0,
+          "total": 210.0
+        },
+        {
+          "name": "Mojito Syrup Nutifres - Calamansi 1kg",
+          "qty": 1.0,
+          "total": 155.0
+        },
+        {
+          "name": "Mojito Syrup Nutifres - Strawberry 1kg",
+          "qty": 1.0,
+          "total": 155.0
+        },
+        {
+          "name": "Tea Powder A1 1kg",
+          "qty": 1.0,
+          "total": 115.0
+        },
+        {
+          "name": "Maggi Seasoning",
+          "qty": 1.0,
+          "total": 240.0
+        },
+        {
+          "name": "Black Vinegar",
+          "qty": 1.0,
+          "total": 115.0
+        },
+        {
+          "name": "Wasabi 1kg",
+          "qty": 1.0,
+          "total": 305.0
+        },
+        {
+          "name": "Gochujang Sauce 500g",
+          "qty": 1.0,
+          "total": 195.0
+        }
+      ]
+    },
     {
       "id": 923,
       "ref": "S00927",
