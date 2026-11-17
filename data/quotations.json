@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T11:15:55Z",
-  "openCount": 196,
-  "openTotal": 2448997.2,
-  "quotationCount": 119,
-  "quotationTotal": 1470806.75,
-  "orderCount": 77,
-  "orderTotal": 978190.45,
+  "generatedAt": "2026-11-17T11:31:13Z",
+  "openCount": 198,
+  "openTotal": 2449947.2,
+  "quotationCount": 120,
+  "quotationTotal": 1471556.75,
+  "orderCount": 78,
+  "orderTotal": 978390.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -498,14 +498,14 @@
     {
       "date": "2026-11-16",
       "count": 6,
-      "outstanding": 30775.0,
-      "total": 30775.0
+      "outstanding": 30265.0,
+      "total": 30265.0
     },
     {
       "date": "2026-11-17",
-      "count": 3,
-      "outstanding": 8525.0,
-      "total": 8525.0
+      "count": 5,
+      "outstanding": 9985.0,
+      "total": 9985.0
     }
   ],
   "quotations": [
@@ -637,6 +637,44 @@
       ]
     },
     {
+      "id": 926,
+      "ref": "S00930",
+      "kind": "quotation",
+      "customer": "Blooms Supplies",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 1260.0,
+      "settled": 0.0,
+      "outstanding": 1260.0,
+      "lines": [
+        {
+          "name": "[90038] Milkshake Powder Hazelnut Coffee",
+          "qty": 6.0,
+          "total": 1260.0
+        }
+      ]
+    },
+    {
+      "id": 925,
+      "ref": "S00929",
+      "kind": "order",
+      "customer": "Blooms Supplies",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 200.0,
+      "settled": 0.0,
+      "outstanding": 200.0,
+      "lines": [
+        {
+          "name": "[90038] Milkshake Powder Hazelnut Coffee",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
       "id": 903,
       "ref": "S00907",
       "kind": "quotation",
@@ -705,45 +743,6 @@
       ]
     },
     {
-      "id": 907,
-      "ref": "S00911",
-      "kind": "quotation",
-      "customer": "Hi Max F-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-16",
-      "expires": "2026-12-16",
-      "total": 3505.0,
-      "settled": 0.0,
-      "outstanding": 3505.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 2.0,
-          "total": 1770.0
-        },
-        {
-          "name": "[70182] Gas Burner ( High Pressure )",
-          "qty": 1.0,
-          "total": 800.0
-        },
-        {
-          "name": "Gas Burner Table",
-          "qty": 1.0,
-          "total": 425.0
-        },
-        {
-          "name": "[70215] Gas Pipe ( Yellow )",
-          "qty": 10.0,
-          "total": 150.0
-        },
-        {
-          "name": "[70037] Gas Regulator (High Pressure)",
-          "qty": 1.0,
-          "total": 360.0
-        }
-      ]
-    },
-    {
       "id": 912,
       "ref": "S00916",
       "kind": "quotation",
@@ -769,6 +768,35 @@
           "name": "[01300] Paper salad bowl 1300ML",
           "qty": 2.0,
           "total": 600.0
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "ref": "S00911",
+      "kind": "quotation",
+      "customer": "Hi Max F-3",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 2995.0,
+      "settled": 0.0,
+      "outstanding": 2995.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
         }
       ]
     },
