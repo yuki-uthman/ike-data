@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T04:31:18Z",
-  "openCount": 195,
-  "openTotal": 2441185.2,
-  "quotationCount": 119,
-  "quotationTotal": 1465844.75,
+  "generatedAt": "2026-11-17T04:45:52Z",
+  "openCount": 194,
+  "openTotal": 2439487.2,
+  "quotationCount": 118,
+  "quotationTotal": 1464146.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -497,9 +497,9 @@
     },
     {
       "date": "2026-11-16",
-      "count": 8,
-      "outstanding": 31488.0,
-      "total": 31488.0
+      "count": 7,
+      "outstanding": 29790.0,
+      "total": 29790.0
     },
     {
       "date": "2026-11-17",
@@ -670,45 +670,6 @@
           "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 2.0,
           "total": 1770.0
-        }
-      ]
-    },
-    {
-      "id": 900,
-      "ref": "S00904",
-      "kind": "quotation",
-      "customer": "Siz Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-16",
-      "expires": "2026-12-16",
-      "total": 1698.0,
-      "settled": 0.0,
-      "outstanding": 1698.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
         }
       ]
     },

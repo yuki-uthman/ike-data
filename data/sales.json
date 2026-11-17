@@ -24296,32 +24296,68 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T04:31:05Z",
+      "generatedAt": "2026-11-17T04:45:44Z",
       "pos": {
-        "total": 245.0,
-        "count": 1
+        "total": 368.0,
+        "count": 2
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 1918.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 0,
         "count": 0
       },
       "cash": {
-        "total": 245.0,
-        "count": 1
+        "total": 588.0,
+        "count": 3
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 1698.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00713",
+          "customer": "Siz Mart",
+          "amount": 1698.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:37",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+              "qty": 1.0,
+              "total": 360.0
+            },
+            {
+              "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+              "qty": 1.0,
+              "total": 360.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 1.0,
+              "total": 339.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 1.0,
+              "total": 300.0
+            }
+          ]
+        },
         {
           "ref": "Ike - 000659",
           "customer": "Walk-in",
@@ -24337,6 +24373,48 @@
               "total": 245.0
             }
           ]
+        },
+        {
+          "ref": "INV/2026/00712",
+          "customer": "Eden Mart",
+          "amount": 220.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:33",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90035] Milkshake Powder Strawberry",
+              "qty": 1.0,
+              "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000660",
+          "customer": "Walk-in",
+          "amount": 123.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "09:42",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70058] Tooth Scarping Dustset",
+              "qty": 1.0,
+              "total": 103.0
+            },
+            {
+              "name": "Soklin Floor Cleaner Rose (Pink) (400 ml)",
+              "qty": 1.0,
+              "total": 15.0
+            },
+            {
+              "name": "[01112] Steel Wool #40 Loose",
+              "qty": 1.0,
+              "total": 5.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24346,7 +24424,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2800.0,
-        "expectedClosing": 3045.0,
+        "expectedClosing": 3388.0,
         "counted": null,
         "difference": null,
         "closed": false,
