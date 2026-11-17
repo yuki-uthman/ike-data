@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T10:45:57Z",
-  "openCount": 196,
-  "openTotal": 2450357.2,
-  "quotationCount": 119,
-  "quotationTotal": 1472166.75,
+  "generatedAt": "2026-11-17T11:01:30Z",
+  "openCount": 195,
+  "openTotal": 2444892.2,
+  "quotationCount": 118,
+  "quotationTotal": 1466701.75,
   "orderCount": 77,
   "orderTotal": 978190.45,
   "days": [
@@ -497,9 +497,9 @@
     },
     {
       "date": "2026-11-16",
-      "count": 7,
-      "outstanding": 36240.0,
-      "total": 36240.0
+      "count": 6,
+      "outstanding": 30775.0,
+      "total": 30775.0
     },
     {
       "date": "2026-11-17",
@@ -597,25 +597,6 @@
       ]
     },
     {
-      "id": 909,
-      "ref": "S00913",
-      "kind": "quotation",
-      "customer": "Sealife By Hydrosphere",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-16",
-      "expires": "2026-12-16",
-      "total": 7200.0,
-      "settled": 0.0,
-      "outstanding": 7200.0,
-      "lines": [
-        {
-          "name": "[70175] 51 Warehouse Rack White Medium",
-          "qty": 4.0,
-          "total": 7200.0
-        }
-      ]
-    },
-    {
       "id": 916,
       "ref": "S00920",
       "kind": "quotation",
@@ -651,6 +632,45 @@
           "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 1.0,
           "total": 885.0
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "ref": "S00911",
+      "kind": "quotation",
+      "customer": "Hi Max F-3",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 3505.0,
+      "settled": 0.0,
+      "outstanding": 3505.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[70215] Gas Pipe ( Yellow )",
+          "qty": 10.0,
+          "total": 150.0
+        },
+        {
+          "name": "[70037] Gas Regulator (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
         }
       ]
     },
@@ -714,25 +734,6 @@
           "name": "[0100T] Paper salad bowl 1000 ML",
           "qty": 2.0,
           "total": 300.0
-        }
-      ]
-    },
-    {
-      "id": 907,
-      "ref": "S00911",
-      "kind": "quotation",
-      "customer": "Hi Max F-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-16",
-      "expires": "2026-12-16",
-      "total": 1770.0,
-      "settled": 0.0,
-      "outstanding": 1770.0,
-      "lines": [
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 2.0,
-          "total": 1770.0
         }
       ]
     },

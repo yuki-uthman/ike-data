@@ -24296,14 +24296,14 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T10:45:50Z",
+      "generatedAt": "2026-11-17T11:01:21Z",
       "pos": {
         "total": 878.0,
         "count": 6
       },
       "regularSales": {
-        "total": 12148.0,
-        "count": 6
+        "total": 19348.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 1570.0,
@@ -24314,14 +24314,30 @@
         "count": 4
       },
       "transfer": {
-        "total": 12308.0,
-        "count": 8
+        "total": 19508.0,
+        "count": 9
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00718",
+          "customer": "Sealife By Hydrosphere",
+          "amount": 7200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:57",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70175] 51 Warehouse Rack White Medium",
+              "qty": 4.0,
+              "total": 7200.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00714",
           "customer": "Sp Trade",
