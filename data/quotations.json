@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T12:31:17Z",
-  "openCount": 197,
-  "openTotal": 2447077.2,
-  "quotationCount": 119,
-  "quotationTotal": 1468686.75,
-  "orderCount": 78,
-  "orderTotal": 978390.45,
+  "generatedAt": "2026-11-17T12:45:55Z",
+  "openCount": 194,
+  "openTotal": 2441512.2,
+  "quotationCount": 117,
+  "quotationTotal": 1463321.75,
+  "orderCount": 77,
+  "orderTotal": 978190.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -503,81 +503,12 @@
     },
     {
       "date": "2026-11-17",
-      "count": 5,
-      "outstanding": 9985.0,
-      "total": 9985.0
+      "count": 2,
+      "outstanding": 4420.0,
+      "total": 4420.0
     }
   ],
   "quotations": [
-    {
-      "id": 924,
-      "ref": "S00928",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-17",
-      "expires": "2026-12-17",
-      "total": 4105.0,
-      "settled": 0.0,
-      "outstanding": 4105.0,
-      "lines": [
-        {
-          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
-          "qty": 1.0,
-          "total": 1225.0
-        },
-        {
-          "name": "[ZILK-TR-C144] Zilk Toilet Roll (Case 144pcs)",
-          "qty": 1.0,
-          "total": 790.0
-        },
-        {
-          "name": "[3044] Mix-Lah Cheese Foam Powder 500g",
-          "qty": 4.0,
-          "total": 600.0
-        },
-        {
-          "name": "Mojito Syrup - Yuzu 1kg",
-          "qty": 1.0,
-          "total": 210.0
-        },
-        {
-          "name": "Mojito Syrup Nutifres - Calamansi 1kg",
-          "qty": 1.0,
-          "total": 155.0
-        },
-        {
-          "name": "Mojito Syrup Nutifres - Strawberry 1kg",
-          "qty": 1.0,
-          "total": 155.0
-        },
-        {
-          "name": "Tea Powder A1 1kg",
-          "qty": 1.0,
-          "total": 115.0
-        },
-        {
-          "name": "Maggi Seasoning",
-          "qty": 1.0,
-          "total": 240.0
-        },
-        {
-          "name": "Black Vinegar",
-          "qty": 1.0,
-          "total": 115.0
-        },
-        {
-          "name": "Wasabi 1kg",
-          "qty": 1.0,
-          "total": 305.0
-        },
-        {
-          "name": "Gochujang Sauce 500g",
-          "qty": 1.0,
-          "total": 195.0
-        }
-      ]
-    },
     {
       "id": 923,
       "ref": "S00927",
@@ -633,44 +564,6 @@
           "name": "[01010] paper straw 8mm 50 pcs",
           "qty": 10.0,
           "total": 250.0
-        }
-      ]
-    },
-    {
-      "id": 926,
-      "ref": "S00930",
-      "kind": "quotation",
-      "customer": "Blooms Supplies",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-17",
-      "expires": "2026-12-17",
-      "total": 1260.0,
-      "settled": 0.0,
-      "outstanding": 1260.0,
-      "lines": [
-        {
-          "name": "[90038] Milkshake Powder Hazelnut Coffee",
-          "qty": 6.0,
-          "total": 1260.0
-        }
-      ]
-    },
-    {
-      "id": 925,
-      "ref": "S00929",
-      "kind": "order",
-      "customer": "Blooms Supplies",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-17",
-      "expires": "2026-12-17",
-      "total": 200.0,
-      "settled": 0.0,
-      "outstanding": 200.0,
-      "lines": [
-        {
-          "name": "[90038] Milkshake Powder Hazelnut Coffee",
-          "qty": 1.0,
-          "total": 200.0
         }
       ]
     },
