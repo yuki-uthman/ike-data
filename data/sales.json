@@ -24296,10 +24296,10 @@
     },
     {
       "date": "2026-11-17",
-      "generatedAt": "2026-11-17T15:01:22Z",
+      "generatedAt": "2026-11-17T15:15:55Z",
       "pos": {
-        "total": 1108.0,
-        "count": 9
+        "total": 1113.0,
+        "count": 10
       },
       "regularSales": {
         "total": 27573.0,
@@ -24307,11 +24307,11 @@
       },
       "pendingQuotations": {
         "total": 3970.0,
-        "count": 2
+        "count": 3
       },
       "cash": {
-        "total": 779.0,
-        "count": 5
+        "total": 784.0,
+        "count": 6
       },
       "transfer": {
         "total": 27902.0,
@@ -24801,6 +24801,22 @@
               "total": 50.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000668",
+          "customer": "Walk-in",
+          "amount": 5.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:06",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70114] Paper Bag with Twist Handle 47x33x44cm",
+              "qty": 1.0,
+              "total": 5.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24810,7 +24826,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2800.0,
-        "expectedClosing": 3579.0,
+        "expectedClosing": 3584.0,
         "counted": null,
         "difference": null,
         "closed": false,
