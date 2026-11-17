@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T12:15:47Z",
+  "generatedAt": "2026-11-17T12:31:05Z",
   "cash": {
     "total": 779.0,
     "count": 5
   },
   "transfer": {
-    "total": 22493.0,
-    "count": 11
+    "total": 22547.0,
+    "count": 12
   },
   "other": {
     "total": 0,
@@ -362,6 +362,27 @@
       ]
     },
     {
+      "ref": "Ike - 000667",
+      "customer": "Walk-in",
+      "amount": 54.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:28",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[09041] Towel 042-02 30*40cm",
+          "qty": 3.0,
+          "total": 45.0
+        },
+        {
+          "name": "[09805] Towel 042-0980 30*30cm",
+          "qty": 1.0,
+          "total": 9.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000661",
       "customer": "Walk-in",
       "amount": 50.0,
@@ -394,8 +415,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 4,
-      "total": 495.0
+      "count": 5,
+      "total": 549.0
     }
   ],
   "cashOut": {
