@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T08:45:57Z",
-  "openCount": 194,
-  "openTotal": 2439487.2,
-  "quotationCount": 118,
-  "quotationTotal": 1464146.75,
+  "generatedAt": "2026-11-17T09:01:27Z",
+  "openCount": 197,
+  "openTotal": 2446887.2,
+  "quotationCount": 121,
+  "quotationTotal": 1471546.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -503,12 +503,109 @@
     },
     {
       "date": "2026-11-17",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 3,
+      "outstanding": 7400.0,
+      "total": 7400.0
     }
   ],
   "quotations": [
+    {
+      "id": 921,
+      "ref": "S00925",
+      "kind": "quotation",
+      "customer": "Home Set B-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 3360.0,
+      "settled": 0.0,
+      "outstanding": 3360.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 2.0,
+          "total": 1180.0
+        },
+        {
+          "name": "Salad Bowl 750ml - Case (300pcs)",
+          "qty": 2.0,
+          "total": 1380.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 4.0,
+          "total": 800.0
+        }
+      ]
+    },
+    {
+      "id": 919,
+      "ref": "S00923",
+      "kind": "quotation",
+      "customer": "U&V Mart O-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 2470.0,
+      "settled": 0.0,
+      "outstanding": 2470.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 750ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 690.0
+        },
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 2.0,
+          "total": 1180.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 3.0,
+          "total": 600.0
+        }
+      ]
+    },
+    {
+      "id": 920,
+      "ref": "S00924",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-17",
+      "expires": "2026-12-17",
+      "total": 1570.0,
+      "settled": 0.0,
+      "outstanding": 1570.0,
+      "lines": [
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 2.0,
+          "total": 440.0
+        },
+        {
+          "name": "[90037] Milkshake Powder Blueberry",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 2.0,
+          "total": 440.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[01010] paper straw 8mm 50 pcs",
+          "qty": 10.0,
+          "total": 250.0
+        }
+      ]
+    },
     {
       "id": 903,
       "ref": "S00907",
