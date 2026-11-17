@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-17T16:31:19Z",
-  "openCount": 195,
-  "openTotal": 2446437.2,
+  "generatedAt": "2026-11-17T16:45:54Z",
+  "openCount": 194,
+  "openTotal": 2428237.2,
   "quotationCount": 118,
   "quotationTotal": 1452896.75,
-  "orderCount": 77,
-  "orderTotal": 993540.45,
+  "orderCount": 76,
+  "orderTotal": 975340.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -503,56 +503,12 @@
     },
     {
       "date": "2026-11-17",
-      "count": 4,
-      "outstanding": 25145.0,
-      "total": 25145.0
+      "count": 3,
+      "outstanding": 6945.0,
+      "total": 6945.0
     }
   ],
   "quotations": [
-    {
-      "id": 887,
-      "ref": "S00891",
-      "kind": "order",
-      "customer": "Kuda Boh Maadhadu, Rukkara R-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-17",
-      "expires": "2026-12-15",
-      "total": 18200.0,
-      "settled": 0.0,
-      "outstanding": 18200.0,
-      "lines": [
-        {
-          "name": "[2C-BLK-SS-2000-X03] #2C Black Single Side 2000mm x3",
-          "qty": 1.0,
-          "total": 4850.0
-        },
-        {
-          "name": "[2C-BLK-SS-2000-X04] #2C Black Single Side 2000mm x4",
-          "qty": 1.0,
-          "total": 6400.0
-        },
-        {
-          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
-          "qty": 1.0,
-          "total": 1750.0
-        },
-        {
-          "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
-          "qty": 1.0,
-          "total": 2800.0
-        },
-        {
-          "name": "[80302] Tube Stand",
-          "qty": 1.0,
-          "total": 950.0
-        },
-        {
-          "name": "2C Price Border Strip Black",
-          "qty": 58.0,
-          "total": 1450.0
-        }
-      ]
-    },
     {
       "id": 928,
       "ref": "S00932",
