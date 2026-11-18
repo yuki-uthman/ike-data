@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T12:15:47Z",
+  "generatedAt": "2026-11-18T12:31:07Z",
   "cash": {
     "total": 72.0,
     "count": 2
   },
   "transfer": {
-    "total": 59074.0,
-    "count": 11
+    "total": 76872.0,
+    "count": 14
   },
   "other": {
     "total": 0,
@@ -65,6 +65,22 @@
           "name": "Discount",
           "qty": 1.0,
           "total": -120.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00737",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 17450.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:18",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Menu Book A4",
+          "qty": 10.0,
+          "total": 17450.0
         }
       ]
     },
@@ -297,6 +313,43 @@
       ]
     },
     {
+      "ref": "INV/2026/00738",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 250.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:20",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Apron - Cotton Medium",
+          "qty": 1.0,
+          "total": 250.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000676",
+      "customer": "Walk-in",
+      "amount": 98.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:21",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70044] Slipper#1112",
+          "qty": 1.0,
+          "total": 59.0
+        },
+        {
+          "name": "[01873] Duster cloth Microfiber",
+          "qty": 1.0,
+          "total": 39.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000674",
       "customer": "Walk-in",
       "amount": 90.0,
@@ -354,14 +407,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 9,
-      "total": 57514.0
+      "count": 11,
+      "total": 75214.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 1560.0
+      "count": 3,
+      "total": 1658.0
     },
     {
       "name": "Cash",
