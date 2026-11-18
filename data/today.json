@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T04:45:44Z",
+  "generatedAt": "2026-11-18T05:01:15Z",
   "cash": {
     "total": 35.0,
     "count": 1
   },
   "transfer": {
-    "total": 8800.0,
-    "count": 1
+    "total": 11795.0,
+    "count": 2
   },
   "other": {
     "total": 0,
@@ -38,6 +38,32 @@
       ]
     },
     {
+      "ref": "INV/2026/00728",
+      "customer": "Hi Max F-3",
+      "amount": 2995.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "09:58",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
+        },
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000672",
       "customer": "Walk-in",
       "amount": 35.0,
@@ -58,8 +84,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 8800.0
+      "count": 2,
+      "total": 11795.0
     },
     {
       "name": "Cash",
