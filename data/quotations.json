@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-18T04:31:18Z",
+  "generatedAt": "2026-11-18T04:45:55Z",
   "openCount": 195,
-  "openTotal": 2430057.2,
+  "openTotal": 2423547.2,
   "quotationCount": 119,
-  "quotationTotal": 1454716.75,
+  "quotationTotal": 1448206.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -498,8 +498,8 @@
     {
       "date": "2026-11-16",
       "count": 5,
-      "outstanding": 27395.0,
-      "total": 27395.0
+      "outstanding": 20885.0,
+      "total": 20885.0
     },
     {
       "date": "2026-11-17",
@@ -644,14 +644,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-16",
       "expires": "2026-12-16",
-      "total": 15390.0,
+      "total": 8880.0,
       "settled": 0.0,
-      "outstanding": 15390.0,
+      "outstanding": 8880.0,
       "lines": [
         {
           "name": "PET Cup 90U - 12oz - Case (1000pcs)",
-          "qty": 6.0,
-          "total": 13140.0
+          "qty": 3.0,
+          "total": 6570.0
         },
         {
           "name": "PET Lid 90 Dome Lid - Case (1000pcs)",
@@ -661,7 +661,7 @@
         {
           "name": "Discount",
           "qty": 1.0,
-          "total": -120.0
+          "total": -60.0
         }
       ]
     },
