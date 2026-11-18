@@ -24662,26 +24662,26 @@
     },
     {
       "date": "2026-11-18",
-      "generatedAt": "2026-11-18T05:30:59Z",
+      "generatedAt": "2026-11-18T05:45:44Z",
       "pos": {
         "total": 72.0,
         "count": 2
       },
       "regularSales": {
-        "total": 11795.0,
-        "count": 2
+        "total": 15791.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 5816.0,
-        "count": 2
+        "total": 1820.0,
+        "count": 1
       },
       "cash": {
         "total": 72.0,
         "count": 2
       },
       "transfer": {
-        "total": 11795.0,
-        "count": 2
+        "total": 15791.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -24706,6 +24706,47 @@
               "name": "[90036] Milkshake Powder Chocolate",
               "qty": 20.0,
               "total": 4400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00729",
+          "customer": "Teal Choice D08",
+          "amount": 3996.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:44",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
+              "qty": 2.0,
+              "total": 720.0
+            },
+            {
+              "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
+              "qty": 2.0,
+              "total": 720.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+              "qty": 2.0,
+              "total": 678.0
+            },
+            {
+              "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+              "qty": 2.0,
+              "total": 678.0
+            },
+            {
+              "name": "Chuba Cassava Chips Cheese - Case (16pcs, 125 gr)",
+              "qty": 2.0,
+              "total": 600.0
+            },
+            {
+              "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+              "qty": 2.0,
+              "total": 600.0
             }
           ]
         },
