@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-18T11:15:58Z",
-  "openCount": 195,
-  "openTotal": 2413800.2,
-  "quotationCount": 119,
-  "quotationTotal": 1438459.75,
+  "generatedAt": "2026-11-18T11:31:16Z",
+  "openCount": 197,
+  "openTotal": 2425500.2,
+  "quotationCount": 121,
+  "quotationTotal": 1450159.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -509,12 +509,31 @@
     },
     {
       "date": "2026-11-18",
-      "count": 3,
-      "outstanding": 3948.0,
-      "total": 3948.0
+      "count": 5,
+      "outstanding": 15648.0,
+      "total": 15648.0
     }
   ],
   "quotations": [
+    {
+      "id": 940,
+      "ref": "S00944",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-18",
+      "expires": "2026-12-18",
+      "total": 10800.0,
+      "settled": 0.0,
+      "outstanding": 10800.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
+          "qty": 2.0,
+          "total": 10800.0
+        }
+      ]
+    },
     {
       "id": 932,
       "ref": "S00936",
@@ -570,6 +589,25 @@
           "name": "Hanger Plastic A17 - Case (144pcs)",
           "qty": 1.0,
           "total": 550.0
+        }
+      ]
+    },
+    {
+      "id": 939,
+      "ref": "S00943",
+      "kind": "quotation",
+      "customer": "Koobe E-08",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-18",
+      "expires": "2026-12-18",
+      "total": 900.0,
+      "settled": 0.0,
+      "outstanding": 900.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
         }
       ]
     },
