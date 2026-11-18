@@ -24662,10 +24662,10 @@
     },
     {
       "date": "2026-11-18",
-      "generatedAt": "2026-11-18T15:01:27Z",
+      "generatedAt": "2026-11-18T15:15:46Z",
       "pos": {
-        "total": 1759.0,
-        "count": 6
+        "total": 1783.0,
+        "count": 7
       },
       "regularSales": {
         "total": 75214.0,
@@ -24680,8 +24680,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 76872.0,
-        "count": 14
+        "total": 76896.0,
+        "count": 15
       },
       "other": {
         "total": 0,
@@ -25087,6 +25087,22 @@
               "name": "[01903] Laundry Bag Mesh 30*30*46cm",
               "qty": 1.0,
               "total": 29.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000678",
+          "customer": "Walk-in",
+          "amount": 24.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[73365] Aluminium Foil Box 73365 Loose",
+              "qty": 2.0,
+              "total": 24.0
             }
           ]
         }
