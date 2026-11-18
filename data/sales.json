@@ -24662,10 +24662,10 @@
     },
     {
       "date": "2026-11-18",
-      "generatedAt": "2026-11-18T09:31:09Z",
+      "generatedAt": "2026-11-18T09:45:46Z",
       "pos": {
-        "total": 72.0,
-        "count": 2
+        "total": 162.0,
+        "count": 3
       },
       "regularSales": {
         "total": 35316.0,
@@ -24680,8 +24680,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 35316.0,
-        "count": 6
+        "total": 35406.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -24846,6 +24846,22 @@
               "name": "[02154] Milkshake Powder Mango",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000674",
+          "customer": "Walk-in",
+          "amount": 90.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "14:41",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Hanger Plastic A17 - Bundle (6pcs)",
+              "qty": 3.0,
+              "total": 90.0
             }
           ]
         },
