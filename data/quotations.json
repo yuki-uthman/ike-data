@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-18T06:45:57Z",
-  "openCount": 194,
-  "openTotal": 2412557.2,
-  "quotationCount": 118,
-  "quotationTotal": 1437216.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "generatedAt": "2026-11-18T07:01:27Z",
+  "openCount": 195,
+  "openTotal": 2414550.2,
+  "quotationCount": 117,
+  "quotationTotal": 1436331.75,
+  "orderCount": 78,
+  "orderTotal": 978218.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -497,9 +497,9 @@
     },
     {
       "date": "2026-11-16",
-      "count": 3,
-      "outstanding": 9010.0,
-      "total": 9010.0
+      "count": 4,
+      "outstanding": 11003.0,
+      "total": 11003.0
     },
     {
       "date": "2026-11-17",
@@ -542,7 +542,7 @@
     {
       "id": 934,
       "ref": "S00938",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "I Select E-16",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-18",
@@ -720,6 +720,40 @@
           "name": "[01300] Paper salad bowl 1300ML",
           "qty": 2.0,
           "total": 600.0
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "ref": "S00909",
+      "kind": "order",
+      "customer": "Linseed",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-16",
+      "expires": "2026-12-16",
+      "total": 1993.0,
+      "settled": 0.0,
+      "outstanding": 1993.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Bbq - Case (30pcs, 60 gr)",
+          "qty": 3.0,
+          "total": 885.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        },
+        {
+          "name": "[70139] Hook Net 12\"",
+          "qty": 6.0,
+          "total": 96.0
+        },
+        {
+          "name": "[70140] Hook Net 10\"",
+          "qty": 8.0,
+          "total": 112.0
         }
       ]
     },
