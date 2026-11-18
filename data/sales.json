@@ -24662,7 +24662,7 @@
     },
     {
       "date": "2026-11-18",
-      "generatedAt": "2026-11-18T16:45:48Z",
+      "generatedAt": "2026-11-18T17:01:21Z",
       "pos": {
         "total": 2113.0,
         "count": 9
@@ -24672,8 +24672,8 @@
         "count": 11
       },
       "pendingQuotations": {
-        "total": 13090.0,
-        "count": 5
+        "total": 12300.0,
+        "count": 4
       },
       "cash": {
         "total": 431.0,
@@ -25140,13 +25140,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 20.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Gate pass--Nagarajan",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:55"
+        }
+      ],
       "till": {
         "opening": 3785.0,
-        "expectedClosing": 8207.0,
+        "expectedClosing": 8187.0,
         "counted": null,
         "difference": null,
         "closed": false,
