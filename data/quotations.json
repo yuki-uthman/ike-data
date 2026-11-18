@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-18T11:31:16Z",
-  "openCount": 197,
-  "openTotal": 2425500.2,
-  "quotationCount": 121,
-  "quotationTotal": 1450159.75,
+  "generatedAt": "2026-11-18T11:45:56Z",
+  "openCount": 196,
+  "openTotal": 2423972.2,
+  "quotationCount": 120,
+  "quotationTotal": 1448631.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -509,9 +509,9 @@
     },
     {
       "date": "2026-11-18",
-      "count": 5,
-      "outstanding": 15648.0,
-      "total": 15648.0
+      "count": 4,
+      "outstanding": 14120.0,
+      "total": 14120.0
     }
   ],
   "quotations": [
@@ -555,40 +555,6 @@
           "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
           "qty": 2.0,
           "total": 320.0
-        }
-      ]
-    },
-    {
-      "id": 938,
-      "ref": "S00942",
-      "kind": "quotation",
-      "customer": "Yoodh",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-18",
-      "expires": "2026-12-18",
-      "total": 1528.0,
-      "settled": 0.0,
-      "outstanding": 1528.0,
-      "lines": [
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Hanger Plastic A17 - Case (144pcs)",
-          "qty": 1.0,
-          "total": 550.0
         }
       ]
     },
