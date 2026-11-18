@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T12:01:15Z",
+  "generatedAt": "2026-11-18T12:15:47Z",
   "cash": {
     "total": 72.0,
     "count": 2
   },
   "transfer": {
-    "total": 55784.0,
-    "count": 9
+    "total": 59074.0,
+    "count": 11
   },
   "other": {
     "total": 0,
@@ -157,6 +157,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00736",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 1820.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "17:14",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[A16] Plastic Container A16",
+          "qty": 500.0,
+          "total": 1500.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 2.0,
+          "total": 320.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00735",
       "customer": "Yoodh",
       "amount": 1528.0,
@@ -184,6 +205,47 @@
           "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
           "qty": 1.0,
           "total": 300.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000675",
+      "customer": "Walk-in",
+      "amount": 1470.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:15",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "PET Cup 90U - 12oz",
+          "qty": 150.0,
+          "total": 450.0
+        },
+        {
+          "name": "[90036] Milkshake Powder Chocolate",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[06705] Milkshake Powder Vanilla",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90037] Milkshake Powder Blueberry",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[01011] Paper straw 12 mm 50 pcs",
+          "qty": 4.0,
+          "total": 140.0
         }
       ]
     },
@@ -292,14 +354,14 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 8,
-      "total": 55694.0
+      "count": 9,
+      "total": 57514.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 90.0
+      "count": 2,
+      "total": 1560.0
     },
     {
       "name": "Cash",
