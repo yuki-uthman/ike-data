@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-18T09:01:30Z",
-  "openCount": 193,
-  "openTotal": 2411672.2,
-  "quotationCount": 117,
-  "quotationTotal": 1436331.75,
+  "generatedAt": "2026-11-18T09:06:48Z",
+  "openCount": 194,
+  "openTotal": 2412272.2,
+  "quotationCount": 118,
+  "quotationTotal": 1436931.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -509,9 +509,9 @@
     },
     {
       "date": "2026-11-18",
-      "count": 1,
-      "outstanding": 1820.0,
-      "total": 1820.0
+      "count": 2,
+      "outstanding": 2420.0,
+      "total": 2420.0
     }
   ],
   "quotations": [
@@ -536,6 +536,25 @@
           "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
           "qty": 2.0,
           "total": 320.0
+        }
+      ]
+    },
+    {
+      "id": 936,
+      "ref": "S00940",
+      "kind": "quotation",
+      "customer": "3R Cafe & Bistro R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-18",
+      "expires": "2026-12-18",
+      "total": 600.0,
+      "settled": 0.0,
+      "outstanding": 600.0,
+      "lines": [
+        {
+          "name": "[BC8C] Bagasse Clamshell 8\" [case]",
+          "qty": 1.0,
+          "total": 600.0
         }
       ]
     },
