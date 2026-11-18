@@ -24662,10 +24662,10 @@
     },
     {
       "date": "2026-11-18",
-      "generatedAt": "2026-11-18T12:31:07Z",
+      "generatedAt": "2026-11-18T12:45:47Z",
       "pos": {
-        "total": 1730.0,
-        "count": 5
+        "total": 1759.0,
+        "count": 6
       },
       "regularSales": {
         "total": 75214.0,
@@ -24676,8 +24676,8 @@
         "count": 3
       },
       "cash": {
-        "total": 72.0,
-        "count": 2
+        "total": 101.0,
+        "count": 3
       },
       "transfer": {
         "total": 76872.0,
@@ -25073,6 +25073,22 @@
               "total": 35.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000677",
+          "customer": "Walk-in",
+          "amount": 29.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "17:32",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01903] Laundry Bag Mesh 30*30*46cm",
+              "qty": 1.0,
+              "total": 29.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -25082,7 +25098,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 3785.0,
-        "expectedClosing": 7848.0,
+        "expectedClosing": 7877.0,
         "counted": null,
         "difference": null,
         "closed": false,
