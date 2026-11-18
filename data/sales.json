@@ -24662,14 +24662,14 @@
     },
     {
       "date": "2026-11-18",
-      "generatedAt": "2026-11-18T10:01:14Z",
+      "generatedAt": "2026-11-18T10:15:47Z",
       "pos": {
         "total": 162.0,
         "count": 3
       },
       "regularSales": {
-        "total": 35316.0,
-        "count": 6
+        "total": 54166.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 2420.0,
@@ -24680,14 +24680,40 @@
         "count": 2
       },
       "transfer": {
-        "total": 35406.0,
-        "count": 7
+        "total": 54256.0,
+        "count": 8
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00734",
+          "customer": "Zamaaneege O-13",
+          "amount": 18850.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:07",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
+              "qty": 3.0,
+              "total": 16200.0
+            },
+            {
+              "name": "2C Black End Round Shelves",
+              "qty": 1.0,
+              "total": 1450.0
+            },
+            {
+              "name": "2C Price Border Strip Black",
+              "qty": 48.0,
+              "total": 1200.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00730",
           "customer": "Trivana Holdings Private Limited",
