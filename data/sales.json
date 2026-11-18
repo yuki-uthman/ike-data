@@ -24662,14 +24662,14 @@
     },
     {
       "date": "2026-11-18",
-      "generatedAt": "2026-11-18T17:01:21Z",
+      "generatedAt": "2026-11-18T17:15:47Z",
       "pos": {
         "total": 2113.0,
         "count": 9
       },
       "regularSales": {
-        "total": 75214.0,
-        "count": 11
+        "total": 77784.0,
+        "count": 13
       },
       "pendingQuotations": {
         "total": 12300.0,
@@ -24680,8 +24680,8 @@
         "count": 5
       },
       "transfer": {
-        "total": 76896.0,
-        "count": 15
+        "total": 79466.0,
+        "count": 17
       },
       "other": {
         "total": 0,
@@ -24866,6 +24866,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00740",
+          "customer": "Sizzling Wok  D-9",
+          "amount": 1780.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:03",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 750ml - Case (300pcs)",
+              "qty": 2.0,
+              "total": 1380.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 2.0,
+              "total": 400.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00735",
           "customer": "Yoodh",
           "amount": 1528.0,
@@ -24981,6 +25002,27 @@
               "name": "[02154] Milkshake Powder Mango",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00739",
+          "customer": "Meenash Cafe Dhiggaru K-8",
+          "amount": 790.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:02",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 500ml - Case (300pcs)",
+              "qty": 1.0,
+              "total": 590.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 1.0,
+              "total": 200.0
             }
           ]
         },
