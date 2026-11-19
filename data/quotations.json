@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T05:01:34Z",
-  "openCount": 195,
-  "openTotal": 2406467.2,
-  "quotationCount": 118,
-  "quotationTotal": 1430336.75,
+  "generatedAt": "2026-11-19T05:15:53Z",
+  "openCount": 197,
+  "openTotal": 2409171.2,
+  "quotationCount": 120,
+  "quotationTotal": 1433040.75,
   "orderCount": 77,
   "orderTotal": 976130.45,
   "days": [
@@ -515,12 +515,31 @@
     },
     {
       "date": "2026-11-19",
-      "count": 2,
-      "outstanding": 2015.0,
-      "total": 2015.0
+      "count": 4,
+      "outstanding": 4719.0,
+      "total": 4719.0
     }
   ],
   "quotations": [
+    {
+      "id": 949,
+      "ref": "S00953",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-19",
+      "expires": "2026-12-19",
+      "total": 2400.0,
+      "settled": 0.0,
+      "outstanding": 2400.0,
+      "lines": [
+        {
+          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+          "qty": 2.0,
+          "total": 2400.0
+        }
+      ]
+    },
     {
       "id": 944,
       "ref": "S00948",
@@ -561,6 +580,35 @@
           "name": "Salad Bowl Lid - Case (300pcs)",
           "qty": 1.0,
           "total": 200.0
+        }
+      ]
+    },
+    {
+      "id": 948,
+      "ref": "S00952",
+      "kind": "quotation",
+      "customer": "Sun Shine Arts",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-19",
+      "expires": "2026-12-19",
+      "total": 304.0,
+      "settled": 0.0,
+      "outstanding": 304.0,
+      "lines": [
+        {
+          "name": "[01755] Door Mat Pvc Code: 07 #43X67",
+          "qty": 2.0,
+          "total": 60.0
+        },
+        {
+          "name": "[35940] Hook Mesh 8\"",
+          "qty": 12.0,
+          "total": 144.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 4.0,
+          "total": 100.0
         }
       ]
     },
