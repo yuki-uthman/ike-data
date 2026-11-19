@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T09:01:32Z",
-  "openCount": 196,
-  "openTotal": 2415597.2,
-  "quotationCount": 119,
-  "quotationTotal": 1431356.75,
+  "generatedAt": "2026-11-19T09:15:55Z",
+  "openCount": 195,
+  "openTotal": 2405837.2,
+  "quotationCount": 118,
+  "quotationTotal": 1430336.75,
   "orderCount": 77,
-  "orderTotal": 984240.45,
+  "orderTotal": 975500.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -515,36 +515,12 @@
     },
     {
       "date": "2026-11-19",
-      "count": 3,
-      "outstanding": 11145.0,
-      "total": 11145.0
+      "count": 2,
+      "outstanding": 1385.0,
+      "total": 1385.0
     }
   ],
   "quotations": [
-    {
-      "id": 957,
-      "ref": "S00961",
-      "kind": "order",
-      "customer": "Ehkala Packaging",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-19",
-      "expires": "2026-12-19",
-      "total": 8900.0,
-      "settled": 0.0,
-      "outstanding": 8900.0,
-      "lines": [
-        {
-          "name": "Salad Bowl 750ml - Case (300pcs)",
-          "qty": 10.0,
-          "total": 6900.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 10.0,
-          "total": 2000.0
-        }
-      ]
-    },
     {
       "id": 944,
       "ref": "S00948",
@@ -565,31 +541,21 @@
       ]
     },
     {
-      "id": 956,
-      "ref": "S00960",
-      "kind": "quotation",
-      "customer": "Treasure H-1",
+      "id": 958,
+      "ref": "S00962",
+      "kind": "order",
+      "customer": "Sales",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-19",
       "expires": "2026-12-19",
-      "total": 1020.0,
+      "total": 160.0,
       "settled": 0.0,
-      "outstanding": 1020.0,
+      "outstanding": 160.0,
       "lines": [
         {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
+          "name": "[70146] Hook Slat 12\"",
+          "qty": 10.0,
+          "total": 160.0
         }
       ]
     },
