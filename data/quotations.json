@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T17:46:08Z",
-  "openCount": 196,
-  "openTotal": 2408225.2,
-  "quotationCount": 120,
-  "quotationTotal": 1432884.75,
+  "generatedAt": "2026-11-19T18:01:25Z",
+  "openCount": 197,
+  "openTotal": 2431235.2,
+  "quotationCount": 121,
+  "quotationTotal": 1455894.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -515,12 +515,76 @@
     },
     {
       "date": "2026-11-19",
-      "count": 3,
-      "outstanding": 3773.0,
-      "total": 3773.0
+      "count": 4,
+      "outstanding": 26783.0,
+      "total": 26783.0
     }
   ],
   "quotations": [
+    {
+      "id": 964,
+      "ref": "S00968",
+      "kind": "quotation",
+      "customer": "Zilaal Mart R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-19",
+      "expires": "2026-12-19",
+      "total": 23010.0,
+      "settled": 0.0,
+      "outstanding": 23010.0,
+      "lines": [
+        {
+          "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
+          "qty": 1.0,
+          "total": 460.0
+        },
+        {
+          "name": "Salad Bowl 750ml - Case (300pcs)",
+          "qty": 3.0,
+          "total": 2070.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 6.0,
+          "total": 1200.0
+        },
+        {
+          "name": "Paper Straw Wrapped 8mm - case (3000pcs)",
+          "qty": 3.0,
+          "total": 6000.0
+        },
+        {
+          "name": "Paper Straw Wrapped 12mm - case (2000pcs)",
+          "qty": 1.0,
+          "total": 1600.0
+        },
+        {
+          "name": "[MILO900-C12] Milo 900g (Case 12pcs)",
+          "qty": 1.0,
+          "total": 1800.0
+        },
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "[83241C] Aluminium Foil Box 83241 [case]",
+          "qty": 1.0,
+          "total": 2870.0
+        },
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 1.0,
+          "total": 2890.0
+        },
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 3.0,
+          "total": 1770.0
+        }
+      ]
+    },
     {
       "id": 960,
       "ref": "S00964",
