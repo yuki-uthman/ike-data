@@ -3,25 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-21",
-      "generatedAt": "2026-09-21T18:45:49Z",
-      "confirmed": {
-        "total": 500.0,
-        "count": 1
-      },
-      "pending": {
-        "total": 0,
-        "count": 0
-      },
-      "categories": [
-        {
-          "name": "Fuel / Petrol",
-          "count": 1,
-          "total": 500.0
-        }
-      ]
-    },
-    {
       "date": "2026-09-22",
       "generatedAt": "2026-09-22T18:45:52Z",
       "confirmed": {
@@ -789,6 +770,19 @@
     {
       "date": "2026-11-19",
       "generatedAt": "2026-11-19T18:46:00Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-11-20",
+      "generatedAt": "2026-11-19T19:01:27Z",
       "confirmed": {
         "total": 0,
         "count": 0
