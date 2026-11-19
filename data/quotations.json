@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T05:31:14Z",
+  "generatedAt": "2026-11-19T05:45:55Z",
   "openCount": 198,
-  "openTotal": 2410776.2,
-  "quotationCount": 120,
-  "quotationTotal": 1434341.75,
-  "orderCount": 78,
-  "orderTotal": 976434.45,
+  "openTotal": 2421426.2,
+  "quotationCount": 118,
+  "quotationTotal": 1430336.75,
+  "orderCount": 80,
+  "orderTotal": 991089.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -516,41 +516,22 @@
     {
       "date": "2026-11-19",
       "count": 5,
-      "outstanding": 6324.0,
-      "total": 6324.0
+      "outstanding": 16974.0,
+      "total": 16974.0
     }
   ],
   "quotations": [
     {
-      "id": 949,
-      "ref": "S00953",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-19",
-      "expires": "2026-12-19",
-      "total": 2400.0,
-      "settled": 0.0,
-      "outstanding": 2400.0,
-      "lines": [
-        {
-          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
-          "qty": 2.0,
-          "total": 2400.0
-        }
-      ]
-    },
-    {
       "id": 950,
       "ref": "S00954",
-      "kind": "quotation",
-      "customer": "Sales",
+      "kind": "order",
+      "customer": "Diamond Plaza G-3",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-19",
       "expires": "2026-12-19",
-      "total": 1605.0,
+      "total": 13455.0,
       "settled": 0.0,
-      "outstanding": 1605.0,
+      "outstanding": 13455.0,
       "lines": [
         {
           "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
@@ -568,9 +549,19 @@
           "total": 885.0
         },
         {
-          "name": "rd8 gray",
-          "qty": 1.0,
-          "total": 0.0
+          "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
+          "qty": 2.0,
+          "total": 7200.0
+        },
+        {
+          "name": "[RD8-GRY-ERP-1950] #RD8 Gray End Rack Perforated 1950mm",
+          "qty": 2.0,
+          "total": 3900.0
+        },
+        {
+          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
+          "qty": 30.0,
+          "total": 750.0
         }
       ]
     },
@@ -590,6 +581,25 @@
           "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
           "qty": 1.0,
           "total": 1225.0
+        }
+      ]
+    },
+    {
+      "id": 949,
+      "ref": "S00953",
+      "kind": "order",
+      "customer": "Corner24 R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-19",
+      "expires": "2026-12-19",
+      "total": 1200.0,
+      "settled": 0.0,
+      "outstanding": 1200.0,
+      "lines": [
+        {
+          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
+          "qty": 1.0,
+          "total": 1200.0
         }
       ]
     },
