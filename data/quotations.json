@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T04:31:13Z",
+  "generatedAt": "2026-11-19T04:45:56Z",
   "openCount": 195,
   "openTotal": 2406467.2,
-  "quotationCount": 119,
-  "quotationTotal": 1431126.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "quotationCount": 118,
+  "quotationTotal": 1430336.75,
+  "orderCount": 77,
+  "orderTotal": 976130.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -543,7 +543,7 @@
     {
       "id": 945,
       "ref": "S00949",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Crumbs bake shop  Gdh.Thinadhoo( Q10)",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-19",
