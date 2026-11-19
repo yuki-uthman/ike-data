@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T04:01:36Z",
-  "openCount": 193,
-  "openTotal": 2404452.2,
-  "quotationCount": 117,
-  "quotationTotal": 1429111.75,
+  "generatedAt": "2026-11-19T04:15:58Z",
+  "openCount": 195,
+  "openTotal": 2406467.2,
+  "quotationCount": 119,
+  "quotationTotal": 1431126.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -515,12 +515,55 @@
     },
     {
       "date": "2026-11-19",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 2,
+      "outstanding": 2015.0,
+      "total": 2015.0
     }
   ],
   "quotations": [
+    {
+      "id": 944,
+      "ref": "S00948",
+      "kind": "quotation",
+      "customer": "Thaumeen Muhammad Q-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-19",
+      "expires": "2026-12-19",
+      "total": 1225.0,
+      "settled": 0.0,
+      "outstanding": 1225.0,
+      "lines": [
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "ref": "S00949",
+      "kind": "quotation",
+      "customer": "Crumbs bake shop  Gdh.Thinadhoo( Q10)",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-19",
+      "expires": "2026-12-19",
+      "total": 790.0,
+      "settled": 0.0,
+      "outstanding": 790.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 590.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
     {
       "id": 940,
       "ref": "S00944",
