@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T09:45:49Z",
+  "generatedAt": "2026-11-19T10:01:19Z",
   "cash": {
-    "total": 16694.0,
-    "count": 7
+    "total": 16759.0,
+    "count": 8
   },
   "transfer": {
     "total": 13458.0,
@@ -346,14 +346,35 @@
           "total": 10.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000683",
+      "customer": "Walk-in",
+      "amount": 65.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:55",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70110] paper plates 9 inch 100pcs",
+          "qty": 1.0,
+          "total": 50.0
+        },
+        {
+          "name": "Soft Napkin ARMAAN",
+          "qty": 1.0,
+          "total": 15.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Cash",
       "method": "cash",
-      "count": 7,
-      "total": 16694.0
+      "count": 8,
+      "total": 16759.0
     },
     {
       "name": "Bank",
@@ -369,8 +390,8 @@
     }
   ],
   "cashOut": {
-    "total": 17500.0,
-    "count": 1
+    "total": 17510.0,
+    "count": 2
   },
   "cashOutTransactions": [
     {
@@ -379,11 +400,18 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "14:10"
+    },
+    {
+      "reason": "Gate pass--Nagarajan",
+      "amount": 10.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:57"
     }
   ],
   "till": {
     "opening": 4196.0,
-    "expectedClosing": 9384.0,
+    "expectedClosing": 9439.0,
     "counted": null,
     "difference": null,
     "closed": false,
