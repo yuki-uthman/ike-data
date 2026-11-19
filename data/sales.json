@@ -24871,26 +24871,26 @@
     },
     {
       "date": "2026-11-19",
-      "generatedAt": "2026-11-19T09:15:46Z",
+      "generatedAt": "2026-11-19T09:31:06Z",
       "pos": {
         "total": 394.0,
         "count": 2
       },
       "regularSales": {
-        "total": 29598.0,
-        "count": 13
+        "total": 29758.0,
+        "count": 14
       },
       "pendingQuotations": {
-        "total": 1225.0,
-        "count": 1
+        "total": 2115.0,
+        "count": 2
       },
       "cash": {
         "total": 16694.0,
         "count": 7
       },
       "transfer": {
-        "total": 13298.0,
-        "count": 8
+        "total": 13458.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -25183,6 +25183,22 @@
               "name": "[3039] Mix-Lah Iced Tea Premix Peach Tea",
               "qty": 1.0,
               "total": 250.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00754",
+          "customer": "Sales",
+          "amount": 160.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:16",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70146] Hook Slat 12\"",
+              "qty": 10.0,
+              "total": 160.0
             }
           ]
         },
