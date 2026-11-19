@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T08:45:47Z",
+  "generatedAt": "2026-11-19T09:01:21Z",
   "cash": {
     "total": 16694.0,
     "count": 7
   },
   "transfer": {
-    "total": 2958.0,
-    "count": 5
+    "total": 3378.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -128,6 +128,22 @@
           "name": "[06705] Milkshake Powder Vanilla",
           "qty": 1.0,
           "total": 220.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00751",
+      "customer": "Blooms Supplies",
+      "amount": 420.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:47",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90037] Milkshake Powder Blueberry",
+          "qty": 2.0,
+          "total": 420.0
         }
       ]
     },
@@ -279,8 +295,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 2704.0
+      "count": 5,
+      "total": 3124.0
     },
     {
       "name": "Bank Transfer",
