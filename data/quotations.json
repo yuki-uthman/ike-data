@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T05:45:55Z",
-  "openCount": 198,
-  "openTotal": 2421426.2,
+  "generatedAt": "2026-11-19T06:01:24Z",
+  "openCount": 194,
+  "openTotal": 2405677.2,
   "quotationCount": 118,
   "quotationTotal": 1430336.75,
-  "orderCount": 80,
-  "orderTotal": 991089.45,
+  "orderCount": 76,
+  "orderTotal": 975340.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -515,56 +515,12 @@
     },
     {
       "date": "2026-11-19",
-      "count": 5,
-      "outstanding": 16974.0,
-      "total": 16974.0
+      "count": 1,
+      "outstanding": 1225.0,
+      "total": 1225.0
     }
   ],
   "quotations": [
-    {
-      "id": 950,
-      "ref": "S00954",
-      "kind": "order",
-      "customer": "Diamond Plaza G-3",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-19",
-      "expires": "2026-12-19",
-      "total": 13455.0,
-      "settled": 0.0,
-      "outstanding": 13455.0,
-      "lines": [
-        {
-          "name": "Chuba Ubee Chips Spicy Garlic - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Chuba Ubee Chips Sweet Corn - Case (30pcs, 45 gr)",
-          "qty": 1.0,
-          "total": 360.0
-        },
-        {
-          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
-          "qty": 1.0,
-          "total": 885.0
-        },
-        {
-          "name": "[RD8-GRY-DSP-1950-X01] #RD8 Gray Double Side Perforated 1950mm x1",
-          "qty": 2.0,
-          "total": 7200.0
-        },
-        {
-          "name": "[RD8-GRY-ERP-1950] #RD8 Gray End Rack Perforated 1950mm",
-          "qty": 2.0,
-          "total": 3900.0
-        },
-        {
-          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-          "qty": 30.0,
-          "total": 750.0
-        }
-      ]
-    },
     {
       "id": 944,
       "ref": "S00948",
@@ -581,78 +537,6 @@
           "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
           "qty": 1.0,
           "total": 1225.0
-        }
-      ]
-    },
-    {
-      "id": 949,
-      "ref": "S00953",
-      "kind": "order",
-      "customer": "Corner24 R-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-19",
-      "expires": "2026-12-19",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[RACKLKHS] Lui Kaana Haru Small 4 Layer",
-          "qty": 1.0,
-          "total": 1200.0
-        }
-      ]
-    },
-    {
-      "id": 945,
-      "ref": "S00949",
-      "kind": "order",
-      "customer": "Crumbs bake shop  Gdh.Thinadhoo( Q10)",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-19",
-      "expires": "2026-12-19",
-      "total": 790.0,
-      "settled": 0.0,
-      "outstanding": 790.0,
-      "lines": [
-        {
-          "name": "Salad Bowl 500ml - Case (300pcs)",
-          "qty": 1.0,
-          "total": 590.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 1.0,
-          "total": 200.0
-        }
-      ]
-    },
-    {
-      "id": 948,
-      "ref": "S00952",
-      "kind": "order",
-      "customer": "Sun Shine Arts",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-19",
-      "expires": "2026-12-19",
-      "total": 304.0,
-      "settled": 0.0,
-      "outstanding": 304.0,
-      "lines": [
-        {
-          "name": "[01755] Door Mat Pvc Code: 07 #43X67",
-          "qty": 2.0,
-          "total": 60.0
-        },
-        {
-          "name": "[35940] Hook Mesh 8\"",
-          "qty": 12.0,
-          "total": 144.0
-        },
-        {
-          "name": "[70216] RD8 Price Border Strip White 900mm (875)",
-          "qty": 4.0,
-          "total": 100.0
         }
       ]
     },
