@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-19T10:46:07Z",
-  "openCount": 195,
-  "openTotal": 2406567.2,
-  "quotationCount": 119,
-  "quotationTotal": 1431226.75,
+  "generatedAt": "2026-11-19T11:01:35Z",
+  "openCount": 196,
+  "openTotal": 2408167.2,
+  "quotationCount": 120,
+  "quotationTotal": 1432826.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -515,12 +515,31 @@
     },
     {
       "date": "2026-11-19",
-      "count": 2,
-      "outstanding": 2115.0,
-      "total": 2115.0
+      "count": 3,
+      "outstanding": 3715.0,
+      "total": 3715.0
     }
   ],
   "quotations": [
+    {
+      "id": 960,
+      "ref": "S00964",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-19",
+      "expires": "2026-12-19",
+      "total": 1600.0,
+      "settled": 0.0,
+      "outstanding": 1600.0,
+      "lines": [
+        {
+          "name": "[70091] Shopping Basket Red Large 605 S2",
+          "qty": 10.0,
+          "total": 1600.0
+        }
+      ]
+    },
     {
       "id": 944,
       "ref": "S00948",
