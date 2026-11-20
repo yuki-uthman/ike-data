@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-20T12:31:19Z",
-  "openCount": 197,
-  "openTotal": 2431235.2,
-  "quotationCount": 121,
-  "quotationTotal": 1455894.75,
+  "generatedAt": "2026-11-20T12:45:55Z",
+  "openCount": 196,
+  "openTotal": 2430010.2,
+  "quotationCount": 120,
+  "quotationTotal": 1454669.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -515,9 +515,9 @@
     },
     {
       "date": "2026-11-19",
-      "count": 4,
-      "outstanding": 26783.0,
-      "total": 26783.0
+      "count": 3,
+      "outstanding": 25558.0,
+      "total": 25558.0
     },
     {
       "date": "2026-11-20",
@@ -607,25 +607,6 @@
           "name": "[70091] Shopping Basket Red Large 605 S2",
           "qty": 10.0,
           "total": 1600.0
-        }
-      ]
-    },
-    {
-      "id": 944,
-      "ref": "S00948",
-      "kind": "quotation",
-      "customer": "Thaumeen Muhammad Q-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-19",
-      "expires": "2026-12-19",
-      "total": 1225.0,
-      "settled": 0.0,
-      "outstanding": 1225.0,
-      "lines": [
-        {
-          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
-          "qty": 1.0,
-          "total": 1225.0
         }
       ]
     },
