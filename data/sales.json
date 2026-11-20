@@ -24868,14 +24868,14 @@
     },
     {
       "date": "2026-11-20",
-      "generatedAt": "2026-11-20T12:45:46Z",
+      "generatedAt": "2026-11-20T12:49:47Z",
       "pos": {
         "total": 156.0,
         "count": 4
       },
       "regularSales": {
-        "total": 1040.0,
-        "count": 2
+        "total": 2265.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 0,
@@ -24886,14 +24886,30 @@
         "count": 3
       },
       "transfer": {
-        "total": 510.0,
-        "count": 3
+        "total": 1735.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00760",
+          "customer": "Thaumeen Muhammad Q-10",
+          "amount": 1225.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:45",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+              "qty": 1.0,
+              "total": 1225.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00758",
           "customer": "Sales",
