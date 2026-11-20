@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T16:31:03Z",
+  "generatedAt": "2026-11-20T16:45:46Z",
   "cash": {
-    "total": 1553.0,
-    "count": 6
+    "total": 1586.0,
+    "count": 8
   },
   "transfer": {
-    "total": 1735.0,
-    "count": 4
+    "total": 1873.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -117,6 +117,27 @@
       ]
     },
     {
+      "ref": "Ike - 000695",
+      "customer": "Walk-in",
+      "amount": 138.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "21:45",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70049] Slipper 57(1)",
+          "qty": 1.0,
+          "total": 79.0
+        },
+        {
+          "name": "[70044] Slipper#1112",
+          "qty": 1.0,
+          "total": 59.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000689",
       "customer": "Walk-in",
       "amount": 70.0,
@@ -175,6 +196,22 @@
       ]
     },
     {
+      "ref": "Ike - 000694",
+      "customer": "Walk-in",
+      "amount": 25.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:33",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli (140 gr)",
+          "qty": 1.0,
+          "total": 25.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000687",
       "customer": "Walk-in",
       "amount": 20.0,
@@ -205,6 +242,22 @@
           "total": 15.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000692",
+      "customer": "Walk-in",
+      "amount": 8.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:32",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[42688] Spoon small flatware Ss#3 Red",
+          "qty": 1.0,
+          "total": 8.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -217,14 +270,14 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 6,
-      "total": 1553.0
+      "count": 8,
+      "total": 1586.0
     },
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 90.0
+      "count": 3,
+      "total": 228.0
     }
   ],
   "cashOut": {
@@ -234,7 +287,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 4066.0,
-    "expectedClosing": 5619.0,
+    "expectedClosing": 5652.0,
     "counted": null,
     "difference": null,
     "closed": false,
