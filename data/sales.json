@@ -24868,14 +24868,14 @@
     },
     {
       "date": "2026-11-20",
-      "generatedAt": "2026-11-20T12:15:47Z",
+      "generatedAt": "2026-11-20T12:31:05Z",
       "pos": {
         "total": 71.0,
         "count": 2
       },
       "regularSales": {
-        "total": 620.0,
-        "count": 1
+        "total": 1040.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 0,
@@ -24886,8 +24886,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 20.0,
-        "count": 1
+        "total": 440.0,
+        "count": 2
       },
       "other": {
         "total": 0,
@@ -24907,6 +24907,22 @@
               "name": "[202607] Tile Ceramic 600x600mm",
               "qty": 10.0,
               "total": 620.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00759",
+          "customer": "Blooms Supplies",
+          "amount": 420.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:20",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90038] Milkshake Powder Hazelnut Coffee",
+              "qty": 2.0,
+              "total": 420.0
             }
           ]
         },
