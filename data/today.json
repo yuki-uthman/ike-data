@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T16:01:16Z",
+  "generatedAt": "2026-11-20T16:15:44Z",
   "cash": {
-    "total": 1244.0,
-    "count": 4
+    "total": 1503.0,
+    "count": 5
   },
   "transfer": {
     "total": 1735.0,
@@ -101,6 +101,22 @@
       ]
     },
     {
+      "ref": "Ike - 000691",
+      "customer": "Walk-in",
+      "amount": 259.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:04",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01841] Mop Bucket with Mop",
+          "qty": 1.0,
+          "total": 259.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000689",
       "customer": "Walk-in",
       "amount": 70.0,
@@ -185,8 +201,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 1244.0
+      "count": 5,
+      "total": 1503.0
     },
     {
       "name": "Bank Transfer",
@@ -202,7 +218,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 4066.0,
-    "expectedClosing": 5310.0,
+    "expectedClosing": 5569.0,
     "counted": null,
     "difference": null,
     "closed": false,
