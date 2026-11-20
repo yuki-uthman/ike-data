@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-20T16:45:56Z",
-  "openCount": 196,
-  "openTotal": 2430010.2,
-  "quotationCount": 120,
-  "quotationTotal": 1454669.75,
+  "generatedAt": "2026-11-20T17:01:29Z",
+  "openCount": 197,
+  "openTotal": 2463810.2,
+  "quotationCount": 121,
+  "quotationTotal": 1488469.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -521,12 +521,46 @@
     },
     {
       "date": "2026-11-20",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 33800.0,
+      "total": 33800.0
     }
   ],
   "quotations": [
+    {
+      "id": 967,
+      "ref": "S00971",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-11-20",
+      "expires": "2026-12-20",
+      "total": 33800.0,
+      "settled": 0.0,
+      "outstanding": 33800.0,
+      "lines": [
+        {
+          "name": "#37 White Single Side 2400mm",
+          "qty": 4.0,
+          "total": 15200.0
+        },
+        {
+          "name": "#37 White Double Side 1500mm",
+          "qty": 2.0,
+          "total": 9000.0
+        },
+        {
+          "name": "#37 White End Shelf",
+          "qty": 2.0,
+          "total": 3900.0
+        },
+        {
+          "name": "[70161] Vegetable Rack 4 Square Baskets",
+          "qty": 2.0,
+          "total": 5700.0
+        }
+      ]
+    },
     {
       "id": 964,
       "ref": "S00968",
