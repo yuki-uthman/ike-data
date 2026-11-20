@@ -24868,10 +24868,10 @@
     },
     {
       "date": "2026-11-20",
-      "generatedAt": "2026-11-20T09:31:05Z",
+      "generatedAt": "2026-11-20T09:45:46Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 51.0,
+        "count": 1
       },
       "regularSales": {
         "total": 0,
@@ -24882,8 +24882,8 @@
         "count": 0
       },
       "cash": {
-        "total": 0,
-        "count": 0
+        "total": 51.0,
+        "count": 1
       },
       "transfer": {
         "total": 0,
@@ -24893,13 +24893,42 @@
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "Ike - 000686",
+          "customer": "Walk-in",
+          "amount": 51.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "14:35",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01873] Duster cloth Microfiber",
+              "qty": 1.0,
+              "total": 39.0
+            },
+            {
+              "name": "[02254] Steel Wool 2pcs",
+              "qty": 1.0,
+              "total": 12.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
       },
       "cashOutTransactions": [],
-      "till": null
+      "till": {
+        "opening": 4066.0,
+        "expectedClosing": 4117.0,
+        "counted": null,
+        "difference": null,
+        "closed": false,
+        "sessionCount": 1
+      }
     }
   ]
 }
