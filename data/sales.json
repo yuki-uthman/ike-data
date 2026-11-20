@@ -24868,10 +24868,10 @@
     },
     {
       "date": "2026-11-20",
-      "generatedAt": "2026-11-20T17:01:18Z",
+      "generatedAt": "2026-11-20T17:15:46Z",
       "pos": {
-        "total": 1226.0,
-        "count": 11
+        "total": 1265.0,
+        "count": 12
       },
       "regularSales": {
         "total": 2265.0,
@@ -24882,8 +24882,8 @@
         "count": 1
       },
       "cash": {
-        "total": 1618.0,
-        "count": 9
+        "total": 1657.0,
+        "count": 10
       },
       "transfer": {
         "total": 1873.0,
@@ -25074,6 +25074,22 @@
           ]
         },
         {
+          "ref": "Ike - 000697",
+          "customer": "Walk-in",
+          "amount": 39.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:12",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70126] Dustbin Plastic 26cm #601",
+              "qty": 1.0,
+              "total": 39.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000696",
           "customer": "Walk-in",
           "amount": 32.0,
@@ -25155,13 +25171,21 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 3000.0,
+        "count": 1
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Owners drawing--Uthman",
+          "amount": 3000.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:14"
+        }
+      ],
       "till": {
         "opening": 4066.0,
-        "expectedClosing": 5684.0,
+        "expectedClosing": 2723.0,
         "counted": null,
         "difference": null,
         "closed": false,
