@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T17:15:46Z",
+  "generatedAt": "2026-11-20T17:31:02Z",
   "cash": {
-    "total": 1657.0,
-    "count": 10
+    "total": 1942.0,
+    "count": 12
   },
   "transfer": {
     "total": 1873.0,
@@ -117,6 +117,22 @@
       ]
     },
     {
+      "ref": "Ike - 000698",
+      "customer": "Walk-in",
+      "amount": 150.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:16",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Bagasse Clamshell 6x6\" - bundle (50pcs)",
+          "qty": 1.0,
+          "total": 150.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000695",
       "customer": "Walk-in",
       "amount": 138.0,
@@ -134,6 +150,22 @@
           "name": "[70044] Slipper#1112",
           "qty": 1.0,
           "total": 59.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000699",
+      "customer": "Walk-in",
+      "amount": 135.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:17",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01847] Mop Wooden #18",
+          "qty": 3.0,
+          "total": 135.0
         }
       ]
     },
@@ -296,8 +328,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 10,
-      "total": 1657.0
+      "count": 12,
+      "total": 1942.0
     },
     {
       "name": "Bank",
@@ -313,8 +345,8 @@
     }
   ],
   "cashOut": {
-    "total": 3000.0,
-    "count": 1
+    "total": 3060.0,
+    "count": 2
   },
   "cashOutTransactions": [
     {
@@ -323,11 +355,18 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "22:14"
+    },
+    {
+      "reason": "Tea money 3 days-- jafar",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "22:20"
     }
   ],
   "till": {
     "opening": 4066.0,
-    "expectedClosing": 2723.0,
+    "expectedClosing": 2948.0,
     "counted": null,
     "difference": null,
     "closed": false,
