@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T04:15:51Z",
-  "openCount": 198,
-  "openTotal": 2464788.2,
-  "quotationCount": 122,
-  "quotationTotal": 1489447.75,
+  "generatedAt": "2026-11-21T04:31:08Z",
+  "openCount": 200,
+  "openTotal": 2474685.2,
+  "quotationCount": 124,
+  "quotationTotal": 1499344.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -527,12 +527,80 @@
     },
     {
       "date": "2026-11-21",
-      "count": 1,
-      "outstanding": 978.0,
-      "total": 978.0
+      "count": 3,
+      "outstanding": 10875.0,
+      "total": 10875.0
     }
   ],
   "quotations": [
+    {
+      "id": 970,
+      "ref": "S00974",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-21",
+      "expires": "2026-12-21",
+      "total": 6285.0,
+      "settled": 0.0,
+      "outstanding": 6285.0,
+      "lines": [
+        {
+          "name": "[83458-C48] Carnation Extra Evaporated Milk 385g (Case 48pcs)",
+          "qty": 1.0,
+          "total": 1225.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 1.0,
+          "total": 2890.0
+        },
+        {
+          "name": "[BBRE24300B] Black Base Container 24oz",
+          "qty": 6.0,
+          "total": 1440.0
+        },
+        {
+          "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
+          "qty": 5.0,
+          "total": 375.0
+        }
+      ]
+    },
+    {
+      "id": 969,
+      "ref": "S00973",
+      "kind": "quotation",
+      "customer": "Space",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-21",
+      "expires": "2026-12-21",
+      "total": 3612.0,
+      "settled": 0.0,
+      "outstanding": 3612.0,
+      "lines": [
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 5.0,
+          "total": 1695.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 3.0,
+          "total": 1017.0
+        },
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 3.0,
+          "total": 900.0
+        }
+      ]
+    },
     {
       "id": 968,
       "ref": "S00972",
