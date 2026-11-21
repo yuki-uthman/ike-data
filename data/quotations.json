@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T15:31:15Z",
-  "openCount": 201,
-  "openTotal": 2530252.2,
-  "quotationCount": 124,
-  "quotationTotal": 1553933.75,
-  "orderCount": 77,
-  "orderTotal": 976318.45,
+  "generatedAt": "2026-11-21T15:45:52Z",
+  "openCount": 199,
+  "openTotal": 2527884.2,
+  "quotationCount": 123,
+  "quotationTotal": 1552543.75,
+  "orderCount": 76,
+  "orderTotal": 975340.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -527,9 +527,9 @@
     },
     {
       "date": "2026-11-21",
-      "count": 5,
-      "outstanding": 68842.0,
-      "total": 68842.0
+      "count": 3,
+      "outstanding": 66474.0,
+      "total": 66474.0
     }
   ],
   "quotations": [
@@ -573,64 +573,6 @@
           "name": "[2C-BLK-SS-2000-X04] #2C Black Single Side 2000mm x4",
           "qty": 1.0,
           "total": 6400.0
-        }
-      ]
-    },
-    {
-      "id": 982,
-      "ref": "S00986",
-      "kind": "quotation",
-      "customer": "Seaview C-15)",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-21",
-      "expires": "2026-12-21",
-      "total": 1390.0,
-      "settled": 0.0,
-      "outstanding": 1390.0,
-      "lines": [
-        {
-          "name": "Salad Bowl 500ml - Case (300pcs)",
-          "qty": 1.0,
-          "total": 590.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 1.0,
-          "total": 200.0
-        },
-        {
-          "name": "[BC8C] Bagasse Clamshell 8\" [case]",
-          "qty": 1.0,
-          "total": 600.0
-        }
-      ]
-    },
-    {
-      "id": 968,
-      "ref": "S00972",
-      "kind": "order",
-      "customer": "Madhoshi Mart",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-21",
-      "expires": "2026-12-21",
-      "total": 978.0,
-      "settled": 0.0,
-      "outstanding": 978.0,
-      "lines": [
-        {
-          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
-          "qty": 1.0,
-          "total": 300.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 2.0,
-          "total": 678.0
-        },
-        {
-          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 0.0,
-          "total": 0.0
         }
       ]
     },
