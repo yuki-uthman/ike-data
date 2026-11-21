@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T11:31:04Z",
+  "generatedAt": "2026-11-21T11:45:42Z",
   "cash": {
     "total": 6962.0,
     "count": 4
   },
   "transfer": {
-    "total": 19337.0,
-    "count": 9
+    "total": 33137.0,
+    "count": 10
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00772",
+      "customer": "The Gluten S-4",
+      "amount": 13800.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:40",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Mattress Foam 1900x900x90mm",
+          "qty": 12.0,
+          "total": 13800.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00768",
       "customer": "United Huvadhoo Holding PVT LTD",
@@ -304,8 +320,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 7,
-      "total": 18977.0
+      "count": 8,
+      "total": 32777.0
     },
     {
       "name": "Cash",
