@@ -2,20 +2,51 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T05:15:49Z",
+  "generatedAt": "2026-11-21T05:31:06Z",
   "cash": {
     "total": 25.0,
     "count": 1
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 5070.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00762",
+      "customer": "Bright Moon Plus",
+      "amount": 5070.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:24",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
+          "qty": 1.0,
+          "total": 2800.0
+        },
+        {
+          "name": "[RD8-GRY-ERP-1550] #RD8 Gray End Rack Perforated 1550mm",
+          "qty": 1.0,
+          "total": 1950.0
+        },
+        {
+          "name": "2C Price Border Strip Black",
+          "qty": 10.0,
+          "total": 250.0
+        },
+        {
+          "name": "[70147] Hook Mesh 10\"",
+          "qty": 5.0,
+          "total": 70.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00761",
       "customer": "Sales",
@@ -34,6 +65,12 @@
     }
   ],
   "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 1,
+      "total": 5070.0
+    },
     {
       "name": "Cash",
       "method": "cash",
