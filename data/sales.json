@@ -24628,26 +24628,26 @@
     },
     {
       "date": "2026-11-21",
-      "generatedAt": "2026-11-21T09:31:02Z",
+      "generatedAt": "2026-11-21T09:45:41Z",
       "pos": {
         "total": 252.0,
         "count": 2
       },
       "regularSales": {
-        "total": 20972.0,
-        "count": 6
+        "total": 22322.0,
+        "count": 7
       },
       "pendingQuotations": {
-        "total": 68328.0,
-        "count": 4
+        "total": 66528.0,
+        "count": 3
       },
       "cash": {
-        "total": 6942.0,
+        "total": 6542.0,
         "count": 3
       },
       "transfer": {
-        "total": 14282.0,
-        "count": 5
+        "total": 16032.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -24655,12 +24655,12 @@
       },
       "transactions": [
         {
-          "ref": "INV/2026/00766",
+          "ref": "INV/2026/00768",
           "customer": "United Huvadhoo Holding PVT LTD",
-          "amount": 6885.0,
+          "amount": 6485.0,
           "method": "cash",
           "rawMethod": "Cash",
-          "time": "14:13",
+          "time": "14:39",
           "source": "payment",
           "lines": [
             {
@@ -24679,11 +24679,6 @@
               "total": 1225.0
             },
             {
-              "name": "[BIGBRITE-SS-B14] Big Brite Stainless Steel Scourer (Bundle 14pcs)",
-              "qty": 4.0,
-              "total": 600.0
-            },
-            {
               "name": "[70115] Cake Cup Paper 9.5cm 1000pcs",
               "qty": 5.0,
               "total": 375.0
@@ -24692,6 +24687,11 @@
               "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
               "qty": 1.0,
               "total": 355.0
+            },
+            {
+              "name": "[BIGBRITE-SS-B14] Big Brite Stainless Steel Scourer (Bundle 14pcs)",
+              "qty": 4.0,
+              "total": 200.0
             }
           ]
         },
@@ -24790,6 +24790,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00767",
+          "customer": "Sales",
+          "amount": 1750.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:31",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70175] 51 Warehouse Rack White Medium",
+              "qty": 1.0,
+              "total": 1750.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000700",
           "customer": "Walk-in",
           "amount": 220.0,
@@ -24850,7 +24866,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2898.0,
-        "expectedClosing": 9840.0,
+        "expectedClosing": 23210.0,
         "counted": null,
         "difference": null,
         "closed": false,

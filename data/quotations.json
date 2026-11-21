@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T09:31:11Z",
+  "generatedAt": "2026-11-21T09:45:49Z",
   "openCount": 200,
-  "openTotal": 2529738.2,
-  "quotationCount": 124,
-  "quotationTotal": 1554397.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "openTotal": 2529523.2,
+  "quotationCount": 123,
+  "quotationTotal": 1552597.75,
+  "orderCount": 77,
+  "orderTotal": 976925.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -528,8 +528,8 @@
     {
       "date": "2026-11-21",
       "count": 4,
-      "outstanding": 68328.0,
-      "total": 68328.0
+      "outstanding": 68113.0,
+      "total": 68113.0
     }
   ],
   "quotations": [
@@ -579,19 +579,29 @@
     {
       "id": 976,
       "ref": "S00980",
-      "kind": "quotation",
-      "customer": "Sales",
+      "kind": "order",
+      "customer": "Seli Poeli /Thoddoo",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-21",
       "expires": "2026-12-21",
-      "total": 1800.0,
+      "total": 1585.0,
       "settled": 0.0,
-      "outstanding": 1800.0,
+      "outstanding": 1585.0,
       "lines": [
         {
-          "name": "[70175] 51 Warehouse Rack White Medium",
+          "name": "[70182] Gas Burner ( High Pressure )",
           "qty": 1.0,
-          "total": 1800.0
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[70037] Gas Regulator (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
         }
       ]
     },
