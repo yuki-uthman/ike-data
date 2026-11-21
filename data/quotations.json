@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T11:01:22Z",
-  "openCount": 200,
-  "openTotal": 2529518.2,
+  "generatedAt": "2026-11-21T11:15:56Z",
+  "openCount": 201,
+  "openTotal": 2543318.2,
   "quotationCount": 124,
-  "quotationTotal": 1554177.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "quotationTotal": 1566397.75,
+  "orderCount": 77,
+  "orderTotal": 976920.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -527,9 +527,9 @@
     },
     {
       "date": "2026-11-21",
-      "count": 4,
-      "outstanding": 68108.0,
-      "total": 68108.0
+      "count": 5,
+      "outstanding": 81908.0,
+      "total": 81908.0
     }
   ],
   "quotations": [
@@ -577,9 +577,28 @@
       ]
     },
     {
+      "id": 980,
+      "ref": "S00984",
+      "kind": "quotation",
+      "customer": "The Gluten S-4",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-21",
+      "expires": "2026-12-21",
+      "total": 13800.0,
+      "settled": 0.0,
+      "outstanding": 13800.0,
+      "lines": [
+        {
+          "name": "Mattress Foam 1900x900x90mm",
+          "qty": 12.0,
+          "total": 13800.0
+        }
+      ]
+    },
+    {
       "id": 979,
       "ref": "S00983",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Sp Trade",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-21",
