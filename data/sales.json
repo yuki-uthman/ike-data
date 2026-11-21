@@ -24628,7 +24628,7 @@
     },
     {
       "date": "2026-11-21",
-      "generatedAt": "2026-11-21T17:45:50Z",
+      "generatedAt": "2026-11-21T18:01:11Z",
       "pos": {
         "total": 1080.0,
         "count": 6
@@ -25081,8 +25081,8 @@
         }
       ],
       "cashOut": {
-        "total": 535.0,
-        "count": 3
+        "total": 605.0,
+        "count": 4
       },
       "cashOutTransactions": [
         {
@@ -25091,6 +25091,13 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "22:19"
+        },
+        {
+          "reason": "Pick up central --Hassan",
+          "amount": 70.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:46"
         },
         {
           "reason": "Gate pass-- Nagarajan",
@@ -25109,10 +25116,10 @@
       ],
       "till": {
         "opening": 2898.0,
-        "expectedClosing": 23783.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "expectedClosing": 23713.0,
+        "counted": 9943.0,
+        "difference": -13770.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
