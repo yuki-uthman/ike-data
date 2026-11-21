@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T10:45:49Z",
+  "generatedAt": "2026-11-21T11:01:11Z",
   "cash": {
     "total": 6962.0,
     "count": 4
   },
   "transfer": {
-    "total": 16172.0,
-    "count": 7
+    "total": 17757.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -168,6 +168,32 @@
       ]
     },
     {
+      "ref": "INV/2026/00770",
+      "customer": "Seli Poeli /Thoddoo",
+      "amount": 1585.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "15:54",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70182] Gas Burner ( High Pressure )",
+          "qty": 1.0,
+          "total": 800.0
+        },
+        {
+          "name": "Gas Burner Table",
+          "qty": 1.0,
+          "total": 425.0
+        },
+        {
+          "name": "[70037] Gas Regulator (High Pressure)",
+          "qty": 1.0,
+          "total": 360.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00769",
       "customer": "United Huvadhoo Holding PVT LTD",
       "amount": 420.0,
@@ -257,8 +283,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 15812.0
+      "count": 6,
+      "total": 17397.0
     },
     {
       "name": "Cash",
