@@ -24628,14 +24628,14 @@
     },
     {
       "date": "2026-11-21",
-      "generatedAt": "2026-11-21T17:01:21Z",
+      "generatedAt": "2026-11-21T17:15:43Z",
       "pos": {
         "total": 1080.0,
         "count": 6
       },
       "regularSales": {
-        "total": 42075.0,
-        "count": 13
+        "total": 44575.0,
+        "count": 14
       },
       "pendingQuotations": {
         "total": 66474.0,
@@ -24646,8 +24646,8 @@
         "count": 7
       },
       "transfer": {
-        "total": 35505.0,
-        "count": 12
+        "total": 38005.0,
+        "count": 13
       },
       "other": {
         "total": 0,
@@ -24786,6 +24786,22 @@
               "name": "PET Lid 90 Dome Lid - Case (1000pcs)",
               "qty": 1.0,
               "total": 790.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00775",
+          "customer": "DTS I-7",
+          "amount": 2500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "22:08",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[RD8-GRY-SSP-1950-X01] #RD8 Gray Single Perforated 1950mm x1",
+              "qty": 1.0,
+              "total": 2500.0
             }
           ]
         },
