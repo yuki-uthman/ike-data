@@ -3,11 +3,11 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T09:01:58Z",
-  "totalCases": 546.0,
+  "generatedAt": "2026-11-21T09:15:58Z",
+  "totalCases": 547.0,
   "quoted": {
-    "cases": 130.0,
-    "orders": 11
+    "cases": 129.0,
+    "orders": 10
   },
   "products": [
     {
@@ -236,9 +236,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 12.0,
+      "cases": 13.0,
       "profitBasis": "sold",
-      "profitPct": 2.5
+      "profitPct": 2.7
     },
     {
       "id": 2054,
@@ -465,9 +465,9 @@
           "productId": 2052,
           "cases": 30.0,
           "cost": 313.52,
-          "netPrice": 321.68,
-          "profitPerCase": 8.16,
-          "profit": 244.8
+          "netPrice": 322.22,
+          "profitPerCase": 8.7,
+          "profit": 261.0
         },
         {
           "productId": 2054,
@@ -1185,12 +1185,13 @@
     },
     {
       "date": "2026-11-21",
-      "cases": 11.0,
-      "orders": 1,
+      "cases": 12.0,
+      "orders": 2,
       "byProduct": {
         "2022": 3.0,
         "2030": 3.0,
-        "2032": 5.0
+        "2032": 5.0,
+        "2052": 1.0
       }
     }
   ]
