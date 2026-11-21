@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T12:31:10Z",
+  "generatedAt": "2026-11-21T12:45:43Z",
   "cash": {
-    "total": 6962.0,
-    "count": 4
+    "total": 7506.0,
+    "count": 5
   },
   "transfer": {
     "total": 33137.0,
@@ -231,6 +231,32 @@
       ]
     },
     {
+      "ref": "Ike - 000703",
+      "customer": "Walk-in",
+      "amount": 544.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "17:42",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70154] FLOOR MAT 1.2X15M OFFICE CARPET RED",
+          "qty": 5.0,
+          "total": 450.0
+        },
+        {
+          "name": "[70044] Slipper#1112",
+          "qty": 1.0,
+          "total": 59.0
+        },
+        {
+          "name": "[01777] Plastic Container 250ml#2083",
+          "qty": 1.0,
+          "total": 35.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00769",
       "customer": "United Huvadhoo Holding PVT LTD",
       "amount": 420.0,
@@ -326,8 +352,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 4,
-      "total": 6962.0
+      "count": 5,
+      "total": 7506.0
     },
     {
       "name": "Bank Transfer",
@@ -343,7 +369,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2898.0,
-    "expectedClosing": 23630.0,
+    "expectedClosing": 24174.0,
     "counted": null,
     "difference": null,
     "closed": false,
