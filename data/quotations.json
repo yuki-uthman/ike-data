@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T04:01:34Z",
-  "openCount": 197,
-  "openTotal": 2463810.2,
-  "quotationCount": 121,
-  "quotationTotal": 1488469.75,
+  "generatedAt": "2026-11-21T04:15:51Z",
+  "openCount": 198,
+  "openTotal": 2464788.2,
+  "quotationCount": 122,
+  "quotationTotal": 1489447.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -527,12 +527,41 @@
     },
     {
       "date": "2026-11-21",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 978.0,
+      "total": 978.0
     }
   ],
   "quotations": [
+    {
+      "id": 968,
+      "ref": "S00972",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-21",
+      "expires": "2026-12-21",
+      "total": 978.0,
+      "settled": 0.0,
+      "outstanding": 978.0,
+      "lines": [
+        {
+          "name": "Chuba Cassava Chips Chili - Case (16pcs, 125 gr)",
+          "qty": 1.0,
+          "total": 300.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        },
+        {
+          "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
+          "qty": 1.0,
+          "total": 339.0
+        }
+      ]
+    },
     {
       "id": 967,
       "ref": "S00971",
