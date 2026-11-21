@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T12:45:54Z",
+  "generatedAt": "2026-11-21T13:01:19Z",
   "openCount": 201,
-  "openTotal": 2529652.2,
+  "openTotal": 2530252.2,
   "quotationCount": 124,
-  "quotationTotal": 1553333.75,
+  "quotationTotal": 1553933.75,
   "orderCount": 77,
   "orderTotal": 976318.45,
   "days": [
@@ -528,8 +528,8 @@
     {
       "date": "2026-11-21",
       "count": 5,
-      "outstanding": 68242.0,
-      "total": 68242.0
+      "outstanding": 68842.0,
+      "total": 68842.0
     }
   ],
   "quotations": [
@@ -577,6 +577,35 @@
       ]
     },
     {
+      "id": 982,
+      "ref": "S00986",
+      "kind": "quotation",
+      "customer": "Seaview C-15)",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-21",
+      "expires": "2026-12-21",
+      "total": 1390.0,
+      "settled": 0.0,
+      "outstanding": 1390.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 590.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "[BC8C] Bagasse Clamshell 8\" [case]",
+          "qty": 1.0,
+          "total": 600.0
+        }
+      ]
+    },
+    {
       "id": 968,
       "ref": "S00972",
       "kind": "order",
@@ -595,13 +624,13 @@
         },
         {
           "name": "Maitos Tortilla Chips Corn Chilli - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
+          "qty": 2.0,
+          "total": 678.0
         },
         {
           "name": "Maitos Tortilla Chips Corn Bbq - Case (16pcs, 140 gr)",
-          "qty": 1.0,
-          "total": 339.0
+          "qty": 0.0,
+          "total": 0.0
         }
       ]
     },
@@ -626,30 +655,6 @@
           "name": "Glass Ocean Kenya Cappuccino Cup 245ml",
           "qty": 12.0,
           "total": 420.0
-        }
-      ]
-    },
-    {
-      "id": 982,
-      "ref": "S00986",
-      "kind": "quotation",
-      "customer": "Seaview C-15)",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-21",
-      "expires": "2026-12-21",
-      "total": 790.0,
-      "settled": 0.0,
-      "outstanding": 790.0,
-      "lines": [
-        {
-          "name": "Salad Bowl 500ml - Case (300pcs)",
-          "qty": 1.0,
-          "total": 590.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 1.0,
-          "total": 200.0
         }
       ]
     },
