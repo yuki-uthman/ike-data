@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-21T06:01:22Z",
-  "openCount": 199,
-  "openTotal": 2471073.2,
-  "quotationCount": 123,
-  "quotationTotal": 1495732.75,
+  "generatedAt": "2026-11-21T06:15:53Z",
+  "openCount": 200,
+  "openTotal": 2514423.2,
+  "quotationCount": 124,
+  "quotationTotal": 1539082.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -527,12 +527,31 @@
     },
     {
       "date": "2026-11-21",
-      "count": 2,
-      "outstanding": 7263.0,
-      "total": 7263.0
+      "count": 3,
+      "outstanding": 50613.0,
+      "total": 50613.0
     }
   ],
   "quotations": [
+    {
+      "id": 973,
+      "ref": "S00977",
+      "kind": "quotation",
+      "customer": "Bluebell Solutions Pvt Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-21",
+      "expires": "2026-12-21",
+      "total": 43350.0,
+      "settled": 0.0,
+      "outstanding": 43350.0,
+      "lines": [
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 15.0,
+          "total": 43350.0
+        }
+      ]
+    },
     {
       "id": 970,
       "ref": "S00974",
