@@ -24628,26 +24628,26 @@
     },
     {
       "date": "2026-11-21",
-      "generatedAt": "2026-11-21T11:15:46Z",
+      "generatedAt": "2026-11-21T11:31:04Z",
       "pos": {
         "total": 392.0,
         "count": 3
       },
       "regularSales": {
-        "total": 24327.0,
-        "count": 9
+        "total": 25907.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 80328.0,
-        "count": 4
+        "total": 79350.0,
+        "count": 3
       },
       "cash": {
         "total": 6962.0,
         "count": 4
       },
       "transfer": {
-        "total": 17757.0,
-        "count": 8
+        "total": 19337.0,
+        "count": 9
       },
       "other": {
         "total": 0,
@@ -24828,6 +24828,27 @@
               "name": "[70037] Gas Regulator (High Pressure)",
               "qty": 1.0,
               "total": 360.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00771",
+          "customer": "Sp Trade",
+          "amount": 1580.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:25",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 500ml - Case (300pcs)",
+              "qty": 2.0,
+              "total": 1180.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 2.0,
+              "total": 400.0
             }
           ]
         },
