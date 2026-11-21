@@ -24628,26 +24628,26 @@
     },
     {
       "date": "2026-11-21",
-      "generatedAt": "2026-11-21T10:01:10Z",
+      "generatedAt": "2026-11-21T10:15:43Z",
       "pos": {
-        "total": 252.0,
-        "count": 2
+        "total": 392.0,
+        "count": 3
       },
       "regularSales": {
-        "total": 22322.0,
-        "count": 7
+        "total": 22742.0,
+        "count": 8
       },
       "pendingQuotations": {
         "total": 66528.0,
         "count": 3
       },
       "cash": {
-        "total": 6542.0,
-        "count": 3
+        "total": 6962.0,
+        "count": 4
       },
       "transfer": {
-        "total": 16032.0,
-        "count": 6
+        "total": 16172.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -24806,6 +24806,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00769",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 420.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "15:12",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90036] Milkshake Powder Chocolate",
+              "qty": 2.0,
+              "total": 420.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000700",
           "customer": "Walk-in",
           "amount": 220.0,
@@ -24818,6 +24834,22 @@
               "name": "[90036] Milkshake Powder Chocolate",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000702",
+          "customer": "Walk-in",
+          "amount": 140.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "15:07",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[A12B] Plastic Container A12 (Bundle)",
+              "qty": 1.0,
+              "total": 140.0
             }
           ]
         },
@@ -24866,7 +24898,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2898.0,
-        "expectedClosing": 23210.0,
+        "expectedClosing": 23630.0,
         "counted": null,
         "difference": null,
         "closed": false,
