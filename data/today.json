@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T11:45:43Z",
+  "generatedAt": "2026-11-22T12:01:11Z",
   "cash": {
     "total": 2743.0,
     "count": 5
   },
   "transfer": {
-    "total": 15496.0,
-    "count": 6
+    "total": 16286.0,
+    "count": 7
   },
   "other": {
     "total": 0,
@@ -123,6 +123,27 @@
       ]
     },
     {
+      "ref": "INV/2026/00783",
+      "customer": "Okaaz R1",
+      "amount": 790.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:57",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 590.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 1.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000708",
       "customer": "Walk-in",
       "amount": 136.0,
@@ -217,8 +238,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 15300.0
+      "count": 5,
+      "total": 16090.0
     },
     {
       "name": "Cash",
