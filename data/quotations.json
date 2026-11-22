@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-22T09:31:17Z",
-  "openCount": 202,
-  "openTotal": 2528832.2,
-  "quotationCount": 126,
-  "quotationTotal": 1553491.75,
+  "generatedAt": "2026-11-22T09:45:57Z",
+  "openCount": 201,
+  "openTotal": 2527632.2,
+  "quotationCount": 125,
+  "quotationTotal": 1552291.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -533,9 +533,9 @@
     },
     {
       "date": "2026-11-22",
-      "count": 3,
-      "outstanding": 10740.0,
-      "total": 10740.0
+      "count": 2,
+      "outstanding": 9540.0,
+      "total": 9540.0
     }
   ],
   "quotations": [
@@ -584,25 +584,6 @@
           "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 4.0,
           "total": 3540.0
-        }
-      ]
-    },
-    {
-      "id": 990,
-      "ref": "S00994",
-      "kind": "quotation",
-      "customer": "Novelty Bookshop",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-22",
-      "expires": "2026-12-22",
-      "total": 1200.0,
-      "settled": 0.0,
-      "outstanding": 1200.0,
-      "lines": [
-        {
-          "name": "[70141] Hook Net 8\"",
-          "qty": 100.0,
-          "total": 1200.0
         }
       ]
     },
