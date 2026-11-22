@@ -24741,22 +24741,22 @@
     },
     {
       "date": "2026-11-22",
-      "generatedAt": "2026-11-22T11:15:44Z",
+      "generatedAt": "2026-11-22T11:30:58Z",
       "pos": {
-        "total": 359.0,
-        "count": 4
+        "total": 399.0,
+        "count": 5
       },
       "regularSales": {
         "total": 16890.0,
         "count": 5
       },
       "pendingQuotations": {
-        "total": 24540.0,
-        "count": 3
+        "total": 26120.0,
+        "count": 5
       },
       "cash": {
-        "total": 2703.0,
-        "count": 4
+        "total": 2743.0,
+        "count": 5
       },
       "transfer": {
         "total": 14546.0,
@@ -24930,6 +24930,22 @@
               "total": 55.0
             }
           ]
+        },
+        {
+          "ref": "Ike - 000710",
+          "customer": "Walk-in",
+          "amount": 40.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:29",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02070] Flower Pot 33x31cm E360x320",
+              "qty": 2.0,
+              "total": 40.0
+            }
+          ]
         }
       ],
       "cashOut": {
@@ -24939,7 +24955,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 9943.0,
-        "expectedClosing": 12646.0,
+        "expectedClosing": 12686.0,
         "counted": null,
         "difference": null,
         "closed": false,
