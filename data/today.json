@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T06:15:43Z",
+  "generatedAt": "2026-11-22T06:30:57Z",
   "cash": {
     "total": 1303.0,
     "count": 3
   },
   "transfer": {
-    "total": 136.0,
-    "count": 1
+    "total": 196.0,
+    "count": 2
   },
   "other": {
     "total": 0,
@@ -85,6 +85,22 @@
       ]
     },
     {
+      "ref": "Ike - 000709",
+      "customer": "Walk-in",
+      "amount": 60.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "11:17",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "Soklin Softergent Velvet Orchid (Purple) (700 gr)",
+          "qty": 2.0,
+          "total": 60.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000706",
       "customer": "Walk-in",
       "amount": 55.0,
@@ -111,8 +127,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 1,
-      "total": 136.0
+      "count": 2,
+      "total": 196.0
     }
   ],
   "cashOut": {
