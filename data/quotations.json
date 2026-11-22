@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-22T04:45:50Z",
-  "openCount": 201,
-  "openTotal": 2532432.2,
-  "quotationCount": 125,
-  "quotationTotal": 1557091.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "generatedAt": "2026-11-22T05:01:17Z",
+  "openCount": 203,
+  "openTotal": 2539572.2,
+  "quotationCount": 126,
+  "quotationTotal": 1563091.75,
+  "orderCount": 77,
+  "orderTotal": 976480.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -533,12 +533,41 @@
     },
     {
       "date": "2026-11-22",
-      "count": 1,
-      "outstanding": 3540.0,
-      "total": 3540.0
+      "count": 3,
+      "outstanding": 10680.0,
+      "total": 10680.0
     }
   ],
   "quotations": [
+    {
+      "id": 987,
+      "ref": "S00991",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-22",
+      "expires": "2026-12-22",
+      "total": 6000.0,
+      "settled": 0.0,
+      "outstanding": 6000.0,
+      "lines": [
+        {
+          "name": "[10730] Spoon Big Flatware Ss #5 Green (loose pc)",
+          "qty": 200.0,
+          "total": 2000.0
+        },
+        {
+          "name": "[14858] Fork Flatware Ss #2 Red (loose pc)",
+          "qty": 200.0,
+          "total": 2400.0
+        },
+        {
+          "name": "[42688] Spoon small flatware Ss#3 Red",
+          "qty": 200.0,
+          "total": 1600.0
+        }
+      ]
+    },
     {
       "id": 986,
       "ref": "S00990",
@@ -555,6 +584,35 @@
           "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 4.0,
           "total": 3540.0
+        }
+      ]
+    },
+    {
+      "id": 988,
+      "ref": "S00992",
+      "kind": "order",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-22",
+      "expires": "2026-12-22",
+      "total": 1140.0,
+      "settled": 0.0,
+      "outstanding": 1140.0,
+      "lines": [
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 6.0,
+          "total": 360.0
+        },
+        {
+          "name": "Wasabi 1kg",
+          "qty": 2.0,
+          "total": 480.0
+        },
+        {
+          "name": "Paprika Powder",
+          "qty": 2.0,
+          "total": 300.0
         }
       ]
     },
