@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-22T06:45:48Z",
-  "openCount": 203,
-  "openTotal": 2540782.2,
-  "quotationCount": 127,
-  "quotationTotal": 1565441.75,
+  "generatedAt": "2026-11-22T07:01:25Z",
+  "openCount": 202,
+  "openTotal": 2538432.2,
+  "quotationCount": 126,
+  "quotationTotal": 1563091.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -533,9 +533,9 @@
     },
     {
       "date": "2026-11-22",
-      "count": 3,
-      "outstanding": 11890.0,
-      "total": 11890.0
+      "count": 2,
+      "outstanding": 9540.0,
+      "total": 9540.0
     }
   ],
   "quotations": [
@@ -584,25 +584,6 @@
           "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 4.0,
           "total": 3540.0
-        }
-      ]
-    },
-    {
-      "id": 989,
-      "ref": "S00993",
-      "kind": "quotation",
-      "customer": "New Chain",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-22",
-      "expires": "2026-12-22",
-      "total": 2350.0,
-      "settled": 0.0,
-      "outstanding": 2350.0,
-      "lines": [
-        {
-          "name": "[83185C] Aluminium Foil Box 83185 [case]",
-          "qty": 1.0,
-          "total": 2350.0
         }
       ]
     },
