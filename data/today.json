@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T16:31:01Z",
+  "generatedAt": "2026-11-22T16:45:43Z",
   "cash": {
     "total": 2743.0,
     "count": 5
@@ -287,8 +287,8 @@
     }
   ],
   "cashOut": {
-    "total": 9500.0,
-    "count": 1
+    "total": 9780.0,
+    "count": 4
   },
   "cashOutTransactions": [
     {
@@ -297,11 +297,32 @@
       "method": "cash",
       "rawMethod": "Cash",
       "time": "21:30"
+    },
+    {
+      "reason": "10 pens & 10 markers--Uthman",
+      "amount": 150.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:34"
+    },
+    {
+      "reason": "Vention DAEBH VGA (3+6) male to male cable with ferrite cores 2M black --Hassan",
+      "amount": 90.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:33"
+    },
+    {
+      "reason": "Gate pass--Nagaarajan",
+      "amount": 40.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:31"
     }
   ],
   "till": {
     "opening": 9943.0,
-    "expectedClosing": 3186.0,
+    "expectedClosing": 2906.0,
     "counted": null,
     "difference": null,
     "closed": false,
