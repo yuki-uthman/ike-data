@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-22T11:01:23Z",
-  "openCount": 201,
-  "openTotal": 2527632.2,
-  "quotationCount": 125,
-  "quotationTotal": 1552291.75,
+  "generatedAt": "2026-11-22T11:15:58Z",
+  "openCount": 202,
+  "openTotal": 2542632.2,
+  "quotationCount": 126,
+  "quotationTotal": 1567291.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -533,12 +533,36 @@
     },
     {
       "date": "2026-11-22",
-      "count": 2,
-      "outstanding": 9540.0,
-      "total": 9540.0
+      "count": 3,
+      "outstanding": 24540.0,
+      "total": 24540.0
     }
   ],
   "quotations": [
+    {
+      "id": 992,
+      "ref": "S00996",
+      "kind": "quotation",
+      "customer": "Sp Trade",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-11-22",
+      "expires": "2026-12-22",
+      "total": 15000.0,
+      "settled": 0.0,
+      "outstanding": 15000.0,
+      "lines": [
+        {
+          "name": "[83241P] Aluminium Foil Box 83241 SQ230 + Plastic Lid [case]",
+          "qty": 3.0,
+          "total": 7950.0
+        },
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 3.0,
+          "total": 7050.0
+        }
+      ]
+    },
     {
       "id": 987,
       "ref": "S00991",
