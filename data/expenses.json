@@ -3,19 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-24",
-      "generatedAt": "2026-09-24T18:45:50Z",
-      "confirmed": {
-        "total": 0,
-        "count": 0
-      },
-      "pending": {
-        "total": 0,
-        "count": 0
-      },
-      "categories": []
-    },
-    {
       "date": "2026-09-25",
       "generatedAt": "2026-09-25T18:45:48Z",
       "confirmed": {
@@ -783,6 +770,19 @@
     {
       "date": "2026-11-22",
       "generatedAt": "2026-11-22T18:45:57Z",
+      "confirmed": {
+        "total": 0,
+        "count": 0
+      },
+      "pending": {
+        "total": 0,
+        "count": 0
+      },
+      "categories": []
+    },
+    {
+      "date": "2026-11-23",
+      "generatedAt": "2026-11-22T19:01:22Z",
       "confirmed": {
         "total": 0,
         "count": 0
