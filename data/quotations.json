@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-22T04:01:24Z",
-  "openCount": 200,
-  "openTotal": 2528892.2,
-  "quotationCount": 124,
-  "quotationTotal": 1553551.75,
+  "generatedAt": "2026-11-22T04:15:46Z",
+  "openCount": 201,
+  "openTotal": 2532432.2,
+  "quotationCount": 125,
+  "quotationTotal": 1557091.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -533,12 +533,31 @@
     },
     {
       "date": "2026-11-22",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 3540.0,
+      "total": 3540.0
     }
   ],
   "quotations": [
+    {
+      "id": 986,
+      "ref": "S00990",
+      "kind": "quotation",
+      "customer": "Fasmugoo F-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-22",
+      "expires": "2026-12-22",
+      "total": 3540.0,
+      "settled": 0.0,
+      "outstanding": 3540.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 4.0,
+          "total": 3540.0
+        }
+      ]
+    },
     {
       "id": 973,
       "ref": "S00977",
