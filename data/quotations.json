@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-22T09:01:23Z",
-  "openCount": 203,
-  "openTotal": 2539632.2,
+  "generatedAt": "2026-11-22T09:10:05Z",
+  "openCount": 202,
+  "openTotal": 2528832.2,
   "quotationCount": 126,
   "quotationTotal": 1553491.75,
-  "orderCount": 77,
-  "orderTotal": 986140.45,
+  "orderCount": 76,
+  "orderTotal": 975340.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -533,31 +533,12 @@
     },
     {
       "date": "2026-11-22",
-      "count": 4,
-      "outstanding": 21540.0,
-      "total": 21540.0
+      "count": 3,
+      "outstanding": 10740.0,
+      "total": 10740.0
     }
   ],
   "quotations": [
-    {
-      "id": 940,
-      "ref": "S00944",
-      "kind": "order",
-      "customer": "Island Greez  I 10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-22",
-      "expires": "2026-12-18",
-      "total": 10800.0,
-      "settled": 0.0,
-      "outstanding": 10800.0,
-      "lines": [
-        {
-          "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
-          "qty": 2.0,
-          "total": 10800.0
-        }
-      ]
-    },
     {
       "id": 987,
       "ref": "S00991",

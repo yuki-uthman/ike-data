@@ -24741,14 +24741,14 @@
     },
     {
       "date": "2026-11-22",
-      "generatedAt": "2026-11-22T09:01:11Z",
+      "generatedAt": "2026-11-22T09:09:53Z",
       "pos": {
         "total": 359.0,
         "count": 4
       },
       "regularSales": {
-        "total": 3490.0,
-        "count": 2
+        "total": 14290.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 10740.0,
@@ -24759,14 +24759,30 @@
         "count": 3
       },
       "transfer": {
-        "total": 2546.0,
-        "count": 3
+        "total": 13346.0,
+        "count": 4
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00779",
+          "customer": "Island Greez  I 10",
+          "amount": 10800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:03",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-BLK-DS-2000-X02] #2C Black Double Side 2000mm x2",
+              "qty": 2.0,
+              "total": 10800.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00778",
           "customer": "New Chain",
