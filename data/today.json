@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T12:15:44Z",
+  "generatedAt": "2026-11-22T12:31:02Z",
   "cash": {
     "total": 2743.0,
     "count": 5
   },
   "transfer": {
-    "total": 16286.0,
-    "count": 7
+    "total": 16315.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -232,6 +232,22 @@
           "total": 40.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000711",
+      "customer": "Walk-in",
+      "amount": 29.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "17:20",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01698] Strainer Steel 12cm Ym-055#16",
+          "qty": 1.0,
+          "total": 29.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
@@ -250,8 +266,8 @@
     {
       "name": "Bank Transfer",
       "method": "transfer",
-      "count": 2,
-      "total": 196.0
+      "count": 3,
+      "total": 225.0
     }
   ],
   "cashOut": {
