@@ -2,21 +2,119 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T05:01:11Z",
+  "generatedAt": "2026-11-22T05:15:41Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 1303.0,
+    "count": 3
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 136.0,
+    "count": 1
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "INV/2026/00776",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 1140.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:01",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Wasabi 1kg",
+          "qty": 2.0,
+          "total": 480.0
+        },
+        {
+          "name": "[02423] KRAFT PAPER BAG 50PCS Medium",
+          "qty": 6.0,
+          "total": 360.0
+        },
+        {
+          "name": "Paprika Powder",
+          "qty": 2.0,
+          "total": 300.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000708",
+      "customer": "Walk-in",
+      "amount": 136.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "10:15",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01623] Ceramic Plate 8\"#12",
+          "qty": 2.0,
+          "total": 66.0
+        },
+        {
+          "name": "[01621] Ceramic Plate 9\"#10",
+          "qty": 1.0,
+          "total": 35.0
+        },
+        {
+          "name": "[01624] Ceramic Plate 9\"#7",
+          "qty": 1.0,
+          "total": 35.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00777 (Ike - 000707)",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "amount": 108.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:09",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[09805] Towel 042-0980 30*30cm",
+          "qty": 12.0,
+          "total": 108.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000706",
+      "customer": "Walk-in",
+      "amount": 55.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "10:05",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[70041] Bucket with lid A806",
+          "qty": 1.0,
+          "total": 55.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 3,
+      "total": 1303.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 136.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
@@ -24,7 +122,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 9943.0,
-    "expectedClosing": 9943.0,
+    "expectedClosing": 11246.0,
     "counted": null,
     "difference": null,
     "closed": false,
