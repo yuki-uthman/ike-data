@@ -24581,32 +24581,89 @@
     },
     {
       "date": "2026-11-23",
-      "generatedAt": "2026-11-23T09:15:47Z",
+      "generatedAt": "2026-11-23T09:31:02Z",
       "pos": {
-        "total": 900.0,
-        "count": 1
+        "total": 915.0,
+        "count": 2
       },
       "regularSales": {
-        "total": 8630.0,
-        "count": 6
+        "total": 85955.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 78520.0,
-        "count": 5
+        "total": 45970.0,
+        "count": 3
       },
       "cash": {
         "total": 1120.0,
         "count": 2
       },
       "transfer": {
-        "total": 8410.0,
-        "count": 5
+        "total": 85750.0,
+        "count": 8
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00791",
+          "customer": "Royal Pearl Shop S-2",
+          "amount": 47190.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:16",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[8389C] Aluminium Foil Box 8389 [case]",
+              "qty": 10.0,
+              "total": 28900.0
+            },
+            {
+              "name": "[83185C] Aluminium Foil Box 83185 [case]",
+              "qty": 3.0,
+              "total": 7050.0
+            },
+            {
+              "name": "[83241C] Aluminium Foil Box 83241 [case]",
+              "qty": 2.0,
+              "total": 5740.0
+            },
+            {
+              "name": "[8582C] Aluminium Foil Box 2 compartments 8582 [case]",
+              "qty": 3.0,
+              "total": 3600.0
+            },
+            {
+              "name": "[8342C] Aluminium Foil Box 8342 [case]",
+              "qty": 2.0,
+              "total": 1900.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00792",
+          "customer": "Epitychia Holding Pvt. Ltd",
+          "amount": 30135.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:29",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[2C-BLK-SS-2000-X02] #2C Black Single Side 2000mm x2",
+              "qty": 7.0,
+              "total": 23100.0
+            },
+            {
+              "name": "[70196] Cash Counter 6ftx2ft",
+              "qty": 1.0,
+              "total": 7035.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00790",
           "customer": "Veyo Plaza N-11",
@@ -24726,6 +24783,22 @@
               "name": "[90041] Milkshake Powder Red Velvet",
               "qty": 1.0,
               "total": 220.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000714",
+          "customer": "Walk-in",
+          "amount": 15.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "14:27",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[02035] Plastic Strainer Orange",
+              "qty": 1.0,
+              "total": 15.0
             }
           ]
         }

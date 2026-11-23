@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-23T09:15:58Z",
-  "openCount": 208,
-  "openTotal": 2668532.2,
-  "quotationCount": 131,
-  "quotationTotal": 1646001.75,
+  "generatedAt": "2026-11-23T09:31:10Z",
+  "openCount": 206,
+  "openTotal": 2591207.2,
+  "quotationCount": 129,
+  "quotationTotal": 1613451.75,
   "orderCount": 77,
-  "orderTotal": 1022530.45,
+  "orderTotal": 977755.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -539,75 +539,12 @@
     },
     {
       "date": "2026-11-23",
-      "count": 6,
-      "outstanding": 125710.0,
-      "total": 125710.0
+      "count": 4,
+      "outstanding": 48385.0,
+      "total": 48385.0
     }
   ],
   "quotations": [
-    {
-      "id": 1003,
-      "ref": "S01007",
-      "kind": "order",
-      "customer": "Royal Pearl Shop S-2",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-23",
-      "expires": "2026-12-23",
-      "total": 47190.0,
-      "settled": 0.0,
-      "outstanding": 47190.0,
-      "lines": [
-        {
-          "name": "[8389C] Aluminium Foil Box 8389 [case]",
-          "qty": 10.0,
-          "total": 28900.0
-        },
-        {
-          "name": "[83185C] Aluminium Foil Box 83185 [case]",
-          "qty": 3.0,
-          "total": 7050.0
-        },
-        {
-          "name": "[83241C] Aluminium Foil Box 83241 [case]",
-          "qty": 2.0,
-          "total": 5740.0
-        },
-        {
-          "name": "[8582C] Aluminium Foil Box 2 compartments 8582 [case]",
-          "qty": 3.0,
-          "total": 3600.0
-        },
-        {
-          "name": "[8342C] Aluminium Foil Box 8342 [case]",
-          "qty": 2.0,
-          "total": 1900.0
-        }
-      ]
-    },
-    {
-      "id": 998,
-      "ref": "S01002",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-23",
-      "expires": "2026-12-23",
-      "total": 30135.0,
-      "settled": 0.0,
-      "outstanding": 30135.0,
-      "lines": [
-        {
-          "name": "[2C-BLK-SS-2000-X02] #2C Black Single Side 2000mm x2",
-          "qty": 7.0,
-          "total": 23100.0
-        },
-        {
-          "name": "[70196] Cash Counter 6ftx2ft",
-          "qty": 1.0,
-          "total": 7035.0
-        }
-      ]
-    },
     {
       "id": 1008,
       "ref": "S01012",
@@ -673,8 +610,8 @@
     {
       "id": 1004,
       "ref": "S01008",
-      "kind": "quotation",
-      "customer": "Sales",
+      "kind": "order",
+      "customer": "Coffee day maamigili",
       "salesperson": "Ike.Retail.Sales@Gmail.Com",
       "date": "2026-11-23",
       "expires": "2026-12-23",
