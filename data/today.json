@@ -2,7 +2,7 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T16:45:43Z",
+  "generatedAt": "2026-11-23T17:01:19Z",
   "cash": {
     "total": 2622.0,
     "count": 7
@@ -406,13 +406,35 @@
     }
   ],
   "cashOut": {
-    "total": 0,
-    "count": 0
+    "total": 116.0,
+    "count": 3
   },
-  "cashOutTransactions": [],
+  "cashOutTransactions": [
+    {
+      "reason": "Tea money 3 days--Jafar",
+      "amount": 60.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:55"
+    },
+    {
+      "reason": "AA Battery--Hassan",
+      "amount": 36.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:54"
+    },
+    {
+      "reason": "Gate pass--Nagarajan",
+      "amount": 20.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "21:53"
+    }
+  ],
   "till": {
     "opening": 2906.0,
-    "expectedClosing": 5528.0,
+    "expectedClosing": 5412.0,
     "counted": null,
     "difference": null,
     "closed": false,
