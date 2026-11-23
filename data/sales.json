@@ -24581,7 +24581,7 @@
     },
     {
       "date": "2026-11-23",
-      "generatedAt": "2026-11-23T09:01:18Z",
+      "generatedAt": "2026-11-23T09:15:47Z",
       "pos": {
         "total": 900.0,
         "count": 1
@@ -24591,8 +24591,8 @@
         "count": 6
       },
       "pendingQuotations": {
-        "total": 44400.0,
-        "count": 3
+        "total": 78520.0,
+        "count": 5
       },
       "cash": {
         "total": 1120.0,
