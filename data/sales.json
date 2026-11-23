@@ -24581,32 +24581,48 @@
     },
     {
       "date": "2026-11-23",
-      "generatedAt": "2026-11-23T08:45:42Z",
+      "generatedAt": "2026-11-23T09:01:18Z",
       "pos": {
         "total": 900.0,
         "count": 1
       },
       "regularSales": {
-        "total": 3460.0,
-        "count": 3
+        "total": 8630.0,
+        "count": 6
       },
       "pendingQuotations": {
-        "total": 91590.0,
-        "count": 4
+        "total": 44400.0,
+        "count": 3
       },
       "cash": {
         "total": 1120.0,
         "count": 2
       },
       "transfer": {
-        "total": 3240.0,
-        "count": 2
+        "total": 8410.0,
+        "count": 5
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00790",
+          "customer": "Veyo Plaza N-11",
+          "amount": 2890.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:53",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[8389C] Aluminium Foil Box 8389 [case]",
+              "qty": 1.0,
+              "total": 2890.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00786",
           "customer": "New Chain",
@@ -24624,6 +24640,32 @@
           ]
         },
         {
+          "ref": "INV/2026/00789",
+          "customer": "Razaan H-1",
+          "amount": 1680.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:52",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 750ml - Case (300pcs)",
+              "qty": 1.0,
+              "total": 690.0
+            },
+            {
+              "name": "Salad Bowl 500ml - Case (300pcs)",
+              "qty": 1.0,
+              "total": 590.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 2.0,
+              "total": 400.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000713",
           "customer": "Walk-in",
           "amount": 900.0,
@@ -24636,6 +24678,22 @@
               "name": "PET Cup 90U - 12oz",
               "qty": 300.0,
               "total": 900.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00788",
+          "customer": "3R Cafe & Bistro R-1",
+          "amount": 600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:51",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[BC8C] Bagasse Clamshell 8\" [case]",
+              "qty": 1.0,
+              "total": 600.0
             }
           ]
         },
