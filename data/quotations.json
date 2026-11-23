@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-23T08:31:23Z",
+  "generatedAt": "2026-11-23T08:45:52Z",
   "openCount": 209,
-  "openTotal": 2653882.2,
-  "quotationCount": 133,
-  "quotationTotal": 1678541.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "openTotal": 2639582.2,
+  "quotationCount": 131,
+  "quotationTotal": 1659671.75,
+  "orderCount": 78,
+  "orderTotal": 979910.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -540,8 +540,8 @@
     {
       "date": "2026-11-23",
       "count": 6,
-      "outstanding": 110460.0,
-      "total": 110460.0
+      "outstanding": 96160.0,
+      "total": 96160.0
     }
   ],
   "quotations": [
@@ -609,85 +609,6 @@
       ]
     },
     {
-      "id": 1001,
-      "ref": "S01005",
-      "kind": "quotation",
-      "customer": "Veyo Plaza N-11",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-23",
-      "expires": "2026-12-23",
-      "total": 17190.0,
-      "settled": 0.0,
-      "outstanding": 17190.0,
-      "lines": [
-        {
-          "name": "[90036] Milkshake Powder Chocolate",
-          "qty": 15.0,
-          "total": 3300.0
-        },
-        {
-          "name": "[90041] Milkshake Powder Red Velvet",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[60033] Milkshake Powder Cappuccino",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[90038] Milkshake Powder Hazelnut Coffee",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[90052] Milkshake Powder Mocha",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[21283] Milkshake Powder White Coffee",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[90042] Milkshake Powder Avocado",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[02440] Milkshake Powder Pistachio",
-          "qty": 2.0,
-          "total": 440.0
-        },
-        {
-          "name": "[90035] Milkshake Powder Strawberry",
-          "qty": 10.0,
-          "total": 2200.0
-        },
-        {
-          "name": "[90037] Milkshake Powder Blueberry",
-          "qty": 12.0,
-          "total": 2640.0
-        },
-        {
-          "name": "[06705] Milkshake Powder Vanilla",
-          "qty": 10.0,
-          "total": 2200.0
-        },
-        {
-          "name": "[56296] Milkshake Powder Cookies & Cream",
-          "qty": 4.0,
-          "total": 880.0
-        },
-        {
-          "name": "[8389C] Aluminium Foil Box 8389 [case]",
-          "qty": 1.0,
-          "total": 2890.0
-        }
-      ]
-    },
-    {
       "id": 1000,
       "ref": "S01004",
       "kind": "quotation",
@@ -703,6 +624,25 @@
           "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
           "qty": 3.0,
           "total": 11850.0
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "ref": "S01005",
+      "kind": "order",
+      "customer": "Veyo Plaza N-11",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-23",
+      "expires": "2026-12-23",
+      "total": 2890.0,
+      "settled": 0.0,
+      "outstanding": 2890.0,
+      "lines": [
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 1.0,
+          "total": 2890.0
         }
       ]
     },
@@ -763,8 +703,8 @@
     {
       "id": 1006,
       "ref": "S01010",
-      "kind": "quotation",
-      "customer": "Sales",
+      "kind": "order",
+      "customer": "Razaan H-1",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-23",
       "expires": "2026-12-23",
