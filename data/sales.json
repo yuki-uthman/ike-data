@@ -3,101 +3,6 @@
   "currency": "MVR",
   "days": [
     {
-      "date": "2026-09-25",
-      "generatedAt": "2026-10-10T05:39:48Z",
-      "pos": {
-        "total": 184.0,
-        "count": 2
-      },
-      "regularSales": {
-        "total": 0,
-        "count": 0
-      },
-      "pendingQuotations": {
-        "total": 7035.0,
-        "count": 3
-      },
-      "cash": {
-        "total": 184.0,
-        "count": 2
-      },
-      "transfer": {
-        "total": 0,
-        "count": 0
-      },
-      "other": {
-        "total": 0,
-        "count": 0
-      },
-      "transactions": [
-        {
-          "ref": "Ike - 000226",
-          "customer": "Walk-in",
-          "amount": 174.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "17:25",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "[01641] Aroma Diffuser 12w 200ml 092:17 #4",
-              "qty": 1.0,
-              "total": 139.0
-            },
-            {
-              "name": "[02105] Essential Oil Lavender 10ml#7",
-              "qty": 1.0,
-              "total": 35.0
-            }
-          ]
-        },
-        {
-          "ref": "Ike - 000225",
-          "customer": "Walk-in",
-          "amount": 10.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "16:18",
-          "source": "pos",
-          "lines": [
-            {
-              "name": "Kraft burger box 1pcs",
-              "qty": 5.0,
-              "total": 10.0
-            }
-          ]
-        }
-      ],
-      "cashOut": {
-        "total": 55.0,
-        "count": 2
-      },
-      "cashOutTransactions": [
-        {
-          "reason": "Medicine \u00b7 Staff - Nagarajn",
-          "amount": 45.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:10"
-        },
-        {
-          "reason": "Gate pass \u00b7 Staff-Zubaid",
-          "amount": 10.0,
-          "method": "cash",
-          "rawMethod": "Cash",
-          "time": "22:11"
-        }
-      ],
-      "till": {
-        "opening": 4947.0,
-        "expectedClosing": 5076.0,
-        "counted": 5076.0,
-        "difference": 0.0,
-        "closed": true,
-        "sessionCount": 1
-      }
-    },
-    {
       "date": "2026-09-26",
       "generatedAt": "2026-10-10T05:39:48Z",
       "pos": {
@@ -25011,6 +24916,41 @@
         "closed": true,
         "sessionCount": 1
       }
+    },
+    {
+      "date": "2026-11-24",
+      "generatedAt": "2026-11-23T19:01:13Z",
+      "pos": {
+        "total": 0,
+        "count": 0
+      },
+      "regularSales": {
+        "total": 0,
+        "count": 0
+      },
+      "pendingQuotations": {
+        "total": 0,
+        "count": 0
+      },
+      "cash": {
+        "total": 0,
+        "count": 0
+      },
+      "transfer": {
+        "total": 0,
+        "count": 0
+      },
+      "other": {
+        "total": 0,
+        "count": 0
+      },
+      "transactions": [],
+      "cashOut": {
+        "total": 0,
+        "count": 0
+      },
+      "cashOutTransactions": [],
+      "till": null
     }
   ]
 }
