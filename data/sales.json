@@ -24581,26 +24581,26 @@
     },
     {
       "date": "2026-11-23",
-      "generatedAt": "2026-11-23T09:31:02Z",
+      "generatedAt": "2026-11-23T09:45:46Z",
       "pos": {
         "total": 915.0,
         "count": 2
       },
       "regularSales": {
-        "total": 85955.0,
-        "count": 8
+        "total": 93590.0,
+        "count": 10
       },
       "pendingQuotations": {
-        "total": 45970.0,
-        "count": 3
+        "total": 40750.0,
+        "count": 2
       },
       "cash": {
         "total": 1120.0,
         "count": 2
       },
       "transfer": {
-        "total": 85750.0,
-        "count": 8
+        "total": 93385.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -24665,6 +24665,27 @@
           ]
         },
         {
+          "ref": "INV/2026/00794",
+          "customer": "Family spot C-14",
+          "amount": 5220.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:37",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[83241C] Aluminium Foil Box 83241 [case]",
+              "qty": 1.0,
+              "total": 2870.0
+            },
+            {
+              "name": "[83185C] Aluminium Foil Box 83185 [case]",
+              "qty": 1.0,
+              "total": 2350.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00790",
           "customer": "Veyo Plaza N-11",
           "amount": 2890.0,
@@ -24693,6 +24714,57 @@
               "name": "[8389C] Aluminium Foil Box 8389 [case]",
               "qty": 1.0,
               "total": 2890.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00793",
+          "customer": "Coffee day maamigili",
+          "amount": 2415.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:31",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "PET Cup 90U - 12oz",
+              "qty": 300.0,
+              "total": 900.0
+            },
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[90041] Milkshake Powder Red Velvet",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[90042] Milkshake Powder Avocado",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[02440] Milkshake Powder Pistachio",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[56296] Milkshake Powder Cookies & Cream",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "[90050] Milkshake Powder French Vanilla",
+              "qty": 1.0,
+              "total": 220.0
+            },
+            {
+              "name": "Paper Straw 12mm",
+              "qty": 300.0,
+              "total": 195.0
             }
           ]
         },
