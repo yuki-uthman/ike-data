@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-23T11:46:00Z",
+  "generatedAt": "2026-11-23T11:48:27Z",
   "openCount": 205,
-  "openTotal": 2586072.2,
+  "openTotal": 2588962.2,
   "quotationCount": 129,
-  "quotationTotal": 1610731.75,
+  "quotationTotal": 1613621.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -540,8 +540,8 @@
     {
       "date": "2026-11-23",
       "count": 3,
-      "outstanding": 43250.0,
-      "total": 43250.0
+      "outstanding": 46140.0,
+      "total": 46140.0
     }
   ],
   "quotations": [
@@ -591,9 +591,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-23",
       "expires": "2026-12-23",
-      "total": 2500.0,
+      "total": 5390.0,
       "settled": 0.0,
-      "outstanding": 2500.0,
+      "outstanding": 5390.0,
       "lines": [
         {
           "name": "Salad Bowl 500ml - Case (300pcs)",
@@ -614,6 +614,11 @@
           "name": "Pizza Box 12\" Brown - Bundle (100pcs)",
           "qty": 2.0,
           "total": 820.0
+        },
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 1.0,
+          "total": 2890.0
         }
       ]
     },
