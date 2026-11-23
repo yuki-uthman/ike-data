@@ -24581,10 +24581,10 @@
     },
     {
       "date": "2026-11-23",
-      "generatedAt": "2026-11-23T11:48:19Z",
+      "generatedAt": "2026-11-23T12:01:21Z",
       "pos": {
-        "total": 993.0,
-        "count": 4
+        "total": 1048.0,
+        "count": 5
       },
       "regularSales": {
         "total": 95004.0,
@@ -24599,8 +24599,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 93385.0,
-        "count": 10
+        "total": 93440.0,
+        "count": 11
       },
       "other": {
         "total": 0,
@@ -24903,6 +24903,27 @@
               "name": "[02070] Flower Pot 33x31cm E360x320",
               "qty": 3.0,
               "total": 60.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000717",
+          "customer": "Walk-in",
+          "amount": 55.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "17:00",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "Soft Napkin ARMAAN",
+              "qty": 2.0,
+              "total": 30.0
+            },
+            {
+              "name": "[70068] Sponges 5pcs#27",
+              "qty": 1.0,
+              "total": 25.0
             }
           ]
         },
