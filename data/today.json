@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T11:31:02Z",
+  "generatedAt": "2026-11-23T11:45:51Z",
   "cash": {
-    "total": 1448.0,
-    "count": 5
+    "total": 2612.0,
+    "count": 6
   },
   "transfer": {
     "total": 93385.0,
@@ -204,6 +204,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00796",
+      "customer": "H.Miz",
+      "amount": 1164.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "16:31",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70141] Hook Net 8\"",
+          "qty": 97.0,
+          "total": 1164.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000713",
       "customer": "Walk-in",
       "amount": 900.0,
@@ -342,8 +358,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 5,
-      "total": 1448.0
+      "count": 6,
+      "total": 2612.0
     },
     {
       "name": "Bank Transfer",
@@ -359,7 +375,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2906.0,
-    "expectedClosing": 4354.0,
+    "expectedClosing": 5518.0,
     "counted": null,
     "difference": null,
     "closed": false,
