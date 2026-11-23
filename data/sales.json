@@ -24581,22 +24581,22 @@
     },
     {
       "date": "2026-11-23",
-      "generatedAt": "2026-11-23T06:31:00Z",
+      "generatedAt": "2026-11-23T06:45:43Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 900.0,
+        "count": 1
       },
       "regularSales": {
         "total": 3460.0,
         "count": 3
       },
       "pendingQuotations": {
-        "total": 108780.0,
-        "count": 5
+        "total": 110460.0,
+        "count": 6
       },
       "cash": {
-        "total": 220.0,
-        "count": 1
+        "total": 1120.0,
+        "count": 2
       },
       "transfer": {
         "total": 3240.0,
@@ -24620,6 +24620,22 @@
               "name": "[8389C] Aluminium Foil Box 8389 [case]",
               "qty": 1.0,
               "total": 2890.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000713",
+          "customer": "Walk-in",
+          "amount": 900.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "11:33",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "PET Cup 90U - 12oz",
+              "qty": 300.0,
+              "total": 900.0
             }
           ]
         },
@@ -24663,7 +24679,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2906.0,
-        "expectedClosing": 3126.0,
+        "expectedClosing": 4026.0,
         "counted": null,
         "difference": null,
         "closed": false,

@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-23T06:31:08Z",
-  "openCount": 208,
-  "openTotal": 2652202.2,
-  "quotationCount": 132,
-  "quotationTotal": 1676861.75,
+  "generatedAt": "2026-11-23T06:45:56Z",
+  "openCount": 209,
+  "openTotal": 2653882.2,
+  "quotationCount": 133,
+  "quotationTotal": 1678541.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -539,9 +539,9 @@
     },
     {
       "date": "2026-11-23",
-      "count": 5,
-      "outstanding": 108780.0,
-      "total": 108780.0
+      "count": 6,
+      "outstanding": 110460.0,
+      "total": 110460.0
     }
   ],
   "quotations": [
@@ -757,6 +757,35 @@
           "name": "[90050] Milkshake Powder French Vanilla",
           "qty": 1.0,
           "total": 220.0
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "ref": "S01010",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-23",
+      "expires": "2026-12-23",
+      "total": 1680.0,
+      "settled": 0.0,
+      "outstanding": 1680.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 590.0
+        },
+        {
+          "name": "Salad Bowl 750ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 690.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 2.0,
+          "total": 400.0
         }
       ]
     },
