@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-23T06:01:24Z",
-  "openCount": 207,
-  "openTotal": 2577102.2,
-  "quotationCount": 131,
-  "quotationTotal": 1601761.75,
+  "generatedAt": "2026-11-23T06:15:50Z",
+  "openCount": 206,
+  "openTotal": 2574212.2,
+  "quotationCount": 130,
+  "quotationTotal": 1598871.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -539,9 +539,9 @@
     },
     {
       "date": "2026-11-23",
-      "count": 4,
-      "outstanding": 33680.0,
-      "total": 33680.0
+      "count": 3,
+      "outstanding": 30790.0,
+      "total": 30790.0
     }
   ],
   "quotations": [
@@ -640,25 +640,6 @@
           "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
           "qty": 3.0,
           "total": 11850.0
-        }
-      ]
-    },
-    {
-      "id": 999,
-      "ref": "S01003",
-      "kind": "quotation",
-      "customer": "New Chain",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-23",
-      "expires": "2026-12-23",
-      "total": 2890.0,
-      "settled": 0.0,
-      "outstanding": 2890.0,
-      "lines": [
-        {
-          "name": "[8389C] Aluminium Foil Box 8389 [case]",
-          "qty": 1.0,
-          "total": 2890.0
         }
       ]
     },

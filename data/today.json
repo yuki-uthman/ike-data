@@ -2,20 +2,36 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T06:01:11Z",
+  "generatedAt": "2026-11-23T06:15:42Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 350.0,
-    "count": 1
+    "total": 3240.0,
+    "count": 2
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00786",
+      "customer": "New Chain",
+      "amount": 2890.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "11:07",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 1.0,
+          "total": 2890.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00785",
       "customer": "Hg Supermart  R-1",
@@ -37,8 +53,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 350.0
+      "count": 2,
+      "total": 3240.0
     }
   ],
   "cashOut": {
