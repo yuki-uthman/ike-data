@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T15:31:13Z",
-  "openCount": 207,
-  "openTotal": 2574640.2,
+  "generatedAt": "2026-11-24T15:46:08Z",
+  "openCount": 208,
+  "openTotal": 2575380.2,
   "quotationCount": 130,
-  "quotationTotal": 1581599.75,
-  "orderCount": 77,
-  "orderTotal": 993040.45,
+  "quotationTotal": 1581289.75,
+  "orderCount": 78,
+  "orderTotal": 994090.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -545,9 +545,9 @@
     },
     {
       "date": "2026-11-24",
-      "count": 6,
-      "outstanding": 40980.0,
-      "total": 40980.0
+      "count": 7,
+      "outstanding": 41720.0,
+      "total": 41720.0
     }
   ],
   "quotations": [
@@ -607,19 +607,14 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-24",
       "expires": "2026-12-24",
-      "total": 5910.0,
+      "total": 5600.0,
       "settled": 0.0,
-      "outstanding": 5910.0,
+      "outstanding": 5600.0,
       "lines": [
         {
           "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
           "qty": 2.0,
           "total": 5600.0
-        },
-        {
-          "name": "[BABYABC-CHR] Baby ABC Chair Metal",
-          "qty": 1.0,
-          "total": 310.0
         }
       ]
     },
@@ -692,6 +687,35 @@
           "name": "[8389C] Aluminium Foil Box 8389 [case]",
           "qty": 1.0,
           "total": 2890.0
+        }
+      ]
+    },
+    {
+      "id": 1026,
+      "ref": "S01030",
+      "kind": "order",
+      "customer": "Blooms Supplies",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-24",
+      "expires": "2026-12-24",
+      "total": 1050.0,
+      "settled": 0.0,
+      "outstanding": 1050.0,
+      "lines": [
+        {
+          "name": "[90038] Milkshake Powder Hazelnut Coffee",
+          "qty": 2.0,
+          "total": 420.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 2.0,
+          "total": 420.0
+        },
+        {
+          "name": "[90043] Milkshake Powder Butterscotch",
+          "qty": 1.0,
+          "total": 210.0
         }
       ]
     },

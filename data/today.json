@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T15:31:02Z",
+  "generatedAt": "2026-11-24T15:45:58Z",
   "cash": {
     "total": 2952.0,
     "count": 6
   },
   "transfer": {
-    "total": 45450.0,
-    "count": 14
+    "total": 45950.0,
+    "count": 15
   },
   "other": {
     "total": 0,
@@ -293,6 +293,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00809",
+      "customer": "Sales",
+      "amount": 500.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "20:42",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[VB3020] Vacuum Bag 30x20cm",
+          "qty": 200.0,
+          "total": 500.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00808 (Ike - 000726)",
       "customer": "United Huvadhoo Holding PVT LTD",
       "amount": 259.0,
@@ -441,8 +457,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 10,
-      "total": 45328.0
+      "count": 11,
+      "total": 45828.0
     },
     {
       "name": "Cash",

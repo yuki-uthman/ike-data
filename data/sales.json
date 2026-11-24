@@ -24919,17 +24919,17 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T15:31:02Z",
+      "generatedAt": "2026-11-24T15:45:58Z",
       "pos": {
         "total": 466.0,
         "count": 9
       },
       "regularSales": {
-        "total": 47936.0,
-        "count": 11
+        "total": 48436.0,
+        "count": 12
       },
       "pendingQuotations": {
-        "total": 23280.0,
+        "total": 22970.0,
         "count": 5
       },
       "cash": {
@@ -24937,8 +24937,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 45450.0,
-        "count": 14
+        "total": 45950.0,
+        "count": 15
       },
       "other": {
         "total": 0,
@@ -25218,6 +25218,22 @@
               "name": "[PSC16] Paper Soup cup 16oz",
               "qty": 200.0,
               "total": 520.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00809",
+          "customer": "Sales",
+          "amount": 500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:42",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[VB3020] Vacuum Bag 30x20cm",
+              "qty": 200.0,
+              "total": 500.0
             }
           ]
         },
