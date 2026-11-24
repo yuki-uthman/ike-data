@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T05:31:11Z",
-  "openCount": 203,
-  "openTotal": 2554672.2,
-  "quotationCount": 127,
-  "quotationTotal": 1579331.75,
+  "generatedAt": "2026-11-24T05:45:51Z",
+  "openCount": 205,
+  "openTotal": 2560102.2,
+  "quotationCount": 129,
+  "quotationTotal": 1584761.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -545,12 +545,65 @@
     },
     {
       "date": "2026-11-24",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 2,
+      "outstanding": 5430.0,
+      "total": 5430.0
     }
   ],
   "quotations": [
+    {
+      "id": 1016,
+      "ref": "S01020",
+      "kind": "quotation",
+      "customer": "Four Step K-4",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-24",
+      "expires": "2026-12-24",
+      "total": 3140.0,
+      "settled": 0.0,
+      "outstanding": 3140.0,
+      "lines": [
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 1.0,
+          "total": 2350.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 1.0,
+          "total": 200.0
+        },
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 1.0,
+          "total": 590.0
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "ref": "S01019",
+      "kind": "quotation",
+      "customer": "Epazote Restaurant / Adh.Maamigili I-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-24",
+      "expires": "2026-12-24",
+      "total": 2290.0,
+      "settled": 0.0,
+      "outstanding": 2290.0,
+      "lines": [
+        {
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
+          "qty": 2.0,
+          "total": 1770.0
+        },
+        {
+          "name": "[PSC16] Paper Soup cup 16oz",
+          "qty": 200.0,
+          "total": 520.0
+        }
+      ]
+    },
     {
       "id": 1000,
       "ref": "S01004",
