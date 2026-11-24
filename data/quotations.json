@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T04:01:24Z",
+  "generatedAt": "2026-11-24T04:15:52Z",
   "openCount": 205,
-  "openTotal": 2588962.2,
-  "quotationCount": 129,
-  "quotationTotal": 1613621.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "openTotal": 2574512.2,
+  "quotationCount": 128,
+  "quotationTotal": 1593781.75,
+  "orderCount": 77,
+  "orderTotal": 980730.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -539,63 +539,25 @@
     },
     {
       "date": "2026-11-23",
-      "count": 3,
-      "outstanding": 46140.0,
-      "total": 46140.0
+      "count": 2,
+      "outstanding": 26300.0,
+      "total": 26300.0
     },
     {
       "date": "2026-11-24",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 5390.0,
+      "total": 5390.0
     }
   ],
   "quotations": [
     {
-      "id": 1008,
-      "ref": "S01012",
-      "kind": "quotation",
-      "customer": "Asrafee Butik F-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-23",
-      "expires": "2026-12-23",
-      "total": 28900.0,
-      "settled": 0.0,
-      "outstanding": 28900.0,
-      "lines": [
-        {
-          "name": "[8389C] Aluminium Foil Box 8389 [case]",
-          "qty": 10.0,
-          "total": 28900.0
-        }
-      ]
-    },
-    {
-      "id": 1000,
-      "ref": "S01004",
-      "kind": "quotation",
-      "customer": "Mummy R-1",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-23",
-      "expires": "2026-12-23",
-      "total": 11850.0,
-      "settled": 0.0,
-      "outstanding": 11850.0,
-      "lines": [
-        {
-          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
-          "qty": 3.0,
-          "total": 11850.0
-        }
-      ]
-    },
-    {
       "id": 1011,
       "ref": "S01015",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Honey Bunny / F-8",
       "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "expires": "2026-12-23",
       "total": 5390.0,
       "settled": 0.0,
@@ -625,6 +587,44 @@
           "name": "[8389C] Aluminium Foil Box 8389 [case]",
           "qty": 1.0,
           "total": 2890.0
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "ref": "S01012",
+      "kind": "quotation",
+      "customer": "Asrafee Butik F-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-23",
+      "expires": "2026-12-23",
+      "total": 14450.0,
+      "settled": 0.0,
+      "outstanding": 14450.0,
+      "lines": [
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 5.0,
+          "total": 14450.0
+        }
+      ]
+    },
+    {
+      "id": 1000,
+      "ref": "S01004",
+      "kind": "quotation",
+      "customer": "Mummy R-1",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-23",
+      "expires": "2026-12-23",
+      "total": 11850.0,
+      "settled": 0.0,
+      "outstanding": 11850.0,
+      "lines": [
+        {
+          "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
+          "qty": 3.0,
+          "total": 11850.0
         }
       ]
     },
