@@ -24919,10 +24919,10 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T06:15:45Z",
+      "generatedAt": "2026-11-24T06:31:13Z",
       "pos": {
-        "total": 0,
-        "count": 0
+        "total": 26.0,
+        "count": 1
       },
       "regularSales": {
         "total": 26506.0,
@@ -24937,8 +24937,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 23898.0,
-        "count": 4
+        "total": 23924.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25107,6 +25107,22 @@
               "name": "Salad Bowl Lid - Case (300pcs)",
               "qty": 2.0,
               "total": 400.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000719",
+          "customer": "Walk-in",
+          "amount": 26.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:15",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70042] Paper Folded Dinner Napkin",
+              "qty": 1.0,
+              "total": 26.0
             }
           ]
         }
