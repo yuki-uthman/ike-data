@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T09:01:25Z",
-  "openCount": 207,
-  "openTotal": 2563090.2,
+  "generatedAt": "2026-11-24T09:15:53Z",
+  "openCount": 205,
+  "openTotal": 2560930.2,
   "quotationCount": 129,
   "quotationTotal": 1585589.75,
-  "orderCount": 78,
-  "orderTotal": 977500.45,
+  "orderCount": 76,
+  "orderTotal": 975340.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -545,9 +545,9 @@
     },
     {
       "date": "2026-11-24",
-      "count": 4,
-      "outstanding": 8190.0,
-      "total": 8190.0
+      "count": 2,
+      "outstanding": 6030.0,
+      "total": 6030.0
     }
   ],
   "quotations": [
@@ -596,44 +596,6 @@
           "name": "[8389C] Aluminium Foil Box 8389 [case]",
           "qty": 1.0,
           "total": 2890.0
-        }
-      ]
-    },
-    {
-      "id": 1020,
-      "ref": "S01024",
-      "kind": "order",
-      "customer": "Home Set B-12",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-24",
-      "expires": "2026-12-24",
-      "total": 1640.0,
-      "settled": 0.0,
-      "outstanding": 1640.0,
-      "lines": [
-        {
-          "name": "Pizza Box 12\" Brown - Bundle (100pcs)",
-          "qty": 4.0,
-          "total": 1640.0
-        }
-      ]
-    },
-    {
-      "id": 1015,
-      "ref": "S01019",
-      "kind": "order",
-      "customer": "Epazote Restaurant / Adh.Maamigili I-10",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-24",
-      "expires": "2026-12-24",
-      "total": 520.0,
-      "settled": 0.0,
-      "outstanding": 520.0,
-      "lines": [
-        {
-          "name": "[PSC16] Paper Soup cup 16oz",
-          "qty": 200.0,
-          "total": 520.0
         }
       ]
     },

@@ -24919,14 +24919,14 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T09:01:16Z",
+      "generatedAt": "2026-11-24T09:15:44Z",
       "pos": {
         "total": 68.0,
         "count": 2
       },
       "regularSales": {
-        "total": 30936.0,
-        "count": 7
+        "total": 33096.0,
+        "count": 9
       },
       "pendingQuotations": {
         "total": 6030.0,
@@ -24937,8 +24937,8 @@
         "count": 1
       },
       "transfer": {
-        "total": 28396.0,
-        "count": 8
+        "total": 30556.0,
+        "count": 10
       },
       "other": {
         "total": 0,
@@ -25122,6 +25122,22 @@
           ]
         },
         {
+          "ref": "INV/2026/00804",
+          "customer": "Home Set B-12",
+          "amount": 1640.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:07",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Pizza Box 12\" Brown - Bundle (100pcs)",
+              "qty": 4.0,
+              "total": 1640.0
+            }
+          ]
+        },
+        {
           "ref": "INV/2026/00800",
           "customer": "Paper Plus G-2",
           "amount": 1580.0,
@@ -25139,6 +25155,22 @@
               "name": "Salad Bowl Lid - Case (300pcs)",
               "qty": 2.0,
               "total": 400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00805",
+          "customer": "Epazote Restaurant / Adh.Maamigili I-10",
+          "amount": 520.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:08",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[PSC16] Paper Soup cup 16oz",
+              "qty": 200.0,
+              "total": 520.0
             }
           ]
         },
