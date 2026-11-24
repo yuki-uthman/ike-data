@@ -3,8 +3,8 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T05:01:30Z",
-  "totalCases": 550.0,
+  "generatedAt": "2026-11-24T05:16:01Z",
+  "totalCases": 557.0,
   "quoted": {
     "cases": 132.0,
     "orders": 10
@@ -46,7 +46,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 21.0,
+      "cases": 23.0,
       "profitBasis": "sold",
       "profitPct": 1.5
     },
@@ -56,7 +56,7 @@
       "size": "125 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 68.0,
+      "cases": 69.0,
       "profitBasis": "sold",
       "profitPct": 1.5
     },
@@ -66,7 +66,7 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 18.0,
+      "cases": 19.0,
       "profitBasis": "sold",
       "profitPct": 0.9
     },
@@ -76,7 +76,7 @@
       "size": "45 gr",
       "pack": "30 pcs",
       "active": true,
-      "cases": 19.0,
+      "cases": 20.0,
       "profitBasis": "sold",
       "profitPct": 0.9
     },
@@ -106,7 +106,7 @@
       "size": "140 gr",
       "pack": "16 pcs",
       "active": true,
-      "cases": 56.0,
+      "cases": 58.0,
       "profitBasis": "sold",
       "profitPct": 18.2
     },
@@ -1192,6 +1192,18 @@
         "2030": 3.0,
         "2032": 7.0,
         "2052": 1.0
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "cases": 7.0,
+      "orders": 1,
+      "byProduct": {
+        "2020": 2.0,
+        "2022": 1.0,
+        "2024": 1.0,
+        "2026": 1.0,
+        "2032": 2.0
       }
     }
   ]
