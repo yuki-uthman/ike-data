@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T10:45:58Z",
-  "openCount": 205,
-  "openTotal": 2562630.2,
-  "quotationCount": 129,
-  "quotationTotal": 1587289.75,
+  "generatedAt": "2026-11-24T11:01:28Z",
+  "openCount": 206,
+  "openTotal": 2568730.2,
+  "quotationCount": 130,
+  "quotationTotal": 1593389.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -545,12 +545,36 @@
     },
     {
       "date": "2026-11-24",
-      "count": 3,
-      "outstanding": 11270.0,
-      "total": 11270.0
+      "count": 4,
+      "outstanding": 17370.0,
+      "total": 17370.0
     }
   ],
   "quotations": [
+    {
+      "id": 1023,
+      "ref": "S01027",
+      "kind": "quotation",
+      "customer": "Home Set B-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-24",
+      "expires": "2026-12-24",
+      "total": 6100.0,
+      "settled": 0.0,
+      "outstanding": 6100.0,
+      "lines": [
+        {
+          "name": "Bagasse Clamshell 6x6\" - case (500pcs)",
+          "qty": 3.0,
+          "total": 6450.0
+        },
+        {
+          "name": "Discount",
+          "qty": 1.0,
+          "total": -350.0
+        }
+      ]
+    },
     {
       "id": 1022,
       "ref": "S01026",
