@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T08:31:10Z",
+  "generatedAt": "2026-11-24T08:45:42Z",
   "cash": {
     "total": 2608.0,
     "count": 1
   },
   "transfer": {
-    "total": 23966.0,
-    "count": 6
+    "total": 28396.0,
+    "count": 8
   },
   "other": {
     "total": 0,
@@ -161,6 +161,38 @@
       ]
     },
     {
+      "ref": "INV/2026/00802",
+      "customer": "Caramel Maldives Pvt Ltd",
+      "amount": 2350.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:41",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 1.0,
+          "total": 2350.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00803",
+      "customer": "Abdulla Khaliq k/dhiffushi",
+      "amount": 2080.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "13:43",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Tile White Double Layer 600x600mm",
+          "qty": 32.0,
+          "total": 2080.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00800",
       "customer": "Paper Plus G-2",
       "amount": 1580.0,
@@ -218,8 +250,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 23898.0
+      "count": 6,
+      "total": 28328.0
     },
     {
       "name": "Cash",
