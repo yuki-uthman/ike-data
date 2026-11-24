@@ -24919,32 +24919,48 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T04:30:59Z",
+      "generatedAt": "2026-11-24T04:45:41Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 5390.0,
-        "count": 1
+        "total": 19840.0,
+        "count": 2
       },
       "pendingQuotations": {
-        "total": 2478.0,
-        "count": 1
+        "total": 4058.0,
+        "count": 2
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 5390.0,
-        "count": 1
+        "total": 19840.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00798",
+          "customer": "Asrafee Butik F-10",
+          "amount": 14450.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:38",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[8389C] Aluminium Foil Box 8389 [case]",
+              "qty": 5.0,
+              "total": 14450.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00797",
           "customer": "Honey Bunny / F-8",

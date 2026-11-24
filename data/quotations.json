@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T04:31:07Z",
+  "generatedAt": "2026-11-24T04:45:52Z",
   "openCount": 205,
-  "openTotal": 2571600.2,
+  "openTotal": 2558730.2,
   "quotationCount": 129,
-  "quotationTotal": 1596259.75,
+  "quotationTotal": 1583389.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -539,15 +539,15 @@
     },
     {
       "date": "2026-11-23",
-      "count": 2,
-      "outstanding": 26300.0,
-      "total": 26300.0
+      "count": 1,
+      "outstanding": 11850.0,
+      "total": 11850.0
     },
     {
       "date": "2026-11-24",
-      "count": 1,
-      "outstanding": 2478.0,
-      "total": 2478.0
+      "count": 2,
+      "outstanding": 4058.0,
+      "total": 4058.0
     }
   ],
   "quotations": [
@@ -601,21 +601,26 @@
       ]
     },
     {
-      "id": 1008,
-      "ref": "S01012",
+      "id": 1013,
+      "ref": "S01017",
       "kind": "quotation",
-      "customer": "Asrafee Butik F-10",
+      "customer": "Paper Plus G-2",
       "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-23",
-      "expires": "2026-12-23",
-      "total": 14450.0,
+      "date": "2026-11-24",
+      "expires": "2026-12-24",
+      "total": 1580.0,
       "settled": 0.0,
-      "outstanding": 14450.0,
+      "outstanding": 1580.0,
       "lines": [
         {
-          "name": "[8389C] Aluminium Foil Box 8389 [case]",
-          "qty": 5.0,
-          "total": 14450.0
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 2.0,
+          "total": 1180.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 2.0,
+          "total": 400.0
         }
       ]
     },
