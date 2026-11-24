@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T08:45:50Z",
+  "generatedAt": "2026-11-24T09:01:25Z",
   "openCount": 207,
-  "openTotal": 2562862.2,
-  "quotationCount": 131,
-  "quotationTotal": 1587521.75,
-  "orderCount": 76,
-  "orderTotal": 975340.45,
+  "openTotal": 2563090.2,
+  "quotationCount": 129,
+  "quotationTotal": 1585589.75,
+  "orderCount": 78,
+  "orderTotal": 977500.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -528,8 +528,8 @@
     {
       "date": "2026-11-21",
       "count": 4,
-      "outstanding": 67482.0,
-      "total": 67482.0
+      "outstanding": 67710.0,
+      "total": 67710.0
     },
     {
       "date": "2026-11-22",
@@ -602,7 +602,7 @@
     {
       "id": 1020,
       "ref": "S01024",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Home Set B-12",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-24",
@@ -621,7 +621,7 @@
     {
       "id": 1015,
       "ref": "S01019",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "Epazote Restaurant / Adh.Maamigili I-10",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-24",
@@ -796,6 +796,35 @@
       ]
     },
     {
+      "id": 981,
+      "ref": "S00985",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-11-21",
+      "expires": "2026-12-21",
+      "total": 1152.0,
+      "settled": 0.0,
+      "outstanding": 1152.0,
+      "lines": [
+        {
+          "name": "[75008] Glass Ocean Kenya Irish Coffee Mug P01643 230ml",
+          "qty": 12.0,
+          "total": 504.0
+        },
+        {
+          "name": "Glass Ocean Kenya Cappuccino Cup 245ml",
+          "qty": 12.0,
+          "total": 420.0
+        },
+        {
+          "name": "[01957] Glass Fin Line 355ML",
+          "qty": 12.0,
+          "total": 228.0
+        }
+      ]
+    },
+    {
       "id": 985,
       "ref": "S00989",
       "kind": "quotation",
@@ -811,30 +840,6 @@
           "name": "[LG103009-C72] Glass LG-103009 (LG-30) 250ml (Case 72pcs)",
           "qty": 1.0,
           "total": 1008.0
-        }
-      ]
-    },
-    {
-      "id": 981,
-      "ref": "S00985",
-      "kind": "quotation",
-      "customer": "United Huvadhoo Holding PVT LTD",
-      "salesperson": "Ike.Retail.Sales@Gmail.Com",
-      "date": "2026-11-21",
-      "expires": "2026-12-21",
-      "total": 924.0,
-      "settled": 0.0,
-      "outstanding": 924.0,
-      "lines": [
-        {
-          "name": "[75008] Glass Ocean Kenya Irish Coffee Mug P01643 230ml",
-          "qty": 12.0,
-          "total": 504.0
-        },
-        {
-          "name": "Glass Ocean Kenya Cappuccino Cup 245ml",
-          "qty": 12.0,
-          "total": 420.0
         }
       ]
     },
