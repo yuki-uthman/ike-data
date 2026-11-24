@@ -24919,32 +24919,69 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T04:15:45Z",
+      "generatedAt": "2026-11-24T04:30:59Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 0,
-        "count": 0
+        "total": 5390.0,
+        "count": 1
       },
       "pendingQuotations": {
-        "total": 0,
-        "count": 0
+        "total": 2478.0,
+        "count": 1
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 0,
-        "count": 0
+        "total": 5390.0,
+        "count": 1
       },
       "other": {
         "total": 0,
         "count": 0
       },
-      "transactions": [],
+      "transactions": [
+        {
+          "ref": "INV/2026/00797",
+          "customer": "Honey Bunny / F-8",
+          "amount": 5390.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "09:18",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[8389C] Aluminium Foil Box 8389 [case]",
+              "qty": 1.0,
+              "total": 2890.0
+            },
+            {
+              "name": "Pizza Box 12\" Brown - Bundle (100pcs)",
+              "qty": 2.0,
+              "total": 820.0
+            },
+            {
+              "name": "Salad Bowl 750ml - Case (300pcs)",
+              "qty": 1.0,
+              "total": 690.0
+            },
+            {
+              "name": "Salad Bowl 500ml - Case (300pcs)",
+              "qty": 1.0,
+              "total": 590.0
+            },
+            {
+              "name": "Salad Bowl Lid - Case (300pcs)",
+              "qty": 2.0,
+              "total": 400.0
+            }
+          ]
+        }
+      ],
       "cashOut": {
         "total": 0,
         "count": 0
