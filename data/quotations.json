@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T05:15:55Z",
-  "openCount": 205,
-  "openTotal": 2558730.2,
-  "quotationCount": 129,
-  "quotationTotal": 1583389.75,
+  "generatedAt": "2026-11-24T05:31:11Z",
+  "openCount": 203,
+  "openTotal": 2554672.2,
+  "quotationCount": 127,
+  "quotationTotal": 1579331.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -545,85 +545,12 @@
     },
     {
       "date": "2026-11-24",
-      "count": 2,
-      "outstanding": 4058.0,
-      "total": 4058.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 1012,
-      "ref": "S01016",
-      "kind": "quotation",
-      "customer": "Space",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-24",
-      "expires": "2026-12-24",
-      "total": 2478.0,
-      "settled": 0.0,
-      "outstanding": 2478.0,
-      "lines": [
-        {
-          "name": "Soklin Softergent Velvet Orchid (Purple) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        },
-        {
-          "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        },
-        {
-          "name": "Soklin Softergent Magnolia Berries (Red) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        },
-        {
-          "name": "Soklin Softergent Lavender Lily (Purple) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        },
-        {
-          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        },
-        {
-          "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        },
-        {
-          "name": "[01871] Duster#43",
-          "qty": 12.0,
-          "total": 348.0
-        }
-      ]
-    },
-    {
-      "id": 1013,
-      "ref": "S01017",
-      "kind": "quotation",
-      "customer": "Paper Plus G-2",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-24",
-      "expires": "2026-12-24",
-      "total": 1580.0,
-      "settled": 0.0,
-      "outstanding": 1580.0,
-      "lines": [
-        {
-          "name": "Salad Bowl 500ml - Case (300pcs)",
-          "qty": 2.0,
-          "total": 1180.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 2.0,
-          "total": 400.0
-        }
-      ]
-    },
     {
       "id": 1000,
       "ref": "S01004",

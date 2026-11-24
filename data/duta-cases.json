@@ -3,11 +3,11 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T05:16:01Z",
-  "totalCases": 557.0,
+  "generatedAt": "2026-11-24T05:31:16Z",
+  "totalCases": 563.0,
   "quoted": {
-    "cases": 132.0,
-    "orders": 10
+    "cases": 126.0,
+    "orders": 9
   },
   "products": [
     {
@@ -226,7 +226,7 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 7.0,
+      "cases": 8.0,
       "profitBasis": "sold",
       "profitPct": 4.6
     },
@@ -236,9 +236,9 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 13.0,
+      "cases": 14.0,
       "profitBasis": "sold",
-      "profitPct": 2.7
+      "profitPct": 2.8
     },
     {
       "id": 2054,
@@ -246,7 +246,7 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 1.0,
+      "cases": 2.0,
       "profitBasis": "sold",
       "profitPct": 4.6
     },
@@ -256,7 +256,7 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 2.0,
+      "cases": 3.0,
       "profitBasis": "sold",
       "profitPct": 4.6
     },
@@ -266,7 +266,7 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 2.0,
+      "cases": 3.0,
       "profitBasis": "sold",
       "profitPct": 0.0
     },
@@ -276,7 +276,7 @@
       "size": "700 gr",
       "pack": "12 pcs",
       "active": true,
-      "cases": 1.0,
+      "cases": 2.0,
       "profitBasis": "sold",
       "profitPct": 0.0
     },
@@ -465,9 +465,9 @@
           "productId": 2052,
           "cases": 30.0,
           "cost": 313.52,
-          "netPrice": 322.22,
-          "profitPerCase": 8.7,
-          "profit": 261.0
+          "netPrice": 322.68,
+          "profitPerCase": 9.16,
+          "profit": 274.8
         },
         {
           "productId": 2054,
@@ -482,14 +482,14 @@
           "cases": 20.0,
           "cost": 313.52,
           "netPrice": 328.7,
-          "profitPerCase": 15.19,
-          "profit": 303.8
+          "profitPerCase": 15.18,
+          "profit": 303.6
         },
         {
           "productId": 2058,
           "cases": 50.0,
           "cost": 313.52,
-          "netPrice": 286.57,
+          "netPrice": 300.61,
           "profitPerCase": 0.0,
           "profit": 0.0
         },
@@ -497,7 +497,7 @@
           "productId": 2060,
           "cases": 40.0,
           "cost": 313.52,
-          "netPrice": 244.44,
+          "netPrice": 286.57,
           "profitPerCase": 0.0,
           "profit": 0.0
         },
@@ -1196,14 +1196,20 @@
     },
     {
       "date": "2026-11-24",
-      "cases": 7.0,
-      "orders": 1,
+      "cases": 13.0,
+      "orders": 2,
       "byProduct": {
         "2020": 2.0,
         "2022": 1.0,
         "2024": 1.0,
         "2026": 1.0,
-        "2032": 2.0
+        "2032": 2.0,
+        "2050": 1.0,
+        "2052": 1.0,
+        "2054": 1.0,
+        "2056": 1.0,
+        "2058": 1.0,
+        "2060": 1.0
       }
     }
   ]

@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T05:15:45Z",
+  "generatedAt": "2026-11-24T05:31:02Z",
   "cash": {
     "total": 2608.0,
     "count": 1
   },
   "transfer": {
-    "total": 19840.0,
-    "count": 2
+    "total": 23898.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -113,14 +113,81 @@
           "total": 110.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00801",
+      "customer": "Space",
+      "amount": 2478.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:30",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Soklin Softergent Velvet Orchid (Purple) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Softergent Magnolia Berries (Red) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Softergent Lavender Lily (Purple) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs De Lis (Blue) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Softergent Fleurs Blanches No.7 (Purple) - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "[01871] Duster#43",
+          "qty": 12.0,
+          "total": 348.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00800",
+      "customer": "Paper Plus G-2",
+      "amount": 1580.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "10:26",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Salad Bowl 500ml - Case (300pcs)",
+          "qty": 2.0,
+          "total": 1180.0
+        },
+        {
+          "name": "Salad Bowl Lid - Case (300pcs)",
+          "qty": 2.0,
+          "total": 400.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 19840.0
+      "count": 4,
+      "total": 23898.0
     },
     {
       "name": "Cash",
