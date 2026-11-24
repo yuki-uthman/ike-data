@@ -24919,14 +24919,14 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T15:45:58Z",
+      "generatedAt": "2026-11-24T16:01:15Z",
       "pos": {
         "total": 466.0,
         "count": 9
       },
       "regularSales": {
-        "total": 48436.0,
-        "count": 12
+        "total": 49486.0,
+        "count": 13
       },
       "pendingQuotations": {
         "total": 22970.0,
@@ -24937,8 +24937,8 @@
         "count": 6
       },
       "transfer": {
-        "total": 45950.0,
-        "count": 15
+        "total": 47000.0,
+        "count": 16
       },
       "other": {
         "total": 0,
@@ -25202,6 +25202,32 @@
               "name": "Salad Bowl Lid - Case (300pcs)",
               "qty": 2.0,
               "total": 400.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00810",
+          "customer": "Blooms Supplies",
+          "amount": 1050.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "20:46",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90038] Milkshake Powder Hazelnut Coffee",
+              "qty": 2.0,
+              "total": 420.0
+            },
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 2.0,
+              "total": 420.0
+            },
+            {
+              "name": "[90043] Milkshake Powder Butterscotch",
+              "qty": 1.0,
+              "total": 210.0
             }
           ]
         },
