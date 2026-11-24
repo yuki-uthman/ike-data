@@ -24919,7 +24919,7 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T16:01:15Z",
+      "generatedAt": "2026-11-24T16:15:44Z",
       "pos": {
         "total": 466.0,
         "count": 9
@@ -25409,13 +25409,42 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 112.0,
+        "count": 4
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "M-seal, pidilite , 100G \u00b7 HOSE CLIPS, TIGER,2  \u00b7  Nagarajan",
+          "amount": 53.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:11"
+        },
+        {
+          "reason": "Gate pass-Nagarajan and Zubaid",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:12"
+        },
+        {
+          "reason": "1089 \u00b7 25MM-40MM/HOSE CLIP  2NOS--Nagarajan",
+          "amount": 21.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:06"
+        },
+        {
+          "reason": "a.M-Seal,pidilite,100G \u00b7 b.Hose clips,tiger,2\" \u00b7 Nagarajan",
+          "amount": 13.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "21:08"
+        }
+      ],
       "till": {
         "opening": 5412.0,
-        "expectedClosing": 8364.0,
+        "expectedClosing": 8265.0,
         "counted": null,
         "difference": null,
         "closed": false,
