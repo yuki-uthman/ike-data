@@ -24919,26 +24919,26 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T17:01:16Z",
+      "generatedAt": "2026-11-24T17:15:43Z",
       "pos": {
-        "total": 558.0,
-        "count": 10
+        "total": 568.0,
+        "count": 11
       },
       "regularSales": {
         "total": 49486.0,
         "count": 13
       },
       "pendingQuotations": {
-        "total": 22970.0,
-        "count": 5
+        "total": 24230.0,
+        "count": 6
       },
       "cash": {
         "total": 2952.0,
         "count": 6
       },
       "transfer": {
-        "total": 47092.0,
-        "count": 17
+        "total": 47102.0,
+        "count": 18
       },
       "other": {
         "total": 0,
@@ -25425,6 +25425,22 @@
               "name": "[09041] Towel 042-02 30*40cm",
               "qty": 1.0,
               "total": 15.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000729",
+          "customer": "Walk-in",
+          "amount": 10.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "22:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[X0001] Damaged Aluminum Foil Container",
+              "qty": 10.0,
+              "total": 10.0
             }
           ]
         }

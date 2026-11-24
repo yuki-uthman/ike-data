@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T17:01:30Z",
-  "openCount": 207,
-  "openTotal": 2574330.2,
-  "quotationCount": 130,
-  "quotationTotal": 1581289.75,
+  "generatedAt": "2026-11-24T17:15:52Z",
+  "openCount": 208,
+  "openTotal": 2575590.2,
+  "quotationCount": 131,
+  "quotationTotal": 1582549.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -545,9 +545,9 @@
     },
     {
       "date": "2026-11-24",
-      "count": 6,
-      "outstanding": 40670.0,
-      "total": 40670.0
+      "count": 7,
+      "outstanding": 41930.0,
+      "total": 41930.0
     }
   ],
   "quotations": [
@@ -687,6 +687,35 @@
           "name": "[8389C] Aluminium Foil Box 8389 [case]",
           "qty": 1.0,
           "total": 2890.0
+        }
+      ]
+    },
+    {
+      "id": 1027,
+      "ref": "S01031",
+      "kind": "quotation",
+      "customer": "Lavie Mart Q-10",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-24",
+      "expires": "2026-12-24",
+      "total": 1260.0,
+      "settled": 0.0,
+      "outstanding": 1260.0,
+      "lines": [
+        {
+          "name": "[70217] RD8 Price Border Strip Red 900mm (875)",
+          "qty": 4.0,
+          "total": 100.0
+        },
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 4.0,
+          "total": 1160.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 8.0,
+          "total": 0.0
         }
       ]
     },
