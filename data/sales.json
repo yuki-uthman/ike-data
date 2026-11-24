@@ -24919,26 +24919,26 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T06:45:42Z",
+      "generatedAt": "2026-11-24T06:56:35Z",
       "pos": {
-        "total": 26.0,
-        "count": 1
+        "total": 68.0,
+        "count": 2
       },
       "regularSales": {
         "total": 26506.0,
         "count": 5
       },
       "pendingQuotations": {
-        "total": 8630.0,
-        "count": 4
+        "total": 10980.0,
+        "count": 5
       },
       "cash": {
         "total": 2608.0,
         "count": 1
       },
       "transfer": {
-        "total": 23924.0,
-        "count": 5
+        "total": 23966.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25107,6 +25107,22 @@
               "name": "Salad Bowl Lid - Case (300pcs)",
               "qty": 2.0,
               "total": 400.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000720",
+          "customer": "Walk-in",
+          "amount": 42.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "11:49",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[MPPCX003] Cake Box paper 20x20x10Cm Plain",
+              "qty": 6.0,
+              "total": 42.0
             }
           ]
         },

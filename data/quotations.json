@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-24T06:45:52Z",
-  "openCount": 207,
-  "openTotal": 2563302.2,
-  "quotationCount": 131,
-  "quotationTotal": 1587961.75,
+  "generatedAt": "2026-11-24T06:56:44Z",
+  "openCount": 208,
+  "openTotal": 2565652.2,
+  "quotationCount": 132,
+  "quotationTotal": 1590311.75,
   "orderCount": 76,
   "orderTotal": 975340.45,
   "days": [
@@ -545,9 +545,9 @@
     },
     {
       "date": "2026-11-24",
-      "count": 4,
-      "outstanding": 8630.0,
-      "total": 8630.0
+      "count": 5,
+      "outstanding": 10980.0,
+      "total": 10980.0
     }
   ],
   "quotations": [
@@ -600,10 +600,29 @@
       ]
     },
     {
+      "id": 1019,
+      "ref": "S01023",
+      "kind": "quotation",
+      "customer": "Caramel Maldives Pvt Ltd",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-24",
+      "expires": "2026-12-24",
+      "total": 2350.0,
+      "settled": 0.0,
+      "outstanding": 2350.0,
+      "lines": [
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 1.0,
+          "total": 2350.0
+        }
+      ]
+    },
+    {
       "id": 1018,
       "ref": "S01022",
       "kind": "quotation",
-      "customer": "Sales",
+      "customer": "Abdulla Khaliq k/dhiffushi",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-24",
       "expires": "2026-12-24",
@@ -612,7 +631,7 @@
       "outstanding": 2080.0,
       "lines": [
         {
-          "name": "[70188] Polish Tile 600x600mm",
+          "name": "Tile White Double Layer",
           "qty": 32.0,
           "total": 2080.0
         }
