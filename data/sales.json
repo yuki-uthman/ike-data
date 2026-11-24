@@ -24919,10 +24919,10 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T15:15:52Z",
+      "generatedAt": "2026-11-24T15:31:02Z",
       "pos": {
-        "total": 431.0,
-        "count": 8
+        "total": 466.0,
+        "count": 9
       },
       "regularSales": {
         "total": 47936.0,
@@ -24933,8 +24933,8 @@
         "count": 5
       },
       "cash": {
-        "total": 2917.0,
-        "count": 5
+        "total": 2952.0,
+        "count": 6
       },
       "transfer": {
         "total": 45450.0,
@@ -25254,6 +25254,22 @@
           ]
         },
         {
+          "ref": "Ike - 000727",
+          "customer": "Walk-in",
+          "amount": 35.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:30",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01777] Plastic Container 250ml#2083",
+              "qty": 1.0,
+              "total": 35.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000721",
           "customer": "Walk-in",
           "amount": 29.0,
@@ -25357,7 +25373,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 5412.0,
-        "expectedClosing": 8329.0,
+        "expectedClosing": 8364.0,
         "counted": null,
         "difference": null,
         "closed": false,
