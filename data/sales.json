@@ -24919,10 +24919,10 @@
     },
     {
       "date": "2026-11-24",
-      "generatedAt": "2026-11-24T11:01:14Z",
+      "generatedAt": "2026-11-24T11:15:45Z",
       "pos": {
-        "total": 127.0,
-        "count": 5
+        "total": 172.0,
+        "count": 7
       },
       "regularSales": {
         "total": 47936.0,
@@ -24933,12 +24933,12 @@
         "count": 4
       },
       "cash": {
-        "total": 2638.0,
-        "count": 3
+        "total": 2658.0,
+        "count": 4
       },
       "transfer": {
-        "total": 45425.0,
-        "count": 13
+        "total": 45450.0,
+        "count": 14
       },
       "other": {
         "total": 0,
@@ -25270,6 +25270,38 @@
           ]
         },
         {
+          "ref": "Ike - 000725",
+          "customer": "Walk-in",
+          "amount": 25.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "16:10",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[6291101711597] Gloves PE Large hotpack",
+              "qty": 1.0,
+              "total": 25.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000724",
+          "customer": "Walk-in",
+          "amount": 20.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:03",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70104] Paper Straw 6 mm White Bundle",
+              "qty": 1.0,
+              "total": 20.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000723",
           "customer": "Walk-in",
           "amount": 15.0,
@@ -25309,7 +25341,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 5412.0,
-        "expectedClosing": 8050.0,
+        "expectedClosing": 8070.0,
         "counted": null,
         "difference": null,
         "closed": false,
