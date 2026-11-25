@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T08:45:52Z",
-  "openCount": 210,
-  "openTotal": 2578835.2,
-  "quotationCount": 133,
-  "quotationTotal": 1585794.75,
+  "generatedAt": "2026-11-25T09:01:38Z",
+  "openCount": 208,
+  "openTotal": 2572825.2,
+  "quotationCount": 131,
+  "quotationTotal": 1579784.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -545,37 +545,18 @@
     },
     {
       "date": "2026-11-24",
-      "count": 7,
-      "outstanding": 41095.0,
-      "total": 41095.0
+      "count": 6,
+      "outstanding": 36945.0,
+      "total": 36945.0
     },
     {
       "date": "2026-11-25",
-      "count": 2,
-      "outstanding": 2180.0,
-      "total": 2180.0
+      "count": 1,
+      "outstanding": 320.0,
+      "total": 320.0
     }
   ],
   "quotations": [
-    {
-      "id": 1032,
-      "ref": "S01036",
-      "kind": "quotation",
-      "customer": "Sp Trade",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-25",
-      "expires": "2026-12-25",
-      "total": 1860.0,
-      "settled": 0.0,
-      "outstanding": 1860.0,
-      "lines": [
-        {
-          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
-          "qty": 12.0,
-          "total": 1860.0
-        }
-      ]
-    },
     {
       "id": 1030,
       "ref": "S01034",
@@ -684,30 +665,6 @@
           "name": "[83185C] Aluminium Foil Box 83185 [case]",
           "qty": 1.0,
           "total": 2350.0
-        }
-      ]
-    },
-    {
-      "id": 1023,
-      "ref": "S01027",
-      "kind": "quotation",
-      "customer": "Home Set B-12",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-24",
-      "expires": "2026-12-24",
-      "total": 4150.0,
-      "settled": 0.0,
-      "outstanding": 4150.0,
-      "lines": [
-        {
-          "name": "Bagasse Clamshell 6x6\" - case (500pcs)",
-          "qty": 2.0,
-          "total": 4300.0
-        },
-        {
-          "name": "Discount",
-          "qty": 1.0,
-          "total": -150.0
         }
       ]
     },

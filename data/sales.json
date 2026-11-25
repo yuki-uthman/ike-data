@@ -24981,26 +24981,26 @@
     },
     {
       "date": "2026-11-25",
-      "generatedAt": "2026-11-25T08:45:43Z",
+      "generatedAt": "2026-11-25T09:01:23Z",
       "pos": {
         "total": 269.0,
         "count": 2
       },
       "regularSales": {
-        "total": 5065.0,
-        "count": 2
+        "total": 11075.0,
+        "count": 4
       },
       "pendingQuotations": {
-        "total": 2180.0,
-        "count": 3
+        "total": 320.0,
+        "count": 2
       },
       "cash": {
         "total": 425.0,
         "count": 2
       },
       "transfer": {
-        "total": 4909.0,
-        "count": 2
+        "total": 10919.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -25025,6 +25025,43 @@
               "name": "[8342C] Aluminium Foil Box 8342 [case]",
               "qty": 1.0,
               "total": 1900.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00813",
+          "customer": "Home Set B-12",
+          "amount": 4150.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:49",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Bagasse Clamshell 6x6\" (Case 500pcs)",
+              "qty": 2.0,
+              "total": 4300.0
+            },
+            {
+              "name": "Discount",
+              "qty": 1.0,
+              "total": -150.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00814",
+          "customer": "Sp Trade",
+          "amount": 1860.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "13:53",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+              "qty": 12.0,
+              "total": 1860.0
             }
           ]
         },
