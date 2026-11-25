@@ -24981,10 +24981,10 @@
     },
     {
       "date": "2026-11-25",
-      "generatedAt": "2026-11-25T17:15:45Z",
+      "generatedAt": "2026-11-25T17:31:04Z",
       "pos": {
-        "total": 975.0,
-        "count": 9
+        "total": 1022.0,
+        "count": 10
       },
       "regularSales": {
         "total": 30475.0,
@@ -24995,8 +24995,8 @@
         "count": 3
       },
       "cash": {
-        "total": 2840.0,
-        "count": 7
+        "total": 2887.0,
+        "count": 8
       },
       "transfer": {
         "total": 28610.0,
@@ -25370,6 +25370,27 @@
           ]
         },
         {
+          "ref": "Ike - 000739",
+          "customer": "Walk-in",
+          "amount": 47.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:29",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01871] Duster#43",
+              "qty": 1.0,
+              "total": 29.0
+            },
+            {
+              "name": "[70070] Glass Wiper A63",
+              "qty": 1.0,
+              "total": 18.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000734",
           "customer": "Walk-in",
           "amount": 41.0,
@@ -25424,13 +25445,35 @@
         }
       ],
       "cashOut": {
-        "total": 0,
-        "count": 0
+        "total": 168.0,
+        "count": 3
       },
-      "cashOutTransactions": [],
+      "cashOutTransactions": [
+        {
+          "reason": "Red fox spray pain 3 NOS-Zubaid",
+          "amount": 135.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:21"
+        },
+        {
+          "reason": "Gate pass--Nagarajan and Zubaid",
+          "amount": 25.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:22"
+        },
+        {
+          "reason": "Hose clip, tiger 2--Zubaid",
+          "amount": 8.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:20"
+        }
+      ],
       "till": {
         "opening": 2265.0,
-        "expectedClosing": 5105.0,
+        "expectedClosing": 4984.0,
         "counted": null,
         "difference": null,
         "closed": false,

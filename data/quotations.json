@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T17:15:54Z",
+  "generatedAt": "2026-11-25T17:31:14Z",
   "openCount": 208,
-  "openTotal": 2567380.2,
+  "openTotal": 2567060.2,
   "quotationCount": 131,
-  "quotationTotal": 1574339.75,
+  "quotationTotal": 1574019.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -546,8 +546,8 @@
     {
       "date": "2026-11-24",
       "count": 6,
-      "outstanding": 36625.0,
-      "total": 36625.0
+      "outstanding": 36305.0,
+      "total": 36305.0
     },
     {
       "date": "2026-11-25",
@@ -627,9 +627,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-24",
       "expires": "2026-12-24",
-      "total": 6395.0,
+      "total": 6075.0,
       "settled": 0.0,
-      "outstanding": 6395.0,
+      "outstanding": 6075.0,
       "lines": [
         {
           "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
@@ -645,11 +645,6 @@
           "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
           "qty": 1.0,
           "total": 160.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
         },
         {
           "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
