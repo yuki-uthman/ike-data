@@ -24981,26 +24981,26 @@
     },
     {
       "date": "2026-11-25",
-      "generatedAt": "2026-11-25T11:45:46Z",
+      "generatedAt": "2026-11-25T11:56:57Z",
       "pos": {
         "total": 399.0,
         "count": 3
       },
       "regularSales": {
-        "total": 12535.0,
-        "count": 6
+        "total": 16985.0,
+        "count": 7
       },
       "pendingQuotations": {
-        "total": 9403.0,
-        "count": 5
+        "total": 4953.0,
+        "count": 4
       },
       "cash": {
         "total": 555.0,
         "count": 3
       },
       "transfer": {
-        "total": 12379.0,
-        "count": 6
+        "total": 16829.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -25025,6 +25025,27 @@
               "name": "[8342C] Aluminium Foil Box 8342 [case]",
               "qty": 1.0,
               "total": 1900.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00817",
+          "customer": "Feneenaa B-12",
+          "amount": 4450.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "16:48",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Salad Bowl 750ml (Case 300pcs)",
+              "qty": 5.0,
+              "total": 3450.0
+            },
+            {
+              "name": "Salad Bowl Lid (Case 300pcs)",
+              "qty": 5.0,
+              "total": 1000.0
             }
           ]
         },
