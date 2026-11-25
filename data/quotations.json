@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T12:15:54Z",
+  "generatedAt": "2026-11-25T12:31:16Z",
   "openCount": 210,
-  "openTotal": 2577458.2,
-  "quotationCount": 132,
-  "quotationTotal": 1581874.75,
-  "orderCount": 78,
-  "orderTotal": 995583.45,
+  "openTotal": 2579675.2,
+  "quotationCount": 133,
+  "quotationTotal": 1586634.75,
+  "orderCount": 77,
+  "orderTotal": 993040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -552,27 +552,27 @@
     {
       "date": "2026-11-25",
       "count": 3,
-      "outstanding": 4953.0,
-      "total": 4953.0
+      "outstanding": 7170.0,
+      "total": 7170.0
     }
   ],
   "quotations": [
     {
-      "id": 1037,
-      "ref": "S01041",
-      "kind": "order",
+      "id": 1038,
+      "ref": "S01042",
+      "kind": "quotation",
       "customer": "U&V Mart O-8",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-25",
       "expires": "2026-12-25",
-      "total": 2543.0,
+      "total": 4760.0,
       "settled": 0.0,
-      "outstanding": 2543.0,
+      "outstanding": 4760.0,
       "lines": [
         {
-          "name": "[02222] Paper Salad Bowl 500ml",
+          "name": "Salad Bowl 500ml (Case 300pcs)",
           "qty": 3.0,
-          "total": 3.0
+          "total": 1770.0
         },
         {
           "name": "Salad Bowl 750ml (Case 300pcs)",
@@ -592,7 +592,7 @@
         {
           "name": "[SBR172L-C300] Salad Bowl Rectangular Lid 172mm (Case 300pcs)",
           "qty": 1.0,
-          "total": 0.0
+          "total": 450.0
         }
       ]
     },
