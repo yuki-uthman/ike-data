@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T12:01:29Z",
+  "generatedAt": "2026-11-25T12:15:54Z",
   "openCount": 210,
   "openTotal": 2577458.2,
-  "quotationCount": 133,
-  "quotationTotal": 1584417.75,
-  "orderCount": 77,
-  "orderTotal": 993040.45,
+  "quotationCount": 132,
+  "quotationTotal": 1581874.75,
+  "orderCount": 78,
+  "orderTotal": 995583.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -560,7 +560,7 @@
     {
       "id": 1037,
       "ref": "S01041",
-      "kind": "quotation",
+      "kind": "order",
       "customer": "U&V Mart O-8",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-25",
