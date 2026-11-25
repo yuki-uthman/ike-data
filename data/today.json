@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T10:01:25Z",
+  "generatedAt": "2026-11-25T10:15:53Z",
   "cash": {
     "total": 425.0,
     "count": 2
   },
   "transfer": {
-    "total": 12179.0,
-    "count": 5
+    "total": 12379.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -117,6 +117,22 @@
       ]
     },
     {
+      "ref": "INV/2026/00816",
+      "customer": "Unimagrand",
+      "amount": 200.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "15:13",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Kraft burger box 1pcs",
+          "qty": 100.0,
+          "total": 200.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000731",
       "customer": "Walk-in",
       "amount": 150.0,
@@ -163,8 +179,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 12060.0
+      "count": 5,
+      "total": 12260.0
     },
     {
       "name": "Cash",

@@ -24981,14 +24981,14 @@
     },
     {
       "date": "2026-11-25",
-      "generatedAt": "2026-11-25T10:01:25Z",
+      "generatedAt": "2026-11-25T10:15:53Z",
       "pos": {
         "total": 269.0,
         "count": 2
       },
       "regularSales": {
-        "total": 12335.0,
-        "count": 5
+        "total": 12535.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 320.0,
@@ -24999,8 +24999,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 12179.0,
-        "count": 5
+        "total": 12379.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25104,6 +25104,22 @@
               "name": "[70219] RD8 Price Border Strip Black 900mm (875)",
               "qty": 11.0,
               "total": 275.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00816",
+          "customer": "Unimagrand",
+          "amount": 200.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "15:13",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Kraft burger box 1pcs",
+              "qty": 100.0,
+              "total": 200.0
             }
           ]
         },
