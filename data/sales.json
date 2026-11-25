@@ -24981,10 +24981,10 @@
     },
     {
       "date": "2026-11-25",
-      "generatedAt": "2026-11-25T17:31:04Z",
+      "generatedAt": "2026-11-25T17:45:41Z",
       "pos": {
-        "total": 1022.0,
-        "count": 10
+        "total": 1059.0,
+        "count": 11
       },
       "regularSales": {
         "total": 30475.0,
@@ -24995,8 +24995,8 @@
         "count": 3
       },
       "cash": {
-        "total": 2887.0,
-        "count": 8
+        "total": 2924.0,
+        "count": 9
       },
       "transfer": {
         "total": 28610.0,
@@ -25412,6 +25412,27 @@
           ]
         },
         {
+          "ref": "Ike - 000740",
+          "customer": "Walk-in",
+          "amount": 37.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:42",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[70061] Toilet with Handle Plastic#39",
+              "qty": 1.0,
+              "total": 22.0
+            },
+            {
+              "name": "[01907] Toilet Brush Plastic #36",
+              "qty": 1.0,
+              "total": 15.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000737",
           "customer": "Walk-in",
           "amount": 12.0,
@@ -25445,8 +25466,8 @@
         }
       ],
       "cashOut": {
-        "total": 168.0,
-        "count": 3
+        "total": 208.0,
+        "count": 4
       },
       "cashOutTransactions": [
         {
@@ -25455,6 +25476,13 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "22:21"
+        },
+        {
+          "reason": "Tea money 2 days--Jaffar",
+          "amount": 40.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:38"
         },
         {
           "reason": "Gate pass--Nagarajan and Zubaid",
@@ -25473,7 +25501,7 @@
       ],
       "till": {
         "opening": 2265.0,
-        "expectedClosing": 4984.0,
+        "expectedClosing": 4981.0,
         "counted": null,
         "difference": null,
         "closed": false,
