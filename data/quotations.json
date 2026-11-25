@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T05:46:00Z",
-  "openCount": 208,
-  "openTotal": 2576655.2,
-  "quotationCount": 131,
-  "quotationTotal": 1583614.75,
+  "generatedAt": "2026-11-25T06:01:24Z",
+  "openCount": 209,
+  "openTotal": 2581445.2,
+  "quotationCount": 132,
+  "quotationTotal": 1588404.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -551,12 +551,36 @@
     },
     {
       "date": "2026-11-25",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 4790.0,
+      "total": 4790.0
     }
   ],
   "quotations": [
+    {
+      "id": 1029,
+      "ref": "S01033",
+      "kind": "quotation",
+      "customer": "Atholhuvehi Cafe E-7",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-25",
+      "expires": "2026-12-25",
+      "total": 4790.0,
+      "settled": 0.0,
+      "outstanding": 4790.0,
+      "lines": [
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 1.0,
+          "total": 2890.0
+        },
+        {
+          "name": "[8342C] Aluminium Foil Box 8342 [case]",
+          "qty": 1.0,
+          "total": 1900.0
+        }
+      ]
+    },
     {
       "id": 492,
       "ref": "S00493",
