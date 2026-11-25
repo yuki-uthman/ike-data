@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T17:45:52Z",
-  "openCount": 208,
-  "openTotal": 2567060.2,
-  "quotationCount": 131,
-  "quotationTotal": 1574019.75,
+  "generatedAt": "2026-11-25T18:01:28Z",
+  "openCount": 209,
+  "openTotal": 2567960.2,
+  "quotationCount": 132,
+  "quotationTotal": 1574919.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -551,12 +551,36 @@
     },
     {
       "date": "2026-11-25",
-      "count": 2,
-      "outstanding": 1195.0,
-      "total": 1195.0
+      "count": 3,
+      "outstanding": 2095.0,
+      "total": 2095.0
     }
   ],
   "quotations": [
+    {
+      "id": 1041,
+      "ref": "S01045",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-25",
+      "expires": "2026-12-25",
+      "total": 900.0,
+      "settled": 0.0,
+      "outstanding": 900.0,
+      "lines": [
+        {
+          "name": "Hanger Plastic C1-10 (Case 120pcs)",
+          "qty": 1.0,
+          "total": 350.0
+        },
+        {
+          "name": "Hanger Plastic A17 (Case 144pcs)",
+          "qty": 1.0,
+          "total": 550.0
+        }
+      ]
+    },
     {
       "id": 1040,
       "ref": "S01044",
