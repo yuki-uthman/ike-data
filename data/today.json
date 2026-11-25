@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T06:45:44Z",
+  "generatedAt": "2026-11-25T07:01:17Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 275.0,
+    "count": 1
   },
   "transfer": {
     "total": 4909.0,
@@ -34,6 +34,22 @@
           "name": "[8342C] Aluminium Foil Box 8342 [case]",
           "qty": 1.0,
           "total": 1900.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00812",
+      "customer": "Sales",
+      "amount": 275.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "11:51",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[70219] RD8 Price Border Strip Black 900mm (875)",
+          "qty": 11.0,
+          "total": 275.0
         }
       ]
     },
@@ -72,6 +88,12 @@
       "total": 4790.0
     },
     {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 275.0
+    },
+    {
       "name": "Bank Transfer",
       "method": "transfer",
       "count": 1,
@@ -85,7 +107,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2265.0,
-    "expectedClosing": 2265.0,
+    "expectedClosing": 2540.0,
     "counted": null,
     "difference": null,
     "closed": false,

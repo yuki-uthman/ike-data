@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T06:45:54Z",
-  "openCount": 208,
-  "openTotal": 2576655.2,
-  "quotationCount": 131,
-  "quotationTotal": 1583614.75,
+  "generatedAt": "2026-11-25T07:01:28Z",
+  "openCount": 209,
+  "openTotal": 2576975.2,
+  "quotationCount": 132,
+  "quotationTotal": 1583934.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -551,12 +551,31 @@
     },
     {
       "date": "2026-11-25",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 320.0,
+      "total": 320.0
     }
   ],
   "quotations": [
+    {
+      "id": 1030,
+      "ref": "S01034",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-25",
+      "expires": "2026-12-25",
+      "total": 320.0,
+      "settled": 0.0,
+      "outstanding": 320.0,
+      "lines": [
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 2.0,
+          "total": 320.0
+        }
+      ]
+    },
     {
       "id": 492,
       "ref": "S00493",
