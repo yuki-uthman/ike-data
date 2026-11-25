@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T09:31:06Z",
+  "generatedAt": "2026-11-25T09:45:45Z",
   "cash": {
     "total": 425.0,
     "count": 2
   },
   "transfer": {
-    "total": 10919.0,
-    "count": 4
+    "total": 12179.0,
+    "count": 5
   },
   "other": {
     "total": 0,
@@ -71,6 +71,32 @@
           "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
           "qty": 12.0,
           "total": 1860.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00815",
+      "customer": "Blooms Supplies",
+      "amount": 1260.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:40",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90047] Milkshake Powder Tiramisu",
+          "qty": 2.0,
+          "total": 420.0
+        },
+        {
+          "name": "[90043] Milkshake Powder Butterscotch",
+          "qty": 2.0,
+          "total": 420.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 2.0,
+          "total": 420.0
         }
       ]
     },
@@ -137,8 +163,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 10800.0
+      "count": 4,
+      "total": 12060.0
     },
     {
       "name": "Cash",
