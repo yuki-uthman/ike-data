@@ -24981,22 +24981,22 @@
     },
     {
       "date": "2026-11-25",
-      "generatedAt": "2026-11-25T11:31:01Z",
+      "generatedAt": "2026-11-25T11:45:46Z",
       "pos": {
-        "total": 269.0,
-        "count": 2
+        "total": 399.0,
+        "count": 3
       },
       "regularSales": {
         "total": 12535.0,
         "count": 6
       },
       "pendingQuotations": {
-        "total": 6860.0,
-        "count": 4
+        "total": 9403.0,
+        "count": 5
       },
       "cash": {
-        "total": 425.0,
-        "count": 2
+        "total": 555.0,
+        "count": 3
       },
       "transfer": {
         "total": 12379.0,
@@ -25140,6 +25140,27 @@
           ]
         },
         {
+          "ref": "Ike - 000732",
+          "customer": "Walk-in",
+          "amount": 130.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "16:37",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[01666] Flat Roti Pan 28cm#8",
+              "qty": 1.0,
+              "total": 120.0
+            },
+            {
+              "name": "Hotpack Toothpick",
+              "qty": 1.0,
+              "total": 10.0
+            }
+          ]
+        },
+        {
           "ref": "Ike - 000730",
           "customer": "Walk-in",
           "amount": 119.0,
@@ -25173,7 +25194,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 2265.0,
-        "expectedClosing": 2690.0,
+        "expectedClosing": 2820.0,
         "counted": null,
         "difference": null,
         "closed": false,
