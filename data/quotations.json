@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T11:15:56Z",
-  "openCount": 209,
-  "openTotal": 2574915.2,
-  "quotationCount": 132,
-  "quotationTotal": 1581874.75,
+  "generatedAt": "2026-11-25T11:31:09Z",
+  "openCount": 210,
+  "openTotal": 2579365.2,
+  "quotationCount": 133,
+  "quotationTotal": 1586324.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -551,12 +551,36 @@
     },
     {
       "date": "2026-11-25",
-      "count": 2,
-      "outstanding": 2410.0,
-      "total": 2410.0
+      "count": 3,
+      "outstanding": 6860.0,
+      "total": 6860.0
     }
   ],
   "quotations": [
+    {
+      "id": 1036,
+      "ref": "S01040",
+      "kind": "quotation",
+      "customer": "Feneenaa B-12",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-25",
+      "expires": "2026-12-25",
+      "total": 4450.0,
+      "settled": 0.0,
+      "outstanding": 4450.0,
+      "lines": [
+        {
+          "name": "Salad Bowl 750ml (Case 300pcs)",
+          "qty": 5.0,
+          "total": 3450.0
+        },
+        {
+          "name": "Salad Bowl Lid (Case 300pcs)",
+          "qty": 5.0,
+          "total": 1000.0
+        }
+      ]
+    },
     {
       "id": 1035,
       "ref": "S01039",
