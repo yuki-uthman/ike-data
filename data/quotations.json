@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T04:31:08Z",
+  "generatedAt": "2026-11-25T04:45:52Z",
   "openCount": 208,
-  "openTotal": 2575590.2,
+  "openTotal": 2577490.2,
   "quotationCount": 131,
-  "quotationTotal": 1582549.75,
+  "quotationTotal": 1584449.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -516,8 +516,8 @@
     {
       "date": "2026-11-19",
       "count": 3,
-      "outstanding": 25558.0,
-      "total": 25558.0
+      "outstanding": 27458.0,
+      "total": 27458.0
     },
     {
       "date": "2026-11-20",
@@ -954,9 +954,9 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-19",
       "expires": "2026-12-19",
-      "total": 23010.0,
+      "total": 24910.0,
       "settled": 0.0,
-      "outstanding": 23010.0,
+      "outstanding": 24910.0,
       "lines": [
         {
           "name": "Nitto Wafer Chocolate - Case (20 bundles, 17 gr)",
@@ -1007,6 +1007,11 @@
           "name": "Salad Bowl 500ml - Case (300pcs)",
           "qty": 3.0,
           "total": 1770.0
+        },
+        {
+          "name": "[8342C] Aluminium Foil Box 8342 [case]",
+          "qty": 1.0,
+          "total": 1900.0
         }
       ]
     },
