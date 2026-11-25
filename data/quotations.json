@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-25T05:31:08Z",
+  "generatedAt": "2026-11-25T05:46:00Z",
   "openCount": 208,
-  "openTotal": 2575540.2,
+  "openTotal": 2576655.2,
   "quotationCount": 131,
-  "quotationTotal": 1582499.75,
+  "quotationTotal": 1583614.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -546,8 +546,8 @@
     {
       "date": "2026-11-24",
       "count": 7,
-      "outstanding": 39980.0,
-      "total": 39980.0
+      "outstanding": 41095.0,
+      "total": 41095.0
     },
     {
       "date": "2026-11-25",
@@ -589,14 +589,39 @@
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-24",
       "expires": "2026-12-24",
-      "total": 5600.0,
+      "total": 6715.0,
       "settled": 0.0,
-      "outstanding": 5600.0,
+      "outstanding": 6715.0,
       "lines": [
         {
           "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
           "qty": 2.0,
           "total": 5600.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 1.0,
+          "total": 155.0
         }
       ]
     },
