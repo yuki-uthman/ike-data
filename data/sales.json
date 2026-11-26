@@ -25229,14 +25229,14 @@
     },
     {
       "date": "2026-11-26",
-      "generatedAt": "2026-11-26T05:30:58Z",
+      "generatedAt": "2026-11-26T05:45:42Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 900.0,
-        "count": 1
+        "total": 2500.0,
+        "count": 2
       },
       "pendingQuotations": {
         "total": 3610.0,
@@ -25247,14 +25247,30 @@
         "count": 0
       },
       "transfer": {
-        "total": 900.0,
-        "count": 1
+        "total": 2500.0,
+        "count": 2
       },
       "other": {
         "total": 0,
         "count": 0
       },
       "transactions": [
+        {
+          "ref": "INV/2026/00823",
+          "customer": "Siz Mart",
+          "amount": 1600.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "10:33",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+              "qty": 5.0,
+              "total": 1600.0
+            }
+          ]
+        },
         {
           "ref": "INV/2026/00822",
           "customer": "Aalu Shop B-7",
