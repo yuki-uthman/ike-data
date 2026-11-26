@@ -25229,22 +25229,22 @@
     },
     {
       "date": "2026-11-26",
-      "generatedAt": "2026-11-26T15:31:05Z",
+      "generatedAt": "2026-11-26T15:45:43Z",
       "pos": {
         "total": 172.0,
         "count": 4
       },
       "regularSales": {
-        "total": 13530.0,
-        "count": 7
+        "total": 15030.0,
+        "count": 8
       },
       "pendingQuotations": {
-        "total": 4995.0,
-        "count": 5
+        "total": 2885.0,
+        "count": 4
       },
       "cash": {
-        "total": 132.0,
-        "count": 3
+        "total": 1632.0,
+        "count": 4
       },
       "transfer": {
         "total": 13570.0,
@@ -25329,6 +25329,22 @@
           "lines": [
             {
               "name": "PET Cup 90U - 12oz",
+              "qty": 500.0,
+              "total": 1500.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00829",
+          "customer": "United Huvadhoo Holding PVT LTD",
+          "amount": 1500.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "20:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[A16] Plastic Container A16",
               "qty": 500.0,
               "total": 1500.0
             }
@@ -25484,7 +25500,7 @@
       "cashOutTransactions": [],
       "till": {
         "opening": 4981.0,
-        "expectedClosing": 5113.0,
+        "expectedClosing": 6613.0,
         "counted": null,
         "difference": null,
         "closed": false,
