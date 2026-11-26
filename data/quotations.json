@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-26T10:46:00Z",
-  "openCount": 210,
-  "openTotal": 2565980.2,
-  "quotationCount": 133,
-  "quotationTotal": 1572939.75,
+  "generatedAt": "2026-11-26T11:01:25Z",
+  "openCount": 209,
+  "openTotal": 2563980.2,
+  "quotationCount": 132,
+  "quotationTotal": 1570939.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -557,9 +557,9 @@
     },
     {
       "date": "2026-11-26",
-      "count": 3,
-      "outstanding": 4995.0,
-      "total": 4995.0
+      "count": 2,
+      "outstanding": 2995.0,
+      "total": 2995.0
     }
   ],
   "quotations": [
@@ -584,25 +584,6 @@
           "name": "[A16] Plastic Container A16",
           "qty": 500.0,
           "total": 1500.0
-        }
-      ]
-    },
-    {
-      "id": 1049,
-      "ref": "S01053",
-      "kind": "quotation",
-      "customer": "Sales",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-26",
-      "expires": "2026-12-26",
-      "total": 2000.0,
-      "settled": 0.0,
-      "outstanding": 2000.0,
-      "lines": [
-        {
-          "name": "[33379] Bracket For Slotted Bar 12\"",
-          "qty": 50.0,
-          "total": 2000.0
         }
       ]
     },
