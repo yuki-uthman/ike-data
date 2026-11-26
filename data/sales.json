@@ -25229,7 +25229,7 @@
     },
     {
       "date": "2026-11-26",
-      "generatedAt": "2026-11-26T17:45:41Z",
+      "generatedAt": "2026-11-26T18:01:11Z",
       "pos": {
         "total": 281.0,
         "count": 6
@@ -25531,8 +25531,8 @@
         }
       ],
       "cashOut": {
-        "total": 4500.0,
-        "count": 1
+        "total": 4600.0,
+        "count": 3
       },
       "cashOutTransactions": [
         {
@@ -25541,14 +25541,28 @@
           "method": "cash",
           "rawMethod": "Cash",
           "time": "21:56"
+        },
+        {
+          "reason": "Red fox spray paint 2 NOS--Nagarajn",
+          "amount": 90.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:51"
+        },
+        {
+          "reason": "Gate pass--Nagarajan",
+          "amount": 10.0,
+          "method": "cash",
+          "rawMethod": "Cash",
+          "time": "22:51"
         }
       ],
       "till": {
         "opening": 4981.0,
-        "expectedClosing": 2138.0,
-        "counted": null,
-        "difference": null,
-        "closed": false,
+        "expectedClosing": 2038.0,
+        "counted": 2038.0,
+        "difference": 0.0,
+        "closed": true,
         "sessionCount": 1
       }
     }
