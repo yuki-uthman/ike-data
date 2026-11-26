@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-26T11:31:09Z",
-  "openCount": 209,
-  "openTotal": 2563980.2,
-  "quotationCount": 132,
-  "quotationTotal": 1570939.75,
+  "generatedAt": "2026-11-26T11:46:00Z",
+  "openCount": 210,
+  "openTotal": 2566680.2,
+  "quotationCount": 133,
+  "quotationTotal": 1573639.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -557,12 +557,36 @@
     },
     {
       "date": "2026-11-26",
-      "count": 2,
-      "outstanding": 2995.0,
-      "total": 2995.0
+      "count": 3,
+      "outstanding": 5695.0,
+      "total": 5695.0
     }
   ],
   "quotations": [
+    {
+      "id": 1049,
+      "ref": "S01053",
+      "kind": "quotation",
+      "customer": "Sales",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-26",
+      "expires": "2026-12-26",
+      "total": 2700.0,
+      "settled": 0.0,
+      "outstanding": 2700.0,
+      "lines": [
+        {
+          "name": "[33379] Bracket For Slotted Bar 12\"",
+          "qty": 50.0,
+          "total": 2000.0
+        },
+        {
+          "name": "Slotted Bar Single",
+          "qty": 10.0,
+          "total": 700.0
+        }
+      ]
+    },
     {
       "id": 1042,
       "ref": "S01046",
