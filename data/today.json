@@ -2,20 +2,51 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T09:01:18Z",
+  "generatedAt": "2026-11-26T09:15:44Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 4420.0,
-    "count": 4
+    "total": 10495.0,
+    "count": 5
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00826",
+      "customer": "Gems View / C-15",
+      "amount": 6075.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:02",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[2C-WHT-DS-2000-X01] #2C White Double Side 2000mm x1",
+          "qty": 2.0,
+          "total": 5600.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Apple (Green) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Soklin Floor Cleaner Rose (Pink) - Case (6pcs, 800 ml)",
+          "qty": 1.0,
+          "total": 160.0
+        },
+        {
+          "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
+          "qty": 1.0,
+          "total": 155.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00823",
       "customer": "Siz Mart",
@@ -90,8 +121,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 4,
-      "total": 4420.0
+      "count": 5,
+      "total": 10495.0
     }
   ],
   "cashOut": {
