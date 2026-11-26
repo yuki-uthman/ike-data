@@ -25229,14 +25229,14 @@
     },
     {
       "date": "2026-11-26",
-      "generatedAt": "2026-11-26T06:45:43Z",
+      "generatedAt": "2026-11-26T07:01:11Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 4000.0,
-        "count": 3
+        "total": 4420.0,
+        "count": 4
       },
       "pendingQuotations": {
         "total": 2110.0,
@@ -25247,8 +25247,8 @@
         "count": 0
       },
       "transfer": {
-        "total": 4000.0,
-        "count": 3
+        "total": 4420.0,
+        "count": 4
       },
       "other": {
         "total": 0,
@@ -25305,6 +25305,22 @@
               "name": "Hanger Plastic C1-10 (Case 120pcs)",
               "qty": 1.0,
               "total": 350.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00825",
+          "customer": "Blooms Supplies",
+          "amount": 420.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:51",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+              "qty": 2.0,
+              "total": 420.0
             }
           ]
         }
