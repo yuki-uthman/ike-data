@@ -25229,26 +25229,26 @@
     },
     {
       "date": "2026-11-26",
-      "generatedAt": "2026-11-26T06:15:42Z",
+      "generatedAt": "2026-11-26T06:30:58Z",
       "pos": {
         "total": 0,
         "count": 0
       },
       "regularSales": {
-        "total": 2500.0,
-        "count": 2
+        "total": 4000.0,
+        "count": 3
       },
       "pendingQuotations": {
-        "total": 3610.0,
-        "count": 3
+        "total": 2110.0,
+        "count": 2
       },
       "cash": {
         "total": 0,
         "count": 0
       },
       "transfer": {
-        "total": 2500.0,
-        "count": 2
+        "total": 4000.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -25268,6 +25268,22 @@
               "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
               "qty": 5.0,
               "total": 1600.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00824",
+          "customer": "Kefana N-8",
+          "amount": 1500.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:28",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "PET Cup 90U - 12oz",
+              "qty": 500.0,
+              "total": 1500.0
             }
           ]
         },
