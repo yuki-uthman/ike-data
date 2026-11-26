@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-26T04:15:51Z",
-  "openCount": 209,
-  "openTotal": 2567960.2,
+  "generatedAt": "2026-11-26T04:31:13Z",
+  "openCount": 208,
+  "openTotal": 2567060.2,
   "quotationCount": 131,
   "quotationTotal": 1574019.75,
-  "orderCount": 78,
-  "orderTotal": 993940.45,
+  "orderCount": 77,
+  "orderTotal": 993040.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -557,36 +557,12 @@
     },
     {
       "date": "2026-11-26",
-      "count": 1,
-      "outstanding": 900.0,
-      "total": 900.0
+      "count": 0,
+      "outstanding": 0.0,
+      "total": 0.0
     }
   ],
   "quotations": [
-    {
-      "id": 1041,
-      "ref": "S01045",
-      "kind": "order",
-      "customer": "Aalu Shop B-7",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-26",
-      "expires": "2026-12-25",
-      "total": 900.0,
-      "settled": 0.0,
-      "outstanding": 900.0,
-      "lines": [
-        {
-          "name": "Hanger Plastic C1-10 (Case 120pcs)",
-          "qty": 1.0,
-          "total": 350.0
-        },
-        {
-          "name": "Hanger Plastic A17 (Case 144pcs)",
-          "qty": 1.0,
-          "total": 550.0
-        }
-      ]
-    },
     {
       "id": 1040,
       "ref": "S01044",
