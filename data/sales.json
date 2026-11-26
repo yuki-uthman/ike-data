@@ -25229,10 +25229,10 @@
     },
     {
       "date": "2026-11-26",
-      "generatedAt": "2026-11-26T15:01:22Z",
+      "generatedAt": "2026-11-26T15:15:42Z",
       "pos": {
-        "total": 132.0,
-        "count": 3
+        "total": 172.0,
+        "count": 4
       },
       "regularSales": {
         "total": 13530.0,
@@ -25240,15 +25240,15 @@
       },
       "pendingQuotations": {
         "total": 4995.0,
-        "count": 4
+        "count": 5
       },
       "cash": {
         "total": 132.0,
         "count": 3
       },
       "transfer": {
-        "total": 13530.0,
-        "count": 7
+        "total": 13570.0,
+        "count": 8
       },
       "other": {
         "total": 0,
@@ -25420,6 +25420,27 @@
               "name": "Soklin Softergent Rosy Pink (700 gr)",
               "qty": 1.0,
               "total": 30.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000744",
+          "customer": "Walk-in",
+          "amount": 40.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "20:09",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[83241] Aluminium Foil Box 83241 Loose",
+              "qty": 4.0,
+              "total": 28.0
+            },
+            {
+              "name": "[73365] Aluminium Foil Box 73365 Loose",
+              "qty": 1.0,
+              "total": 12.0
             }
           ]
         },
