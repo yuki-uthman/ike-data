@@ -25229,14 +25229,14 @@
     },
     {
       "date": "2026-11-26",
-      "generatedAt": "2026-11-26T12:45:48Z",
+      "generatedAt": "2026-11-26T13:01:13Z",
       "pos": {
         "total": 132.0,
         "count": 3
       },
       "regularSales": {
-        "total": 11730.0,
-        "count": 6
+        "total": 13530.0,
+        "count": 7
       },
       "pendingQuotations": {
         "total": 4995.0,
@@ -25247,8 +25247,8 @@
         "count": 3
       },
       "transfer": {
-        "total": 11730.0,
-        "count": 6
+        "total": 13530.0,
+        "count": 7
       },
       "other": {
         "total": 0,
@@ -25283,6 +25283,22 @@
               "name": "Wings Porcelain Cleaner Blue - Case (6pcs, 750 ml)",
               "qty": 1.0,
               "total": 155.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00828",
+          "customer": "Maagiri  D-15)",
+          "amount": 1800.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "17:46",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[70175] 51 Warehouse Rack White Medium",
+              "qty": 1.0,
+              "total": 1800.0
             }
           ]
         },
