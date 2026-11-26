@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-26T05:16:02Z",
-  "openCount": 209,
-  "openTotal": 2569170.2,
-  "quotationCount": 132,
-  "quotationTotal": 1576129.75,
-  "orderCount": 77,
-  "orderTotal": 993040.45,
+  "generatedAt": "2026-11-26T05:31:07Z",
+  "openCount": 211,
+  "openTotal": 2572270.2,
+  "quotationCount": 133,
+  "quotationTotal": 1577629.75,
+  "orderCount": 78,
+  "orderTotal": 994640.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -557,9 +557,9 @@
     },
     {
       "date": "2026-11-26",
-      "count": 1,
-      "outstanding": 2110.0,
-      "total": 2110.0
+      "count": 3,
+      "outstanding": 5210.0,
+      "total": 5210.0
     }
   ],
   "quotations": [
@@ -582,6 +582,44 @@
         },
         {
           "name": "[A16] Plastic Container A16",
+          "qty": 500.0,
+          "total": 1500.0
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "ref": "S01047",
+      "kind": "order",
+      "customer": "Siz Mart",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-26",
+      "expires": "2026-12-26",
+      "total": 1600.0,
+      "settled": 0.0,
+      "outstanding": 1600.0,
+      "lines": [
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 5.0,
+          "total": 1600.0
+        }
+      ]
+    },
+    {
+      "id": 1044,
+      "ref": "S01048",
+      "kind": "quotation",
+      "customer": "Kefana N-8",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-26",
+      "expires": "2026-12-26",
+      "total": 1500.0,
+      "settled": 0.0,
+      "outstanding": 1500.0,
+      "lines": [
+        {
+          "name": "PET Cup 90U - 12oz",
           "qty": 500.0,
           "total": 1500.0
         }
