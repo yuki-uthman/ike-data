@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-26T09:15:53Z",
+  "generatedAt": "2026-11-26T09:31:11Z",
   "openCount": 209,
-  "openTotal": 2564330.2,
+  "openTotal": 2563980.2,
   "quotationCount": 132,
-  "quotationTotal": 1571289.75,
+  "quotationTotal": 1570939.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -558,8 +558,8 @@
     {
       "date": "2026-11-26",
       "count": 2,
-      "outstanding": 3345.0,
-      "total": 3345.0
+      "outstanding": 2995.0,
+      "total": 2995.0
     }
   ],
   "quotations": [
@@ -588,36 +588,21 @@
       ]
     },
     {
-      "id": 1047,
-      "ref": "S01051",
+      "id": 1048,
+      "ref": "S01052",
       "kind": "quotation",
-      "customer": "Seaview C-15)",
+      "customer": "Sales",
       "salesperson": "Ike.Salesperson@Gmail.Com",
       "date": "2026-11-26",
       "expires": "2026-12-26",
-      "total": 1235.0,
+      "total": 885.0,
       "settled": 0.0,
-      "outstanding": 1235.0,
+      "outstanding": 885.0,
       "lines": [
         {
-          "name": "[MACHA100] Macha Green Tea 100g",
+          "name": "Bagasse Plate 9\" Bio Based - Case (10 bundles/500pcs)",
           "qty": 1.0,
-          "total": 240.0
-        },
-        {
-          "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
-          "qty": 1.0,
-          "total": 355.0
-        },
-        {
-          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
-        },
-        {
-          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
-          "qty": 1.0,
-          "total": 320.0
+          "total": 885.0
         }
       ]
     },

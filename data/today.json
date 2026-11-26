@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T09:15:44Z",
+  "generatedAt": "2026-11-26T09:31:01Z",
   "cash": {
-    "total": 0,
-    "count": 0
+    "total": 40.0,
+    "count": 1
   },
   "transfer": {
-    "total": 10495.0,
-    "count": 5
+    "total": 11730.0,
+    "count": 6
   },
   "other": {
     "total": 0,
@@ -80,6 +80,37 @@
       ]
     },
     {
+      "ref": "INV/2026/00827",
+      "customer": "Seaview C-15)",
+      "amount": 1235.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:27",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
+          "qty": 1.0,
+          "total": 355.0
+        },
+        {
+          "name": "Soklin Detergent Liquid Purple - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "Soklin Detergent Liquid White - Case (6pcs, 1 liter)",
+          "qty": 1.0,
+          "total": 320.0
+        },
+        {
+          "name": "[MACHA100] Macha Green Tea 100g",
+          "qty": 1.0,
+          "total": 240.0
+        }
+      ]
+    },
+    {
       "ref": "INV/2026/00822",
       "customer": "Aalu Shop B-7",
       "amount": 900.0,
@@ -115,14 +146,36 @@
           "total": 420.0
         }
       ]
+    },
+    {
+      "ref": "Ike - 000741",
+      "customer": "Walk-in",
+      "amount": 40.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "14:22",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[02393] Dustbin Bag",
+          "qty": 1.0,
+          "total": 40.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 5,
-      "total": 10495.0
+      "count": 6,
+      "total": 11730.0
+    },
+    {
+      "name": "Cash",
+      "method": "cash",
+      "count": 1,
+      "total": 40.0
     }
   ],
   "cashOut": {
@@ -132,7 +185,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 4981.0,
-    "expectedClosing": 4981.0,
+    "expectedClosing": 5021.0,
     "counted": null,
     "difference": null,
     "closed": false,
