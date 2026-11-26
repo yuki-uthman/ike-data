@@ -3,8 +3,8 @@
   "supplier": "CV Duta",
   "unit": "case",
   "currency": "MVR",
-  "generatedAt": "2026-11-26T08:46:06Z",
-  "totalCases": 582.0,
+  "generatedAt": "2026-11-26T09:01:33Z",
+  "totalCases": 585.0,
   "quoted": {
     "cases": 131.0,
     "orders": 11
@@ -156,7 +156,7 @@
       "size": "800 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 23.0,
+      "cases": 24.0,
       "profitBasis": "sold",
       "profitPct": 10.8
     },
@@ -186,7 +186,7 @@
       "size": "800 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 35.0,
+      "cases": 36.0,
       "profitBasis": "sold",
       "profitPct": 11.1
     },
@@ -306,7 +306,7 @@
       "size": "750 ml",
       "pack": "6 pcs",
       "active": true,
-      "cases": 96.0,
+      "cases": 97.0,
       "profitBasis": "sold",
       "profitPct": 12.9
     }
@@ -393,9 +393,9 @@
           "productId": 2034,
           "cases": 50.0,
           "cost": 131.74,
-          "netPrice": 147.7,
-          "profitPerCase": 15.96,
-          "profit": 798.0
+          "netPrice": 147.72,
+          "profitPerCase": 15.98,
+          "profit": 799.0
         },
         {
           "productId": 2036,
@@ -584,9 +584,9 @@
           "productId": 2034,
           "cases": 140,
           "cost": 131.74,
-          "netPrice": 147.7,
-          "profitPerCase": 15.96,
-          "profit": 2234.4
+          "netPrice": 147.72,
+          "profitPerCase": 15.98,
+          "profit": 2237.2
         },
         {
           "productId": 2038,
@@ -1223,9 +1223,12 @@
     },
     {
       "date": "2026-11-26",
-      "cases": 5.0,
-      "orders": 1,
+      "cases": 8.0,
+      "orders": 2,
       "byProduct": {
+        "2034": 1.0,
+        "2040": 1.0,
+        "2064": 1.0,
         "2072": 5.0
       }
     }
