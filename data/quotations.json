@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-26T04:31:13Z",
-  "openCount": 208,
-  "openTotal": 2567060.2,
-  "quotationCount": 131,
-  "quotationTotal": 1574019.75,
+  "generatedAt": "2026-11-26T04:45:52Z",
+  "openCount": 209,
+  "openTotal": 2569170.2,
+  "quotationCount": 132,
+  "quotationTotal": 1576129.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -557,12 +557,36 @@
     },
     {
       "date": "2026-11-26",
-      "count": 0,
-      "outstanding": 0.0,
-      "total": 0.0
+      "count": 1,
+      "outstanding": 2110.0,
+      "total": 2110.0
     }
   ],
   "quotations": [
+    {
+      "id": 1042,
+      "ref": "S01046",
+      "kind": "quotation",
+      "customer": "United Huvadhoo Holding PVT LTD",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-26",
+      "expires": "2026-12-26",
+      "total": 2110.0,
+      "settled": 0.0,
+      "outstanding": 2110.0,
+      "lines": [
+        {
+          "name": "Wasabi 1kg",
+          "qty": 2.0,
+          "total": 610.0
+        },
+        {
+          "name": "[A16] Plastic Container A16",
+          "qty": 500.0,
+          "total": 1500.0
+        }
+      ]
+    },
     {
       "id": 1040,
       "ref": "S01044",
