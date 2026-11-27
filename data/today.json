@@ -2,10 +2,10 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T15:01:17Z",
+  "generatedAt": "2026-11-27T15:15:42Z",
   "cash": {
-    "total": 210.0,
-    "count": 1
+    "total": 360.0,
+    "count": 2
   },
   "transfer": {
     "total": 4809.0,
@@ -86,6 +86,22 @@
       ]
     },
     {
+      "ref": "Ike - 000748",
+      "customer": "Walk-in",
+      "amount": 150.0,
+      "method": "cash",
+      "rawMethod": "Cash",
+      "time": "20:10",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[0100T] Paper salad bowl 1000 ML",
+          "qty": 1.0,
+          "total": 150.0
+        }
+      ]
+    },
+    {
       "ref": "Ike - 000747",
       "customer": "Walk-in",
       "amount": 44.0,
@@ -112,8 +128,8 @@
     {
       "name": "Cash",
       "method": "cash",
-      "count": 1,
-      "total": 210.0
+      "count": 2,
+      "total": 360.0
     },
     {
       "name": "Bank Transfer",
@@ -129,7 +145,7 @@
   "cashOutTransactions": [],
   "till": {
     "opening": 2038.0,
-    "expectedClosing": 2248.0,
+    "expectedClosing": 2398.0,
     "counted": null,
     "difference": null,
     "closed": false,
