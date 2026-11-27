@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T11:01:16Z",
+  "generatedAt": "2026-11-27T11:15:48Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 2919.0,
-    "count": 3
+    "total": 4809.0,
+    "count": 4
   },
   "other": {
     "total": 0,
@@ -29,6 +29,27 @@
           "name": "[33379] Bracket For Slotted Bar 12\"",
           "qty": 50.0,
           "total": 2000.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00832",
+      "customer": "Blooms Supplies",
+      "amount": 1890.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "16:10",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[90035] Milkshake Powder Strawberry",
+          "qty": 6.0,
+          "total": 1260.0
+        },
+        {
+          "name": "[90049] Milkshake Powder Caramel Coffee",
+          "qty": 3.0,
+          "total": 630.0
         }
       ]
     },
@@ -69,8 +90,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 2,
-      "total": 2875.0
+      "count": 3,
+      "total": 4765.0
     },
     {
       "name": "Bank Transfer",
