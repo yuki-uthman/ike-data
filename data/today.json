@@ -2,20 +2,41 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T16:31:02Z",
+  "generatedAt": "2026-11-27T16:45:42Z",
   "cash": {
     "total": 390.0,
     "count": 3
   },
   "transfer": {
-    "total": 4809.0,
-    "count": 4
+    "total": 10049.0,
+    "count": 5
   },
   "other": {
     "total": 0,
     "count": 0
   },
   "transactions": [
+    {
+      "ref": "INV/2026/00834",
+      "customer": "L One Hardware I-10",
+      "amount": 5240.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "21:40",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[8389C] Aluminium Foil Box 8389 [case]",
+          "qty": 1.0,
+          "total": 2890.0
+        },
+        {
+          "name": "[83185C] Aluminium Foil Box 83185 [case]",
+          "qty": 1.0,
+          "total": 2350.0
+        }
+      ]
+    },
     {
       "ref": "INV/2026/00831",
       "customer": "Sales",
@@ -138,8 +159,8 @@
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 3,
-      "total": 4765.0
+      "count": 4,
+      "total": 10005.0
     },
     {
       "name": "Cash",
