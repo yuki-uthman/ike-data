@@ -2,21 +2,83 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T09:45:45Z",
+  "generatedAt": "2026-11-27T10:01:13Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 0,
-    "count": 0
+    "total": 2919.0,
+    "count": 3
   },
   "other": {
     "total": 0,
     "count": 0
   },
-  "transactions": [],
-  "methodsSeen": [],
+  "transactions": [
+    {
+      "ref": "INV/2026/00831",
+      "customer": "Sales",
+      "amount": 2000.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:54",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[33379] Bracket For Slotted Bar 12\"",
+          "qty": 50.0,
+          "total": 2000.0
+        }
+      ]
+    },
+    {
+      "ref": "INV/2026/00830",
+      "customer": "Zeelam Trade C -14",
+      "amount": 875.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "14:48",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 35.0,
+          "total": 875.0
+        }
+      ]
+    },
+    {
+      "ref": "Ike - 000747",
+      "customer": "Walk-in",
+      "amount": 44.0,
+      "method": "transfer",
+      "rawMethod": "Bank Transfer",
+      "time": "14:58",
+      "source": "pos",
+      "lines": [
+        {
+          "name": "[01683] Table Mat Pvc 30x45cm #6",
+          "qty": 2.0,
+          "total": 44.0
+        }
+      ]
+    }
+  ],
+  "methodsSeen": [
+    {
+      "name": "Bank",
+      "method": "transfer",
+      "count": 2,
+      "total": 2875.0
+    },
+    {
+      "name": "Bank Transfer",
+      "method": "transfer",
+      "count": 1,
+      "total": 44.0
+    }
+  ],
   "cashOut": {
     "total": 0,
     "count": 0
