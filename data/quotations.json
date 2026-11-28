@@ -1,13 +1,13 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-28T04:31:10Z",
-  "openCount": 206,
-  "openTotal": 2555175.2,
+  "generatedAt": "2026-11-28T04:45:52Z",
+  "openCount": 207,
+  "openTotal": 2557590.2,
   "quotationCount": 129,
   "quotationTotal": 1562134.75,
-  "orderCount": 77,
-  "orderTotal": 993040.45,
+  "orderCount": 78,
+  "orderTotal": 995455.45,
   "days": [
     {
       "date": "2026-08-27",
@@ -539,9 +539,9 @@
     },
     {
       "date": "2026-11-23",
-      "count": 1,
-      "outstanding": 11850.0,
-      "total": 11850.0
+      "count": 2,
+      "outstanding": 14265.0,
+      "total": 14265.0
     },
     {
       "date": "2026-11-24",
@@ -730,6 +730,65 @@
           "name": "[34808] 33 Warehouse RACK Gray 1800X600X2000MM",
           "qty": 3.0,
           "total": 11850.0
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "ref": "S01008",
+      "kind": "order",
+      "customer": "Coffee day maamigili",
+      "salesperson": "Ike.Retail.Sales@Gmail.Com",
+      "date": "2026-11-23",
+      "expires": "2026-12-23",
+      "total": 2415.0,
+      "settled": 0.0,
+      "outstanding": 2415.0,
+      "lines": [
+        {
+          "name": "PET Cup 90U - 12oz",
+          "qty": 300.0,
+          "total": 900.0
+        },
+        {
+          "name": "Paper Straw 12mm",
+          "qty": 300.0,
+          "total": 195.0
+        },
+        {
+          "name": "[90051] Milkshake Powder Hazelnut Chocolate",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90041] Milkshake Powder Red Velvet",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90042] Milkshake Powder Avocado",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[02440] Milkshake Powder Pistachio",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[56296] Milkshake Powder Cookies & Cream",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "[90050] Milkshake Powder French Vanilla",
+          "qty": 1.0,
+          "total": 220.0
+        },
+        {
+          "name": "PET Lid 90 Dome Lid",
+          "qty": 300.0,
+          "total": 0.0
         }
       ]
     },
