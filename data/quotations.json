@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-28T11:15:55Z",
-  "openCount": 210,
-  "openTotal": 2583695.2,
-  "quotationCount": 133,
-  "quotationTotal": 1590654.75,
+  "generatedAt": "2026-11-28T11:31:15Z",
+  "openCount": 211,
+  "openTotal": 2606695.2,
+  "quotationCount": 134,
+  "quotationTotal": 1613654.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -569,12 +569,51 @@
     },
     {
       "date": "2026-11-28",
-      "count": 6,
-      "outstanding": 32340.0,
-      "total": 32340.0
+      "count": 7,
+      "outstanding": 55340.0,
+      "total": 55340.0
     }
   ],
   "quotations": [
+    {
+      "id": 1064,
+      "ref": "S01068",
+      "kind": "quotation",
+      "customer": "Hiyaa B-17",
+      "salesperson": "Ike.Salesperson@Gmail.Com",
+      "date": "2026-11-28",
+      "expires": "2026-12-28",
+      "total": 23000.0,
+      "settled": 0.0,
+      "outstanding": 23000.0,
+      "lines": [
+        {
+          "name": "[2C-BLK-DS-2000-X01] #2C Black Double Side 2000mm x1",
+          "qty": 4.0,
+          "total": 11200.0
+        },
+        {
+          "name": "[2C-BLK-SS-2000-X01] #2C Black Single Side 2000mm x1",
+          "qty": 5.0,
+          "total": 8750.0
+        },
+        {
+          "name": "2C Black End Round Shelves",
+          "qty": 1.0,
+          "total": 1400.0
+        },
+        {
+          "name": "2C Price Border Strip Red",
+          "qty": 70.0,
+          "total": 1750.0
+        },
+        {
+          "name": "Discount",
+          "qty": 1.0,
+          "total": -100.0
+        }
+      ]
+    },
     {
       "id": 1055,
       "ref": "S01059",
