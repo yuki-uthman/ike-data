@@ -25010,14 +25010,14 @@
     },
     {
       "date": "2026-11-28",
-      "generatedAt": "2026-11-28T09:31:01Z",
+      "generatedAt": "2026-11-28T09:45:42Z",
       "pos": {
         "total": 490.0,
         "count": 3
       },
       "regularSales": {
-        "total": 7185.0,
-        "count": 5
+        "total": 7825.0,
+        "count": 6
       },
       "pendingQuotations": {
         "total": 27950.0,
@@ -25028,8 +25028,8 @@
         "count": 4
       },
       "transfer": {
-        "total": 6350.0,
-        "count": 4
+        "total": 6990.0,
+        "count": 5
       },
       "other": {
         "total": 0,
@@ -25143,6 +25143,27 @@
               "name": "Soklin Softergent Rosy Pink - Case (12pcs, 700 gr)",
               "qty": 1.0,
               "total": 355.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00840",
+          "customer": "Iyaaru C-16",
+          "amount": 640.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "14:40",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "[BABYABC-TBL] Baby ABC Table Metal",
+              "qty": 1.0,
+              "total": 340.0
+            },
+            {
+              "name": "[BABYABC-CHR] Baby ABC Chair Metal",
+              "qty": 1.0,
+              "total": 300.0
             }
           ]
         },
