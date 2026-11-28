@@ -2,14 +2,14 @@
   "company": "MRH Investment",
   "currency": "MVR",
   "date": "2026-11-28",
-  "generatedAt": "2026-11-28T04:45:45Z",
+  "generatedAt": "2026-11-28T05:01:12Z",
   "cash": {
     "total": 0,
     "count": 0
   },
   "transfer": {
-    "total": 3140.0,
-    "count": 1
+    "total": 4400.0,
+    "count": 2
   },
   "other": {
     "total": 0,
@@ -41,14 +41,40 @@
           "total": 200.0
         }
       ]
+    },
+    {
+      "ref": "INV/2026/00836",
+      "customer": "Lavie Mart Q-10",
+      "amount": 1260.0,
+      "method": "transfer",
+      "rawMethod": "Bank",
+      "time": "09:53",
+      "source": "payment",
+      "lines": [
+        {
+          "name": "[RD8-WHT-SHTOP-900] RD8 White Shelf Top 900x300mm",
+          "qty": 4.0,
+          "total": 1160.0
+        },
+        {
+          "name": "[70217] RD8 Price Border Strip Red 900mm (875)",
+          "qty": 4.0,
+          "total": 100.0
+        },
+        {
+          "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
+          "qty": 8.0,
+          "total": 0.0
+        }
+      ]
     }
   ],
   "methodsSeen": [
     {
       "name": "Bank",
       "method": "transfer",
-      "count": 1,
-      "total": 3140.0
+      "count": 2,
+      "total": 4400.0
     }
   ],
   "cashOut": {
