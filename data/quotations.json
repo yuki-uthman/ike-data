@@ -1,11 +1,11 @@
 {
   "company": "MRH Investment",
   "currency": "MVR",
-  "generatedAt": "2026-11-28T04:15:52Z",
-  "openCount": 207,
-  "openTotal": 2558315.2,
-  "quotationCount": 130,
-  "quotationTotal": 1565274.75,
+  "generatedAt": "2026-11-28T04:31:10Z",
+  "openCount": 206,
+  "openTotal": 2555175.2,
+  "quotationCount": 129,
+  "quotationTotal": 1562134.75,
   "orderCount": 77,
   "orderTotal": 993040.45,
   "days": [
@@ -545,9 +545,9 @@
     },
     {
       "date": "2026-11-24",
-      "count": 4,
-      "outstanding": 24990.0,
-      "total": 24990.0
+      "count": 3,
+      "outstanding": 21850.0,
+      "total": 21850.0
     },
     {
       "date": "2026-11-25",
@@ -663,35 +663,6 @@
           "name": "[2C-WHT-DS-2000-X03] #2C White Double Side 2000mm x3",
           "qty": 1.0,
           "total": 8000.0
-        }
-      ]
-    },
-    {
-      "id": 1016,
-      "ref": "S01020",
-      "kind": "quotation",
-      "customer": "Four Step K-4",
-      "salesperson": "Ike.Salesperson@Gmail.Com",
-      "date": "2026-11-24",
-      "expires": "2026-12-24",
-      "total": 3140.0,
-      "settled": 0.0,
-      "outstanding": 3140.0,
-      "lines": [
-        {
-          "name": "[83185C] Aluminium Foil Box 83185 [case]",
-          "qty": 1.0,
-          "total": 2350.0
-        },
-        {
-          "name": "Salad Bowl Lid - Case (300pcs)",
-          "qty": 1.0,
-          "total": 200.0
-        },
-        {
-          "name": "Salad Bowl 500ml - Case (300pcs)",
-          "qty": 1.0,
-          "total": 590.0
         }
       ]
     },
