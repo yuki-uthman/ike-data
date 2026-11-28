@@ -25010,26 +25010,26 @@
     },
     {
       "date": "2026-11-28",
-      "generatedAt": "2026-11-28T09:45:42Z",
+      "generatedAt": "2026-11-28T10:01:10Z",
       "pos": {
-        "total": 490.0,
-        "count": 3
+        "total": 504.0,
+        "count": 4
       },
       "regularSales": {
         "total": 7825.0,
         "count": 6
       },
       "pendingQuotations": {
-        "total": 27950.0,
-        "count": 4
+        "total": 29450.0,
+        "count": 5
       },
       "cash": {
         "total": 1325.0,
         "count": 4
       },
       "transfer": {
-        "total": 6990.0,
-        "count": 5
+        "total": 7004.0,
+        "count": 6
       },
       "other": {
         "total": 0,
@@ -25212,6 +25212,22 @@
               "name": "[BIGBRITE-SS-B14] Big Brite Stainless Steel Scourer (Bundle 14pcs)",
               "qty": 1.0,
               "total": 50.0
+            }
+          ]
+        },
+        {
+          "ref": "Ike - 000754",
+          "customer": "Walk-in",
+          "amount": 14.0,
+          "method": "transfer",
+          "rawMethod": "Bank Transfer",
+          "time": "14:52",
+          "source": "pos",
+          "lines": [
+            {
+              "name": "[83241] Aluminium Foil Box 83241 Loose",
+              "qty": 2.0,
+              "total": 14.0
             }
           ]
         }
