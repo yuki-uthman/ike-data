@@ -25010,14 +25010,14 @@
     },
     {
       "date": "2026-11-28",
-      "generatedAt": "2026-11-28T06:31:01Z",
+      "generatedAt": "2026-11-28T06:45:43Z",
       "pos": {
         "total": 210.0,
         "count": 2
       },
       "regularSales": {
-        "total": 4400.0,
-        "count": 2
+        "total": 5300.0,
+        "count": 3
       },
       "pendingQuotations": {
         "total": 19900.0,
@@ -25028,8 +25028,8 @@
         "count": 2
       },
       "transfer": {
-        "total": 4400.0,
-        "count": 2
+        "total": 5300.0,
+        "count": 3
       },
       "other": {
         "total": 0,
@@ -25084,6 +25084,27 @@
             {
               "name": "[RD8-WHT-CLIP-300] RD8 White Clip 300mm",
               "qty": 8.0,
+              "total": 0.0
+            }
+          ]
+        },
+        {
+          "ref": "INV/2026/00837",
+          "customer": "Sweeto Makunudhoo",
+          "amount": 900.0,
+          "method": "transfer",
+          "rawMethod": "Bank",
+          "time": "11:36",
+          "source": "payment",
+          "lines": [
+            {
+              "name": "PET Cup 90U - 12oz",
+              "qty": 300.0,
+              "total": 900.0
+            },
+            {
+              "name": "PET Lid 90 Dome Lid",
+              "qty": 300.0,
               "total": 0.0
             }
           ]
